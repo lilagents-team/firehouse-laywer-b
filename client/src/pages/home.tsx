@@ -206,7 +206,7 @@ export default function Home() {
           
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             {practiceAreas.map((area, index) => (
-              <Card key={index} className="bg-urban-light border-neon-orange hover:border-orange-400 urban-shadow hover:urban-shadow-lg transition-all duration-300 hover:scale-105 distressed-border" data-testid={`practice-area-card-${index}`}>
+              <Card key={index} className="bg-urban-light border-transparent urban-shadow hover:urban-shadow-lg transition-all duration-300 hover:scale-105" data-testid={`practice-area-card-${index}`}>
                 <CardContent className="p-8">
                   <div className="w-16 h-16 bg-neon-orange rounded-none flex items-center justify-center mb-6 urban-shadow-lg hover:bg-orange-600 transition-all duration-300 hover:scale-110 border border-orange-400" style={{ clipPath: 'polygon(10% 0%, 100% 0%, 90% 100%, 0% 100%)' }}>
                     <area.icon className="w-8 h-8 text-black" />
