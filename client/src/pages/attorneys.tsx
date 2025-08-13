@@ -73,13 +73,19 @@ export default function Attorneys() {
                 </div>
               </div>
               <div className="mt-8 lg:mt-0">
-                <div className="bg-gray-100 rounded-xl p-8 text-center">
-                  <Avatar className="w-32 h-32 mx-auto mb-4">
-                    <AvatarImage src={ericQuinnPhoto} alt="Eric T. Quinn" />
-                    <AvatarFallback className="bg-fire-navy text-white text-2xl">EQ</AvatarFallback>
-                  </Avatar>
-                  <p className="text-warm-gray font-medium text-lg">Eric T. Quinn</p>
-                  <p className="text-sm text-warm-gray">Principal Attorney</p>
+                <div className="relative bg-urban-light urban-shadow-lg p-2" style={{ clipPath: 'polygon(0 0, 95% 0, 100% 95%, 5% 100%)' }}>
+                  <div className="relative overflow-hidden" style={{ clipPath: 'polygon(0 0, 95% 0, 100% 95%, 5% 100%)' }}>
+                    <img 
+                      src={ericQuinnPhoto} 
+                      alt="Eric T. Quinn" 
+                      className="w-full h-80 object-cover object-center"
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent"></div>
+                    <div className="absolute bottom-0 left-0 right-0 p-6 text-white">
+                      <h3 className="text-xl font-bebas font-bold tracking-wide">ERIC T. QUINN</h3>
+                      <p className="text-neon-orange font-montserrat font-semibold">Principal Attorney</p>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
@@ -91,13 +97,19 @@ export default function Attorneys() {
           <CardContent className="p-0">
             <div className="lg:grid lg:grid-cols-3 lg:gap-12 items-start">
               <div className="order-2 lg:order-1 mt-8 lg:mt-0">
-                <div className="bg-gray-100 rounded-xl p-8 text-center">
-                  <Avatar className="w-32 h-32 mx-auto mb-4">
-                    <AvatarImage src={josephQuinnPhoto} alt="Joseph F. Quinn" />
-                    <AvatarFallback className="bg-fire-navy text-white text-2xl">JQ</AvatarFallback>
-                  </Avatar>
-                  <p className="text-warm-gray font-medium text-lg">Joseph F. Quinn</p>
-                  <p className="text-sm text-warm-gray">Of Counsel</p>
+                <div className="relative bg-urban-light urban-shadow-lg p-2" style={{ clipPath: 'polygon(0 0, 95% 0, 100% 95%, 5% 100%)' }}>
+                  <div className="relative overflow-hidden" style={{ clipPath: 'polygon(0 0, 95% 0, 100% 95%, 5% 100%)' }}>
+                    <img 
+                      src={josephQuinnPhoto} 
+                      alt="Joseph F. Quinn" 
+                      className="w-full h-80 object-cover object-center"
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent"></div>
+                    <div className="absolute bottom-0 left-0 right-0 p-6 text-white">
+                      <h3 className="text-xl font-bebas font-bold tracking-wide">JOSEPH F. QUINN</h3>
+                      <p className="text-neon-orange font-montserrat font-semibold">Of Counsel</p>
+                    </div>
+                  </div>
                 </div>
               </div>
               <div className="lg:col-span-2 order-1 lg:order-2">
