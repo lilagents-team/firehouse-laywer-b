@@ -132,7 +132,7 @@ export default function Newsletter() {
                           <h4 className="font-semibold text-fire-navy">{issue.title}</h4>
                           <p className="text-sm text-warm-gray">{issue.description}</p>
                         </div>
-                        <Button variant="ghost" size="icon" className="text-neon-orange hover:text-orange-600" data-testid={`button-download-${index}`}>
+                        <Button variant="ghost" size="icon" className="text-neon-orange hover:text-orange-600 bg-[#ffffff00]" data-testid={`button-download-${index}`}>
                           <Download className="w-5 h-5" />
                         </Button>
                       </div>
