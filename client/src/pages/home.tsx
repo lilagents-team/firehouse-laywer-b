@@ -93,8 +93,9 @@ export default function Home() {
               />
             ))}
           </div>
-          {/* Urban overlay with texture */}
-          <div className="absolute inset-0 bg-gradient-to-br from-black/90 via-black/85 to-black/95 urban-concrete"></div>
+          {/* Urban overlay with texture - Very dark for text readability */}
+          <div className="absolute inset-0 bg-black/85 urban-concrete"></div>
+          <div className="absolute inset-0 bg-gradient-to-br from-black/70 via-transparent to-black/50"></div>
         </div>
 
         {/* Carousel Indicators */}
