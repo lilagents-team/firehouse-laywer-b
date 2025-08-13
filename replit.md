@@ -8,6 +8,14 @@ This is a professional law firm website built for Eric T. Quinn, P.S., specializ
 
 Preferred communication style: Simple, everyday language.
 
+## Recent Changes
+
+**August 13, 2025:**
+- Successfully migrated project from Replit Agent to standard Replit environment
+- Installed missing tsx dependency to resolve server startup issues  
+- Verified Express server running properly on port 5000 with Vite integration
+- Enhanced hero section contrast by increasing dark overlay opacity (from black/80-70-90 to black/90-85-95) for better text readability
+
 ## System Architecture
 
 ### Frontend Architecture
