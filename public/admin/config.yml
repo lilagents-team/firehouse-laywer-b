@@ -1,0 +1,132 @@
+backend:
+  name: github
+  repo: lilagents-team/fire-house-lawyer
+  branch: main
+  # Using Netlify's built-in authentication (since site is hosted on Netlify)
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
+
+media_folder: public/images/uploads
+public_folder: /images/uploads
+
+collections:
+  - name: "pages"
+    label: "Pages"
+    files:
+      - name: "home"
+        label: "Home Page"
+        file: "content/pages/home.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Hero Headline", name: "hero_headline", widget: "string" }
+          - { label: "Hero Subtext", name: "hero_subtext", widget: "text" }
+          - { label: "Hero Image", name: "hero_image", widget: "image" }
+          - { label: "About Section Title", name: "about_title", widget: "string" }
+          - { label: "About Section Content", name: "about_content", widget: "markdown" }
+          - { label: "About Image", name: "about_image", widget: "image" }
+          
+      - name: "practice-areas"
+        label: "Practice Areas"
+        file: "content/pages/practice-areas.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Subtitle", name: "subtitle", widget: "string" }
+          - { label: "Mergers Section Title", name: "mergers_title", widget: "string" }
+          - { label: "Mergers Content", name: "mergers_content", widget: "markdown" }
+          - { label: "Mergers Image", name: "mergers_image", widget: "image" }
+          - { label: "Public Records Title", name: "public_records_title", widget: "string" }
+          - { label: "Public Records Content", name: "public_records_content", widget: "markdown" }
+          - { label: "Public Records Image", name: "public_records_image", widget: "image" }
+          - { label: "Board Retreats Title", name: "board_retreats_title", widget: "string" }
+          - { label: "Board Retreats Content", name: "board_retreats_content", widget: "markdown" }
+          - { label: "Board Retreats Image", name: "board_retreats_image", widget: "image" }
+          
+      - name: "attorneys"
+        label: "Attorneys Page"
+        file: "content/pages/attorneys.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Subtitle", name: "subtitle", widget: "string" }
+          
+      - name: "newsletter"
+        label: "Newsletter Page"
+        file: "content/pages/newsletter.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Subtitle", name: "subtitle", widget: "string" }
+          - { label: "Latest Issue Title", name: "latest_title", widget: "string" }
+          - { label: "Latest Issue Description", name: "latest_description", widget: "text" }
+          - { label: "Latest Issue Content", name: "latest_content", widget: "markdown" }
+          - { label: "Latest Issue PDF URL", name: "latest_pdf_url", widget: "string" }
+          
+      - name: "contact"
+        label: "Contact Page"
+        file: "content/pages/contact.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Subtitle", name: "subtitle", widget: "string" }
+          - { label: "Office Address", name: "office_address", widget: "text" }
+          - { label: "Emergency Hours Note", name: "emergency_note", widget: "string" }
+
+  - name: "attorneys"
+    label: "Attorney Profiles"
+    folder: "content/attorneys"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Phone", name: "phone", widget: "string" }
+      - { label: "Email", name: "email", widget: "string" }
+      - { label: "Bio", name: "bio", widget: "markdown" }
+      - { label: "Education", name: "education", widget: "markdown" }
+      - { label: "Experience", name: "experience", widget: "markdown" }
+      - { label: "Bar Admissions", name: "bar_admissions", widget: "string" }
+      - { label: "Photo", name: "photo", widget: "image", required: false }
+      - { label: "Order", name: "order", widget: "number", default: 1 }
+
+  - name: "practice_areas"
+    label: "Practice Areas"
+    folder: "content/practice-areas"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Content", name: "content", widget: "markdown" }
+      - { label: "Icon", name: "icon", widget: "select", options: ["Building2", "FileText", "Users", "Shield", "DollarSign", "ClipboardCheck"] }
+      - { label: "Order", name: "order", widget: "number", default: 1 }
+
+  - name: "newsletters"
+    label: "Newsletter Issues"
+    folder: "content/newsletters"
+    create: true
+    slug: "{{year}}-{{month}}-{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Content", name: "content", widget: "markdown" }
+      - { label: "PDF URL", name: "pdf_url", widget: "string", required: false }
+      - { label: "Featured", name: "featured", widget: "boolean", default: false }
+
+  - name: "settings"
+    label: "Site Settings"
+    files:
+      - name: "general"
+        label: "General Settings"
+        file: "content/settings/general.md"
+        fields:
+          - { label: "Site Title", name: "site_title", widget: "string" }
+          - { label: "Site Description", name: "site_description", widget: "text" }
+          - { label: "Firm Name", name: "firm_name", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string" }
+          - { label: "Phone", name: "phone", widget: "string" }
+          - { label: "Email", name: "email", widget: "string" }
+          - { label: "Address", name: "address", widget: "text" }
+          - { label: "Office Hours", name: "office_hours", widget: "text" }
+          - { label: "Social Media", name: "social", widget: "object", fields: [
+              { label: "Facebook URL", name: "facebook", widget: "string", required: false },
+              { label: "Twitter URL", name: "twitter", widget: "string", required: false },
+              { label: "LinkedIn URL", name: "linkedin", widget: "string", required: false }
+            ]}

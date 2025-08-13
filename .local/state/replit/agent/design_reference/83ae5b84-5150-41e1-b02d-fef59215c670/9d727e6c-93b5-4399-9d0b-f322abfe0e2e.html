@@ -1,0 +1,933 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eric T. Quinn, P.S. - Representing the Fire Service</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'fire-navy': '#1a2332',
+                        'fire-red': '#dc2626',
+                        'fire-orange': '#ea580c',
+                        'warm-gray': '#6b7280'
+                    },
+                    fontFamily: {
+                        'inter': ['Inter', 'sans-serif']
+                    }
+                }
+            }
+        };
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/heroicons@1.0.6/outline/index.js"></script>
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+        .page-section { display: none; }
+        .page-section.active { display: block; }
+        .nav-link.active { color: #dc2626; border-bottom: 2px solid #dc2626; }
+    </style>
+</head>
+<body class="bg-gray-50 text-fire-navy">
+    <!-- @COMPONENT: Navigation -->
+    <nav class="bg-white shadow-lg sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center h-20">
+                <div class="flex items-center">
+                    <div class="flex-shrink-0">
+                        <h1 class="text-2xl font-bold text-fire-navy">Eric T. Quinn, P.S.</h1>
+                        <p class="text-sm text-warm-gray">Representing the Fire Service</p>
+                    </div>
+                </div>
+                
+                <!-- Desktop Navigation -->
+                <div class="hidden md:block">
+                    <div class="ml-10 flex items-baseline space-x-8">
+                        <a href="#" data-page="home" class="nav-link text-fire-navy hover:text-fire-red px-3 py-2 text-sm font-medium transition-colors active">Home</a>
+                        <a href="#" data-page="newsletter" class="nav-link text-fire-navy hover:text-fire-red px-3 py-2 text-sm font-medium transition-colors">Newsletter</a>
+                        <a href="#" data-page="practice-areas" class="nav-link text-fire-navy hover:text-fire-red px-3 py-2 text-sm font-medium transition-colors">Practice Areas</a>
+                        <a href="#" data-page="attorneys" class="nav-link text-fire-navy hover:text-fire-red px-3 py-2 text-sm font-medium transition-colors">Attorneys</a>
+                        <a href="#" data-page="contact" class="nav-link bg-fire-red text-white px-4 py-2 rounded-md text-sm font-medium hover:bg-red-700 transition-colors">Contact Us</a>
+                    </div>
+                </div>
+
+                <!-- Mobile menu button -->
+                <div class="md:hidden">
+                    <button id="mobile-menu-button" class="text-fire-navy hover:text-fire-red">
+                        <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Mobile Navigation -->
+        <div id="mobile-menu" class="md:hidden hidden">
+            <div class="px-2 pt-2 pb-3 space-y-1 sm:px-3 bg-white border-t">
+                <a href="#" data-page="home" class="nav-link block px-3 py-2 text-fire-navy hover:text-fire-red">Home</a>
+                <a href="#" data-page="newsletter" class="nav-link block px-3 py-2 text-fire-navy hover:text-fire-red">Newsletter</a>
+                <a href="#" data-page="practice-areas" class="nav-link block px-3 py-2 text-fire-navy hover:text-fire-red">Practice Areas</a>
+                <a href="#" data-page="attorneys" class="nav-link block px-3 py-2 text-fire-navy hover:text-fire-red">Attorneys</a>
+                <a href="#" data-page="contact" class="nav-link block px-3 py-2 text-fire-navy hover:text-fire-red">Contact Us</a>
+            </div>
+        </div>
+    </nav>
+    <!-- @END_COMPONENT: Navigation -->
+
+    <!-- @COMPONENT: HomePage -->
+    <div id="home-page" class="page-section active">
+        <!-- Hero Section -->
+        <section class="relative bg-fire-navy">
+            <!-- Modern fire station with emergency vehicles in bay -->
+            <div class="absolute inset-0 bg-gradient-to-r from-fire-navy/90 to-fire-navy/70">
+                <img src="https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&h=1080" alt="Fire station with emergency vehicles" class="w-full h-full object-cover" />
+            </div>
+            <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 lg:py-32">
+                <div class="lg:w-2/3">
+                    <h1 class="text-4xl lg:text-6xl font-bold text-white mb-6 leading-tight">
+                        Representing the <span class="text-fire-red">Fire Service</span> with Excellence
+                    </h1>
+                    <p class="text-xl text-gray-200 mb-8 leading-relaxed">
+                        At Eric T. Quinn, P.S., we have a common goal: providing specialized legal counsel to fire districts, regional fire authorities, and emergency services across the Pacific Northwest.
+                    </p>
+                    <div class="flex flex-col sm:flex-row gap-4">
+                        <a href="#" data-page="practice-areas" class="bg-fire-red text-white px-8 py-4 rounded-lg font-semibold hover:bg-red-700 transition-colors text-center">
+                            Explore Our Practice Areas
+                        </a>
+                        <a href="#" data-page="contact" class="border-2 border-white text-white px-8 py-4 rounded-lg font-semibold hover:bg-white hover:text-fire-navy transition-colors text-center">
+                            Schedule Consultation
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section class="py-20 bg-white">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="lg:grid lg:grid-cols-2 lg:gap-16 items-center">
+                    <div>
+                        <h2 class="text-3xl lg:text-4xl font-bold text-fire-navy mb-6">
+                            Specialized Legal Counsel for Fire Service
+                        </h2>
+                        <p class="text-lg text-warm-gray mb-6 leading-relaxed">
+                            Managing a government agency is no easy task. Every day you address many challenges, and we will help you solve them. We understand that the ultimate goal of the fire service is to ensure the safety and wellness of every citizen.
+                        </p>
+                        <p class="text-lg text-warm-gray mb-8 leading-relaxed">
+                            But that does not come without a cost to management. You may face an employee who alleges discrimination; a citizen who makes numerous public records requests; or the passage of an excess levy, which requires not only political will, but financial and organizational expertise.
+                        </p>
+                        <a href="#" data-page="attorneys" class="text-fire-red font-semibold hover:text-red-700 transition-colors">
+                            Meet Our Attorneys →
+                        </a>
+                    </div>
+                    <div class="mt-10 lg:mt-0">
+                        <!-- Professional legal consultation in modern office -->
+                        <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600" alt="Professional legal consultation" class="rounded-xl shadow-lg w-full" />
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Practice Areas Preview -->
+        <section class="py-20 bg-gray-50">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="text-center mb-16">
+                    <h2 class="text-3xl lg:text-4xl font-bold text-fire-navy mb-4">Our Practice Areas</h2>
+                    <p class="text-lg text-warm-gray max-w-3xl mx-auto">
+                        Comprehensive legal services tailored specifically for fire districts, regional fire authorities, and emergency services.
+                    </p>
+                </div>
+                
+                <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+                    <div class="bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition-shadow">
+                        <div class="w-12 h-12 bg-fire-red/10 rounded-lg flex items-center justify-center mb-6">
+                            <svg class="w-6 h-6 text-fire-red" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"></path>
+                            </svg>
+                        </div>
+                        <h3 class="text-xl font-bold text-fire-navy mb-3">Mergers and Consolidations</h3>
+                        <p class="text-warm-gray">Expert guidance through complex fire district mergers and consolidations with political and legal implications.</p>
+                    </div>
+
+                    <div class="bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition-shadow">
+                        <div class="w-12 h-12 bg-fire-red/10 rounded-lg flex items-center justify-center mb-6">
+                            <svg class="w-6 h-6 text-fire-red" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                            </svg>
+                        </div>
+                        <h3 class="text-xl font-bold text-fire-navy mb-3">Public Records & OPMA</h3>
+                        <p class="text-warm-gray">Navigate public records requests and open meeting requirements with confidence and compliance.</p>
+                    </div>
+
+                    <div class="bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition-shadow">
+                        <div class="w-12 h-12 bg-fire-red/10 rounded-lg flex items-center justify-center mb-6">
+                            <svg class="w-6 h-6 text-fire-red" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"></path>
+                            </svg>
+                        </div>
+                        <h3 class="text-xl font-bold text-fire-navy mb-3">Personnel Matters</h3>
+                        <p class="text-warm-gray">Complete support for employment law, collective bargaining, and workplace policy issues.</p>
+                    </div>
+
+                    <div class="bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition-shadow">
+                        <div class="w-12 h-12 bg-fire-red/10 rounded-lg flex items-center justify-center mb-6">
+                            <svg class="w-6 h-6 text-fire-red" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
+                            </svg>
+                        </div>
+                        <h3 class="text-xl font-bold text-fire-navy mb-3">HIPAA Compliance</h3>
+                        <p class="text-warm-gray">Protect medical information and ensure compliance with federal and state health privacy laws.</p>
+                    </div>
+
+                    <div class="bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition-shadow">
+                        <div class="w-12 h-12 bg-fire-red/10 rounded-lg flex items-center justify-center mb-6">
+                            <svg class="w-6 h-6 text-fire-red" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1"></path>
+                            </svg>
+                        </div>
+                        <h3 class="text-xl font-bold text-fire-navy mb-3">Financial Management</h3>
+                        <p class="text-warm-gray">Expert advice on property taxes, fire benefit charges, and financial compliance matters.</p>
+                    </div>
+
+                    <div class="bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition-shadow">
+                        <div class="w-12 h-12 bg-fire-red/10 rounded-lg flex items-center justify-center mb-6">
+                            <svg class="w-6 h-6 text-fire-red" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v10a2 2 0 002 2h8a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"></path>
+                            </svg>
+                        </div>
+                        <h3 class="text-xl font-bold text-fire-navy mb-3">Contract Review</h3>
+                        <p class="text-warm-gray">Comprehensive contract drafting and review for mutual aid agreements and procurement.</p>
+                    </div>
+                </div>
+
+                <div class="text-center mt-12">
+                    <a href="#" data-page="practice-areas" class="bg-fire-red text-white px-8 py-4 rounded-lg font-semibold hover:bg-red-700 transition-colors">
+                        View All Practice Areas
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Newsletter CTA -->
+        <section class="py-20 bg-fire-navy">
+            <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+                <h2 class="text-3xl lg:text-4xl font-bold text-white mb-4">Stay Informed</h2>
+                <p class="text-xl text-gray-200 mb-8">
+                    Subscribe to our monthly newsletter for the latest updates on fire service law and regulation changes.
+                </p>
+                <div class="flex flex-col sm:flex-row gap-4 max-w-md mx-auto">
+                    <input type="email" placeholder="Enter your email" class="flex-1 px-4 py-3 rounded-lg border-0 focus:ring-2 focus:ring-fire-red" data-mock="true">
+                    <button class="bg-fire-red text-white px-8 py-3 rounded-lg font-semibold hover:bg-red-700 transition-colors">
+                        Subscribe
+                    </button>
+                </div>
+            </div>
+        </section>
+    </div>
+    <!-- @END_COMPONENT: HomePage -->
+
+    <!-- @COMPONENT: NewsletterPage -->
+    <div id="newsletter-page" class="page-section">
+        <div class="bg-fire-navy py-16">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <h1 class="text-4xl lg:text-5xl font-bold text-white mb-4">Our Newsletter</h1>
+                <p class="text-xl text-gray-200">Stay updated with the latest fire service legal insights and legislative changes.</p>
+            </div>
+        </div>
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+            <div class="lg:grid lg:grid-cols-3 lg:gap-12">
+                <div class="lg:col-span-2">
+                    <!-- Latest Issue -->
+                    <div class="bg-white rounded-xl shadow-lg p-8 mb-8">
+                        <div class="flex items-start justify-between mb-6">
+                            <div>
+                                <h2 class="text-2xl font-bold text-fire-navy mb-2">Latest Issue - July 2025</h2>
+                                <p class="text-warm-gray">Special-Meeting Notices Are Key</p>
+                            </div>
+                            <span class="bg-fire-red text-white px-3 py-1 rounded-full text-sm font-semibold">NEW</span>
+                        </div>
+                        <p class="text-warm-gray mb-6 leading-relaxed">
+                            Today we discuss two OPMA cases involving notices of special meetings; we also consider apprenticeship requirements in public-works contracts, deductions from leave banks of FLSA-exempt employees, "reverse discrimination," and some miscellaneous laws.
+                        </p>
+                        <div class="flex flex-col sm:flex-row gap-4">
+                            <a href="https://firehouselawyer.com/Newsletters/July2025FINAL.pdf" target="_blank" class="bg-fire-red text-white px-6 py-3 rounded-lg font-semibold hover:bg-red-700 transition-colors text-center">
+                                Read Full Issue (PDF)
+                            </a>
+                            <a href="#" class="border border-fire-red text-fire-red px-6 py-3 rounded-lg font-semibold hover:bg-fire-red hover:text-white transition-colors text-center">
+                                View Online
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Newsletter Archive -->
+                    <div class="bg-white rounded-xl shadow-lg p-8">
+                        <h3 class="text-xl font-bold text-fire-navy mb-6">Newsletter Archive</h3>
+                        <div class="space-y-4">
+                            <div class="flex items-center justify-between p-4 border border-gray-200 rounded-lg hover:border-fire-red transition-colors" data-mock="true">
+                                <div>
+                                    <h4 class="font-semibold text-fire-navy">June 2025 - Personnel Policy Updates</h4>
+                                    <p class="text-sm text-warm-gray">New guidelines for employee handbook revisions</p>
+                                </div>
+                                <a href="#" class="text-fire-red hover:text-red-700 transition-colors">
+                                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                            <div class="flex items-center justify-between p-4 border border-gray-200 rounded-lg hover:border-fire-red transition-colors" data-mock="true">
+                                <div>
+                                    <h4 class="font-semibold text-fire-navy">May 2025 - Budget Season Compliance</h4>
+                                    <p class="text-sm text-warm-gray">Essential requirements for annual budget processes</p>
+                                </div>
+                                <a href="#" class="text-fire-red hover:text-red-700 transition-colors">
+                                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                            <div class="flex items-center justify-between p-4 border border-gray-200 rounded-lg hover:border-fire-red transition-colors" data-mock="true">
+                                <div>
+                                    <h4 class="font-semibold text-fire-navy">April 2025 - OPMA Best Practices</h4>
+                                    <p class="text-sm text-warm-gray">Recent case law affecting public meetings</p>
+                                </div>
+                                <a href="#" class="text-fire-red hover:text-red-700 transition-colors">
+                                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Subscription Sidebar -->
+                <div class="mt-12 lg:mt-0">
+                    <div class="bg-fire-navy text-white p-8 rounded-xl">
+                        <h3 class="text-xl font-bold mb-4">Subscribe to Updates</h3>
+                        <p class="text-gray-200 mb-6">
+                            Receive our monthly newsletter with expert insights on fire service legal matters.
+                        </p>
+                        <form class="space-y-4">
+                            <input type="email" placeholder="Your email address" class="w-full px-4 py-3 rounded-lg text-fire-navy focus:ring-2 focus:ring-fire-red" data-mock="true" required>
+                            <div class="flex items-center space-x-2">
+                                <input type="checkbox" id="terms" class="rounded border-gray-300 text-fire-red focus:ring-fire-red" data-mock="true">
+                                <label for="terms" class="text-sm text-gray-200">I agree to receive email updates</label>
+                            </div>
+                            <button type="submit" class="w-full bg-fire-red text-white py-3 rounded-lg font-semibold hover:bg-red-700 transition-colors">
+                                Subscribe Now
+                            </button>
+                        </form>
+                    </div>
+
+                    <!-- Newsletter Benefits -->
+                    <div class="bg-white p-8 rounded-xl shadow-lg mt-8">
+                        <h3 class="text-xl font-bold text-fire-navy mb-4">What You'll Get</h3>
+                        <ul class="space-y-3">
+                            <li class="flex items-start space-x-3">
+                                <svg class="w-5 h-5 text-fire-red mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                                </svg>
+                                <span class="text-warm-gray">Monthly legal updates</span>
+                            </li>
+                            <li class="flex items-start space-x-3">
+                                <svg class="w-5 h-5 text-fire-red mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                                </svg>
+                                <span class="text-warm-gray">Case law analysis</span>
+                            </li>
+                            <li class="flex items-start space-x-3">
+                                <svg class="w-5 h-5 text-fire-red mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                                </svg>
+                                <span class="text-warm-gray">Legislative changes</span>
+                            </li>
+                            <li class="flex items-start space-x-3">
+                                <svg class="w-5 h-5 text-fire-red mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                                </svg>
+                                <span class="text-warm-gray">Best practices guidance</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- @END_COMPONENT: NewsletterPage -->
+
+    <!-- @COMPONENT: PracticeAreasPage -->
+    <div id="practice-areas-page" class="page-section">
+        <div class="bg-fire-navy py-16">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <h1 class="text-4xl lg:text-5xl font-bold text-white mb-4">Practice Areas</h1>
+                <p class="text-xl text-gray-200">Comprehensive legal services for fire districts, regional fire authorities, and emergency services.</p>
+            </div>
+        </div>
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+            <!-- Mergers and Consolidations -->
+            <div class="bg-white rounded-xl shadow-lg p-8 mb-8">
+                <div class="lg:grid lg:grid-cols-3 lg:gap-8 items-start">
+                    <div class="lg:col-span-2">
+                        <h2 class="text-2xl font-bold text-fire-navy mb-4">Mergers and Consolidations</h2>
+                        <p class="text-warm-gray mb-4 leading-relaxed">
+                            Mergers and Consolidations require a skilled attorney who understands not only their legal implications, but their political implications as well. Although Mergers and Consolidations has been a hot topic at many conferences in recent years, Mr. Quinn has actually been very active in consolidation and merger work since 1990.
+                        </p>
+                        <p class="text-warm-gray mb-4 leading-relaxed">
+                            He was personally very involved and remains involved in the following agencies formed as a result of such alliances: Central Pierce Fire & Rescue, East Pierce Fire & Rescue, West Pierce Fire & Rescue, Valley Regional Fire Authority, Riverside Fire Authority (Centralia area), West Thurston Regional Fire Authority, South King Fire & Rescue, and the list goes on and on.
+                        </p>
+                        <ul class="text-warm-gray space-y-2">
+                            <li class="flex items-start space-x-2">
+                                <svg class="w-5 h-5 text-fire-red mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                                </svg>
+                                <span>Legal framework development</span>
+                            </li>
+                            <li class="flex items-start space-x-2">
+                                <svg class="w-5 h-5 text-fire-red mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                                </svg>
+                                <span>Political strategy consultation</span>
+                            </li>
+                            <li class="flex items-start space-x-2">
+                                <svg class="w-5 h-5 text-fire-red mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                                </svg>
+                                <span>Implementation oversight</span>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="mt-8 lg:mt-0">
+                        <!-- Government building exterior with American flag -->
+                        <img src="https://images.unsplash.com/photo-1589829085413-56de8ae18c73?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600" alt="Government building exterior" class="rounded-lg shadow-lg w-full" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- Public Records Act -->
+            <div class="bg-white rounded-xl shadow-lg p-8 mb-8">
+                <div class="lg:grid lg:grid-cols-3 lg:gap-8 items-start">
+                    <div class="order-2 lg:order-1 mt-8 lg:mt-0">
+                        <!-- Professional law office with legal documents -->
+                        <img src="https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600" alt="Legal documents and office" class="rounded-lg shadow-lg w-full" />
+                    </div>
+                    <div class="lg:col-span-2 order-1 lg:order-2">
+                        <h2 class="text-2xl font-bold text-fire-navy mb-4">Public Records Act</h2>
+                        <p class="text-warm-gray mb-4 leading-relaxed">
+                            The Washington Public Records Act (PRA) is another "sunshine law" mandating government transparency. Much like the OPMA, this law is construed broadly and its exemptions are construed narrowly. This growing area of law requires that your staff be well trained on the intricacies of the PRA.
+                        </p>
+                        <p class="text-warm-gray mb-4 leading-relaxed">
+                            We deal with PRA issues in this office, practically on a daily basis, so we know when to claim an exemption and when not to claim an exemption. We provide comprehensive training and ongoing support.
+                        </p>
+                        <ul class="text-warm-gray space-y-2">
+                            <li class="flex items-start space-x-2">
+                                <svg class="w-5 h-5 text-fire-red mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                                </svg>
+                                <span>PRA compliance training</span>
+                            </li>
+                            <li class="flex items-start space-x-2">
+                                <svg class="w-5 h-5 text-fire-red mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                                </svg>
+                                <span>Request response strategies</span>
+                            </li>
+                            <li class="flex items-start space-x-2">
+                                <svg class="w-5 h-5 text-fire-red mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                                </svg>
+                                <span>Exemption analysis</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Additional Practice Areas Grid -->
+            <div class="grid md:grid-cols-2 gap-8">
+                <div class="bg-white rounded-xl shadow-lg p-8">
+                    <h3 class="text-xl font-bold text-fire-navy mb-4">Open Public Meetings</h3>
+                    <p class="text-warm-gray mb-4">
+                        The Open Public Meetings Act (OPMA) requires that all meetings of a governing body of an agency be open to the public, with limited exceptions. We have more than thirty years' experience with such issues.
+                    </p>
+                    <a href="#" class="text-fire-red font-semibold hover:text-red-700 transition-colors">Learn More →</a>
+                </div>
+
+                <div class="bg-white rounded-xl shadow-lg p-8">
+                    <h3 class="text-xl font-bold text-fire-navy mb-4">HIPAA Compliance</h3>
+                    <p class="text-warm-gray mb-4">
+                        Washington and federal law are both very protective of the medical information of individual persons. We address the intricacies of these laws to avoid consequences of improper disclosure.
+                    </p>
+                    <a href="#" class="text-fire-red font-semibold hover:text-red-700 transition-colors">Learn More →</a>
+                </div>
+
+                <div class="bg-white rounded-xl shadow-lg p-8">
+                    <h3 class="text-xl font-bold text-fire-navy mb-4">Personnel/Labor Matters</h3>
+                    <p class="text-warm-gray mb-4">
+                        We work in a fire station, and keep our doors open. Labor questions arise all the time, covering worker's compensation, employment discrimination, workplace safety, and collective bargaining.
+                    </p>
+                    <a href="#" class="text-fire-red font-semibold hover:text-red-700 transition-colors">Learn More →</a>
+                </div>
+
+                <div class="bg-white rounded-xl shadow-lg p-8">
+                    <h3 class="text-xl font-bold text-fire-navy mb-4">Financial Management</h3>
+                    <p class="text-warm-gray mb-4">
+                        Property taxes and other financial issues can be baffling. After more than thirty years in local government, we have considerable expertise with property taxes, fire benefit charges, and procurement.
+                    </p>
+                    <a href="#" class="text-fire-red font-semibold hover:text-red-700 transition-colors">Learn More →</a>
+                </div>
+            </div>
+
+            <!-- Board Retreats Special Section -->
+            <div class="bg-fire-red text-white rounded-xl p-8 mt-8">
+                <div class="lg:grid lg:grid-cols-2 lg:gap-8 items-center">
+                    <div>
+                        <h3 class="text-2xl font-bold mb-4">Board Retreats</h3>
+                        <p class="text-red-100 mb-6 leading-relaxed">
+                            Eric and Joe Quinn facilitate annual Board retreats to train commissioners and administration about governance issues and working as a team, as is absolutely crucial in the fire service and government in general.
+                        </p>
+                        <a href="#" data-page="contact" class="bg-white text-fire-red px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors">
+                            Schedule a Retreat
+                        </a>
+                    </div>
+                    <div class="mt-8 lg:mt-0">
+                        <!-- Fire department building with trucks -->
+                        <img src="https://images.unsplash.com/photo-1563906267088-b029e7101114?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600" alt="Fire department building" class="rounded-lg shadow-lg w-full" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- @END_COMPONENT: PracticeAreasPage -->
+
+    <!-- @COMPONENT: AttorneysPage -->
+    <div id="attorneys-page" class="page-section">
+        <div class="bg-fire-navy py-16">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <h1 class="text-4xl lg:text-5xl font-bold text-white mb-4">Our Attorneys</h1>
+                <p class="text-xl text-gray-200">Experienced legal professionals dedicated to serving the fire service community.</p>
+            </div>
+        </div>
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+            <!-- Eric T. Quinn -->
+            <div class="bg-white rounded-xl shadow-lg p-8 mb-12">
+                <div class="lg:grid lg:grid-cols-3 lg:gap-12 items-start">
+                    <div class="lg:col-span-2">
+                        <h2 class="text-3xl font-bold text-fire-navy mb-4">Eric T. Quinn</h2>
+                        <p class="text-lg text-fire-red font-semibold mb-6">Principal Attorney</p>
+                        
+                        <div class="mb-8">
+                            <h3 class="text-xl font-bold text-fire-navy mb-4">Personal Background</h3>
+                            <p class="text-warm-gray mb-4 leading-relaxed">
+                                Eric Quinn was born in University Place, Washington in 1982, and has lived in the Pacific Northwest his whole life, aside from a one-year stint in Michigan for law school. He graduated from Pacific Lutheran University in 2006. He is a member of the Rotary Club of Lakewood. Eric loves the outdoors and is also a performance artist. He does, however, spend most of his non-attorney time with family.
+                            </p>
+                        </div>
+
+                        <div class="mb-8">
+                            <h3 class="text-xl font-bold text-fire-navy mb-4">Legal Education</h3>
+                            <p class="text-warm-gray mb-4 leading-relaxed">
+                                Eric graduated from the Seattle University School of Law, where he was a finalist in the second-year mock trial competition. He worked as a legal intern throughout all three years of his law school career.
+                            </p>
+                        </div>
+
+                        <div class="mb-8">
+                            <h3 class="text-xl font-bold text-fire-navy mb-4">Legal Background</h3>
+                            <p class="text-warm-gray mb-4 leading-relaxed">
+                                During his first year of law school, Eric worked at the State Appellate Defender's Office (SADO) in Detroit, Michigan. At SADO, he analyzed boxes (and boxes) of case files to determine if individuals had been wrongfully convicted of crimes based on faulty DNA evidence. After transferring to Seattle University for his second year of law school, he worked at the law firm of Patterson, Buchanan, Fobes, Leitch and Kalzer, P.S.
+                            </p>
+                        </div>
+
+                        <div class="mb-8">
+                            <h3 class="text-xl font-bold text-fire-navy mb-4">Bar Admissions</h3>
+                            <p class="text-warm-gray">State of Washington, 2014</p>
+                        </div>
+
+                        <div class="flex flex-col sm:flex-row gap-4">
+                            <a href="tel:12535906628" class="flex items-center space-x-2 bg-fire-red text-white px-6 py-3 rounded-lg font-semibold hover:bg-red-700 transition-colors">
+                                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"></path>
+                                </svg>
+                                <span>(253) 590-6628</span>
+                            </a>
+                            <a href="mailto:ericquinn@firehouselawyer2.com" class="flex items-center space-x-2 border border-fire-red text-fire-red px-6 py-3 rounded-lg font-semibold hover:bg-fire-red hover:text-white transition-colors">
+                                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 4.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path>
+                                </svg>
+                                <span>Email Eric</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="mt-8 lg:mt-0">
+                        <!-- Professional headshot placeholder -->
+                        <div class="bg-gray-200 rounded-xl p-8 text-center">
+                            <div class="w-32 h-32 bg-fire-navy rounded-full mx-auto mb-4 flex items-center justify-center">
+                                <svg class="w-16 h-16 text-white" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clip-rule="evenodd"></path>
+                                </svg>
+                            </div>
+                            <p class="text-warm-gray font-medium">Eric T. Quinn</p>
+                            <p class="text-sm text-warm-gray">Principal Attorney</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Joseph F. Quinn -->
+            <div class="bg-white rounded-xl shadow-lg p-8">
+                <div class="lg:grid lg:grid-cols-3 lg:gap-12 items-start">
+                    <div class="order-2 lg:order-1 mt-8 lg:mt-0">
+                        <!-- Professional headshot placeholder -->
+                        <div class="bg-gray-200 rounded-xl p-8 text-center">
+                            <div class="w-32 h-32 bg-fire-navy rounded-full mx-auto mb-4 flex items-center justify-center">
+                                <svg class="w-16 h-16 text-white" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clip-rule="evenodd"></path>
+                                </svg>
+                            </div>
+                            <p class="text-warm-gray font-medium">Joseph F. Quinn</p>
+                            <p class="text-sm text-warm-gray">Of Counsel</p>
+                        </div>
+                    </div>
+                    <div class="lg:col-span-2 order-1 lg:order-2">
+                        <h2 class="text-3xl font-bold text-fire-navy mb-4">Joseph F. Quinn</h2>
+                        <p class="text-lg text-fire-red font-semibold mb-6">Of Counsel</p>
+                        
+                        <div class="mb-8">
+                            <h3 class="text-xl font-bold text-fire-navy mb-4">Experience & Background</h3>
+                            <p class="text-warm-gray mb-4 leading-relaxed">
+                                Joseph F. Quinn represents virtually all of the Pierce County fire districts, among various other fire districts and regional fire authorities, along with 911 dispatch centers. He has argued before the United States Supreme Court. His extensive litigation and appellate experience, and his years spent as a commissioner of the Public Employment Relations Commission (appointed by Governor Booth Gardner, in 1986) is quite useful in this practice.
+                            </p>
+                        </div>
+
+                        <div class="mb-8">
+                            <h3 class="text-xl font-bold text-fire-navy mb-4">Notable Achievements</h3>
+                            <ul class="text-warm-gray space-y-2">
+                                <li class="flex items-start space-x-2">
+                                    <svg class="w-5 h-5 text-fire-red mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                                    </svg>
+                                    <span>Argued before the United States Supreme Court</span>
+                                </li>
+                                <li class="flex items-start space-x-2">
+                                    <svg class="w-5 h-5 text-fire-red mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                                    </svg>
+                                    <span>Former Commissioner, Public Employment Relations Commission</span>
+                                </li>
+                                <li class="flex items-start space-x-2">
+                                    <svg class="w-5 h-5 text-fire-red mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                                    </svg>
+                                    <span>Represents virtually all Pierce County fire districts</span>
+                                </li>
+                                <li class="flex items-start space-x-2">
+                                    <svg class="w-5 h-5 text-fire-red mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                                    </svg>
+                                    <span>Extensive litigation and appellate experience</span>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div class="flex flex-col sm:flex-row gap-4">
+                            <a href="tel:12535763232" class="flex items-center space-x-2 bg-fire-red text-white px-6 py-3 rounded-lg font-semibold hover:bg-red-700 transition-colors">
+                                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"></path>
+                                </svg>
+                                <span>(253) 576-3232</span>
+                            </a>
+                            <a href="mailto:joequinn@firehouselawyer.com" class="flex items-center space-x-2 border border-fire-red text-fire-red px-6 py-3 rounded-lg font-semibold hover:bg-fire-red hover:text-white transition-colors">
+                                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 4.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path>
+                                </svg>
+                                <span>Email Joe</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- @END_COMPONENT: AttorneysPage -->
+
+    <!-- @COMPONENT: ContactPage -->
+    <div id="contact-page" class="page-section">
+        <div class="bg-fire-navy py-16">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <h1 class="text-4xl lg:text-5xl font-bold text-white mb-4">Contact Us</h1>
+                <p class="text-xl text-gray-200">Ready to discuss your fire service legal needs? We're here to help.</p>
+            </div>
+        </div>
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+            <div class="lg:grid lg:grid-cols-2 lg:gap-16">
+                <!-- Contact Form -->
+                <div class="bg-white rounded-xl shadow-lg p-8">
+                    <h2 class="text-2xl font-bold text-fire-navy mb-6">Send Us a Message</h2>
+                    <form class="space-y-6">
+                        <div class="grid md:grid-cols-2 gap-6">
+                            <div>
+                                <label for="firstName" class="block text-sm font-medium text-fire-navy mb-2">First Name</label>
+                                <input type="text" id="firstName" name="firstName" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-fire-red focus:border-transparent" data-mock="true" required>
+                            </div>
+                            <div>
+                                <label for="lastName" class="block text-sm font-medium text-fire-navy mb-2">Last Name</label>
+                                <input type="text" id="lastName" name="lastName" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-fire-red focus:border-transparent" data-mock="true" required>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <label for="email" class="block text-sm font-medium text-fire-navy mb-2">Email Address</label>
+                            <input type="email" id="email" name="email" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-fire-red focus:border-transparent" data-mock="true" required>
+                        </div>
+                        
+                        <div>
+                            <label for="phone" class="block text-sm font-medium text-fire-navy mb-2">Phone Number</label>
+                            <input type="tel" id="phone" name="phone" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-fire-red focus:border-transparent" data-mock="true">
+                        </div>
+                        
+                        <div>
+                            <label for="organization" class="block text-sm font-medium text-fire-navy mb-2">Fire District/Organization</label>
+                            <input type="text" id="organization" name="organization" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-fire-red focus:border-transparent" data-mock="true">
+                        </div>
+                        
+                        <div>
+                            <label for="subject" class="block text-sm font-medium text-fire-navy mb-2">Subject</label>
+                            <select id="subject" name="subject" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-fire-red focus:border-transparent" data-mock="true">
+                                <option value="">Select a topic</option>
+                                <option value="mergers">Mergers and Consolidations</option>
+                                <option value="public-records">Public Records</option>
+                                <option value="personnel">Personnel Matters</option>
+                                <option value="hipaa">HIPAA Compliance</option>
+                                <option value="meetings">Open Meetings</option>
+                                <option value="financial">Financial Management</option>
+                                <option value="other">Other</option>
+                            </select>
+                        </div>
+                        
+                        <div>
+                            <label for="message" class="block text-sm font-medium text-fire-navy mb-2">Message</label>
+                            <textarea id="message" name="message" rows="6" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-fire-red focus:border-transparent" placeholder="Please describe your legal needs..." data-mock="true" required></textarea>
+                        </div>
+                        
+                        <button type="submit" class="w-full bg-fire-red text-white py-4 rounded-lg font-semibold hover:bg-red-700 transition-colors">
+                            Send Message
+                        </button>
+                    </form>
+                </div>
+
+                <!-- Contact Information -->
+                <div class="mt-12 lg:mt-0 space-y-8">
+                    <!-- Attorney Contact Cards -->
+                    <div class="bg-white rounded-xl shadow-lg p-8">
+                        <h3 class="text-xl font-bold text-fire-navy mb-6">Contact the Firehouse Lawyer Today!</h3>
+                        
+                        <div class="space-y-6">
+                            <div class="border-b border-gray-200 pb-6">
+                                <h4 class="font-bold text-fire-navy mb-3">Eric T. Quinn</h4>
+                                <div class="space-y-2">
+                                    <a href="tel:12535906628" class="flex items-center space-x-3 text-warm-gray hover:text-fire-red transition-colors">
+                                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"></path>
+                                        </svg>
+                                        <span>(253) 590-6628</span>
+                                    </a>
+                                    <a href="mailto:ericquinn@firehouselawyer2.com" class="flex items-center space-x-3 text-warm-gray hover:text-fire-red transition-colors">
+                                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 4.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path>
+                                        </svg>
+                                        <span>ericquinn@firehouselawyer2.com</span>
+                                    </a>
+                                </div>
+                            </div>
+                            
+                            <div>
+                                <h4 class="font-bold text-fire-navy mb-3">Joseph F. Quinn, Of Counsel</h4>
+                                <div class="space-y-2">
+                                    <a href="tel:12535763232" class="flex items-center space-x-3 text-warm-gray hover:text-fire-red transition-colors">
+                                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"></path>
+                                        </svg>
+                                        <span>(253) 576-3232</span>
+                                    </a>
+                                    <a href="mailto:joequinn@firehouselawyer.com" class="flex items-center space-x-3 text-warm-gray hover:text-fire-red transition-colors">
+                                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 4.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path>
+                                        </svg>
+                                        <span>joequinn@firehouselawyer.com</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Office Location -->
+                    <div class="bg-white rounded-xl shadow-lg p-8">
+                        <h3 class="text-xl font-bold text-fire-navy mb-4">Office Location</h3>
+                        <div class="flex items-start space-x-3">
+                            <svg class="w-5 h-5 text-fire-red mt-1 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
+                            </svg>
+                            <div>
+                                <p class="font-semibold text-fire-navy">Mailing Address:</p>
+                                <p class="text-warm-gray">7403 Lakewood Drive West, Suite # 11</p>
+                                <p class="text-warm-gray">Lakewood, WA 98499-7951</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Office Hours -->
+                    <div class="bg-fire-navy text-white rounded-xl p-8">
+                        <h3 class="text-xl font-bold mb-4">Office Hours</h3>
+                        <div class="space-y-2">
+                            <div class="flex justify-between">
+                                <span>Monday - Friday:</span>
+                                <span>8:00 AM - 5:00 PM</span>
+                            </div>
+                            <div class="flex justify-between">
+                                <span>Saturday:</span>
+                                <span>By Appointment</span>
+                            </div>
+                            <div class="flex justify-between">
+                                <span>Sunday:</span>
+                                <span>Closed</span>
+                            </div>
+                        </div>
+                        <p class="text-red-100 text-sm mt-4">Emergency consultations available 24/7 for critical fire service matters.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- @END_COMPONENT: ContactPage -->
+
+    <!-- @COMPONENT: Footer -->
+    <footer class="bg-fire-navy text-white py-16">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="lg:grid lg:grid-cols-4 lg:gap-8">
+                <div class="lg:col-span-2 mb-8 lg:mb-0">
+                    <h3 class="text-2xl font-bold mb-4">Eric T. Quinn, P.S.</h3>
+                    <p class="text-gray-300 mb-6 max-w-md">
+                        Dedicated to representing the Fire Service with specialized legal counsel for fire districts, regional fire authorities, and emergency services across the Pacific Northwest.
+                    </p>
+                    <div class="flex space-x-2">
+                        <span class="text-gray-300">Follow us:</span>
+                        <div class="flex space-x-4">
+                            <a href="#" class="text-gray-300 hover:text-white transition-colors">
+                                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M20 10c0-5.523-4.477-10-10-10S0 4.477 0 10c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V10h2.54V7.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V10h2.773l-.443 2.89h-2.33v6.988C16.343 19.128 20 14.991 20 10z" clip-rule="evenodd"></path>
+                                </svg>
+                            </a>
+                            <a href="#" class="text-gray-300 hover:text-white transition-colors">
+                                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                                    <path d="M6.29 18.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0020 3.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.073 4.073 0 01.8 7.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 010 16.407a11.616 11.616 0 006.29 1.84"></path>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="mb-8 lg:mb-0">
+                    <h4 class="text-lg font-semibold mb-4">Quick Links</h4>
+                    <ul class="space-y-2">
+                        <li><a href="#" data-page="home" class="text-gray-300 hover:text-white transition-colors">Home</a></li>
+                        <li><a href="#" data-page="practice-areas" class="text-gray-300 hover:text-white transition-colors">Practice Areas</a></li>
+                        <li><a href="#" data-page="attorneys" class="text-gray-300 hover:text-white transition-colors">Our Attorneys</a></li>
+                        <li><a href="#" data-page="newsletter" class="text-gray-300 hover:text-white transition-colors">Newsletter</a></li>
+                        <li><a href="#" data-page="contact" class="text-gray-300 hover:text-white transition-colors">Contact Us</a></li>
+                    </ul>
+                </div>
+
+                <div>
+                    <h4 class="text-lg font-semibold mb-4">Contact Info</h4>
+                    <div class="space-y-2 text-gray-300">
+                        <p>7403 Lakewood Drive West, Suite # 11</p>
+                        <p>Lakewood, WA 98499-7951</p>
+                        <p><a href="tel:12535906628" class="hover:text-white transition-colors">(253) 590-6628</a></p>
+                        <p><a href="mailto:ericquinn@firehouselawyer2.com" class="hover:text-white transition-colors">ericquinn@firehouselawyer2.com</a></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="border-t border-gray-600 mt-12 pt-8 text-center text-gray-300">
+                <p>&copy; 2025 Eric T. Quinn, P.S. All rights reserved. | Representing the Fire Service</p>
+            </div>
+        </div>
+    </footer>
+    <!-- @END_COMPONENT: Footer -->
+
+    <script>
+        (function() {
+            // Navigation functionality
+            const navLinks = document.querySelectorAll('.nav-link');
+            const pages = document.querySelectorAll('.page-section');
+            const mobileMenuButton = document.getElementById('mobile-menu-button');
+            const mobileMenu = document.getElementById('mobile-menu');
+
+            // Handle page navigation
+            navLinks.forEach(link => {
+                link.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    const targetPage = this.getAttribute('data-page');
+                    
+                    if (targetPage) {
+                        // Hide all pages
+                        pages.forEach(page => page.classList.remove('active'));
+                        
+                        // Show target page
+                        const targetElement = document.getElementById(targetPage + '-page');
+                        if (targetElement) {
+                            targetElement.classList.add('active');
+                        }
+                        
+                        // Update nav link states
+                        navLinks.forEach(nav => nav.classList.remove('active'));
+                        this.classList.add('active');
+                        
+                        // Close mobile menu
+                        mobileMenu.classList.add('hidden');
+                        
+                        // Scroll to top
+                        window.scrollTo(0, 0);
+                    }
+                });
+            });
+
+            // Mobile menu toggle
+            mobileMenuButton.addEventListener('click', function() {
+                mobileMenu.classList.toggle('hidden');
+            });
+
+            // Handle form submissions
+            const forms = document.querySelectorAll('form');
+            forms.forEach(form => {
+                form.addEventListener('submit', function(e) {
+                    e.preventDefault();
+                    // TODO: Implement form submission logic
+                    alert('Form submitted! (This is a demo - implement actual form handling)');
+                });
+            });
+
+            // Smooth scroll for anchor links
+            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+                anchor.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    const target = document.querySelector(this.getAttribute('href'));
+                    if (target) {
+                        target.scrollIntoView({
+                            behavior: 'smooth'
+                        });
+                    }
+                });
+            });
+        })();
+    </script>
+</body>
+</html>

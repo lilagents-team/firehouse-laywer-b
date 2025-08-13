@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@300;400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: hsl(0, 0%, 18%); /* #2F2F2F - Dark Gray Base */
+  --foreground: hsl(0, 0%, 95%); /* Light text for contrast */
+  --muted: hsl(0, 0%, 23%); /* #3A3A3A - Slightly lighter gray */
+  --muted-foreground: hsl(0, 0%, 75%);
+  --popover: hsl(0, 0%, 18%);
+  --popover-foreground: hsl(0, 0%, 95%);
+  --card: hsl(0, 0%, 29%); /* #4A4A4A - Card background */
+  --card-foreground: hsl(0, 0%, 95%);
+  --border: hsl(0, 100%, 27%); /* #8B0000 - Muted red borders */
+  --input: hsl(0, 0%, 18%);
+  --primary: hsl(16, 100%, 50%); /* #FF4500 - Neon orange primary */
+  --primary-foreground: hsl(0, 0%, 95%);
+  --secondary: hsl(0, 0%, 23%);
+  --secondary-foreground: hsl(0, 0%, 95%);
+  --accent: hsl(0, 100%, 27%); /* #8B0000 - Muted red accent */
+  --accent-foreground: hsl(0, 0%, 95%);
+  --destructive: hsl(0, 84.2%, 60.2%);
+  --destructive-foreground: hsl(0, 0%, 95%);
+  --ring: hsl(16, 100%, 50%);
+  --radius: 0.25rem; /* Sharper corners for gritty feel */
+  
+  /* Urban gritty themed colors */
+  --urban-dark: hsl(0, 0%, 10%); /* #1A1A1A - Navigation dark */
+  --urban-gray: hsl(0, 0%, 18%); /* #2F2F2F - Base dark gray */
+  --urban-medium: hsl(0, 0%, 23%); /* #3A3A3A - Medium gray */
+  --urban-light: hsl(0, 0%, 29%); /* #4A4A4A - Light gray */
+  --muted-red: hsl(0, 100%, 27%); /* #8B0000 - Muted red */
+  --muted-red-hover: hsl(0, 87%, 35%); /* #B22222 - Muted red hover */
+  --neon-orange: hsl(16, 100%, 50%); /* #FF4500 - Neon orange */
+  --near-black: hsl(0, 0%, 5%); /* #0D0D0D - Footer near-black */
+}
+
+.dark {
+  --background: hsl(0, 0%, 10%); /* Even darker for dark mode */
+  --foreground: hsl(0, 0%, 95%);
+  --muted: hsl(0, 0%, 15%);
+  --muted-foreground: hsl(0, 0%, 75%);
+  --popover: hsl(0, 0%, 10%);
+  --popover-foreground: hsl(0, 0%, 95%);
+  --card: hsl(0, 0%, 18%);
+  --card-foreground: hsl(0, 0%, 95%);
+  --border: hsl(0, 100%, 27%);
+  --input: hsl(0, 0%, 10%);
+  --primary: hsl(16, 100%, 50%);
+  --primary-foreground: hsl(0, 0%, 95%);
+  --secondary: hsl(0, 0%, 15%);
+  --secondary-foreground: hsl(0, 0%, 95%);
+  --accent: hsl(0, 100%, 27%);
+  --accent-foreground: hsl(0, 0%, 95%);
+  --destructive: hsl(0, 62.8%, 30.6%);
+  --destructive-foreground: hsl(0, 0%, 95%);
+  --ring: hsl(16, 100%, 50%);
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply font-sans antialiased bg-background text-foreground;
+    font-family: 'Montserrat', sans-serif;
+    background-color: var(--urban-gray);
+    color: hsl(0, 0%, 95%);
+  }
+}
+
+@layer utilities {
+  /* Urban gritty color utilities */
+  .text-urban-dark {
+    color: var(--urban-dark);
+  }
+  
+  .text-urban-gray {
+    color: var(--urban-gray);
+  }
+  
+  .text-urban-medium {
+    color: var(--urban-medium);
+  }
+  
+  .text-urban-light {
+    color: var(--urban-light);
+  }
+  
+  .text-muted-red {
+    color: var(--muted-red);
+  }
+  
+  .text-neon-orange {
+    color: var(--neon-orange);
+  }
+  
+  .bg-urban-dark {
+    background-color: var(--urban-dark);
+  }
+  
+  .bg-urban-gray {
+    background-color: var(--urban-gray);
+  }
+  
+  .bg-urban-medium {
+    background-color: var(--urban-medium);
+  }
+  
+  .bg-urban-light {
+    background-color: var(--urban-light);
+  }
+  
+  .bg-muted-red {
+    background-color: var(--muted-red);
+  }
+  
+  .bg-neon-orange {
+    background-color: var(--neon-orange);
+  }
+  
+  .bg-near-black {
+    background-color: var(--near-black);
+  }
+  
+  .border-muted-red {
+    border-color: var(--muted-red);
+  }
+  
+  .border-neon-orange {
+    border-color: var(--neon-orange);
+  }
+  
+  .hover\:bg-muted-red-hover:hover {
+    background-color: var(--muted-red-hover);
+  }
+  
+  .hover\:text-muted-red-hover:hover {
+    color: var(--muted-red-hover);
+  }
+  
+  .hover\:text-neon-orange:hover {
+    color: var(--neon-orange);
+  }
+  
+  .hover\:text-muted-red:hover {
+    color: var(--muted-red);
+  }
+  
+  /* Typography utilities */
+  .font-bebas {
+    font-family: 'Bebas Neue', sans-serif;
+  }
+  
+  .font-montserrat {
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  /* Urban texture and shadow effects */
+  .urban-shadow {
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  }
+  
+  .urban-shadow-lg {
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.4), 0 4px 6px -2px rgba(0, 0, 0, 0.1);
+  }
+  
+  .text-shadow-gritty {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+  }
+  
+  .distressed-border {
+    border: 2px solid var(--neon-orange);
+    position: relative;
+  }
+  
+  /* Urban background patterns */
+  .urban-concrete {
+    background-image: 
+      radial-gradient(circle at 1px 1px, rgba(255,255,255,0.05) 1px, transparent 0);
+    background-size: 20px 20px;
+  }
+  
+  .urban-grid {
+    background-image: 
+      linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
+    background-size: 40px 40px;
+  }
+}

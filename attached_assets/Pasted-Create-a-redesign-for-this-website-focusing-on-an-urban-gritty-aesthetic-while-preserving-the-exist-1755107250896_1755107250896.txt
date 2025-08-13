@@ -1,0 +1,25 @@
+Create a redesign for this website focusing on an urban, gritty aesthetic while preserving the existing multi-page layout and all original content. The site should maintain its current structure (Home, Newsletter, Practice Areas, Attorneys, Contact Us) and copy. Revamp only the colors, fonts, and design elements to set it apart from standard law firm websites while ensuring a sharp, professional appearance.
+
+**Requirements:**
+
+1. **Design Aesthetic**:
+   - **Urban/Gritty Style**: Apply a color palette with dark grays (#2F2F2F, #3A3A3A, #4A4A4A) as the base, accented by muted red (#8B0000) and neon orange (#FF4500) for bold contrast. Use textured backgrounds (e.g., subtle concrete or cityscape overlays) and distressed borders where applicable.
+   - **Professional Edge**: Ensure sharp typography and clean layouts with high contrast for readability. Add subtle micro-animations (e.g., hover effects) to enhance dynamism without altering structure.
+   - **Fonts**: Use 'Bebas Neue' and 'Montserrat' from Google Fonts for a gritty yet modern feel. Include the necessary font link in the CSS via `@import`.
+
+2. **Structure and Content**:
+   - **Preserve Layout**: Retain the multi-page navigation and section layout (hero, services, announcements, newsletter, footer) exactly as in the screenshot, with no structural or copy changes.
+
+3. **Specific Features**:
+   - **Navigation**: Style the sticky nav with a dark background (#1A1A1A) and neon orange links (#FF4500) that shift to muted red (#B22222) on hover.
+   - **Hero Section**: Apply an urban background image with a text shadow for legibility, keeping the existing tagline and buttons styled with muted red (#8B0000) and hover effect (#B22222).
+   - **Cards (Services/Announcements)**: Use a darker gray background (#4A4A4A) with a muted red border (#8B0000) and shadow for depth.
+   - **Newsletter Form**: Style the input and button with a dark gray background (#2F2F2F), muted red border (#8B0000), and button hover effect (#B22222).
+   - **Footer**: Update to a near-black background (#0D0D0D) with neon orange links (#FF4500) shifting to muted red (#B22222) on hover.
+
+4. **Deliverables**:
+   - Ensure the design avoids generic law firm looks while maintaining professionalism and sharpness.
+
+**Example References**:
+- For urban/gritty inspiration, reference industrial design trends or sites like https://www.valentinoatlaw.com/ (bold but clean), adapted to a grittier palette.
+- Use Unsplash for a high-resolution urban background (e.g., search “cityscape gritty”).

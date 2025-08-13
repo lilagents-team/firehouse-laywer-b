@@ -1,0 +1,71 @@
+[build]
+  # Build command - builds frontend and copies necessary static files
+  command = "npm run build && cp -r public/admin dist/public/ && cp -r content dist/public/"
+  
+  # Directory to publish (contains the built frontend)
+  publish = "dist/public"
+
+[build.environment]
+  # Node.js version
+  NODE_VERSION = "20"
+
+# Admin CMS access - serve the CMS files
+[[redirects]]
+  from = "/admin"
+  to = "/admin/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/admin/*"
+  to = "/admin/:splat"
+  status = 200
+
+# Content files
+[[redirects]]
+  from = "/content/*"
+  to = "/content/:splat"
+  status = 200
+
+# API routes - these will need to be handled differently on Netlify
+# For now, return 404 to indicate backend functionality isn't available
+[[redirects]]
+  from = "/api/*"
+  to = "/404.html"
+  status = 404
+
+# Client-side routing fallback - all other routes go to React app
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[dev]
+  # Command to run for local development
+  command = "npm run dev"
+  
+  # Port for local development
+  port = 5000
+  
+  # Framework detection
+  framework = "#custom"
+
+# Security headers
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+# Cache static assets
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# CMS admin security
+[[headers]]
+  for = "/admin/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
