@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="lg:grid lg:grid-cols-4 lg:gap-8">
           <div className="lg:col-span-2 mb-8 lg:mb-0">
             <h3 className="text-2xl font-bebas font-bold mb-4 tracking-wider text-shadow-gritty">ERIC T. QUINN, P.S.</h3>
-            <p className="text-gray-300 mb-6 max-w-md font-montserrat">
+            <p className="text-gray-100 mb-6 max-w-md font-montserrat">
               Dedicated to representing the Fire Service with specialized legal counsel for fire districts, 
               regional fire authorities, and public agencies across the Pacific Northwest.
             </p>
@@ -26,7 +26,7 @@ export default function Footer() {
 
           <div>
             <h4 className="text-lg font-bebas font-semibold mb-4 tracking-wide text-shadow-gritty">CONTACT INFO</h4>
-            <div className="space-y-2 text-gray-300 font-montserrat">
+            <div className="space-y-2 text-gray-100 font-montserrat">
               <p>7403 Lakewood Drive West, Suite # 11</p>
               <p>Lakewood, WA 98499-7951</p>
               <p><a href="tel:12535906628" className="text-neon-orange hover:text-orange-400 transition-colors" data-testid="footer-phone">(253) 590-6628</a></p>
@@ -37,14 +37,14 @@ export default function Footer() {
 
         <div className="border-t border-neon-orange mt-12 pt-8">
           {/* Legal Disclaimer */}
-          <div className="mb-8 text-sm text-gray-400 leading-relaxed max-w-5xl mx-auto font-montserrat">
-            <h4 className="text-gray-300 font-bebas font-semibold mb-3 tracking-wide text-shadow-gritty">LEGAL DISCLAIMER</h4>
+          <div className="mb-8 text-sm text-gray-200 leading-relaxed max-w-5xl mx-auto font-montserrat">
+            <h4 className="text-gray-100 font-bebas font-semibold mb-3 tracking-wide text-shadow-gritty">LEGAL DISCLAIMER</h4>
             <p>
               The information, materials and references on this web site are for informational purposes only and are not for the purpose of providing legal advice. You should consult an attorney to obtain advice with respect to any particular issue or problem. Should you wish to retain the firm's services, please contact us at 253-590-6628 Use of this website or any of the links contained herein does not create an attorney-client relationship, nor can the firm be responsible for the content of any outside website. Any information provided herein is not intended in any way to waive attorney-client privilege or attorney work product.
             </p>
           </div>
           
-          <div className="text-center text-gray-300 font-montserrat">
+          <div className="text-center text-gray-100 font-montserrat">
             <p>&copy; 2025 Eric T. Quinn, P.S. All rights reserved. | Representing the Fire Service and Public Agencies</p>
           </div>
         </div>
