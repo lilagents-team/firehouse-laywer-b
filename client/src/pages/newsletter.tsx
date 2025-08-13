@@ -78,7 +78,7 @@ export default function Newsletter() {
         <div className="lg:grid lg:grid-cols-3 lg:gap-12">
           <div className="lg:col-span-2">
             {/* Latest Issue */}
-            <Card className="p-8 mb-8">
+            <Card className="p-8 mb-8 border-neon-orange">
               <CardContent className="p-0">
                 <div className="flex items-start justify-between mb-6">
                   <div>
@@ -108,7 +108,7 @@ export default function Newsletter() {
             </Card>
 
             {/* Newsletter Archive */}
-            <Card className="p-8">
+            <Card className="p-8 border-neon-orange">
               <CardContent className="p-0">
                 <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-6 gap-4">
                   <h3 className="text-xl font-bold text-fire-navy">Newsletter Archive</h3>
@@ -132,7 +132,7 @@ export default function Newsletter() {
                           <h4 className="font-semibold text-fire-navy">{issue.title}</h4>
                           <p className="text-sm text-warm-gray">{issue.description}</p>
                         </div>
-                        <Button variant="ghost" size="icon" className="text-neon-orange hover:text-orange-600 bg-[#ffffff00]" data-testid={`button-download-${index}`}>
+                        <Button variant="ghost" size="icon" className="text-neon-orange hover:text-orange-600 hover:bg-transparent" data-testid={`button-download-${index}`}>
                           <Download className="w-5 h-5" />
                         </Button>
                       </div>
@@ -152,7 +152,7 @@ export default function Newsletter() {
             <NewsletterSubscription variant="sidebar" />
 
             {/* Newsletter Benefits */}
-            <Card className="p-8">
+            <Card className="p-8 border-neon-orange">
               <CardContent className="p-0">
                 <h3 className="text-xl font-bold text-fire-navy mb-4">What You'll Get</h3>
                 <ul className="space-y-3">

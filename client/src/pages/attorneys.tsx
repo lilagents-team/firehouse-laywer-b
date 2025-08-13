@@ -17,7 +17,7 @@ export default function Attorneys() {
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         {/* Eric T. Quinn */}
-        <Card className="p-8 mb-12">
+        <Card className="p-8 mb-12 border-neon-orange">
           <CardContent className="p-0">
             <div className="lg:grid lg:grid-cols-3 lg:gap-12 items-start">
               <div className="lg:col-span-2">
@@ -93,7 +93,7 @@ export default function Attorneys() {
         </Card>
 
         {/* Joseph F. Quinn */}
-        <Card className="p-8">
+        <Card className="p-8 border-neon-orange">
           <CardContent className="p-0">
             <div className="lg:grid lg:grid-cols-3 lg:gap-12 items-start">
               <div className="order-2 lg:order-1 mt-8 lg:mt-0">
