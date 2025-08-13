@@ -70,7 +70,7 @@ export default function Contact() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="lg:grid lg:grid-cols-2 lg:gap-16">
           {/* Contact Form */}
-          <Card className="p-8">
+          <Card className="p-8 border-neon-orange">
             <CardContent className="p-0">
               <h2 className="text-2xl font-bold text-fire-navy mb-6">Send Us a Message</h2>
               <form onSubmit={handleSubmit} className="space-y-6">
@@ -158,7 +158,7 @@ export default function Contact() {
                 <Button 
                   type="submit" 
                   disabled={isLoading}
-                  className="w-full bg-fire-red hover:bg-red-700"
+                  className="w-full bg-neon-orange text-black hover:bg-orange-600 hover:text-white"
                 >
                   {isLoading ? "Sending..." : "Send Message"}
                 </Button>
@@ -169,7 +169,7 @@ export default function Contact() {
           {/* Contact Information */}
           <div className="mt-12 lg:mt-0 space-y-8">
             {/* Attorney Contact Cards */}
-            <Card className="p-8">
+            <Card className="p-8 border-neon-orange">
               <CardContent className="p-0">
                 <h3 className="text-xl font-bold text-fire-navy mb-6">Contact the Firehouse Lawyer Today!</h3>
                 
@@ -177,11 +177,11 @@ export default function Contact() {
                   <div className="border-b border-gray-200 pb-6">
                     <h4 className="font-bold text-fire-navy mb-3">Eric T. Quinn</h4>
                     <div className="space-y-2">
-                      <a href="tel:12535906628" className="flex items-center space-x-3 text-warm-gray hover:text-fire-red transition-colors">
+                      <a href="tel:12535906628" className="flex items-center space-x-3 text-warm-gray hover:text-neon-orange transition-colors">
                         <Phone className="w-5 h-5" />
                         <span>(253) 590-6628</span>
                       </a>
-                      <a href="mailto:ericquinn@firehouselawyer2.com" className="flex items-center space-x-3 text-warm-gray hover:text-fire-red transition-colors">
+                      <a href="mailto:ericquinn@firehouselawyer2.com" className="flex items-center space-x-3 text-warm-gray hover:text-neon-orange transition-colors">
                         <Mail className="w-5 h-5" />
                         <span>ericquinn@firehouselawyer2.com</span>
                       </a>
@@ -191,11 +191,11 @@ export default function Contact() {
                   <div>
                     <h4 className="font-bold text-fire-navy mb-3">Joseph F. Quinn, Of Counsel</h4>
                     <div className="space-y-2">
-                      <a href="tel:12535763232" className="flex items-center space-x-3 text-warm-gray hover:text-fire-red transition-colors">
+                      <a href="tel:12535763232" className="flex items-center space-x-3 text-warm-gray hover:text-neon-orange transition-colors">
                         <Phone className="w-5 h-5" />
                         <span>(253) 576-3232</span>
                       </a>
-                      <a href="mailto:joequinn@firehouselawyer.com" className="flex items-center space-x-3 text-warm-gray hover:text-fire-red transition-colors">
+                      <a href="mailto:joequinn@firehouselawyer.com" className="flex items-center space-x-3 text-warm-gray hover:text-neon-orange transition-colors">
                         <Mail className="w-5 h-5" />
                         <span>joequinn@firehouselawyer.com</span>
                       </a>
@@ -206,11 +206,11 @@ export default function Contact() {
             </Card>
 
             {/* Office Location */}
-            <Card className="p-8">
+            <Card className="p-8 border-neon-orange">
               <CardContent className="p-0">
                 <h3 className="text-xl font-bold text-fire-navy mb-4">Office Location</h3>
                 <div className="flex items-start space-x-3">
-                  <MapPin className="w-5 h-5 text-fire-red mt-1 flex-shrink-0" />
+                  <MapPin className="w-5 h-5 text-neon-orange mt-1 flex-shrink-0" />
                   <div>
                     <p className="font-semibold text-fire-navy">Mailing Address:</p>
                     <p className="text-warm-gray">7403 Lakewood Drive West, Suite # 11</p>
@@ -221,7 +221,7 @@ export default function Contact() {
             </Card>
 
             {/* Office Hours */}
-            <Card className="bg-fire-navy text-white p-8">
+            <Card className="bg-fire-navy text-white p-8 border-neon-orange">
               <CardContent className="p-0">
                 <h3 className="text-xl font-bold mb-4 flex items-center">
                   <Clock className="w-5 h-5 mr-2" />
@@ -241,7 +241,7 @@ export default function Contact() {
                     <span>Closed</span>
                   </div>
                 </div>
-                <p className="text-red-100 text-sm mt-4">Emergency consultations available 24/7 for critical fire service matters.</p>
+                <p className="text-orange-100 text-sm mt-4">Emergency consultations available 24/7 for critical fire service matters.</p>
               </CardContent>
             </Card>
           </div>
