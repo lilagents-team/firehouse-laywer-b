@@ -85,7 +85,7 @@ export default function Newsletter() {
                     <h2 className="text-2xl font-bold text-fire-navy mb-2">Latest Issue - July 2025</h2>
                     <p className="text-warm-gray">Special-Meeting Notices Are Key</p>
                   </div>
-                  <Badge className="bg-fire-red">NEW</Badge>
+                  <Badge className="bg-neon-orange text-black">NEW</Badge>
                 </div>
                 <p className="text-warm-gray mb-6 leading-relaxed">
                   Today we discuss two OPMA cases involving notices of special meetings; we also consider apprenticeship 
@@ -93,13 +93,13 @@ export default function Newsletter() {
                   and some miscellaneous laws.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4">
-                  <Button asChild className="bg-fire-red hover:bg-red-700">
+                  <Button asChild className="bg-neon-orange text-black hover:bg-orange-600 hover:text-white">
                     <a href="https://firehouselawyer.com/Newsletters/July2025FINAL.pdf" target="_blank" rel="noopener noreferrer">
                       <Download className="w-4 h-4 mr-2" />
                       Read Full Issue (PDF)
                     </a>
                   </Button>
-                  <Button variant="outline" className="border-fire-red text-fire-red hover:bg-fire-red hover:text-white">
+                  <Button variant="outline" className="border-neon-orange text-neon-orange hover:bg-neon-orange hover:text-black">
                     <ExternalLink className="w-4 h-4 mr-2" />
                     View Online
                   </Button>
@@ -127,12 +127,12 @@ export default function Newsletter() {
                 <div className="space-y-4">
                   {filteredIssues.length > 0 ? (
                     filteredIssues.map((issue, index) => (
-                      <div key={index} className="flex items-center justify-between p-4 border border-gray-200 rounded-lg hover:border-fire-red transition-colors" data-testid={`card-archive-${index}`}>
+                      <div key={index} className="flex items-center justify-between p-4 border border-gray-200 rounded-lg hover:border-neon-orange transition-colors" data-testid={`card-archive-${index}`}>
                         <div>
                           <h4 className="font-semibold text-fire-navy">{issue.title}</h4>
                           <p className="text-sm text-warm-gray">{issue.description}</p>
                         </div>
-                        <Button variant="ghost" size="icon" className="text-fire-red hover:text-red-700" data-testid={`button-download-${index}`}>
+                        <Button variant="ghost" size="icon" className="text-neon-orange hover:text-orange-600" data-testid={`button-download-${index}`}>
                           <Download className="w-5 h-5" />
                         </Button>
                       </div>
@@ -158,7 +158,7 @@ export default function Newsletter() {
                 <ul className="space-y-3">
                   {benefits.map((benefit, index) => (
                     <li key={index} className="flex items-start space-x-3">
-                      <CheckCircle className="w-5 h-5 text-fire-red mt-0.5 flex-shrink-0" />
+                      <CheckCircle className="w-5 h-5 text-neon-orange mt-0.5 flex-shrink-0" />
                       <span className="text-warm-gray">{benefit}</span>
                     </li>
                   ))}

@@ -52,14 +52,14 @@ export default function NewsletterSubscription({ variant = "default" }: Newslett
             placeholder="Your email address"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
-            className="w-full bg-urban-gray border-muted-red text-white placeholder:text-gray-400 font-montserrat"
+            className="w-full bg-urban-gray border-neon-orange text-white placeholder:text-gray-400 font-montserrat"
             required
             data-testid="input-newsletter-email-sidebar"
           />
           <Button 
             type="submit" 
             disabled={isLoading}
-            className="w-full bg-muted-red hover:bg-muted-red-hover urban-shadow border border-muted-red font-montserrat font-semibold uppercase tracking-wide"
+            className="w-full bg-neon-orange hover:bg-orange-600 text-black hover:text-white urban-shadow border border-neon-orange font-montserrat font-semibold uppercase tracking-wide"
             data-testid="button-subscribe-sidebar"
           >
             {isLoading ? "Subscribing..." : "Subscribe Now"}
