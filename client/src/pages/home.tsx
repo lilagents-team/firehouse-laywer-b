@@ -89,6 +89,8 @@ export default function Home() {
                 alt={image.alt}
                 className={`absolute inset-0 w-full h-full object-cover transition-opacity duration-1000 ${
                   index === currentImageIndex ? 'opacity-100' : 'opacity-0'
+                } ${
+                  index === 1 ? 'lg:object-top object-center' : 'object-center'
                 }`}
               />
             ))}
