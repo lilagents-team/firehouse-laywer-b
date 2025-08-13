@@ -143,19 +143,19 @@ export default function PracticeAreas() {
         </div>
 
         {/* Board Retreats Special Section */}
-        <Card className="bg-neon-orange text-black p-8 mt-8 distressed-border urban-shadow-lg border-2 border-orange-400">
-          <CardContent className="p-0">
+        <Card className="bg-urban-medium border-neon-orange p-8 mt-8 distressed-border urban-shadow-lg relative overflow-hidden">
+          <div className="absolute inset-0 bg-gradient-to-r from-urban-dark/90 via-urban-medium/80 to-transparent"></div>
+          <CardContent className="p-0 relative z-10">
             <div className="lg:grid lg:grid-cols-2 lg:gap-8 items-center">
               <div>
-                <h3 className="text-2xl font-bebas font-bold mb-4 tracking-wider text-shadow-gritty">BOARD RETREATS</h3>
-                <p className="text-black mb-6 leading-relaxed font-montserrat">
+                <h3 className="text-2xl font-bebas font-bold mb-4 tracking-wider text-shadow-gritty text-white">BOARD RETREATS</h3>
+                <p className="text-gray-200 mb-6 leading-relaxed font-montserrat">
                   Eric and Joe Quinn facilitate annual Board retreats to train commissioners and administration about governance issues 
                   and working as a team, as is absolutely crucial in the fire service and government in general.
                 </p>
                 <Button 
                   asChild 
-                  variant="secondary" 
-                  className="bg-black text-neon-orange hover:bg-gray-800 font-montserrat font-semibold uppercase tracking-wide hover:scale-105 transition-all duration-300 border border-black"
+                  className="bg-neon-orange text-black hover:bg-orange-600 hover:text-white font-montserrat font-semibold uppercase tracking-wide hover:scale-105 transition-all duration-300 urban-shadow-lg"
                   data-testid="button-schedule-retreat"
                 >
                   <Link href="/contact">
