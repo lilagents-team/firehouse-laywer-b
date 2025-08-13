@@ -247,7 +247,7 @@ export default function Home() {
             {/* Services for All Public Agencies */}
             <Card className="bg-urban-light border-neon-orange hover:border-orange-400 urban-shadow hover:urban-shadow-lg transition-all duration-300 hover:scale-105 distressed-border" data-testid="announcement-card-public-agencies">
               <CardContent className="p-8">
-                <div className="w-16 h-16 bg-neon-orange rounded-none flex items-center justify-center mb-6 urban-shadow-lg hover:bg-orange-600 transition-all duration-300 hover:scale-110 border border-orange-400" style={{ clipPath: 'polygon(10% 0%, 100% 0%, 90% 100%, 0% 100%)' }}>
+                <div className="w-16 h-16 bg-neon-orange rounded-none flex items-center justify-center mb-6 urban-shadow-lg hover:bg-orange-600 transition-all duration-300 hover:scale-110" style={{ clipPath: 'polygon(10% 0%, 100% 0%, 90% 100%, 0% 100%)' }}>
                   <Building2 className="w-8 h-8 text-black" />
                 </div>
                 <h3 className="text-xl font-bebas font-bold text-white mb-3 tracking-wide">SERVING ALL PUBLIC AGENCIES</h3>
@@ -264,7 +264,7 @@ export default function Home() {
             {/* Municipal Roundtable */}
             <Card className="bg-urban-light border-neon-orange hover:border-orange-400 urban-shadow hover:urban-shadow-lg transition-all duration-300 hover:scale-105 distressed-border" data-testid="announcement-card-roundtable">
               <CardContent className="p-8">
-                <div className="w-16 h-16 bg-urban-dark rounded-none flex items-center justify-center mb-6 urban-shadow-lg hover:bg-neon-orange transition-all duration-300 hover:scale-110 border border-neon-orange" style={{ clipPath: 'polygon(10% 0%, 100% 0%, 90% 100%, 0% 100%)' }}>
+                <div className="w-16 h-16 bg-urban-dark rounded-none flex items-center justify-center mb-6 urban-shadow-lg hover:bg-neon-orange transition-all duration-300 hover:scale-110" style={{ clipPath: 'polygon(10% 0%, 100% 0%, 90% 100%, 0% 100%)' }}>
                   <Calendar className="w-8 h-8 text-white" />
                 </div>
                 <h3 className="text-xl font-bebas font-bold text-white mb-3 tracking-wide">MUNICIPAL ROUNDTABLE</h3>
