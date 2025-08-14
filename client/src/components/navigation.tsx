@@ -35,7 +35,7 @@ export default function Navigation() {
           </div>
 
           {/* Desktop Navigation */}
-          <div className="hidden md:block">
+          <div className="hidden lg:block">
             <div className="ml-10 flex items-baseline space-x-8">
               {navigation.map((item) => (
                 <Link
@@ -44,7 +44,7 @@ export default function Navigation() {
                   className={`px-3 py-2 text-sm font-montserrat font-medium transition-all duration-300 ${
                     isActive(item.href)
                       ? "text-neon-orange border-b-2 border-neon-orange"
-                      : "text-red-300 hover:text-neon-orange hover:scale-105"
+                      : "text-red-300 hover:text-white hover:scale-105"
                   }`}
                   data-testid={`nav-link-${item.name.toLowerCase().replace(/\s+/g, '-')}`}
                 >
@@ -55,12 +55,12 @@ export default function Navigation() {
           </div>
 
           {/* Mobile menu button */}
-          <div className="md:hidden">
+          <div className="lg:hidden">
             <Button
               variant="ghost"
               size="icon"
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-              className="text-neon-orange hover:text-red-400"
+              className="text-white hover:text-red-400 hover:bg-transparent"
               data-testid="mobile-menu-toggle"
             >
               {mobileMenuOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
@@ -70,15 +70,15 @@ export default function Navigation() {
       </div>
       {/* Mobile Navigation */}
       {mobileMenuOpen && (
-        <div className="md:hidden">
-          <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3 bg-urban-medium border-t border-neon-orange">
+        <div className="lg:hidden">
+          <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3 bg-urban-medium border-t border-red-400">
             {navigation.map((item) => (
               <Link
                 key={item.name}
                 href={item.href}
                 onClick={() => setMobileMenuOpen(false)}
-                className={`block px-3 py-2 font-montserrat font-medium uppercase tracking-wide hover:bg-urban-light transition-all duration-300 ${
-                  isActive(item.href) ? "text-neon-orange bg-urban-light" : "text-orange-300 hover:text-neon-orange"
+                className={`block px-4 py-3 font-montserrat font-medium uppercase tracking-wide transition-all duration-300 transform hover:translate-x-2 hover:scale-105 ${
+                  isActive(item.href) ? "text-neon-orange border-l-4 border-neon-orange" : "text-white hover:text-red-400"
                 }`}
                 data-testid={`mobile-nav-link-${item.name.toLowerCase().replace(/\s+/g, '-')}`}
               >
