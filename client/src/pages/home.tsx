@@ -214,7 +214,7 @@ export default function Home() {
                   <div className="w-16 h-16 bg-neon-orange rounded-none flex items-center justify-center mb-6 urban-shadow-lg hover:bg-red-600 transition-all duration-300 hover:scale-110" style={{ clipPath: 'polygon(10% 0%, 100% 0%, 90% 100%, 0% 100%)' }}>
                     <area.icon className="w-8 h-8 text-white" />
                   </div>
-                  <h3 className="text-xl font-bebas font-bold text-white mb-3 tracking-wide">{area.title.toUpperCase()}</h3>
+                  <h3 className="text-2xl lg:text-3xl font-bebas font-bold text-white mb-3 tracking-wider text-shadow-gritty">{area.title.toUpperCase()}</h3>
                   <p className="text-gray-300 font-montserrat">{area.description}</p>
                 </CardContent>
               </Card>
@@ -253,7 +253,7 @@ export default function Home() {
                 <div className="w-16 h-16 bg-neon-orange rounded-none flex items-center justify-center mb-6 urban-shadow-lg hover:bg-red-600 transition-all duration-300 hover:scale-110" style={{ clipPath: 'polygon(10% 0%, 100% 0%, 90% 100%, 0% 100%)' }}>
                   <Building2 className="w-8 h-8 text-white" />
                 </div>
-                <h3 className="text-xl font-bebas font-bold text-white mb-3 tracking-wide">SERVING ALL PUBLIC AGENCIES</h3>
+                <h3 className="text-2xl lg:text-3xl font-bebas font-bold text-white mb-3 tracking-wider text-shadow-gritty">SERVING ALL PUBLIC AGENCIES</h3>
                 <p className="text-gray-300 mb-4 leading-relaxed font-montserrat">
                   Are you not with a fire district or regional fire authority? Don't fret. Our skills transfer to any 
                   type of municipal corporation, such as a school district, city or public utility district, to name a few!
@@ -270,7 +270,7 @@ export default function Home() {
                 <div className="w-16 h-16 bg-neon-orange rounded-none flex items-center justify-center mb-6 urban-shadow-lg hover:bg-red-600 transition-all duration-300 hover:scale-110" style={{ clipPath: 'polygon(10% 0%, 100% 0%, 90% 100%, 0% 100%)' }}>
                   <Calendar className="w-8 h-8 text-white" />
                 </div>
-                <h3 className="text-xl font-bebas font-bold text-white mb-3 tracking-wide">MUNICIPAL ROUNDTABLE</h3>
+                <h3 className="text-2xl lg:text-3xl font-bebas font-bold text-white mb-3 tracking-wider text-shadow-gritty">MUNICIPAL ROUNDTABLE</h3>
                 <p className="text-gray-300 mb-4 leading-relaxed font-montserrat">
                   Join us every three months for our Municipal Roundtable sessions, where we discuss current 
                   legal issues affecting fire departments and public agencies across the region.
