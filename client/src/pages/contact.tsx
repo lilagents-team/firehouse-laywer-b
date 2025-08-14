@@ -158,7 +158,7 @@ export default function Contact() {
                 <Button 
                   type="submit" 
                   disabled={isLoading}
-                  className="w-full bg-neon-orange text-black hover:bg-red-600 hover:text-white"
+                  className="w-full bg-neon-orange text-white hover:bg-red-600 hover:text-white"
                 >
                   {isLoading ? "Sending..." : "Send Message"}
                 </Button>

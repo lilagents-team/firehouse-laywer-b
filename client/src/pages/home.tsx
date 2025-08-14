@@ -130,7 +130,7 @@ export default function Home() {
               <Button 
                 asChild 
                 size="lg" 
-                className="bg-neon-orange hover:bg-red-600 urban-shadow-lg border border-neon-orange hover:scale-105 transition-all duration-300 font-montserrat font-semibold uppercase tracking-wide text-black hover:text-white"
+                className="bg-neon-orange hover:bg-red-600 urban-shadow-lg border border-neon-orange hover:scale-105 transition-all duration-300 font-montserrat font-semibold uppercase tracking-wide text-white hover:text-white"
                 data-testid="button-explore-practice-areas"
               >
                 <Link href="/practice-areas">
@@ -141,7 +141,7 @@ export default function Home() {
                 asChild 
                 variant="outline" 
                 size="lg" 
-                className="border-neon-orange text-neon-orange hover:bg-neon-orange hover:text-black bg-transparent urban-shadow-lg hover:scale-105 transition-all duration-300 font-montserrat font-semibold uppercase tracking-wide"
+                className="border-neon-orange text-neon-orange hover:bg-neon-orange hover:text-white bg-transparent urban-shadow-lg hover:scale-105 transition-all duration-300 font-montserrat font-semibold uppercase tracking-wide"
                 data-testid="button-schedule-consultation"
               >
                 <Link href="/contact">
@@ -211,7 +211,7 @@ export default function Home() {
               <Card key={index} className="bg-urban-light border-neon-orange hover:border-red-400 urban-shadow hover:urban-shadow-lg transition-all duration-300 hover:scale-105 distressed-border" data-testid={`practice-area-card-${index}`}>
                 <CardContent className="p-8">
                   <div className="w-16 h-16 bg-neon-orange rounded-none flex items-center justify-center mb-6 urban-shadow-lg hover:bg-red-600 transition-all duration-300 hover:scale-110" style={{ clipPath: 'polygon(10% 0%, 100% 0%, 90% 100%, 0% 100%)' }}>
-                    <area.icon className="w-8 h-8 text-black" />
+                    <area.icon className="w-8 h-8 text-white" />
                   </div>
                   <h3 className="text-xl font-bebas font-bold text-white mb-3 tracking-wide">{area.title.toUpperCase()}</h3>
                   <p className="text-gray-300 font-montserrat">{area.description}</p>
@@ -224,7 +224,7 @@ export default function Home() {
             <Button 
               asChild 
               size="lg" 
-              className="bg-neon-orange hover:bg-red-600 urban-shadow-lg border border-neon-orange hover:scale-105 transition-all duration-300 font-montserrat font-semibold uppercase tracking-wide text-black hover:text-white"
+              className="bg-neon-orange hover:bg-red-600 urban-shadow-lg border border-neon-orange hover:scale-105 transition-all duration-300 font-montserrat font-semibold uppercase tracking-wide text-white hover:text-white"
               data-testid="button-view-all-practice-areas"
             >
               <Link href="/practice-areas">
@@ -250,7 +250,7 @@ export default function Home() {
             <Card className="bg-urban-light border-neon-orange hover:border-red-400 urban-shadow hover:urban-shadow-lg transition-all duration-300 hover:scale-105 distressed-border" data-testid="announcement-card-public-agencies">
               <CardContent className="p-8">
                 <div className="w-16 h-16 bg-neon-orange rounded-none flex items-center justify-center mb-6 urban-shadow-lg hover:bg-red-600 transition-all duration-300 hover:scale-110" style={{ clipPath: 'polygon(10% 0%, 100% 0%, 90% 100%, 0% 100%)' }}>
-                  <Building2 className="w-8 h-8 text-black" />
+                  <Building2 className="w-8 h-8 text-white" />
                 </div>
                 <h3 className="text-xl font-bebas font-bold text-white mb-3 tracking-wide">SERVING ALL PUBLIC AGENCIES</h3>
                 <p className="text-gray-300 mb-4 leading-relaxed font-montserrat">
@@ -286,7 +286,7 @@ export default function Home() {
               asChild 
               size="lg" 
               variant="outline" 
-              className="border-neon-orange text-neon-orange hover:bg-neon-orange hover:text-black urban-shadow-lg hover:scale-105 transition-all duration-300 font-montserrat font-semibold uppercase tracking-wide"
+              className="border-neon-orange text-neon-orange hover:bg-neon-orange hover:text-white urban-shadow-lg hover:scale-105 transition-all duration-300 font-montserrat font-semibold uppercase tracking-wide"
               data-testid="button-contact-event-details"
             >
               <Link href="/contact">

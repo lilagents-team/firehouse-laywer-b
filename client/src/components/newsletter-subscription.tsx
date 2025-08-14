@@ -59,7 +59,7 @@ export default function NewsletterSubscription({ variant = "default" }: Newslett
           <Button 
             type="submit" 
             disabled={isLoading}
-            className="w-full bg-neon-orange hover:bg-red-600 text-black hover:text-white urban-shadow border border-neon-orange font-montserrat font-semibold uppercase tracking-wide"
+            className="w-full bg-neon-orange hover:bg-red-600 text-white hover:text-white urban-shadow border border-neon-orange font-montserrat font-semibold uppercase tracking-wide"
             data-testid="button-subscribe-sidebar"
           >
             {isLoading ? "Subscribing..." : "Subscribe Now"}
@@ -89,7 +89,7 @@ export default function NewsletterSubscription({ variant = "default" }: Newslett
           <Button 
             type="submit" 
             disabled={isLoading}
-            className="bg-neon-orange hover:bg-red-600 px-8 py-3 urban-shadow border border-neon-orange font-montserrat font-semibold uppercase tracking-wide hover:scale-105 transition-all duration-300 text-black hover:text-white"
+            className="bg-neon-orange hover:bg-red-600 px-8 py-3 urban-shadow border border-neon-orange font-montserrat font-semibold uppercase tracking-wide hover:scale-105 transition-all duration-300 text-white hover:text-white"
             data-testid="button-subscribe"
           >
             {isLoading ? "Subscribing..." : "Subscribe"}
