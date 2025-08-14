@@ -88,8 +88,8 @@ export default function Newsletter() {
                   <Badge className="bg-neon-orange text-black">NEW</Badge>
                 </div>
                 <p className="text-gray-100 mb-6 leading-relaxed font-montserrat">
-                  Today we discuss two OPMA cases involving notices of special meetings; we also consider apprenticeship 
-                  requirements in public-works contracts, deductions from leave banks of FLSA-exempt employees, "reverse discrimination," 
+                  Today we discuss two OPMA cases involving notices of special meetings; we also consider apprenticeship
+                  requirements in public-works contracts, deductions from leave banks of FLSA-exempt employees, "reverse discrimination,"
                   and some miscellaneous laws.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4">
@@ -127,15 +127,18 @@ export default function Newsletter() {
                 <div className="space-y-4">
                   {filteredIssues.length > 0 ? (
                     filteredIssues.map((issue, index) => (
-                      <div key={index} className="flex items-center justify-between p-4 border border-gray-200 rounded-lg hover:border-neon-orange transition-colors" data-testid={`card-archive-${index}`}>
-                        <div>
-                          <h4 className="font-semibold text-fire-navy">{issue.title}</h4>
-                          <p className="text-sm text-warm-gray">{issue.description}</p>
+                      <a
+                        key={index}
+                        href="#"
+                        className="block bg-urban-medium rounded-lg p-4 border border-gray-200 hover:border-neon-orange transition-colors group cursor-pointer"
+                        data-testid={`card-archive-${index}`}
+                      >
+                        <div className="flex items-center justify-between mb-2">
+                          <h4 className="font-semibold text-fire-navy group-hover:text-neon-orange transition-colors">{issue.title}</h4>
+                          <Download className="w-5 h-5 text-white group-hover:text-neon-orange transition-colors" />
                         </div>
-                        <Button variant="ghost" size="icon" className="text-neon-orange hover:text-red-600 hover:bg-transparent" data-testid={`button-download-${index}`}>
-                          <Download className="w-5 h-5" />
-                        </Button>
-                      </div>
+                        <p className="text-sm text-warm-gray group-hover:text-gray-100 transition-colors">{issue.description}</p>
+                      </a>
                     ))
                   ) : (
                     <div className="text-center py-8">
