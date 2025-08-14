@@ -58,13 +58,13 @@ export default function Attorneys() {
                 </div>
 
                 <div className="flex flex-col sm:flex-row gap-4">
-                  <Button asChild className="bg-neon-orange hover:bg-orange-600 text-black hover:text-white">
+                  <Button asChild className="bg-neon-orange hover:bg-red-600 text-white hover:text-white">
                     <a href="tel:12535906628">
                       <Phone className="w-5 h-5 mr-2" />
                       (253) 590-6628
                     </a>
                   </Button>
-                  <Button asChild variant="outline" className="border-neon-orange text-neon-orange hover:bg-neon-orange hover:text-black">
+                  <Button asChild variant="outline" className="border-neon-orange text-white hover:bg-red-600 hover:text-white">
                     <a href="mailto:ericquinn@firehouselawyer2.com">
                       <Mail className="w-5 h-5 mr-2" />
                       Email Eric
@@ -149,13 +149,13 @@ export default function Attorneys() {
                 </div>
 
                 <div className="flex flex-col sm:flex-row gap-4">
-                  <Button asChild className="bg-neon-orange hover:bg-orange-600 text-black hover:text-white">
+                  <Button asChild className="bg-neon-orange hover:bg-red-600 text-white hover:text-white">
                     <a href="tel:12535763232">
                       <Phone className="w-5 h-5 mr-2" />
                       (253) 576-3232
                     </a>
                   </Button>
-                  <Button asChild variant="outline" className="border-neon-orange text-neon-orange hover:bg-neon-orange hover:text-black">
+                  <Button asChild variant="outline" className="border-neon-orange text-white hover:bg-red-600 hover:text-white">
                     <a href="mailto:joequinn@firehouselawyer.com">
                       <Mail className="w-5 h-5 mr-2" />
                       Email Joe

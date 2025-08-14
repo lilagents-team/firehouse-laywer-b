@@ -141,7 +141,7 @@ export default function Home() {
                 asChild 
                 variant="outline" 
                 size="lg" 
-                className="border-neon-orange text-neon-orange hover:bg-neon-orange hover:text-white bg-transparent urban-shadow-lg hover:scale-105 transition-all duration-300 font-montserrat font-semibold uppercase tracking-wide"
+                className="border-neon-orange text-white hover:bg-red-600 hover:text-white bg-transparent urban-shadow-lg hover:scale-105 transition-all duration-300 font-montserrat font-semibold uppercase tracking-wide"
                 data-testid="button-schedule-consultation"
               >
                 <Link href="/contact">

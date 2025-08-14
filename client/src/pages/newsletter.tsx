@@ -93,13 +93,13 @@ export default function Newsletter() {
                   and some miscellaneous laws.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4">
-                  <Button asChild className="bg-neon-orange text-black hover:bg-orange-600 hover:text-white">
+                  <Button asChild className="bg-neon-orange text-white hover:bg-red-600 hover:text-white">
                     <a href="https://firehouselawyer.com/Newsletters/July2025FINAL.pdf" target="_blank" rel="noopener noreferrer">
                       <Download className="w-4 h-4 mr-2" />
                       Read Full Issue (PDF)
                     </a>
                   </Button>
-                  <Button variant="outline" className="border-neon-orange text-neon-orange hover:bg-neon-orange hover:text-black">
+                  <Button variant="outline" className="border-neon-orange text-white hover:bg-red-600 hover:text-white">
                     <ExternalLink className="w-4 h-4 mr-2" />
                     View Online
                   </Button>
@@ -132,7 +132,7 @@ export default function Newsletter() {
                           <h4 className="font-semibold text-fire-navy">{issue.title}</h4>
                           <p className="text-sm text-warm-gray">{issue.description}</p>
                         </div>
-                        <Button variant="ghost" size="icon" className="text-neon-orange hover:text-orange-600 hover:bg-transparent" data-testid={`button-download-${index}`}>
+                        <Button variant="ghost" size="icon" className="text-neon-orange hover:text-red-600 hover:bg-transparent" data-testid={`button-download-${index}`}>
                           <Download className="w-5 h-5" />
                         </Button>
                       </div>
