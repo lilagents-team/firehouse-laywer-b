@@ -175,28 +175,28 @@ export default function Contact() {
                 
                 <div className="space-y-6">
                   <div className="border-b border-gray-200 pb-6">
-                    <h4 className="text-xl font-bebas font-bold text-white mb-3 tracking-wider">ERIC T. QUINN</h4>
+                    <h4 className="text-xl font-bebas font-bold text-white mb-3 tracking-widest text-shadow-gritty">ERIC T. QUINN</h4>
                     <div className="space-y-2">
                       <a href="tel:12535906628" className="flex items-center space-x-3 text-warm-gray hover:text-neon-orange transition-colors">
-                        <Phone className="w-5 h-5" />
+                        <Phone className="w-5 h-5 text-neon-orange" />
                         <span>(253) 590-6628</span>
                       </a>
                       <a href="mailto:ericquinn@firehouselawyer2.com" className="flex items-center space-x-3 text-warm-gray hover:text-neon-orange transition-colors">
-                        <Mail className="w-5 h-5" />
+                        <Mail className="w-5 h-5 text-neon-orange" />
                         <span>ericquinn@firehouselawyer2.com</span>
                       </a>
                     </div>
                   </div>
                   
                   <div>
-                    <h4 className="text-xl font-bebas font-bold text-white mb-3 tracking-wider">JOSEPH F. QUINN, OF COUNSEL</h4>
+                    <h4 className="text-xl font-bebas font-bold text-white mb-3 tracking-widest text-shadow-gritty">JOSEPH F. QUINN, OF COUNSEL</h4>
                     <div className="space-y-2">
                       <a href="tel:12535763232" className="flex items-center space-x-3 text-warm-gray hover:text-neon-orange transition-colors">
-                        <Phone className="w-5 h-5" />
+                        <Phone className="w-5 h-5 text-neon-orange" />
                         <span>(253) 576-3232</span>
                       </a>
                       <a href="mailto:joequinn@firehouselawyer.com" className="flex items-center space-x-3 text-warm-gray hover:text-neon-orange transition-colors">
-                        <Mail className="w-5 h-5" />
+                        <Mail className="w-5 h-5 text-neon-orange" />
                         <span>joequinn@firehouselawyer.com</span>
                       </a>
                     </div>
