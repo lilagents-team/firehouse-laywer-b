@@ -41,9 +41,9 @@ export default function NewsletterSubscription({ variant = "default" }: Newslett
 
   if (variant === "sidebar") {
     return (
-      <div className="bg-urban-dark text-white p-8 distressed-border urban-shadow-lg urban-concrete">
-        <h3 className="text-xl font-bebas font-bold mb-4 tracking-wider text-shadow-gritty">SUBSCRIBE TO UPDATES</h3>
-        <p className="text-gray-200 mb-6 font-montserrat">
+      <div className="bg-urban-medium text-white p-8 border-neon-orange distressed-border urban-shadow-lg">
+        <h3 className="text-2xl font-bebas font-bold mb-4 tracking-wider text-shadow-gritty">SUBSCRIBE TO UPDATES</h3>
+        <p className="text-gray-100 mb-6 font-montserrat">
           Receive our monthly newsletter for our expert insights!
         </p>
         <form onSubmit={handleSubmit} className="space-y-4">
