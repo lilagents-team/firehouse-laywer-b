@@ -19,6 +19,20 @@ export default function Attorneys() {
         {/* Eric T. Quinn */}
         <Card className="p-8 mb-12 border-neon-orange">
           <CardContent className="p-0">
+            {/* Mobile/Tablet Image */}
+            <div className="lg:hidden mb-8">
+              <div className="w-48 mx-auto sm:mx-0 bg-urban-light urban-shadow-lg p-2" style={{ clipPath: 'polygon(0 0, 95% 0, 100% 95%, 5% 100%)' }}>
+                <div className="relative overflow-hidden" style={{ clipPath: 'polygon(0 0, 95% 0, 100% 95%, 5% 100%)' }}>
+                  <img 
+                    src={ericQuinnPhoto} 
+                    alt="Eric T. Quinn" 
+                    className="w-full h-60 object-cover object-center"
+                  />
+                  {/* No text overlay on mobile/tablet */}
+                </div>
+              </div>
+            </div>
+            
             <div className="lg:grid lg:grid-cols-3 lg:gap-12 items-start">
               <div className="lg:col-span-2">
                 <h2 className="text-3xl font-bold text-fire-navy mb-4">Eric T. Quinn</h2>
@@ -72,7 +86,8 @@ export default function Attorneys() {
                   </Button>
                 </div>
               </div>
-              <div className="mt-8 lg:mt-0">
+              {/* Desktop Image */}
+              <div className="hidden lg:block mt-8 lg:mt-0">
                 <div className="relative bg-urban-light urban-shadow-lg p-2" style={{ clipPath: 'polygon(0 0, 95% 0, 100% 95%, 5% 100%)' }}>
                   <div className="relative overflow-hidden" style={{ clipPath: 'polygon(0 0, 95% 0, 100% 95%, 5% 100%)' }}>
                     <img 
@@ -95,8 +110,23 @@ export default function Attorneys() {
         {/* Joseph F. Quinn */}
         <Card className="p-8 border-neon-orange">
           <CardContent className="p-0">
+            {/* Mobile/Tablet Image */}
+            <div className="lg:hidden mb-8">
+              <div className="w-48 mx-auto sm:mx-0 bg-urban-light urban-shadow-lg p-2" style={{ clipPath: 'polygon(0 0, 95% 0, 100% 95%, 5% 100%)' }}>
+                <div className="relative overflow-hidden" style={{ clipPath: 'polygon(0 0, 95% 0, 100% 95%, 5% 100%)' }}>
+                  <img 
+                    src={josephQuinnPhoto} 
+                    alt="Joseph F. Quinn" 
+                    className="w-full h-60 object-cover object-center"
+                  />
+                  {/* No text overlay on mobile/tablet */}
+                </div>
+              </div>
+            </div>
+            
             <div className="lg:grid lg:grid-cols-3 lg:gap-12 items-start">
-              <div className="order-2 lg:order-1 mt-8 lg:mt-0">
+              {/* Desktop Image */}
+              <div className="hidden lg:block order-2 lg:order-1 mt-8 lg:mt-0">
                 <div className="relative bg-urban-light urban-shadow-lg p-2" style={{ clipPath: 'polygon(0 0, 95% 0, 100% 95%, 5% 100%)' }}>
                   <div className="relative overflow-hidden" style={{ clipPath: 'polygon(0 0, 95% 0, 100% 95%, 5% 100%)' }}>
                     <img 
