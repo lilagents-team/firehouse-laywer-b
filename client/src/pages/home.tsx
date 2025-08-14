@@ -182,14 +182,15 @@ export default function Home() {
               </Button>
             </div>
             <div className="mt-10 lg:mt-0">
-              <div className="relative">
-                <img 
-                  src={joeFiretruck} 
-                  alt="Joseph Quinn with vintage fire truck" 
-                  className="w-full h-96 object-cover object-center urban-shadow-lg distressed-border" 
-                  style={{ clipPath: 'polygon(0 0, 95% 0, 100% 95%, 5% 100%)' }}
-                />
-                <div className="absolute inset-0 bg-gradient-to-tr from-black/20 to-transparent"></div>
+              <div className="relative bg-urban-light urban-shadow-lg p-2" style={{ clipPath: 'polygon(0 0, 95% 0, 100% 95%, 5% 100%)' }}>
+                <div className="relative overflow-hidden" style={{ clipPath: 'polygon(0 0, 95% 0, 100% 95%, 5% 100%)' }}>
+                  <img 
+                    src={joeFiretruck} 
+                    alt="Joseph Quinn with vintage fire truck" 
+                    className="w-full h-96 object-cover object-center"
+                  />
+                  <div className="absolute inset-0 bg-gradient-to-tr from-black/20 to-transparent"></div>
+                </div>
               </div>
             </div>
           </div>
