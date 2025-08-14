@@ -132,7 +132,7 @@ export default function PracticeAreas() {
                 <p className="text-gray-100 mb-4 font-montserrat">{area.description}</p>
                 <Button 
                   variant="link" 
-                  className="text-orange-300 hover:text-orange-100 p-0 font-montserrat font-semibold uppercase tracking-wide transition-all duration-300"
+                  className="text-neon-orange hover:text-red-400 p-0 font-montserrat font-semibold uppercase tracking-wide transition-all duration-300"
                   data-testid={`button-learn-more-${index}`}
                 >
                   Learn More →

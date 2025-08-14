@@ -8,16 +8,16 @@ import josephQuinnPhoto from "../assets/images/joseph-quinn.jpg";
 export default function Attorneys() {
   return (
     <div>
-      <div className="bg-fire-navy py-16">
+      <div className="bg-urban-dark py-16 urban-grid">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h1 className="text-4xl lg:text-5xl font-bold text-white mb-4">Our Attorneys</h1>
-          <p className="text-xl text-gray-200">Experienced legal professionals dedicated to serving the fire service community.</p>
+          <h1 className="text-4xl lg:text-6xl font-bebas font-bold text-white mb-4 tracking-wider text-shadow-gritty">OUR ATTORNEYS</h1>
+          <p className="text-xl text-gray-200 font-montserrat">Experienced legal professionals dedicated to serving the fire service community.</p>
         </div>
       </div>
 
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 bg-urban-gray urban-concrete min-h-screen">
         {/* Eric T. Quinn */}
-        <Card className="p-8 mb-12 border-neon-orange">
+        <Card className="p-8 mb-12 bg-urban-medium border-neon-orange distressed-border urban-shadow-lg">
           <CardContent className="p-0">
             {/* Mobile/Tablet Image */}
             <div className="lg:hidden mb-8">
@@ -35,12 +35,12 @@ export default function Attorneys() {
             
             <div className="lg:grid lg:grid-cols-3 lg:gap-12 items-start">
               <div className="lg:col-span-2">
-                <h2 className="text-3xl font-bold text-fire-navy mb-4">Eric T. Quinn</h2>
-                <p className="text-lg text-fire-red font-semibold mb-6">Principal Attorney</p>
+                <h2 className="text-3xl lg:text-4xl font-bebas font-bold text-white mb-4 tracking-wider text-shadow-gritty">ERIC T. QUINN</h2>
+                <p className="text-lg text-neon-orange font-semibold mb-6 font-montserrat">Principal Attorney</p>
                 
                 <div className="mb-8">
-                  <h3 className="text-xl font-bold text-fire-navy mb-4">Personal Background</h3>
-                  <p className="text-warm-gray mb-4 leading-relaxed">
+                  <h3 className="text-xl font-bebas font-bold text-white mb-4 tracking-wide text-shadow-gritty">PERSONAL BACKGROUND</h3>
+                  <p className="text-gray-100 mb-4 leading-relaxed font-montserrat">
                     Eric Quinn was born in University Place, Washington in 1982, and has lived in the Pacific Northwest his whole life, 
                     aside from a one-year stint in Michigan for law school. He graduated from Pacific Lutheran University in 2006. 
                     He is a member of the Rotary Club of Lakewood. Eric loves the outdoors and is also a performance artist. 
@@ -49,16 +49,16 @@ export default function Attorneys() {
                 </div>
 
                 <div className="mb-8">
-                  <h3 className="text-xl font-bold text-fire-navy mb-4">Legal Education</h3>
-                  <p className="text-warm-gray mb-4 leading-relaxed">
+                  <h3 className="text-xl font-bebas font-bold text-white mb-4 tracking-wide text-shadow-gritty">LEGAL EDUCATION</h3>
+                  <p className="text-gray-100 mb-4 leading-relaxed font-montserrat">
                     Eric graduated from the Seattle University School of Law, where he was a finalist in the second-year mock trial competition. 
                     He worked as a legal intern throughout all three years of his law school career.
                   </p>
                 </div>
 
                 <div className="mb-8">
-                  <h3 className="text-xl font-bold text-fire-navy mb-4">Legal Background</h3>
-                  <p className="text-warm-gray mb-4 leading-relaxed">
+                  <h3 className="text-xl font-bebas font-bold text-white mb-4 tracking-wide text-shadow-gritty">LEGAL BACKGROUND</h3>
+                  <p className="text-gray-100 mb-4 leading-relaxed font-montserrat">
                     During his first year of law school, Eric worked at the State Appellate Defender's Office (SADO) in Detroit, Michigan. 
                     At SADO, he analyzed boxes (and boxes) of case files to determine if individuals had been wrongfully convicted of crimes 
                     based on faulty DNA evidence. After transferring to Seattle University for his second year of law school, he worked at 
@@ -67,8 +67,8 @@ export default function Attorneys() {
                 </div>
 
                 <div className="mb-8">
-                  <h3 className="text-xl font-bold text-fire-navy mb-4">Bar Admissions</h3>
-                  <p className="text-warm-gray">State of Washington, 2014</p>
+                  <h3 className="text-xl font-bebas font-bold text-white mb-4 tracking-wide text-shadow-gritty">BAR ADMISSIONS</h3>
+                  <p className="text-gray-100 font-montserrat">State of Washington, 2014</p>
                 </div>
 
                 <div className="flex flex-col sm:flex-row gap-4">
@@ -108,7 +108,7 @@ export default function Attorneys() {
         </Card>
 
         {/* Joseph F. Quinn */}
-        <Card className="p-8 border-neon-orange">
+        <Card className="p-8 bg-urban-medium border-neon-orange distressed-border urban-shadow-lg">
           <CardContent className="p-0">
             {/* Mobile/Tablet Image */}
             <div className="lg:hidden mb-8">
@@ -143,12 +143,12 @@ export default function Attorneys() {
                 </div>
               </div>
               <div className="lg:col-span-2 order-1 lg:order-2">
-                <h2 className="text-3xl font-bold text-fire-navy mb-4">Joseph F. Quinn</h2>
-                <p className="text-lg text-neon-orange font-semibold mb-6">Of Counsel</p>
+                <h2 className="text-3xl lg:text-4xl font-bebas font-bold text-white mb-4 tracking-wider text-shadow-gritty">JOSEPH F. QUINN</h2>
+                <p className="text-lg text-neon-orange font-semibold mb-6 font-montserrat">Of Counsel</p>
                 
                 <div className="mb-8">
-                  <h3 className="text-xl font-bold text-fire-navy mb-4">Experience & Background</h3>
-                  <p className="text-warm-gray mb-4 leading-relaxed">
+                  <h3 className="text-xl font-bebas font-bold text-white mb-4 tracking-wide text-shadow-gritty">EXPERIENCE & BACKGROUND</h3>
+                  <p className="text-gray-100 mb-4 leading-relaxed font-montserrat">
                     Joseph F. Quinn represents virtually all of the Pierce County fire districts, among various other fire districts 
                     and regional fire authorities, along with 911 dispatch centers. He has argued before the United States Supreme Court. 
                     His extensive litigation and appellate experience, and his years spent as a commissioner of the Public Employment 
@@ -157,8 +157,8 @@ export default function Attorneys() {
                 </div>
 
                 <div className="mb-8">
-                  <h3 className="text-xl font-bold text-fire-navy mb-4">Notable Achievements</h3>
-                  <ul className="text-warm-gray space-y-2">
+                  <h3 className="text-xl font-bebas font-bold text-white mb-4 tracking-wide text-shadow-gritty">NOTABLE ACHIEVEMENTS</h3>
+                  <ul className="text-gray-100 space-y-2 font-montserrat">
                     <li className="flex items-start space-x-2">
                       <CheckCircle className="w-5 h-5 text-neon-orange mt-0.5 flex-shrink-0" />
                       <span>Argued before the United States Supreme Court</span>
