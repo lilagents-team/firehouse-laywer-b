@@ -67,10 +67,10 @@ export default function Newsletter() {
 
   return (
     <div>
-      <div className="bg-fire-navy py-16">
+      <div className="bg-urban-dark py-16 urban-grid">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h1 className="text-4xl lg:text-5xl font-bold text-white mb-4">Our Newsletter</h1>
-          <p className="text-xl text-gray-200">Stay updated laws impacting fire departments and other public agencies.</p>
+          <h1 className="text-4xl lg:text-6xl font-bebas font-bold text-white mb-4 tracking-wider text-shadow-gritty">OUR NEWSLETTER</h1>
+          <p className="text-xl text-gray-200 font-montserrat">Stay updated on laws impacting fire departments and other public agencies.</p>
         </div>
       </div>
 

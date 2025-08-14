@@ -40,7 +40,7 @@ export default function Attorneys() {
                 
                 <div className="mb-8">
                   <h3 className="text-xl font-bebas font-bold text-white mb-4 tracking-wide text-shadow-gritty">PERSONAL BACKGROUND</h3>
-                  <p className="text-gray-100 mb-4 leading-relaxed font-montserrat">
+                  <p className="text-gray-100 mb-4 leading-relaxed font-montserrat text-lg">
                     Eric Quinn was born in University Place, Washington in 1982, and has lived in the Pacific Northwest his whole life, 
                     aside from a one-year stint in Michigan for law school. He graduated from Pacific Lutheran University in 2006. 
                     He is a member of the Rotary Club of Lakewood. Eric loves the outdoors and is also a performance artist. 
@@ -50,7 +50,7 @@ export default function Attorneys() {
 
                 <div className="mb-8">
                   <h3 className="text-xl font-bebas font-bold text-white mb-4 tracking-wide text-shadow-gritty">LEGAL EDUCATION</h3>
-                  <p className="text-gray-100 mb-4 leading-relaxed font-montserrat">
+                  <p className="text-gray-100 mb-4 leading-relaxed font-montserrat text-lg">
                     Eric graduated from the Seattle University School of Law, where he was a finalist in the second-year mock trial competition. 
                     He worked as a legal intern throughout all three years of his law school career.
                   </p>
@@ -58,7 +58,7 @@ export default function Attorneys() {
 
                 <div className="mb-8">
                   <h3 className="text-xl font-bebas font-bold text-white mb-4 tracking-wide text-shadow-gritty">LEGAL BACKGROUND</h3>
-                  <p className="text-gray-100 mb-4 leading-relaxed font-montserrat">
+                  <p className="text-gray-100 mb-4 leading-relaxed font-montserrat text-lg">
                     During his first year of law school, Eric worked at the State Appellate Defender's Office (SADO) in Detroit, Michigan. 
                     At SADO, he analyzed boxes (and boxes) of case files to determine if individuals had been wrongfully convicted of crimes 
                     based on faulty DNA evidence. After transferring to Seattle University for his second year of law school, he worked at 
@@ -68,7 +68,7 @@ export default function Attorneys() {
 
                 <div className="mb-8">
                   <h3 className="text-xl font-bebas font-bold text-white mb-4 tracking-wide text-shadow-gritty">BAR ADMISSIONS</h3>
-                  <p className="text-gray-100 font-montserrat">State of Washington, 2014</p>
+                  <p className="text-gray-100 font-montserrat text-lg">State of Washington, 2014</p>
                 </div>
 
                 <div className="flex flex-col sm:flex-row gap-4">
@@ -148,7 +148,7 @@ export default function Attorneys() {
                 
                 <div className="mb-8">
                   <h3 className="text-xl font-bebas font-bold text-white mb-4 tracking-wide text-shadow-gritty">EXPERIENCE & BACKGROUND</h3>
-                  <p className="text-gray-100 mb-4 leading-relaxed font-montserrat">
+                  <p className="text-gray-100 mb-4 leading-relaxed font-montserrat text-lg">
                     Joseph F. Quinn represents virtually all of the Pierce County fire districts, among various other fire districts 
                     and regional fire authorities, along with 911 dispatch centers. He has argued before the United States Supreme Court. 
                     His extensive litigation and appellate experience, and his years spent as a commissioner of the Public Employment 
@@ -158,7 +158,7 @@ export default function Attorneys() {
 
                 <div className="mb-8">
                   <h3 className="text-xl font-bebas font-bold text-white mb-4 tracking-wide text-shadow-gritty">NOTABLE ACHIEVEMENTS</h3>
-                  <ul className="text-gray-100 space-y-2 font-montserrat">
+                  <ul className="text-gray-100 space-y-2 font-montserrat text-lg">
                     <li className="flex items-start space-x-2">
                       <CheckCircle className="w-5 h-5 text-neon-orange mt-0.5 flex-shrink-0" />
                       <span>Argued before the United States Supreme Court</span>

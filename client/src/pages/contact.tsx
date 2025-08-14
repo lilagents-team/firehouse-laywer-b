@@ -61,10 +61,10 @@ export default function Contact() {
 
   return (
     <div>
-      <div className="bg-fire-navy py-16">
+      <div className="bg-urban-dark py-16 urban-grid">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h1 className="text-4xl lg:text-5xl font-bold text-white mb-4">Contact Us</h1>
-          <p className="text-xl text-gray-200">Ready to discuss your legal needs? We're here to help.</p>
+          <h1 className="text-4xl lg:text-6xl font-bebas font-bold text-white mb-4 tracking-wider text-shadow-gritty">CONTACT US</h1>
+          <p className="text-xl text-gray-200 font-montserrat">Ready to discuss your legal needs? We're here to help.</p>
         </div>
       </div>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
