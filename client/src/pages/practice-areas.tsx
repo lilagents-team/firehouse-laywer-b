@@ -33,22 +33,22 @@ export default function PracticeAreas() {
       </div>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 bg-urban-gray urban-concrete min-h-screen">
         {/* Mergers and Consolidations */}
-        <Card className="p-8 mb-8 bg-urban-light border-neon-orange distressed-border urban-shadow-lg">
+        <Card className="p-8 mb-8 bg-urban-medium border-neon-orange distressed-border urban-shadow-lg">
           <CardContent className="p-0">
             <div className="lg:grid lg:grid-cols-3 lg:gap-8 items-start">
               <div className="lg:col-span-2">
-                <h2 className="text-2xl font-bebas font-bold text-white mb-4 tracking-wider text-shadow-gritty">MERGERS AND CONSOLIDATIONS</h2>
-                <p className="text-gray-300 mb-4 leading-relaxed font-montserrat">
+                <h2 className="text-3xl lg:text-4xl font-bebas font-bold text-white mb-4 tracking-wider text-shadow-gritty">MERGERS AND CONSOLIDATIONS</h2>
+                <p className="text-gray-100 mb-4 leading-relaxed font-montserrat">
                   Mergers and Consolidations require a skilled attorney who understands not only their legal implications, 
                   but their political implications as well. Although Mergers and Consolidations has been a hot topic at many 
                   conferences in recent years, Mr. Quinn has actually been very active in consolidation and merger work since 1990.
                 </p>
-                <p className="text-gray-300 mb-4 leading-relaxed font-montserrat">
+                <p className="text-gray-100 mb-4 leading-relaxed font-montserrat">
                   He was personally very involved and remains involved in the following agencies formed as a result of such alliances: 
                   Central Pierce Fire & Rescue, East Pierce Fire & Rescue, West Pierce Fire & Rescue, Valley Regional Fire Authority, 
                   Riverside Fire Authority (Centralia area), West Thurston Regional Fire Authority, South King Fire & Rescue, and the list goes on and on.
                 </p>
-                <ul className="text-gray-300 space-y-2 font-montserrat">
+                <ul className="text-gray-100 space-y-2 font-montserrat">
                   <li className="flex items-start space-x-2">
                     <CheckCircle className="w-5 h-5 text-neon-orange mt-0.5 flex-shrink-0" />
                     <span>Legal framework development</span>
@@ -79,7 +79,7 @@ export default function PracticeAreas() {
         </Card>
 
         {/* Public Records Act */}
-        <Card className="p-8 mb-8 bg-urban-light border-neon-orange distressed-border urban-shadow-lg">
+        <Card className="p-8 mb-8 bg-urban-medium border-neon-orange distressed-border urban-shadow-lg">
           <CardContent className="p-0">
             <div className="lg:grid lg:grid-cols-3 lg:gap-8 items-start">
               <div className="order-2 lg:order-1 mt-8 lg:mt-0">
@@ -94,17 +94,17 @@ export default function PracticeAreas() {
                 </div>
               </div>
               <div className="lg:col-span-2 order-1 lg:order-2">
-                <h2 className="text-2xl font-bebas font-bold text-white mb-4 tracking-wider text-shadow-gritty">PUBLIC RECORDS ACT</h2>
-                <p className="text-gray-300 mb-4 leading-relaxed font-montserrat">
+                <h2 className="text-3xl lg:text-4xl font-bebas font-bold text-white mb-4 tracking-wider text-shadow-gritty">PUBLIC RECORDS ACT</h2>
+                <p className="text-gray-100 mb-4 leading-relaxed font-montserrat">
                   The Washington Public Records Act (PRA) is another "sunshine law" mandating government transparency. Much like the OPMA, 
                   this law is construed broadly and its exemptions are construed narrowly. This growing area of law requires that your staff 
                   be well trained on the intricacies of the PRA.
                 </p>
-                <p className="text-gray-300 mb-4 leading-relaxed font-montserrat">
+                <p className="text-gray-100 mb-4 leading-relaxed font-montserrat">
                   We deal with PRA issues in this office, practically on a daily basis, so we know when to claim an exemption and when not to claim an exemption. 
                   We provide comprehensive training and ongoing support.
                 </p>
-                <ul className="text-gray-300 space-y-2 font-montserrat">
+                <ul className="text-gray-100 space-y-2 font-montserrat">
                   <li className="flex items-start space-x-2">
                     <CheckCircle className="w-5 h-5 text-neon-orange mt-0.5 flex-shrink-0" />
                     <span>PRA compliance training</span>
@@ -126,13 +126,13 @@ export default function PracticeAreas() {
         {/* Additional Practice Areas Grid */}
         <div className="grid md:grid-cols-2 gap-8">
           {practiceAreas.map((area, index) => (
-            <Card key={index} className="p-8 bg-urban-light border-neon-orange distressed-border urban-shadow hover:urban-shadow-lg transition-all duration-300 hover:scale-105" data-testid={`practice-area-detail-${index}`}>
+            <Card key={index} className="p-8 bg-urban-medium border-neon-orange distressed-border urban-shadow hover:urban-shadow-lg transition-all duration-300 hover:scale-105" data-testid={`practice-area-detail-${index}`}>
               <CardContent className="p-0">
-                <h3 className="text-xl font-bebas font-bold text-white mb-4 tracking-wide">{area.title.toUpperCase()}</h3>
-                <p className="text-gray-300 mb-4 font-montserrat">{area.description}</p>
+                <h3 className="text-3xl lg:text-4xl font-bebas font-bold text-white mb-4 tracking-wider text-shadow-gritty">{area.title.toUpperCase()}</h3>
+                <p className="text-gray-100 mb-4 font-montserrat">{area.description}</p>
                 <Button 
                   variant="link" 
-                  className="text-neon-orange hover:text-red-400 p-0 font-montserrat font-semibold uppercase tracking-wide transition-all duration-300"
+                  className="text-orange-300 hover:text-orange-100 p-0 font-montserrat font-semibold uppercase tracking-wide transition-all duration-300"
                   data-testid={`button-learn-more-${index}`}
                 >
                   Learn More →
@@ -148,7 +148,7 @@ export default function PracticeAreas() {
           <CardContent className="p-0 relative z-10">
             <div className="lg:grid lg:grid-cols-2 lg:gap-8 items-center">
               <div>
-                <h3 className="text-2xl font-bebas font-bold mb-4 tracking-wider text-shadow-gritty text-white">BOARD RETREATS</h3>
+                <h3 className="text-3xl lg:text-4xl font-bebas font-bold mb-4 tracking-wider text-shadow-gritty text-white">BOARD RETREATS</h3>
                 <p className="text-gray-200 mb-6 leading-relaxed font-montserrat">
                   Eric and Joe Quinn facilitate annual Board retreats to train commissioners and administration about governance issues 
                   and working as a team, as is absolutely crucial in the fire service and government in general.

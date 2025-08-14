@@ -165,6 +165,14 @@
   .hover\:bg-red-600:hover {
     background-color: hsl(0, 84%, 60%);
   }
+
+  .text-orange-300 {
+    color: hsl(37, 90%, 70%); /* Light orange for better contrast */
+  }
+
+  .hover\:text-orange-100:hover {
+    color: hsl(37, 85%, 85%); /* Even lighter orange for hover */
+  }
   
   /* Typography utilities */
   .font-bebas {
