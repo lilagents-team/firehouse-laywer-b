@@ -96,11 +96,6 @@ export default function Attorneys() {
                       alt="Eric T. Quinn" 
                       className="w-full h-80 object-cover object-center"
                     />
-                    <div className="absolute bottom-0 left-0 right-0 h-1/4 bg-gradient-to-t from-black/80 via-black/50 to-transparent"></div>
-                    <div className="absolute bottom-0 left-0 right-0 p-6 text-white">
-                      <h3 className="text-xl font-bebas font-bold tracking-wide text-shadow-gritty">ERIC T. QUINN</h3>
-                      <p className="text-neon-orange font-montserrat font-semibold text-shadow-gritty">Principal Attorney</p>
-                    </div>
                   </div>
                 </div>
               </div>
@@ -135,11 +130,6 @@ export default function Attorneys() {
                       alt="Joseph F. Quinn" 
                       className="w-full h-80 object-cover object-center"
                     />
-                    <div className="absolute bottom-0 left-0 right-0 h-1/4 bg-gradient-to-t from-black/80 via-black/50 to-transparent"></div>
-                    <div className="absolute bottom-0 left-0 right-0 p-6 text-white">
-                      <h3 className="text-xl font-bebas font-bold tracking-wide text-shadow-gritty">JOSEPH F. QUINN</h3>
-                      <p className="text-neon-orange font-montserrat font-semibold text-shadow-gritty">Of Counsel</p>
-                    </div>
                   </div>
                 </div>
               </div>

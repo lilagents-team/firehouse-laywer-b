@@ -74,20 +74,22 @@ export default function Newsletter() {
         </div>
       </div>
 
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 bg-urban-gray urban-concrete min-h-screen">
         <div className="lg:grid lg:grid-cols-3 lg:gap-12">
           <div className="lg:col-span-2">
             {/* Latest Issue */}
-            <Card className="p-8 mb-8 border-neon-orange">
+            <Card className="p-8 mb-8 bg-urban-medium border-neon-orange distressed-border urban-shadow-lg">
               <CardContent className="p-0">
                 <div className="flex items-start justify-between mb-6">
                   <div>
-                    <h2 className="text-2xl font-bold text-fire-navy mb-2">Latest Issue - July 2025</h2>
-                    <p className="text-warm-gray">Special-Meeting Notices Are Key</p>
+                    <h2 className="text-2xl lg:text-3xl font-bebas font-bold text-white mb-2 tracking-wider text-shadow-gritty">LATEST ISSUE - JULY 2025</h2>
+                    <div className="mb-4 pb-2 border-b border-neon-orange/30">
+                      <p className="text-lg text-neon-orange font-bebas font-bold tracking-wide text-shadow-gritty">SPECIAL-MEETING NOTICES ARE KEY</p>
+                    </div>
                   </div>
                   <Badge className="bg-neon-orange text-black">NEW</Badge>
                 </div>
-                <p className="text-warm-gray mb-6 leading-relaxed">
+                <p className="text-gray-100 mb-6 leading-relaxed font-montserrat">
                   Today we discuss two OPMA cases involving notices of special meetings; we also consider apprenticeship 
                   requirements in public-works contracts, deductions from leave banks of FLSA-exempt employees, "reverse discrimination," 
                   and some miscellaneous laws.
@@ -108,10 +110,10 @@ export default function Newsletter() {
             </Card>
 
             {/* Newsletter Archive */}
-            <Card className="p-8 border-neon-orange">
+            <Card className="p-8 bg-urban-medium border-neon-orange distressed-border urban-shadow-lg">
               <CardContent className="p-0">
                 <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-6 gap-4">
-                  <h3 className="text-xl font-bold text-fire-navy">Newsletter Archive</h3>
+                  <h3 className="text-2xl font-bebas font-bold text-white tracking-wider text-shadow-gritty">NEWSLETTER ARCHIVE</h3>
                   <div className="relative w-full sm:w-auto sm:min-w-[300px]">
                     <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-4 h-4" />
                     <Input
@@ -152,14 +154,14 @@ export default function Newsletter() {
             <NewsletterSubscription variant="sidebar" />
 
             {/* Newsletter Benefits */}
-            <Card className="p-8 border-neon-orange">
+            <Card className="p-8 bg-urban-medium border-neon-orange distressed-border urban-shadow-lg">
               <CardContent className="p-0">
-                <h3 className="text-xl font-bold text-fire-navy mb-4">What You'll Get</h3>
+                <h3 className="text-2xl font-bebas font-bold text-white mb-4 tracking-wider text-shadow-gritty">WHAT YOU'LL GET</h3>
                 <ul className="space-y-3">
                   {benefits.map((benefit, index) => (
                     <li key={index} className="flex items-start space-x-3">
                       <CheckCircle className="w-5 h-5 text-neon-orange mt-0.5 flex-shrink-0" />
-                      <span className="text-warm-gray">{benefit}</span>
+                      <span className="text-gray-100 font-montserrat">{benefit}</span>
                     </li>
                   ))}
                 </ul>
