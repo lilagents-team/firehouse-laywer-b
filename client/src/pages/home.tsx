@@ -286,7 +286,7 @@ export default function Home() {
               asChild 
               size="lg" 
               variant="outline" 
-              className="border-neon-orange text-neon-orange hover:bg-neon-orange hover:text-white urban-shadow-lg hover:scale-105 transition-all duration-300 font-montserrat font-semibold uppercase tracking-wide"
+              className="border-neon-orange text-white hover:bg-red-600 hover:text-white urban-shadow-lg hover:scale-105 transition-all duration-300 font-montserrat font-semibold uppercase tracking-wide"
               data-testid="button-contact-event-details"
             >
               <Link href="/contact">
