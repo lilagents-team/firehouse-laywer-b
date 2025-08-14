@@ -64,14 +64,15 @@ export default function PracticeAreas() {
                 </ul>
               </div>
               <div className="mt-8 lg:mt-0">
-                <div className="relative">
-                  <img 
-                    src="https://images.unsplash.com/photo-1600622269746-258d4124170a?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
-                    alt="Business handshake representing mergers and consolidations" 
-                    className="w-full urban-shadow-lg distressed-border" 
-                    style={{ clipPath: 'polygon(0 0, 95% 0, 100% 95%, 5% 100%)' }}
-                  />
-                  <div className="absolute inset-0 bg-gradient-to-tr from-black/20 to-transparent"></div>
+                <div className="relative bg-urban-light urban-shadow-lg p-2" style={{ clipPath: 'polygon(0 0, 95% 0, 100% 95%, 5% 100%)' }}>
+                  <div className="relative overflow-hidden" style={{ clipPath: 'polygon(0 0, 95% 0, 100% 95%, 5% 100%)' }}>
+                    <img 
+                      src="https://images.unsplash.com/photo-1600622269746-258d4124170a?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+                      alt="Business handshake representing mergers and consolidations" 
+                      className="w-full h-64 object-cover object-center"
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-tr from-black/20 to-transparent"></div>
+                  </div>
                 </div>
               </div>
             </div>
@@ -83,14 +84,15 @@ export default function PracticeAreas() {
           <CardContent className="p-0">
             <div className="lg:grid lg:grid-cols-3 lg:gap-8 items-start">
               <div className="order-2 lg:order-1 mt-8 lg:mt-0">
-                <div className="relative">
-                  <img 
-                    src="https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600" 
-                    alt="Legal documents and office" 
-                    className="w-full urban-shadow-lg distressed-border" 
-                    style={{ clipPath: 'polygon(5% 0, 100% 0, 95% 100%, 0% 100%)' }}
-                  />
-                  <div className="absolute inset-0 bg-gradient-to-tl from-black/20 to-transparent"></div>
+                <div className="relative bg-urban-light urban-shadow-lg p-2" style={{ clipPath: 'polygon(5% 0, 100% 0, 95% 100%, 0% 100%)' }}>
+                  <div className="relative overflow-hidden" style={{ clipPath: 'polygon(5% 0, 100% 0, 95% 100%, 0% 100%)' }}>
+                    <img 
+                      src="https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600" 
+                      alt="Legal documents and office" 
+                      className="w-full h-64 object-cover object-center"
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-tl from-black/20 to-transparent"></div>
+                  </div>
                 </div>
               </div>
               <div className="lg:col-span-2 order-1 lg:order-2">
@@ -164,14 +166,15 @@ export default function PracticeAreas() {
                 </Button>
               </div>
               <div className="mt-8 lg:mt-0">
-                <div className="relative">
-                  <img 
-                    src="https://images.unsplash.com/photo-1529070538774-1843cb3265df?q=80&w=1170" 
-                    alt="Fire department building" 
-                    className="w-full urban-shadow-lg distressed-border" 
-                    style={{ clipPath: 'polygon(0 0, 95% 0, 100% 95%, 5% 100%)' }}
-                  />
-                  <div className="absolute inset-0 bg-gradient-to-tr from-black/20 to-transparent"></div>
+                <div className="relative bg-urban-light urban-shadow-lg p-2" style={{ clipPath: 'polygon(0 0, 95% 0, 100% 95%, 5% 100%)' }}>
+                  <div className="relative overflow-hidden" style={{ clipPath: 'polygon(0 0, 95% 0, 100% 95%, 5% 100%)' }}>
+                    <img 
+                      src="https://images.unsplash.com/photo-1529070538774-1843cb3265df?q=80&w=1170" 
+                      alt="Fire department building" 
+                      className="w-full h-64 object-cover object-center"
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-tr from-black/20 to-transparent"></div>
+                  </div>
                 </div>
               </div>
             </div>
