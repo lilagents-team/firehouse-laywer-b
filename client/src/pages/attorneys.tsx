@@ -14,7 +14,6 @@ export default function Attorneys() {
           <p className="text-xl text-gray-200 font-montserrat">Experienced legal professionals dedicated to serving the fire service community.</p>
         </div>
       </div>
-
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 bg-urban-gray urban-concrete min-h-screen">
         {/* Eric T. Quinn */}
         <Card className="p-8 mb-12 bg-urban-medium border-neon-orange distressed-border urban-shadow-lg">
@@ -51,7 +50,7 @@ export default function Attorneys() {
                 </div>
 
                 <div className="mb-8">
-                  <h3 className="text-2xl font-bebas font-bold text-neon-orange mb-4 tracking-wider text-shadow-gritty">LEGAL EDUCATION</h3>
+                  <h3 className="text-2xl font-bebas font-bold mb-4 tracking-wider text-shadow-gritty text-[#ffffff]">LEGAL EDUCATION</h3>
                   <p className="text-gray-100 mb-4 leading-relaxed font-montserrat text-lg">
                     Eric graduated from the Seattle University School of Law, where he was a finalist in the second-year mock trial competition. 
                     He worked as a legal intern throughout all three years of his law school career.
