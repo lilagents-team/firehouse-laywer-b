@@ -67,16 +67,16 @@ export default function Contact() {
           <p className="text-xl text-gray-200 font-montserrat">Ready to discuss your legal needs? We're here to help.</p>
         </div>
       </div>
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 bg-urban-gray urban-concrete min-h-screen">
         <div className="lg:grid lg:grid-cols-2 lg:gap-16">
           {/* Contact Form */}
-          <Card className="p-8 border-neon-orange">
+          <Card className="p-8 bg-urban-medium border-neon-orange distressed-border urban-shadow-lg">
             <CardContent className="p-0">
-              <h2 className="text-2xl font-bold text-fire-navy mb-6">Send Us a Message</h2>
+              <h2 className="text-3xl lg:text-4xl font-bebas font-bold text-white mb-6 tracking-wider text-shadow-gritty">SEND US A MESSAGE</h2>
               <form onSubmit={handleSubmit} className="space-y-6">
                 <div className="grid md:grid-cols-2 gap-6">
                   <div>
-                    <Label htmlFor="firstName">First Name</Label>
+                    <Label htmlFor="firstName" className="text-gray-100 font-montserrat">First Name</Label>
                     <Input
                       id="firstName"
                       value={formData.firstName}
@@ -85,7 +85,7 @@ export default function Contact() {
                     />
                   </div>
                   <div>
-                    <Label htmlFor="lastName">Last Name</Label>
+                    <Label htmlFor="lastName" className="text-gray-100 font-montserrat">Last Name</Label>
                     <Input
                       id="lastName"
                       value={formData.lastName}
@@ -96,7 +96,7 @@ export default function Contact() {
                 </div>
                 
                 <div>
-                  <Label htmlFor="email">Email Address</Label>
+                  <Label htmlFor="email" className="text-gray-100 font-montserrat">Email Address</Label>
                   <Input
                     id="email"
                     type="email"
@@ -107,7 +107,7 @@ export default function Contact() {
                 </div>
                 
                 <div>
-                  <Label htmlFor="phone">Phone Number</Label>
+                  <Label htmlFor="phone" className="text-gray-100 font-montserrat">Phone Number</Label>
                   <Input
                     id="phone"
                     type="tel"
@@ -117,7 +117,7 @@ export default function Contact() {
                 </div>
                 
                 <div>
-                  <Label htmlFor="organization">Fire District/Organization</Label>
+                  <Label htmlFor="organization" className="text-gray-100 font-montserrat">Fire District/Organization</Label>
                   <Input
                     id="organization"
                     value={formData.organization}
@@ -126,7 +126,7 @@ export default function Contact() {
                 </div>
                 
                 <div>
-                  <Label htmlFor="subject">Subject</Label>
+                  <Label htmlFor="subject" className="text-gray-100 font-montserrat">Subject</Label>
                   <Select value={formData.subject} onValueChange={(value) => handleInputChange("subject", value)}>
                     <SelectTrigger>
                       <SelectValue placeholder="Select a topic" />
@@ -144,7 +144,7 @@ export default function Contact() {
                 </div>
                 
                 <div>
-                  <Label htmlFor="message">Message</Label>
+                  <Label htmlFor="message" className="text-gray-100 font-montserrat">Message</Label>
                   <Textarea
                     id="message"
                     rows={6}
@@ -169,13 +169,13 @@ export default function Contact() {
           {/* Contact Information */}
           <div className="mt-12 lg:mt-0 space-y-8">
             {/* Attorney Contact Cards */}
-            <Card className="p-8 border-neon-orange">
+            <Card className="p-8 bg-urban-medium border-neon-orange distressed-border urban-shadow-lg">
               <CardContent className="p-0">
-                <h3 className="text-xl font-bold text-fire-navy mb-6">Contact the Firehouse Lawyer Today!</h3>
+                <h3 className="text-2xl lg:text-3xl font-bebas font-bold text-white mb-6 tracking-wider text-shadow-gritty">CONTACT THE FIREHOUSE LAWYER TODAY!</h3>
                 
                 <div className="space-y-6">
                   <div className="border-b border-gray-200 pb-6">
-                    <h4 className="font-bold text-fire-navy mb-3">Eric T. Quinn</h4>
+                    <h4 className="text-xl font-bebas font-bold text-white mb-3 tracking-wider">ERIC T. QUINN</h4>
                     <div className="space-y-2">
                       <a href="tel:12535906628" className="flex items-center space-x-3 text-warm-gray hover:text-neon-orange transition-colors">
                         <Phone className="w-5 h-5" />
@@ -189,7 +189,7 @@ export default function Contact() {
                   </div>
                   
                   <div>
-                    <h4 className="font-bold text-fire-navy mb-3">Joseph F. Quinn, Of Counsel</h4>
+                    <h4 className="text-xl font-bebas font-bold text-white mb-3 tracking-wider">JOSEPH F. QUINN, OF COUNSEL</h4>
                     <div className="space-y-2">
                       <a href="tel:12535763232" className="flex items-center space-x-3 text-warm-gray hover:text-neon-orange transition-colors">
                         <Phone className="w-5 h-5" />
@@ -206,15 +206,15 @@ export default function Contact() {
             </Card>
 
             {/* Office Location */}
-            <Card className="p-8 border-neon-orange">
+            <Card className="p-8 bg-urban-medium border-neon-orange distressed-border urban-shadow-lg">
               <CardContent className="p-0">
-                <h3 className="text-xl font-bold text-fire-navy mb-4">Office Location</h3>
+                <h3 className="text-2xl lg:text-3xl font-bebas font-bold text-white mb-4 tracking-wider text-shadow-gritty">OFFICE LOCATION</h3>
                 <div className="flex items-start space-x-3">
                   <MapPin className="w-5 h-5 text-neon-orange mt-1 flex-shrink-0" />
                   <div>
-                    <p className="font-semibold text-fire-navy">Mailing Address:</p>
-                    <p className="text-warm-gray">7403 Lakewood Drive West, Suite # 11</p>
-                    <p className="text-warm-gray">Lakewood, WA 98499-7951</p>
+                    <p className="font-semibold text-gray-100 font-montserrat">Mailing Address:</p>
+                    <p className="text-gray-100 font-montserrat">7403 Lakewood Drive West, Suite # 11</p>
+                    <p className="text-gray-100 font-montserrat">Lakewood, WA 98499-7951</p>
                   </div>
                 </div>
               </CardContent>
@@ -223,9 +223,9 @@ export default function Contact() {
             {/* Office Hours */}
             <Card className="bg-fire-navy text-white p-8 border-neon-orange">
               <CardContent className="p-0">
-                <h3 className="text-xl font-bold mb-4 flex items-center">
+                <h3 className="text-2xl lg:text-3xl font-bebas font-bold mb-4 tracking-wider text-shadow-gritty flex items-center">
                   <Clock className="w-5 h-5 mr-2" />
-                  Office Hours
+                  OFFICE HOURS
                 </h3>
                 <div className="space-y-2">
                   <div className="flex justify-between">
