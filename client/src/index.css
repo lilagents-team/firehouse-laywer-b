@@ -15,7 +15,7 @@
   --card-foreground: hsl(0, 0%, 95%);
   --border: hsl(0, 100%, 27%); /* #8B0000 - Muted red borders */
   --input: hsl(0, 0%, 18%);
-  --primary: hsl(16, 100%, 50%); /* #FF4500 - Neon orange primary */
+  --primary: hsl(0, 82%, 55%); /* #ed2c2c - Red primary */
   --primary-foreground: hsl(0, 0%, 95%);
   --secondary: hsl(0, 0%, 23%);
   --secondary-foreground: hsl(0, 0%, 95%);
@@ -23,7 +23,7 @@
   --accent-foreground: hsl(0, 0%, 95%);
   --destructive: hsl(0, 84.2%, 60.2%);
   --destructive-foreground: hsl(0, 0%, 95%);
-  --ring: hsl(16, 100%, 50%);
+  --ring: hsl(0, 82%, 55%);
   --radius: 0.25rem; /* Sharper corners for gritty feel */
   
   /* Urban gritty themed colors */
@@ -33,7 +33,7 @@
   --urban-light: hsl(0, 0%, 29%); /* #4A4A4A - Light gray */
   --muted-red: hsl(0, 100%, 27%); /* #8B0000 - Muted red */
   --muted-red-hover: hsl(0, 87%, 35%); /* #B22222 - Muted red hover */
-  --neon-orange: hsl(16, 100%, 50%); /* #FF4500 - Neon orange */
+  --neon-orange: hsl(0, 82%, 55%); /* #ed2c2c - Red (keeping variable name for compatibility) */
   --near-black: hsl(0, 0%, 5%); /* #0D0D0D - Footer near-black */
 }
 
@@ -48,7 +48,7 @@
   --card-foreground: hsl(0, 0%, 95%);
   --border: hsl(0, 100%, 27%);
   --input: hsl(0, 0%, 10%);
-  --primary: hsl(16, 100%, 50%);
+  --primary: hsl(0, 82%, 55%);
   --primary-foreground: hsl(0, 0%, 95%);
   --secondary: hsl(0, 0%, 15%);
   --secondary-foreground: hsl(0, 0%, 95%);
@@ -56,7 +56,7 @@
   --accent-foreground: hsl(0, 0%, 95%);
   --destructive: hsl(0, 62.8%, 30.6%);
   --destructive-foreground: hsl(0, 0%, 95%);
-  --ring: hsl(16, 100%, 50%);
+  --ring: hsl(0, 82%, 55%);
 }
 
 @layer base {
@@ -148,6 +148,22 @@
   
   .hover\:text-muted-red:hover {
     color: var(--muted-red);
+  }
+
+  .text-red-400 {
+    color: hsl(0, 82%, 65%); /* Lighter version of #ed2c2c for hover states */
+  }
+
+  .hover\:text-red-400:hover {
+    color: hsl(0, 82%, 65%);
+  }
+
+  .bg-red-600 {
+    background-color: hsl(0, 84%, 60%); /* Darker version of #ed2c2c for hover states */
+  }
+
+  .hover\:bg-red-600:hover {
+    background-color: hsl(0, 84%, 60%);
   }
   
   /* Typography utilities */

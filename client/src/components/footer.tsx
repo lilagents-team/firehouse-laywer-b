@@ -16,11 +16,11 @@ export default function Footer() {
           <div className="mb-8 lg:mb-0">
             <h4 className="text-lg font-bebas font-semibold mb-4 tracking-wide text-shadow-gritty">QUICK LINKS</h4>
             <ul className="space-y-2">
-              <li><Link href="/" className="text-neon-orange hover:text-orange-400 transition-colors font-montserrat uppercase tracking-wide" data-testid="footer-link-home">Home</Link></li>
-              <li><Link href="/practice-areas" className="text-neon-orange hover:text-orange-400 transition-colors font-montserrat uppercase tracking-wide" data-testid="footer-link-practice-areas">Practice Areas</Link></li>
-              <li><Link href="/attorneys" className="text-neon-orange hover:text-orange-400 transition-colors font-montserrat uppercase tracking-wide" data-testid="footer-link-attorneys">Our Attorneys</Link></li>
-              <li><Link href="/newsletter" className="text-neon-orange hover:text-orange-400 transition-colors font-montserrat uppercase tracking-wide" data-testid="footer-link-newsletter">Newsletter</Link></li>
-              <li><Link href="/contact" className="text-neon-orange hover:text-orange-400 transition-colors font-montserrat uppercase tracking-wide" data-testid="footer-link-contact">Contact Us</Link></li>
+              <li><Link href="/" className="text-neon-orange hover:text-red-400 transition-colors font-montserrat uppercase tracking-wide" data-testid="footer-link-home">Home</Link></li>
+              <li><Link href="/practice-areas" className="text-neon-orange hover:text-red-400 transition-colors font-montserrat uppercase tracking-wide" data-testid="footer-link-practice-areas">Practice Areas</Link></li>
+              <li><Link href="/attorneys" className="text-neon-orange hover:text-red-400 transition-colors font-montserrat uppercase tracking-wide" data-testid="footer-link-attorneys">Our Attorneys</Link></li>
+              <li><Link href="/newsletter" className="text-neon-orange hover:text-red-400 transition-colors font-montserrat uppercase tracking-wide" data-testid="footer-link-newsletter">Newsletter</Link></li>
+              <li><Link href="/contact" className="text-neon-orange hover:text-red-400 transition-colors font-montserrat uppercase tracking-wide" data-testid="footer-link-contact">Contact Us</Link></li>
             </ul>
           </div>
 
@@ -29,8 +29,8 @@ export default function Footer() {
             <div className="space-y-2 text-gray-100 font-montserrat">
               <p>7403 Lakewood Drive West, Suite # 11</p>
               <p>Lakewood, WA 98499-7951</p>
-              <p><a href="tel:12535906628" className="text-neon-orange hover:text-orange-400 transition-colors" data-testid="footer-phone">(253) 590-6628</a></p>
-              <p><a href="mailto:ericquinn@firehouselawyer2.com" className="text-neon-orange hover:text-orange-400 transition-colors" data-testid="footer-email">ericquinn@firehouselawyer2.com</a></p>
+              <p><a href="tel:12535906628" className="text-neon-orange hover:text-red-400 transition-colors" data-testid="footer-phone">(253) 590-6628</a></p>
+              <p><a href="mailto:ericquinn@firehouselawyer2.com" className="text-neon-orange hover:text-red-400 transition-colors" data-testid="footer-email">ericquinn@firehouselawyer2.com</a></p>
             </div>
           </div>
         </div>

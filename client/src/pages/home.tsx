@@ -130,7 +130,7 @@ export default function Home() {
               <Button 
                 asChild 
                 size="lg" 
-                className="bg-neon-orange hover:bg-orange-600 urban-shadow-lg border border-neon-orange hover:scale-105 transition-all duration-300 font-montserrat font-semibold uppercase tracking-wide text-black hover:text-white"
+                className="bg-neon-orange hover:bg-red-600 urban-shadow-lg border border-neon-orange hover:scale-105 transition-all duration-300 font-montserrat font-semibold uppercase tracking-wide text-black hover:text-white"
                 data-testid="button-explore-practice-areas"
               >
                 <Link href="/practice-areas">
@@ -173,7 +173,7 @@ export default function Home() {
               <Button 
                 asChild 
                 variant="link" 
-                className="text-neon-orange hover:text-orange-400 p-0 font-montserrat font-semibold uppercase tracking-wide transition-all duration-300"
+                className="text-neon-orange hover:text-red-400 p-0 font-montserrat font-semibold uppercase tracking-wide transition-all duration-300"
                 data-testid="link-meet-attorneys"
               >
                 <Link href="/attorneys">
@@ -208,9 +208,9 @@ export default function Home() {
           
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             {practiceAreas.map((area, index) => (
-              <Card key={index} className="bg-urban-light border-neon-orange hover:border-orange-400 urban-shadow hover:urban-shadow-lg transition-all duration-300 hover:scale-105 distressed-border" data-testid={`practice-area-card-${index}`}>
+              <Card key={index} className="bg-urban-light border-neon-orange hover:border-red-400 urban-shadow hover:urban-shadow-lg transition-all duration-300 hover:scale-105 distressed-border" data-testid={`practice-area-card-${index}`}>
                 <CardContent className="p-8">
-                  <div className="w-16 h-16 bg-neon-orange rounded-none flex items-center justify-center mb-6 urban-shadow-lg hover:bg-orange-600 transition-all duration-300 hover:scale-110" style={{ clipPath: 'polygon(10% 0%, 100% 0%, 90% 100%, 0% 100%)' }}>
+                  <div className="w-16 h-16 bg-neon-orange rounded-none flex items-center justify-center mb-6 urban-shadow-lg hover:bg-red-600 transition-all duration-300 hover:scale-110" style={{ clipPath: 'polygon(10% 0%, 100% 0%, 90% 100%, 0% 100%)' }}>
                     <area.icon className="w-8 h-8 text-black" />
                   </div>
                   <h3 className="text-xl font-bebas font-bold text-white mb-3 tracking-wide">{area.title.toUpperCase()}</h3>
@@ -224,7 +224,7 @@ export default function Home() {
             <Button 
               asChild 
               size="lg" 
-              className="bg-neon-orange hover:bg-orange-600 urban-shadow-lg border border-neon-orange hover:scale-105 transition-all duration-300 font-montserrat font-semibold uppercase tracking-wide text-black hover:text-white"
+              className="bg-neon-orange hover:bg-red-600 urban-shadow-lg border border-neon-orange hover:scale-105 transition-all duration-300 font-montserrat font-semibold uppercase tracking-wide text-black hover:text-white"
               data-testid="button-view-all-practice-areas"
             >
               <Link href="/practice-areas">
@@ -247,9 +247,9 @@ export default function Home() {
           
           <div className="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
             {/* Services for All Public Agencies */}
-            <Card className="bg-urban-light border-neon-orange hover:border-orange-400 urban-shadow hover:urban-shadow-lg transition-all duration-300 hover:scale-105 distressed-border" data-testid="announcement-card-public-agencies">
+            <Card className="bg-urban-light border-neon-orange hover:border-red-400 urban-shadow hover:urban-shadow-lg transition-all duration-300 hover:scale-105 distressed-border" data-testid="announcement-card-public-agencies">
               <CardContent className="p-8">
-                <div className="w-16 h-16 bg-neon-orange rounded-none flex items-center justify-center mb-6 urban-shadow-lg hover:bg-orange-600 transition-all duration-300 hover:scale-110" style={{ clipPath: 'polygon(10% 0%, 100% 0%, 90% 100%, 0% 100%)' }}>
+                <div className="w-16 h-16 bg-neon-orange rounded-none flex items-center justify-center mb-6 urban-shadow-lg hover:bg-red-600 transition-all duration-300 hover:scale-110" style={{ clipPath: 'polygon(10% 0%, 100% 0%, 90% 100%, 0% 100%)' }}>
                   <Building2 className="w-8 h-8 text-black" />
                 </div>
                 <h3 className="text-xl font-bebas font-bold text-white mb-3 tracking-wide">SERVING ALL PUBLIC AGENCIES</h3>
@@ -264,7 +264,7 @@ export default function Home() {
             </Card>
 
             {/* Municipal Roundtable */}
-            <Card className="bg-urban-light border-neon-orange hover:border-orange-400 urban-shadow hover:urban-shadow-lg transition-all duration-300 hover:scale-105 distressed-border" data-testid="announcement-card-roundtable">
+            <Card className="bg-urban-light border-neon-orange hover:border-red-400 urban-shadow hover:urban-shadow-lg transition-all duration-300 hover:scale-105 distressed-border" data-testid="announcement-card-roundtable">
               <CardContent className="p-8">
                 <div className="w-16 h-16 bg-urban-dark rounded-none flex items-center justify-center mb-6 urban-shadow-lg hover:bg-neon-orange transition-all duration-300 hover:scale-110" style={{ clipPath: 'polygon(10% 0%, 100% 0%, 90% 100%, 0% 100%)' }}>
                   <Calendar className="w-8 h-8 text-white" />

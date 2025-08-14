@@ -132,7 +132,7 @@ export default function PracticeAreas() {
                 <p className="text-gray-300 mb-4 font-montserrat">{area.description}</p>
                 <Button 
                   variant="link" 
-                  className="text-neon-orange hover:text-orange-400 p-0 font-montserrat font-semibold uppercase tracking-wide transition-all duration-300"
+                  className="text-neon-orange hover:text-red-400 p-0 font-montserrat font-semibold uppercase tracking-wide transition-all duration-300"
                   data-testid={`button-learn-more-${index}`}
                 >
                   Learn More →
@@ -155,7 +155,7 @@ export default function PracticeAreas() {
                 </p>
                 <Button 
                   asChild 
-                  className="bg-neon-orange text-black hover:bg-orange-600 hover:text-white font-montserrat font-semibold uppercase tracking-wide hover:scale-105 transition-all duration-300 urban-shadow-lg"
+                  className="bg-neon-orange text-black hover:bg-red-600 hover:text-white font-montserrat font-semibold uppercase tracking-wide hover:scale-105 transition-all duration-300 urban-shadow-lg"
                   data-testid="button-schedule-retreat"
                 >
                   <Link href="/contact">

@@ -60,7 +60,7 @@ export default function Navigation() {
               variant="ghost"
               size="icon"
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-              className="text-neon-orange hover:text-orange-400"
+              className="text-neon-orange hover:text-red-400"
               data-testid="mobile-menu-toggle"
             >
               {mobileMenuOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
