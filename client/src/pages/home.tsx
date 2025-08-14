@@ -257,7 +257,7 @@ export default function Home() {
                   Are you not with a fire district or regional fire authority? Don't fret. Our skills transfer to any 
                   type of municipal corporation, such as a school district, city or public utility district, to name a few!
                 </p>
-                <div className="text-sm text-neon-orange font-montserrat font-semibold uppercase tracking-wide">
+                <div className="text-sm text-white bg-neon-orange/20 px-3 py-2 rounded font-montserrat font-semibold uppercase tracking-wide">
                   Contact us to discuss your agency's needs
                 </div>
               </CardContent>
@@ -266,7 +266,7 @@ export default function Home() {
             {/* Municipal Roundtable */}
             <Card className="bg-urban-light border-neon-orange hover:border-red-400 urban-shadow hover:urban-shadow-lg transition-all duration-300 hover:scale-105 distressed-border" data-testid="announcement-card-roundtable">
               <CardContent className="p-8">
-                <div className="w-16 h-16 bg-urban-dark rounded-none flex items-center justify-center mb-6 urban-shadow-lg hover:bg-neon-orange transition-all duration-300 hover:scale-110" style={{ clipPath: 'polygon(10% 0%, 100% 0%, 90% 100%, 0% 100%)' }}>
+                <div className="w-16 h-16 bg-neon-orange rounded-none flex items-center justify-center mb-6 urban-shadow-lg hover:bg-red-600 transition-all duration-300 hover:scale-110" style={{ clipPath: 'polygon(10% 0%, 100% 0%, 90% 100%, 0% 100%)' }}>
                   <Calendar className="w-8 h-8 text-white" />
                 </div>
                 <h3 className="text-xl font-bebas font-bold text-white mb-3 tracking-wide">MUNICIPAL ROUNDTABLE</h3>
@@ -274,7 +274,7 @@ export default function Home() {
                   Join us every three months for our Municipal Roundtable sessions, where we discuss current 
                   legal issues affecting fire departments and public agencies across the region.
                 </p>
-                <div className="text-sm text-neon-orange font-montserrat font-semibold uppercase tracking-wide">
+                <div className="text-sm text-white bg-neon-orange/20 px-3 py-2 rounded font-montserrat font-semibold uppercase tracking-wide">
                   Next session: Contact us for dates
                 </div>
               </CardContent>
