@@ -44,7 +44,7 @@ export default function Navigation() {
                   className={`px-3 py-2 text-sm font-montserrat font-medium transition-all duration-300 ${
                     isActive(item.href)
                       ? "text-neon-orange border-b-2 border-neon-orange"
-                      : "text-orange-300 hover:text-neon-orange hover:scale-105"
+                      : "text-red-300 hover:text-neon-orange hover:scale-105"
                   }`}
                   data-testid={`nav-link-${item.name.toLowerCase().replace(/\s+/g, '-')}`}
                 >
