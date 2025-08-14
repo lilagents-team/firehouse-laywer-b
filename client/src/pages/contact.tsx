@@ -223,21 +223,21 @@ export default function Contact() {
             {/* Office Hours */}
             <Card className="bg-fire-navy text-white p-8 border-neon-orange">
               <CardContent className="p-0">
-                <h3 className="text-2xl lg:text-3xl font-bebas font-bold mb-4 tracking-wider text-shadow-gritty flex items-center">
-                  <Clock className="w-5 h-5 mr-2" />
-                  OFFICE HOURS
-                </h3>
+                <h3 className="text-2xl lg:text-3xl font-bebas font-bold mb-4 tracking-wider text-shadow-gritty">OFFICE HOURS</h3>
                 <div className="space-y-2">
-                  <div className="flex justify-between">
-                    <span>Monday - Friday:</span>
+                  <div className="flex justify-between items-center">
+                    <div className="flex items-center space-x-3">
+                      <Clock className="w-5 h-5 text-neon-orange flex-shrink-0" />
+                      <span>Monday - Friday:</span>
+                    </div>
                     <span>8:00 AM - 5:00 PM</span>
                   </div>
                   <div className="flex justify-between">
-                    <span>Saturday:</span>
+                    <span className="ml-8">Saturday:</span>
                     <span>By Appointment</span>
                   </div>
                   <div className="flex justify-between">
-                    <span>Sunday:</span>
+                    <span className="ml-8">Sunday:</span>
                     <span>Closed</span>
                   </div>
                 </div>
