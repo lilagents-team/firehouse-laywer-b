@@ -82,10 +82,8 @@ export default function Newsletter() {
               <CardContent className="p-0">
                 <div className="flex items-start justify-between mb-6">
                   <div>
-                    <h2 className="text-2xl lg:text-3xl font-bebas font-bold text-white mb-2 tracking-wider text-shadow-gritty">LATEST ISSUE - JULY 2025</h2>
-                    <div className="mb-4 pb-2 border-b border-neon-orange/30">
-                      <p className="text-lg text-neon-orange font-bebas font-bold tracking-wide text-shadow-gritty">SPECIAL-MEETING NOTICES ARE KEY</p>
-                    </div>
+                    <h2 className="text-2xl lg:text-3xl font-bebas font-bold text-white mb-4 tracking-wider text-shadow-gritty">LATEST ISSUE - JULY 2025</h2>
+                    <p className="text-gray-200 font-montserrat text-lg">Special-Meeting Notices Are Key</p>
                   </div>
                   <Badge className="bg-neon-orange text-black">NEW</Badge>
                 </div>
