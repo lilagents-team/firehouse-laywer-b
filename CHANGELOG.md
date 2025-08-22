@@ -7,41 +7,78 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.0] - 2025-08-22
+
 ### Added
-- **Newsletter Search System Architecture** - Complete documentation and design for AI-powered newsletter search
-  - Search API endpoints (`/api/newsletters/search`, `/api/newsletters/index`)
-  - Compressed newsletter data format with corruption detection
-  - Mobile-optimized caching strategy using IndexedDB
-  - Processing pipeline for 242 historical newsletters (1997-2025)
-- **Documentation Suite**
-  - `NEWSLETTER_SEARCH_API.md` - Complete API documentation
-  - `NEWSLETTER_PROCESSING_GUIDE.md` - AI compression pipeline guide
-  - `MOBILE_CACHING_STRATEGY.md` - Mobile optimization and caching
-  - Updated `README.md` with newsletter search features
-  - Enhanced deployment guides for full-stack hosting
-- **Demo Newsletter Search Interface** (`demo-newsletter-ui.html`)
-  - Interactive search across title, summary, keywords, and topics
-  - Visual corruption indicators for damaged PDF conversions
-  - Real-time filtering and mobile-responsive design
-  - Example compressed newsletter data in JSON format
-- **System Prompt for Newsletter Processing**
-  - Ollama-compatible prompt for AI-powered document compression
-  - Corruption detection for 3-column to 2-column layout issues
-  - Legal content preservation rules for case law and statutes
+- **Complete Newsletter Archive System** - Fully functional newsletter search and archive
+  - **157 Real Newsletters** processed from 1997-2025 with actual legal content
+  - **Advanced Search Engine** - Full-text search across titles, summaries, keywords, and content
+  - **Dynamic Routing System** - Multiple access patterns (`/v/volume/edition`, `/:slug`, `/:year/:month`)
+  - **PDF Integration** - Intelligent PDF filename matching with regex-based fallback detection
+  - **Static File Generation** - Netlify-compatible static JSON files for production deployment
+  - **Real-time Search Results** - Client-side filtering with date-based sorting (newest first)
+  - **Clickable Keywords & Topics** - Navigate between related newsletters via keyword/topic links
+  - **Mobile-Optimized Interface** - Responsive design with industrial theme styling
 
 ### Enhanced
-- **Tailwind Configuration** - Added missing urban theme colors and fonts
-  - `urban-dark`, `urban-medium`, `neon-orange`, `fire-navy` color definitions
-  - `bebas` and `montserrat` font family support
-  - Custom utility classes for industrial theme styling
+- **Newsletter Data Processing Pipeline**
+  - **Volume/Edition Extraction** - Automatic parsing from filenames (`v13n04apr2015` format)
+  - **Content Validation** - Filters out test data, includes only newsletters with actual titles
+  - **PDF File Matching** - Multiple regex patterns for finding corresponding PDF files
+  - **Cache Management** - Dynamic index generation with file-based caching
+  - **Error Handling** - Graceful handling of corrupted JSON files (8 files with parsing errors)
 
-### Technical
-- **Example Newsletter Data** - Created sample compressed newsletters
-  - Volume 25, Edition 7 (July 2025) - Clean newsletter example
-  - Volume 13, Edition 4 (April 2015) - Predisik case example  
-  - Volume 12, Edition 2 (June 2014) - Corrupted newsletter example
-- **Newsletter Index Format** - Defined structure for search metadata caching
-- **Development Environment** - Improved CSS loading and Vite configuration
+- **Practice Areas Integration**
+  - **Newsletter Cross-linking** - Practice area cards link to relevant newsletter searches
+  - **Search Term Mapping** - Each practice area includes curated search terms
+  - **Dynamic Latest Issue Section** - Pulls real data from most recent newsletter instead of hardcoded content
+
+- **Production Deployment System**
+  - **Hybrid API Strategy** - Server routes for development, static files for Netlify production
+  - **Build Process Integration** - Newsletter generation runs automatically during `npm run build`
+  - **Static JSON Structure** - Creates `/api/newsletters/index.json` and individual newsletter files
+  - **Route Compatibility** - Frontend works with both server APIs and static files
+
+### Technical Infrastructure
+- **Newsletter Data Architecture**
+  - Real legal content extraction from 203 newsletter JSON files
+  - Smart volume/edition parsing from filename patterns
+  - Comprehensive PDF file matching with multiple fallback strategies
+  - File-based caching system for improved performance
+  - Static file generation for JAMstack deployment compatibility
+
+- **Search & Navigation Features**
+  - URL parameter handling for pre-filled searches from external links
+  - Search query persistence and clearing logic
+  - Date-based sorting of results (newest newsletters first)
+  - Clickable topics and keywords for content discovery
+  - Smart routing with year vs volume detection
+
+- **Content Management Improvements**
+  - Removed fallback to example data with `[CORRUPTED]` markers
+  - Implemented real newsletter data validation and filtering
+  - Enhanced error handling for malformed JSON files
+  - Automatic PDF URL generation and validation
+
+### Fixed
+- **Test Data Removal** - Eliminated all example/test data in favor of real newsletter content
+- **Route Conflicts** - Resolved conflicts between static `.json` files and server routes
+- **PDF Link Issues** - Fixed broken PDF links with improved filename matching
+- **Search Parameter Handling** - Fixed search input clearing when navigating without search parameters
+- **Production Compatibility** - Resolved Netlify static hosting limitations with API endpoints
+
+### Newsletter Content Highlights
+- **242 PDF Files Available** with 157 successfully processed newsletters
+- **Real Legal Cases** - Predisik v. Spokane School District, Hood v. City of Vancouver, etc.
+- **Washington State Statutes** - RCW references, Public Records Act updates, FLSA compliance
+- **Fire Department Legal Issues** - Employment law, public records, emergency services, contract law
+- **Historical Coverage** - From 1997 Volume 1 through 2025 Volume 23
+
+### Build & Deployment
+- **Automated Static Generation** - Newsletter JSON files created during build process
+- **Optimized Assets** - 374.90 kB JS bundle (114.95 kB gzipped), 85.66 kB CSS (13.98 kB gzipped)
+- **Production Ready** - All static files generated for Netlify deployment
+- **Error Resilience** - Build succeeds despite 8 corrupted source files
 
 ## [1.0.0] - 2025-08-22
 

@@ -365,10 +365,23 @@ export async function registerRoutes(app: Express): Promise<Server> {
           
           const newsletter = JSON.parse(content);
           
+          // Extract volume and edition from filename if not present in JSON
+          let volume = newsletter.volume;
+          let edition = newsletter.edition;
+          
+          if (!volume || !edition) {
+            const filename = file.replace('.json', '').replace('.md', '');
+            const volumeEditionMatch = filename.match(/v(\d+)n(\d+)/);
+            if (volumeEditionMatch) {
+              volume = volume || parseInt(volumeEditionMatch[1]);
+              edition = edition || parseInt(volumeEditionMatch[2]);
+            }
+          }
+          
           // Normalize the newsletter format to match our interface
           const normalizedNewsletter: CompressedNewsletter = {
-            volume: newsletter.volume,
-            edition: newsletter.edition,
+            volume: volume,
+            edition: edition,
             title: Array.isArray(newsletter.title) ? newsletter.title.join(', ') : newsletter.title,
             date: newsletter.date,
             summary: Array.isArray(newsletter.summary) ? newsletter.summary.join(' ') : newsletter.summary,
@@ -385,8 +398,8 @@ export async function registerRoutes(app: Express): Promise<Server> {
             file_size_kb: newsletter.file_size_kb || 0
           };
           
-          // Ensure required fields are present
-          if (normalizedNewsletter.volume && normalizedNewsletter.edition && normalizedNewsletter.title) {
+          // Include all newsletters that have a title (volume/edition can be null for some)
+          if (normalizedNewsletter.title) {
             newsletters.push(normalizedNewsletter);
           }
         } catch (fileError) {
@@ -471,6 +484,27 @@ export async function registerRoutes(app: Express): Promise<Server> {
 
   // Newsletter index endpoint
   app.get("/api/newsletters/index", async (req, res) => {
+    try {
+      const newsletters = await loadNewsletters();
+      
+      res.json({
+        newsletters,
+        total_count: newsletters.length,
+        last_updated: new Date().toISOString(),
+        cache_version: "1.0"
+      });
+    } catch (error) {
+      console.error("Newsletter index error:", error);
+      res.status(500).json({ 
+        error: "Failed to load newsletter index",
+        details: error.message 
+      });
+    }
+  });
+
+  // Newsletter index endpoint with .json extension (for static file compatibility)
+  app.get("/api/newsletters/index.json", async (req, res) => {
+    console.log("HIT INDEX.JSON ROUTE");
     try {
       const newsletters = await loadNewsletters();
       
@@ -690,10 +724,12 @@ export async function registerRoutes(app: Express): Promise<Server> {
     }
   });
 
-  // Get specific newsletter by slug or handle PDF filename
+  // Get specific newsletter by slug or handle PDF filename (exclude index routes)
   app.get("/api/newsletters/:slug", async (req, res) => {
+    console.log("HIT SLUG ROUTE with slug:", req.params.slug);
     try {
       const slug = req.params.slug;
+      
       
       // Check if this is actually a number (year) that should be handled by year/month route
       if (/^\d+$/.test(slug)) {
