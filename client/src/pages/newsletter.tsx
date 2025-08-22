@@ -70,7 +70,7 @@ export default function Newsletter() {
     const loadNewsletters = async () => {
       try {
         // Load newsletter index from API
-        const indexResponse = await fetch('/api/newsletters/index');
+        const indexResponse = await fetch(import.meta.env.PROD ? '/api/newsletters/index.json' : '/api/newsletters/index');
         if (!indexResponse.ok) {
           throw new Error(`HTTP ${indexResponse.status}`);
         }
@@ -82,7 +82,7 @@ export default function Newsletter() {
         if (indexData.newsletters.length > 0) {
           const latest = indexData.newsletters[0];
           // Get full details for latest newsletter
-          const detailResponse = await fetch(`/api/newsletters/v/${latest.volume}/${latest.edition}`);
+          const detailResponse = await fetch(import.meta.env.PROD ? `/api/newsletters/v/${latest.volume}/${latest.edition}.json` : `/api/newsletters/v/${latest.volume}/${latest.edition}`);
           if (detailResponse.ok) {
             const latestDetails = await detailResponse.json();
             setLatestNewsletter(latestDetails);

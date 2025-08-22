@@ -40,16 +40,16 @@ export default function NewsletterDetail() {
       // Determine which route pattern is being used
       if (params.volume && params.edition) {
         // Volume/edition route: /newsletter/v/13/4
-        apiUrl = `/api/newsletters/v/${params.volume}/${params.edition}`;
+        apiUrl = import.meta.env.PROD ? `/api/newsletters/v/${params.volume}/${params.edition}.json` : `/api/newsletters/v/${params.volume}/${params.edition}`;
       } else if (params.year && params.month) {
         // Year/month route: /newsletter/2015/4
-        apiUrl = `/api/newsletters/${params.year}/${params.month}`;
+        apiUrl = import.meta.env.PROD ? `/api/newsletters/${params.year}/${params.month}.json` : `/api/newsletters/${params.year}/${params.month}`;
       } else if (params.slug) {
         // Slug route: /newsletter/v13n04apr2015
-        apiUrl = `/api/newsletters/${params.slug}`;
+        apiUrl = import.meta.env.PROD ? `/api/newsletters/${params.slug}.json` : `/api/newsletters/${params.slug}`;
       } else if (params.filename) {
         // Filename route: /Newsletters/somefilename (without .pdf)
-        apiUrl = `/api/newsletters/${params.filename}`;
+        apiUrl = import.meta.env.PROD ? `/api/newsletters/${params.filename}.json` : `/api/newsletters/${params.filename}`;
       } else {
         setError("Invalid newsletter parameters");
         setLoading(false);
