@@ -1,0 +1,29 @@
+{
+  "volume": 5,
+  "edition": 8,
+  "title": "Legal Questions for Fire Departments",
+  "date": "2005-08-15",
+  "summary": "The newsletter discusses various legal topics relevant to fire departments, including e-mail discovery under public records laws, HIPAA implications on the release of protected health information (PHI), proper handling of donations to fire departments, hydrant maintenance responsibilities, and the importance of clear contractual obligations regarding water hydrants.",
+  "keywords": [
+    "e-mail discovery",
+    "public records",
+    "HIPAA",
+    "fire departments",
+    "contracts"
+  ],
+  "topics": [
+    "Open Government",
+    "Emergency Services",
+    "Contract Law",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "compressed_content": "Joseph F. Quinn, legal counsel to fire districts in Pierce and King Counties, WA. E-mail messages between fire district members are discoverable as public records. Releasing only name and address under HIPAA does not violate privacy rights. Charitable donations require specific documentation and precautions. Agreements for hydrant maintenance must clearly outline water provider responsibilities.",
+  "search_text": "Firehouse newsletter, Volume 5, Number 8, Joseph F. Quinn, e-mail discovery, public records, HIPAA, fire departments, contracts, hydrant maintenance, charitable donations, legal questions.",
+  "corruption_detected": false,
+  "corruption_notes": "",
+  "original_filename": null,
+  "slug": "v05n08aug2005-extracted",
+  "file_size_kb": 0,
+  "pdf_url": "/Newsletters/v05n08aug2005.pdf"
+}

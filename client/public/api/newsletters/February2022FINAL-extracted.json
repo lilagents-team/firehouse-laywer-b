@@ -1,0 +1,31 @@
+{
+  "volume": 20,
+  "edition": 2,
+  "title": "Bills of Interest",
+  "date": null,
+  "summary": "The newsletter highlights several bills affecting fire departments, including updates on public participation in meetings (ESHB 1329), election timing for fire districts (SHB 1727), police reform measures (SHB 1735), emergency responder interference laws (HB 1826), and modifications to family medical leave policies (SSB 5649).",
+  "keywords": [
+    "bills",
+    "public participation",
+    "elections",
+    "fire districts",
+    "police reform",
+    "emergency responders",
+    "family medical leave"
+  ],
+  "topics": [
+    "Public Records",
+    "Employment Law",
+    "Public Safety",
+    "Legal Reforms",
+    "Health & Safety"
+  ],
+  "compressed_content": "- ESHB 1329: Mandates public comment periods in regular meetings with final actions. - SHB 1727: Ends odd-numbered year elections for fire district commissioners. - SHB 1735: Clarifies use of force under certain laws. - HB 1826: Makes interference with emergency responders a crime. - SSB 5649: Modifies family medical leave benefits.",
+  "search_text": "Volume 20, Number 2, ESHB 1329, SHB 1727, SHB 1735, HB 1826, SSB 5649, public participation, elections, fire districts, police reform, emergency responders, family medical leave",
+  "corruption_detected": false,
+  "corruption_notes": "",
+  "original_filename": null,
+  "slug": "February2022FINAL-extracted",
+  "file_size_kb": 0,
+  "pdf_url": "/Newsletters/February2022FINAL.pdf"
+}

@@ -1,0 +1,47 @@
+{
+  "volume": 15,
+  "edition": "Number Eleven",
+  "title": "Volume 15, Number Eleven",
+  "date": "2017-11-02",
+  "summary": "The newsletter discusses several legal updates including changes to the Public Works Act affecting labor and employment law, a PERC decision on minimum staffing in public agencies concluding that employers may not have met the burden of mandatory minimums, an Open-PAYGO law requiring electronic clearinghouses for payments between providers and municipalities, emergency services contract disputes over safety bills, a recall case involving local government officials, and public records laws protecting privacy.",
+  "keywords": [
+    "Open Government",
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "topics": [
+    {
+      "name": "Legal Updates/Changes",
+      "description": "Changes to the Public Works Act affecting labor and employment law."
+    },
+    {
+      "name": "Minimum Staffing/Mandatory Subjects",
+      "description": "PERC decision concluding that employers may not have met the burden of mandatory minimums in public agencies."
+    },
+    {
+      "name": "Electronic Payments",
+      "description": "Open-PAYGO law requiring electronic clearinghouses for payments between public service providers and municipalities."
+    },
+    {
+      "name": "Emergency Services/Safety Bills",
+      "description": "Contract dispute over safety bills in a firehouse context."
+    },
+    {
+      "name": "Recourse or Recall",
+      "description": "Recall case involving local government officials discussing public duty violations and potential legal actions."
+    }
+  ],
+  "compressed_content": "Changes to Public Works Act impact labor law. PERC decision on minimum staffing burden. Open-PAYGO law requires electronic payments. Contract dispute over safety bills in emergency services. Recall case involves local government officials and public duty violations.",
+  "search_text": "Public Works Act changes PERC decision Open-PAYGO law contract dispute recall case firehouse lawyer employment law public records emergency services safety bill minimum staffing budget & finance training & compliance litigation",
+  "corruption_detected": false,
+  "corruption_notes": "",
+  "original_filename": null,
+  "slug": "November2017FINAL-extracted",
+  "file_size_kb": 0,
+  "pdf_url": "/Newsletters/November2017FINAL.pdf"
+}
