@@ -13,6 +13,7 @@ import {
   Bell
 } from "lucide-react";
 import { useState, useEffect } from "react";
+import { useLocation } from "wouter";
 
 // Import local images
 import bog1 from "../assets/images/bog-1.jpg";
@@ -22,6 +23,8 @@ import rainier from "../assets/images/rainier.jpg";
 import joeFiretruck from "../assets/images/joe-with-firetruck.jpg";
 
 export default function Home() {
+  const [, setLocation] = useLocation();
+  
   const heroImages = [
     { src: bog1, alt: "Pacific Northwest landscape" },
     { src: joe3, alt: "Legal professional" },
@@ -41,38 +44,47 @@ export default function Home() {
     return () => clearInterval(interval);
   }, [heroImages.length]);
 
+  const handlePracticeAreaClick = (searchTerm: string) => {
+    setLocation(`/newsletter?search=${encodeURIComponent(searchTerm)}`);
+  };
 
 
   const practiceAreas = [
     {
       icon: Building2,
       title: "Mergers and Consolidations",
-      description: "Expert guidance through complex fire district mergers and consolidations with political and legal implications."
+      description: "Expert guidance through complex fire district mergers and consolidations with political and legal implications.",
+      searchTerm: "mergers consolidations"
     },
     {
       icon: FileText,
       title: "Public Records & OPMA",
-      description: "Navigate public records requests and open meeting requirements with confidence and compliance."
+      description: "Navigate public records requests and open meeting requirements with confidence and compliance.",
+      searchTerm: "OPMA Public Records"
     },
     {
       icon: Users,
       title: "Personnel Matters",
-      description: "Complete support for employment law, collective bargaining, and workplace policy issues."
+      description: "Complete support for employment law, collective bargaining, and workplace policy issues.",
+      searchTerm: "employment law"
     },
     {
       icon: Shield,
       title: "HIPAA Compliance",
-      description: "Protect medical information and ensure compliance with federal and state health privacy laws."
+      description: "Protect medical information and ensure compliance with federal and state health privacy laws.",
+      searchTerm: "HIPAA"
     },
     {
       icon: DollarSign,
       title: "Public Finances",
-      description: "Expert advice on property taxes, fire benefit charges, and financial compliance matters."
+      description: "Expert advice on property taxes, fire benefit charges, and financial compliance matters.",
+      searchTerm: "budget finance"
     },
     {
       icon: ClipboardCheck,
       title: "Contract Review",
-      description: "Comprehensive contract drafting and review for mutual aid agreements and procurement."
+      description: "Comprehensive contract drafting and review for mutual aid agreements and procurement.",
+      searchTerm: "contract law"
     }
   ];
 
@@ -209,7 +221,12 @@ export default function Home() {
           
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             {practiceAreas.map((area, index) => (
-              <Card key={index} className="bg-urban-light border-neon-orange hover:border-red-400 urban-shadow hover:urban-shadow-lg transition-all duration-300 hover:scale-105 distressed-border" data-testid={`practice-area-card-${index}`}>
+              <Card 
+                key={index} 
+                className="bg-urban-light border-neon-orange hover:border-red-400 urban-shadow hover:urban-shadow-lg transition-all duration-300 hover:scale-105 distressed-border cursor-pointer" 
+                data-testid={`practice-area-card-${index}`}
+                onClick={() => handlePracticeAreaClick(area.searchTerm)}
+              >
                 <CardContent className="p-8">
                   <div className="w-16 h-16 bg-neon-orange rounded-none flex items-center justify-center mb-6 urban-shadow-lg hover:bg-red-600 transition-all duration-300 hover:scale-110" style={{ clipPath: 'polygon(10% 0%, 100% 0%, 90% 100%, 0% 100%)' }}>
                     <area.icon className="w-8 h-8 text-white" />

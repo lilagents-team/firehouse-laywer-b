@@ -1,0 +1,33 @@
+```json
+{
+  "volume": 6,
+  "edition": "E",
+  "title": "Extra! Extra! Superior Court Strikes Down Initiative 747",
+  "date": "2006-06-23",
+  "summary": "The Washington Superior Court ruled that Initiative 747, which caps annual property tax increases for state and local agencies, is unconstitutional. This decision could significantly impact local governments, particularly fire districts, as rising costs outpace the 1% annual limit, potentially eroding levy rates.",
+  "keywords": ["Superior Court", "Initiative 747", "I-747", "property tax increases", "annual limit"],
+  "topics": ["Constitutional Law", "Fiscal Policy for Local Governments", "Public Sector Initiatives"],
+  "compressed_content": [
+    "The Superior Court struck down Initiative 747.",
+    "Rising costs exceed the 1% annual property tax limit.",
+    "This decision impacts local governments and fire districts.",
+    "Forego lid lifts may be reconsidered if the court rules in favor of Initiative 747."
+  ],
+  "search_text": "Firehouse Lawyer Volume 6, Number 6E: Superior Court Strikes Down Initiative 747. Initiative 747 limits annual property tax increases for state and local agencies. Rising costs exceed 1% annually. Forego lid lifts may be reconsidered if the court rules in favor of Initiative 747.",
+  "legal_references": {
+    "cases": [],
+    "statutes": ["I-747"],
+    "regulations": []
+  },
+  "key_findings": [
+    "The Superior Court ruled that Initiative 747 is unconstitutional.",
+    "Rising costs exceed the 1% annual property tax limit.",
+    "This decision could significantly impact local governments, particularly fire districts."
+  ],
+  "recommendations": [
+    "Fire departments should consider staying the course with ballot measures if the court rules in favor of Initiative 747.",
+    "Add language to ballot measures to make votes nonbinding advisory votes if the court affirms the decision."
+  ],
+  "metadata_quality": "high"
+}
+```

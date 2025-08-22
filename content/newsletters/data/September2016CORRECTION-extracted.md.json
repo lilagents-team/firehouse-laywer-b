@@ -1,0 +1,58 @@
+```json
+{
+  "volume": "14",
+  "edition": "Number Nine",
+  "title": "Firehouse Newsletter",
+  "date": "2016-09-01",
+  "summary": "The newsletter discusses legal updates related to fire districts and regional fire authorities, including corrections on voting requirements for benefit charges, policy changes regarding public records under the Public Records Act, concerns about HIPAA social media breaches, a case decision affecting worker's compensation claims based on subjective findings, and updates on the Public Records Act's statute of limitations.",
+  "keywords": [
+    "fire district",
+    "regional fire authority",
+    "public records act",
+    "HIPAA",
+    "worker’s compensation",
+    "statute of limitations"
+  ],
+  "topics": ["Open Government", "Employment Law", "Public Records", "Emergency Services", "Contract Law", "Budget & Finance", "Training & Compliance", "Litigation"],
+  "compressed_content": [
+    "Firehouse Lawyer Newsletter, Volume 14, Number Nine (September 2016)",
+    "Legal updates on fire district and regional fire authority laws",
+    "Corrections to previous voting requirements for worker benefit charges",
+    "Policy changes regarding public records under the Public Records Act",
+    "Concerns about HIPAA social media breaches affecting employee claims",
+    "Case decision impacting worker's compensation based on subjective findings",
+    "Updates on the Public Records Act's statute of limitations"
+  ],
+  "search_text": "Firehouse Lawyer Newsletter, Volume 14, Number Nine (September 2016). Legal updates on fire district and regional fire authority laws. Corrections to previous voting requirements for worker benefit charges by either a fire district or regional fire authority. Policy changes regarding public records under the Public Records Act. Concerns about HIPAA social media breaches affecting employee claims. Case decision impacting worker's compensation based on subjective findings. Updates on the Public Records Act's statute of limitations.",
+  "legal_references": {
+    "cases": ["Felipe v. Department of Labor and Industries, NO. 75232-4-I (Div. One 2016)"],
+    "statutes": [
+      "RCW 52.18.010",
+      "RCW 43.09.210",
+      "RCW 39.33.010",
+      "RCW 82.04.419",
+      "RCW 52.16.061",
+      "RCW 41.08",
+      "RCW 43.21C.060",
+      "RCW 84.55.050",
+      "RCW 42.56.050"
+    ],
+    "regulations": ["Sk Manhattan Consulting, LLC"]
+  },
+  "key_findings": [
+    "Corrections to previous voting requirements for worker benefit charges by either a fire district or regional fire authority.",
+    "Policy changes regarding public records under the Public Records Act",
+    "Concerns about HIPAA social media breaches affecting employee claims",
+    "Case decision impacting worker's compensation based on subjective findings",
+    "Updates on the Public Records Act's statute of limitations"
+  ],
+  "recommendations": [
+    "Fire districts and regional fire authorities must ensure proper documentation of benefit charges to comply with updated voting requirements.",
+    "Agencies should review their public records policies to align with the latest updates under the Public Records Act.",
+    "Compliance with HIPAA regulations is critical, especially when considering social media use for employee communications.",
+    "Fire departments and regional fire authorities should consult legal counsel regarding the implications of subjective findings in worker's compensation claims.",
+    "Agencies are encouraged to seek guidance on implementing the updated statute of limitations for public records disputes."
+  ],
+  "metadata_quality": "high"
+}
+```

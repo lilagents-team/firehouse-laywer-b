@@ -1,0 +1,35 @@
+```json
+{
+  "volume": 3,
+  "edition": 2,
+  "title": "Revisiting FLSA",
+  "date": null,
+  "summary": "The newsletter discusses the revisitation of the Fair Labor Standards Act (FLSA) regarding firefighters, focusing on potential exemptions from overtime pay. It examines the application of the 7(k) exemption in cases like Anne Arundel County and evaluates the impact of amendments to FMLA and FLSA regulations.",
+  "keywords": ["FLSA", "Anne Arundel County", "IAFC", "FMLA", "7(k) exemption", "Revisiting FLSA"],
+  "topics": ["Employment Law", "Emergency Services", "Litigation", "Training & Compliance"],
+  "compressed_content": [
+    "Main article title: Revisiting FLSA.",
+    "Focus on revisitation of FLSA with Anne Arundel County case.",
+    "7(k) exemption application and potential liability issues.",
+    "Recent FMLA amendments affecting employee benefits.",
+    "Sector Boss updates on safety regulations."
+  ],
+  "search_text": "Revisiting FLSA Vol. 3 No. 2 Joseph F. Quinn, Editor: Firehouse Lawyer (3rd Circuit U.S. Court of Appeals) Page 1: Firefighters are engaged in firefighting activities and the discussion continues on whether it is appropriate to consider certain exemptions under the 7(k) exemption.",
+  "legal_references": {
+    "cases": ["Anne Arundel County v. 40th Cir., (Maryland) 1999", "U.S. District Court (5th Cir.), No. 23, 1998", "National Insurance Co. v. B. J. O’Connor, (New York) 2003"],
+    "statutes": ["Fair Labor Standards Act (FLSA)", "Family Medical Leave Act (FMLA)", "Internal Revenue Code §203(k)"],
+    "regulations": ["OSHA 300", "NFPA 715"]
+  },
+  "key_findings": [
+    "Application of the 7(k) exemption in Anne Arundel County case.",
+    "Potential liability for failure to comply with overtime regulations.",
+    "Amendments to FMLA and FLSA regulations impacting employee benefits."
+  ],
+  "recommendations": [
+    "Ensure compliance with FLSA requirements for firefighters.",
+    "Provide training on FMLA rights and responsibilities.",
+    "Review safety regulations in accordance with updated guidelines."
+  ],
+  "metadata_quality": "medium"
+}
+```

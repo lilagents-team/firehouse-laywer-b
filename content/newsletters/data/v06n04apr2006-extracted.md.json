@@ -1,0 +1,34 @@
+```json
+{
+  "volume": 6,
+  "edition": 4,
+  "title": "Firehouse Lawyer",
+  "date": "2006-04-17",
+  "summary": "The newsletter covers key legal updates on tax issues, wage claims penalties, and public records concerns. It includes a case example of a city's severance pay policy affecting termination.",
+  "keywords": ["tax issues", "wage claims penalties", "RCW 42.24.180"],
+  "topics": [
+    "Public Records",
+    "Employment Law",
+    "Contract Law"
+  ],
+  "compressed_content": [
+    "- Firehouse Lawyer newsletter, Volume 6, Number 4\n- Editor Joseph F. Quinn's office located at 5000 Steilacoom Blvd. SW, Lakewood, WA 98499\n- Contact details: phone (253) 589-3226; email quinnjoseph@qwest.net\n- Deadline extended to April 17 for tax issue submissions\n- Issuance of warrants under RCW 42.24.180 with specific conditions and requirements\n- Wage claims penalties reminder, including a case example of public records issues in severance pay\n- Hepatitis C as an occupational disease affecting firefighters\n- Discussion on workplace relationships, including policies like 'love contracts' and prohibitions on personal relationships\n- Public records concerns regarding fire districts' severance pay policies"
+  ],
+  "search_text": "Firehouse Lawyer Volume 6 Number 4 Joseph F. Quinn Editor Pierce County WA Pierce County WA phone 253 589 3226 email quinnjoseph qwest net publication date April 17 2006 deadline extended two days for tax issuesIssuance of Warrants before Approval Fire districts like other municipal corporations may issue pre payment authorizations under RCW 42.24.180 if certain conditions are met including an official bond and internal controlsWage Claims Have Special Penalties Attached A reminder about wage claims penalties with a case example of public records issues in severance payThe Dating Game Love in the Workplace Article prompted by a reader asking about non platonic relationships in the workplace Several approaches discussed including a love contract and personal relationship prohibitions\nHepatitis C Held Occupational Disease of Firefighter Case study details",
+  "legal_references": {
+    "cases": ["Case example of public records issues in severance pay"],
+    "statutes": ["RCW 42.24.180"]
+  },
+  "key_findings": [
+    "Fire districts may issue pre-paid warrants under RCW 42.24.180 with specific conditions and requirements",
+    "Wage claims penalties are subject to legal reminders, including a case example of public records issues in severance pay",
+    "Public records concerns regarding fire districts' severance pay policies affecting termination"
+  ],
+  "recommendations": [
+    "Review and update pre-payment authorization policies for fire districts under RCW 42.24.180",
+    "Enforce wage claim penalties as required by law in cases of non-compliance",
+    "Ensure accessibility to public records to avoid legal issues related to severance pay policies"
+  ],
+  "metadata_quality": "high"
+}
+```

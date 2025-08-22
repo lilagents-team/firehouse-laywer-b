@@ -1,0 +1,34 @@
+```json
+{
+  "volume": "2",
+  "edition": "127",
+  "title": "Vol. 2, No. 127 Joseph F. Quin",
+  "date": "1998-01-01",
+  "summary": "The document discusses collective bargaining agreements between the Seattle Fire Department and the Firehouse Lawyer Union, focusing on non-discrimination principles. The Public Employees Collective Bargaining Act (PERC) is cited as a key legal reference, emphasizing that public sector bargaining cannot be performed without prior consent from all employees.",
+  "keywords": ["Collective bargaining", "Labor law", "Public employee rights", "PERC"],
+  "topics": ["Employment Law", "Public Employee Protections", "Lawsuits"],
+  "compressed_content": [
+    "The Seattle Fire Department and the Firehouse Lawyer Union negotiated a collective bargaining agreement.",
+    "The PERC statute prohibits prior consent from all employees in public sector bargaining.",
+    "The City of Seattle argued that the union's non-discrimination policy was inconsistent with labor law.",
+    "The court ruled against the union, finding it improperly constraining the City's ability to provide certain benefits.",
+    "The City emphasized the importance of statutory authority and the limitations of prior consent requirements."
+  ],
+  "search_text": "Collective bargaining Labor law Public employee rights PERC Public sector bargaining Public Act 41.56 Firehouse Lawyer Union Seattle Fire Department Joseph F. Quin legal disputes FMLA DOL regulations",
+  "legal_references": {
+    "cases": [],
+    "statutes": ["RCW 41.26", "PERC"],
+    "regulations": []
+  },
+  "key_findings": [
+    "The Public Employees Collective Bargaining Act (PERC) prohibits prior consent from all employees in public sector bargaining.",
+    "The City of Seattle emphasized that the union's non-discrimination policy was inconsistent with labor law.",
+    "The court ruled against the union, finding it improperly constraining the City's ability to provide certain benefits."
+  ],
+  "recommendations": [
+    "Fire departments and public agencies should ensure compliance with labor laws during bargaining processes.",
+    "Engage legal counsel to address potential disputes and ensure proper implementation of collective bargaining agreements."
+  ],
+  "metadata_quality": "high"
+}
+```

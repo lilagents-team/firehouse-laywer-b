@@ -1,0 +1,26 @@
+```json
+{
+  "volume": null,
+  "edition": null,
+  "title": "Employment Investigations and Privacy",
+  "date": null,
+  "summary": "The article discusses a court case involving public employees' privacy regarding ongoing investigations. The case, *Predisik* v. Spokane Sch. Dist. No. 81, held that names of public employees are exempt from disclosure under RCW 42.56.230 (3) unless the investigation involves highly offensive information or significant public interest. The court also emphasized that records containing only allegations of misconduct without specifics do not violate privacy rights.",
+  "keywords": ["Public Records Act", "RCW 42.56.230", "Case law on employee privacy", "Employment investigations"],
+  "topics": ["Public Records", "Employment Law"],
+  "compressed_content": [
+    "• Case: Predisik v. Spokane Sch. Dist. No. 81",
+    "• Statute: RCW 42.56.230 (3)",
+    "• Court Decision: Exemption for names unless highly offensive or significant public interest",
+    "• Records Disclosed: Administrative leave and payroll spreadsheets without specific allegations",
+    "• Legal Focus: Privacy rights in ongoing investigations"
+  ],
+  "search_text": "Predisik v. Spokane Sch. Dist. No. 81, RCW 42.56.230, Public Records Act, Employment investigations, Privacy of public employees, Records disclosure exemptions",
+  "legal_references": {
+    "cases": ["*Predisik* v. Spokane Sch. Dist. No. 81", "*Bellevue John Does 1-11 v. Bellevue Sch. Dist. No. 405*"],
+    "statutes": ["RCW 42.56.230", "RCW 42.56.240"]
+  },
+  "key_findings": ["Names of public employees are exempt from disclosure under RCW 42.56.230 (3) unless highly offensive or significant public interest.", "Records containing only allegations without specifics do not violate privacy rights."],
+  "recommendations": null,
+  "metadata_quality": "high"
+}
+```

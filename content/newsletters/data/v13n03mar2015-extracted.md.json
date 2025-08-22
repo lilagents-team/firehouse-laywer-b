@@ -1,0 +1,33 @@
+```json
+{
+  "volume": 13,
+  "edition": 3,
+  "title": "Volume 13, Number 3: Legal Updates on Fire Service Mobilization, Community Paramedicine, and Medicaid Transportation",
+  "date": "2015-03-01",
+  "summary": "Three key house bills (HB 1389, HB 2077, HB 2007) were discussed in this issue. HB 1389 expands the definition of fire service mobilization to include all-risk resources, aiding reimbursement efforts. HB 2077 amends EMS programs and addresses scope of practice concerns. HB 2007 introduces cost-recovery measures for Medicaid ground transportation services.",
+  "keywords": ["HB 1389", "HB 2077", "HB 2007", "RCW 43.43", "Community Paramedicine", "Fire Service Mobilization", "Reimbursement"],
+  "topics": ["Emergency Services", "Contract Law", "Public Policy", "Legal Reforms", "Healthcare Reform"],
+  "compressed_content": [
+    "- HB 1389 expands fire service mobilization to include all-risk resources, aiding reimbursement.",
+    "- HB 2077 amends EMS programs and addresses scope of practice concerns.",
+    "- HB 2007 introduces cost-recovery measures for Medicaid ground transportation services."
+  ],
+  "search_text": "Volume 13, Number 3: Legal Updates on Fire Service Mobilization, Community Paramedicine, and Medicaid Transportation. Three house bills (HB 1389, HB 2077, HB 2007) were discussed in this issue.",
+  "legal_references": {
+    "cases": [],
+    "statutes": ["RCW 43.43", "RCW 35.21.930", "RCW 84.52.069", "RCW 41.05"],
+    "regulations": []
+  },
+  "key_findings": [
+    "Legislative actions expanding fire service mobilization and EMS programs were discussed.",
+    "Cost-recovery measures for Medicaid ground transportation services were introduced.",
+    "Clarifications on the scope of practice in emergency medical services were provided."
+  ],
+  "recommendations": [
+    "Fire departments should review and update their policies to comply with expanded Mobilization definitions.",
+    "EMS providers must ensure they meet federal approval requirements for cost-recovery programs.",
+    "Agencies should consult legal counsel regarding the implementation of new reimbursement measures."
+  ],
+  "metadata_quality": "medium"
+}
+```

@@ -1,0 +1,36 @@
+```json
+{
+  "volume": null,
+  "edition": null,
+  "title": "Vol. 1, No. 7",
+  "date": "1997-07-01",
+  "summary": "The newsletter discusses key legal updates related to FMLA protections for qualifying employees, employer obligations regarding documentation and medical evaluations, state laws affecting disability claims, and the implications of employer discharge for individuals with disabilities.",
+  "keywords": ["FMLA", "Employer", "Discrimination", "Medical Certification", "Termination", "State Law", "Disability"],
+  "topics": ["Employment Law", "Contract Law", "Medical Evaluation", "Public Records"],
+  "compressed_content": [
+    "The newsletter covers legal updates related to FMLA protections for qualifying employees.",
+    "Discussions on employer obligations regarding documentation and medical evaluations.",
+    "State laws affecting disability claims and their implications.",
+    "Implications of employer discharge for individuals with disabilities."
+  ],
+  "search_text": "Firehouse Lawyer Vol. 1, No. 7 July 1997 FMLA Qualifying Employees Must Certify Work History and Recent Participation in Compulsory Training under the Act (District Court for the Northern District of
+  18th Week of Calendar Year 1997). Back to the district court order,
+  if we can summarize the cases in the federal judge's ruling (Federal Circuit) that DISTRICT COURT FOR THE NORTHWEST JUDICIAL CIRCUIT ( r. 23 ) Court Holding for Immediate Work Order by the Federal Judge is Not Obsolete. The U.S. District Court for the Northern
+  Circuit held that a small hernia with a sufficiently large circumferential diameter may qualify as a serious health condition.",
+  "Legal References": {
+    "cases": ["Baker Analysis"],
+    "statutes": ["RCW 18.204-3"]
+  },
+  "key_findings": [
+    "FMLA protections for qualifying employees",
+    "Employer obligations regarding documentation and medical evaluations",
+    "State laws affecting disability claims"
+  ],
+  "recommendations": [
+    "Ensure compliance with employment laws regarding FMLA requirements",
+    "Implement proper documentation processes for eligible employees",
+    "Provide training to employees on medical evaluations and their implications"
+  ],
+  "metadata_quality": "high"
+}
+```

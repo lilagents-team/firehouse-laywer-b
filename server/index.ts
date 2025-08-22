@@ -36,6 +36,8 @@ app.use((req, res, next) => {
   next();
 });
 
+// Note: /Newsletters routes are handled by React Router in the frontend
+
 // Serve content files and admin interface statically
 app.use('/content', express.static('content'));
 

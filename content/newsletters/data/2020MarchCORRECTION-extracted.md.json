@@ -1,0 +1,25 @@
+```json
+{
+  "volume": 18,
+  "edition": 3,
+  "title": "Correction of Previous Issue",
+  "date": null,
+  "summary": "The newsletter corrects an error regarding tax breaks for local governments under the Families First Coronavirus Response Act (FFCR), clarifying that relief does not apply to public agencies.",
+  "keywords": ["public agencies", "tax breaks", "local governments", "Families First Coronavirus Response Act"],
+  "topics": ["Emergency Services", "Public Records", "Employment Law"],
+  "compressed_content": [
+    "Volume 18, Number 3",
+    "Correction Notice: Tax breaks relief does not apply to public agencies.",
+    "Editorial Contact Information: Eric T. Quinn and Joseph F. Quinn.",
+    "Newsletter Subscription Details: firehouselawyer.com.",
+    "Main Legal Update: Clarification on FFCR application."
+  ],
+  "search_text": "Volume 18, Number 3 Correction Notice Families First Coronavirus Response Act public agencies tax breaks employment law",
+  "legal_references": {
+    "statutes": ["Families First Coronavirus Response Act (FFCR)"]
+  },
+  "key_findings": ["Clarification that relief from FFCR does not apply to public agencies"],
+  "recommendations": ["Review and update fire department policies related to employment and risk management"],
+  "metadata_quality": "medium"
+}
+```

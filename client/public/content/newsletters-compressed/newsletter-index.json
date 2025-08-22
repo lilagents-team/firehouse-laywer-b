@@ -1,0 +1,43 @@
+{
+  "newsletters": [
+    {
+      "volume": 25,
+      "edition": 7,
+      "title": "EXAMPLE: Special-Meeting Notices Are Key",
+      "date": "2025-07-01",
+      "summary": "[EXAMPLE] Critical updates for fire service administrators on OPMA special meeting requirements...",
+      "keywords": ["OPMA", "special meetings", "transparency"],
+      "topics": ["Open Government"],
+      "file_size_kb": 45,
+      "corruption_detected": false,
+      "original_filename": "July2025FINAL.pdf"
+    },
+    {
+      "volume": 13,
+      "edition": 4,
+      "title": "EXAMPLE: Open Investigations and Employee Privacy",
+      "date": "2015-04-01",
+      "summary": "[EXAMPLE] Supreme Court ruling in Predisik case clarifies disclosure requirements...",
+      "keywords": ["Predisik", "Public Records Act", "employee privacy"],
+      "topics": ["Public Records", "Employment Law"],
+      "file_size_kb": 38,
+      "corruption_detected": false,
+      "original_filename": "v13n04apr2015.pdf"
+    },
+    {
+      "volume": 12,
+      "edition": 2,
+      "title": "EXAMPLE: Open Government Trainings Act Requirements [CORRUPTED]",
+      "date": "2014-06-01",
+      "summary": "[EXAMPLE] Training requirements for elected officials - CONTENT PARTIALLY CORRUPTED...",
+      "keywords": ["Open Government Trainings Act", "OPMA", "training"],
+      "topics": ["Open Government", "Training Requirements"],
+      "file_size_kb": 52,
+      "corruption_detected": true,
+      "original_filename": "v12n02jun2014.pdf"
+    }
+  ],
+  "total_count": 3,
+  "last_updated": "2025-08-22T10:30:00Z",
+  "cache_version": "1.0-example"
+}

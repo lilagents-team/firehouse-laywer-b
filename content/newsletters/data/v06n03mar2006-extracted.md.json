@@ -1,0 +1,57 @@
+```json
+{
+  "volume": 6,
+  "edition": null,
+  "title": "Firehouse Lawyer",
+  "date": "2006-03-16",
+  "summary": "This issue of the Firehouse Lawyer covers legislative updates, including the passing and potential end of a fire service bill, updates on various bills, changes to election rules related to EMS and lid lifts, extensions of collective bargaining limits, access to Municipal Research Council services for fire districts, and significant updates to the LEOFF 2 Retirement Board benefits plan. The newsletter also discusses FMLA rights, emergency management plans, and succession planning in fire departments.",
+  "keywords": [
+    "fire districts",
+    "Pierce County",
+    "WA laws",
+    "public employees",
+    "election rules",
+    "MLC services",
+    "LEOFF 2 Retirement Board"
+  ],
+  "topics": [
+    "Emergency Services",
+    "Legislative Updates",
+    "Public Records",
+    "Employment Law",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "compressed_content": [
+    "Volume 6, Number 3 of the Firehouse Lawyer covers updates on key legislative bills affecting fire departments and public services.",
+    "Details include the passing of SB 6236 impacting EMS elections and special purpose districts.",
+    "Updates to the LEOFF 2 Retirement Board benefits plan are highlighted as significant developments.",
+    "The newsletter also explores FMLA rights, emergency management plans, and succession planning in fire departments."
+  ],
+  "search_text": "Volume 6, Number 3 Firehouse Lawyer Joseph F. Quinn Pierce County WA 5000 Steilacoom Blvd Lakewood WA 98499 phone 253-589-3226 email quinnjoseph@qwest.net access at www.Firehouselawyer.com Update on SHB 2345 clarification of regional fire authority powers update on SHB 2713 legal opinions on special purpose districts passing SB 6236 changes to election rules and deadlines passed SB 6411 extension of public employees collective bargaining limits passed SB 6723 access to Municipal Research Council services for fire districts passed HB 2932 LEOFF 2 plan benefits updated passed SHB 6723 LEOFF 2 death benefit inflation adjustment passed",
+  "legal_references": {
+    "cases": [],
+    "statutes": [
+      "SB 6236",
+      "SB 6411",
+      "SB 6723",
+      "HB 2932"
+    ],
+    "regulations": []
+  },
+  "key_findings": [
+    "SB 6236 extends special purpose district election deadlines to eighty-four days.",
+    "MLC services now accessible to fire districts.",
+    "SB 6411 extends public employees' collective bargaining limits.",
+    "SHB 6723 updates LEOFF 2 benefits plan."
+  ],
+  "recommendations": [
+    "Fire departments should monitor special purpose district legislation and MLC services availability.",
+    "Public entities should extend collective bargaining periods as per updated laws.",
+    "Fire departments should consider updating their succession and management plans based on recent developments."
+  ],
+  "metadata_quality": "medium"
+}
+```

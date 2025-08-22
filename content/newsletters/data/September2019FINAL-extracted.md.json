@@ -1,0 +1,34 @@
+```json
+{
+  "volume": 17,
+  "edition": 9,
+  "title": "Public Records Act Cases",
+  "date": "2019-09-01",
+  "summary": "The newsletter discusses two key Public Records Act (PRA) cases. The first case, 'The 'Estimated Estimate' Case,' addresses the time estimates required by the PRA for responding to public records requests, emphasizing that agencies must provide initial estimates and only commit to the first installment of records. The second case, Hoffman v. Kittitas County and the Kittitas County Sheriff, involved a penalty of $15,498 imposed for a 246-day delay in providing public records, with no actionable findings due to agency mistakes.",
+  "keywords": ["Public Records Act", "Fire Department", "Risk Management", "PRA Penalties", "Hoffman v. Kittitas County"],
+  "topics": ["Public Records Law"],
+  "compressed_content": [
+    "Volume 17, Number 9 of the Firehouse Lawyer newsletter covers Public Records Act cases.",
+    "The first case discusses time estimates for responding to public records requests.",
+    "The second case involves a penalty for delayed record release.",
+    "Key findings highlight the importance of accurate time estimates and proper record handling.",
+    "Recommendations emphasize compliance with PRA timelines and training personnel."
+  ],
+  "search_text": "Fireho Volume 17 Number 9 The Fireh Public Records Act Cases Eric T. Quinn Joseph F. Quinn The law firm of Quinn and Quinn P.S. is legal counsel to more than 40 Fire Departments in the State of Washington Office located at 7403 Lakewood Drive West Lakewood WA 98499 Mailing address 20 Forest Glen Lane SW Lakewood WA 98498 Office Telephone 253-590-6628 Email addresses Ericquinn@firehouselawyer2.com Joseph at firelaw@comcast.net Access and Subscribe to this Newsletter at firehouselawyer.com Inside this Issue The 'Estimated Estimate' Case PRA Penalties Page 1 Fireho Volume 17 Number 9 The superior court ruled that DOC violated the statute by not responding to the PRA request within five business days producing records denying records or providing an estimate of time when it would respond. Actually all the DOC did was state that it would deal with the request within 45 further business days. The court held that an estimate is required in the initial '5-day letter' acknowledging receipt of the PRA request and that if the request is a large one it will probably suffice if the estimate of time relates only to the first installment.",
+  "legal_references": {
+    "cases": ["Hoffman v. Kittitas County and the Kittitas County Sheriff"],
+    "statutes": ["RCW 42.56.520(3)"]
+  },
+  "key_findings": [
+    "An estimate is required in the initial '5-day letter' acknowledging receipt of the PRA request.",
+    "The court held that an estimate must be provided only for the first installment of records produced.",
+    "A penalty of $15,498 was imposed for a 246-day delay in providing public records."
+  ],
+  "recommendations": [
+    "Ensure compliance with PRA timelines and provide accurate time estimates.",
+    "Train personnel to handle public records requests properly.",
+    "Avoid delays that could lead to penalties or loss of public trust."
+  ],
+  "metadata_quality": "high"
+}
+```

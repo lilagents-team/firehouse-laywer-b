@@ -1,0 +1,33 @@
+```json
+{
+  "volume": 17,
+  "edition": 1,
+  "title": "Paid FMLA Issues | Safety Bill",
+  "date": "2019-01-01",
+  "summary": "The newsletter discusses updates on the Paid Family and Medical Leave (FMLA) Act in Washington State, including exemptions for small employers and interpretations regarding elected officials. It also covers a safety bill aimed at enhancing fire department safety through insurance coverage.",
+  "keywords": ["Paid FMLA", "Employment Law", "Small Employers", "Fire Departments"],
+  "topics": ["Employment Law", "Public Records", "Emergency Services", "Contract Law", "Budget & Finance"],
+  "compressed_content": [
+    "- New Editor: Eric T. Quinn\n",
+    "- Small employers with fewer than 50 employees are exempt from paying the employee portion of FMLA premiums.\n",
+    "- Washington State's interpretation excludes elected officials from being classified as employees under the FMLA.\n",
+    "- Errors and omissions insurance may be beneficial for fire departments' safety measures."
+  ],
+  "search_text": "Firehouse Lawyer Volume 17 Number 1, Paid FMLA Issues, Safety Bill, Employment Law, Small Employers, Fire Departments, January 2019",
+  "legal_references": {
+    "cases": [],
+    "statutes": ["RCW 50A.04", "RCW 52.14.010"],
+    "regulations": []
+  },
+  "key_findings": [
+    "New Editor: Eric T. Quinn",
+    "Small employers with fewer than 50 employees are exempt from paying the employee portion of FMLA premiums.",
+    "Washington State's interpretation excludes elected officials from being classified as employees under the FMLA."
+  ],
+  "recommendations": [
+    "Fire departments should consult legal counsel to ensure compliance with new FMLA provisions.",
+    "Accurate record-keeping is essential for small employers to avoid premium payment issues."
+  ],
+  "metadata_quality": "high"
+}
+```

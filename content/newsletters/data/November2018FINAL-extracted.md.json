@@ -1,0 +1,32 @@
+```json
+{
+  "volume": 16,
+  "edition": 11,
+  "title": "Laborhous",
+  "date": null,
+  "summary": "The newsletter explores key legal topics such as double jeopardy in labor disputes, impact fees and SEPA mitigation requirements, a safety bill emphasizing PPE training records, and restrictions on indefinite disability leave under ADA.",
+  "keywords": ["Labor and Industries (L&I)", "SEPA", "RCW", "PPE training records", "Indefinite Disability Leave"],
+  "topics": ["Employment Law", "Public Records", "Emergency Services", "Contract Law", "Budget & Finance", "Training & Compliance", "Litigation"],
+  "compressed_content": [
+    "Labor Concepts: Double jeopardy application in labor disputes.",
+    "Impact Fees and SEPA Mitigation: Requirements for municipal corporations.",
+    "Safety Bill: PPE training records necessity.",
+    "Indefinite Disability Leave: ADA restrictions."
+  ],
+  "search_text": "Laborhous Volume 16, Number 11. Labor Concepts: Double jeopardy application in labor disputes. Impact Fees, SEPA Mitigation and RCW Fire departments, schools, counties and cities may be entitled to impact fees for new construction. RCW 82.02.090 (7). A city or county must adopt a capital facilities plan (CFP), and the CFP must be adopted by the county legislative authority as part of the county's comprehensive plan. Impact Fees, SEPA Mitigation and RCW: Specific impact fees require legislative authority for municipal corporations.",
+  "legal_references": {
+    "cases": ["Hudson v. MCI Telecommunications Corp.", "Peyton v. Fred's Stores of Arkansas, Inc.", "Stanley Kieffer v. CPR Restoration and Cleaning Services, LLC", "Dick v. Dickinson State University"],
+    "statutes": ["RCW 82.02.060 (1)", "RCW 82.02.090 (5)", "RCW 43.21C.240 (2)", "RCW 43.21C.060", "RCW 52.30.020"],
+    "regulations": []
+  },
+  "key_findings": ["Double jeopardy application in labor disputes under Blockburger Rule.", "Impact fees require legislative authority for municipal corporations.", "SEPA mitigation requires substantive SEPA authority established by local legislation.", "PPE training records are necessary for fire protection districts.", "Indefinite leave not permitted under ADA"],
+  "recommendations": [
+    "Thoroughly investigate disciplinary actions before implementing penalties.",
+    "Adopt specific impact fees with legislative authority.",
+    "Ensure fair compensation methods under RCW 52.30.020.",
+    "Maintain PPE training records as required by statute.",
+    "Avoid providing indefinite leave without ADA compliance."
+  ],
+  "metadata_quality": "medium"
+}
+```

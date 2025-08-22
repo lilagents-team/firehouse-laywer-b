@@ -1,0 +1,45 @@
+```json
+{
+  "volume": null,
+  "edition": null,
+  "title": "Frequently Asked Questions",
+  "date": "2006-05-17",
+  "summary": "The newsletter discusses several key legal topics, including the requirements for piggybacking on another agency's bid process under RCW 39.34.030, the necessity of filing interlocal agreements with the county auditor as per RCW 4.96.020, sex discrimination cases in employment affecting female firefighters, FLSA requirements regarding sick leave buy-back funds, and a wrongful termination case involving public policy and employee speech rights.",
+  "keywords": ["Public records", "Interlocal agreements", "Piggybacking", "Fiscal policy", "Sick leave", "Public policy", "First Amendment"],
+  "topics": [
+    "Public Records",
+    "Employment Law",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance"
+  ],
+  "compressed_content": [
+    "Section 1: Discusses piggybacking on another agency's bid process under RCW 39.34.030 and the importance of complying with notice requirements.",
+    "Section 2: Emphasizes filing interlocal agreements with the county auditor as per RCW 4.96.020.",
+    "Section 3: Highlights sex discrimination cases in employment affecting female firefighters.",
+    "Section 4: Discusses FLSA requirements regarding sick leave buy-back funds.",
+    "Section 5: Covers a wrongful termination case involving public policy and employee speech rights."
+  ],
+  "search_text": "Piggybacking on another agency's bid process Public records Interlocal agreements FLSA Sick leave buy-back funds First Amendment sex discrimination employment Public policy",
+  "legal_references": {
+    "cases": [],
+    "statutes": ["RCW 39.34.030", "RCW 39.34.040", "RCW 4.96.020", "FLSA"],
+    "regulations": []
+  },
+  "key_findings": [
+    "The added condition in RCW 39.34.030(5)(b) is often overlooked.",
+    "Filing with the county auditor under RCW 4.96.020 is necessary but not commonly done.",
+    "Separate facilities are required for female firefighters to comply with Title VII.",
+    "Sick leave buy-back funds count in regular rate calculation under FLSA.",
+    "Public employee speech rights may override adverse employment actions if substantial and motivating."
+  ],
+  "recommendations": [
+    "Ensure compliance with notice requirements by posting notices online or in procurement materials.",
+    "Implement a written resolution system to identify agents as required by statute.",
+    "Provide separate facilities for female firefighters to comply with anti-discrimination laws.",
+    "Consult legal counsel regarding the inclusion of sick leave buy-back funds in regular pay calculations.",
+    "Consider public policy rights for employees and avoid adverse actions that could be seen as quid pro quo."
+  ],
+  "metadata_quality": "low"
+}
+```

@@ -1,0 +1,33 @@
+```json
+{
+  "volume": 14,
+  "edition": 12,
+  "title": "First Amendment on Social Media",
+  "date": "2016-12-31",
+  "summary": "The newsletter covers key legal updates including tax resolution cases under Article VII § 5, social media policies in public employment, and employee rights related to religious beliefs. Articles delve into constitutional challenges regarding expenditures from specific tax measures and the implications of nonassociation rights for public employees.",
+  "keywords": ["Article VII § 5", "C-Tran", "Liverman v. City of Petersburg", "RCW 41.56.122", "First Amendment"],
+  "topics": ["Open Government", "Employment Law", "Contract Law"],
+  "compressed_content": [
+    "Tax resolutions subject to Article VII § 5: C-Tran case examined the constitutionality of expenditures from ballot measures.",
+    "Social media policies in public employment: Ruling on Facebook usage and promotion practices.",
+    "Employee nonassociation rights: Emphasis on religious beliefs and mutual agreement with charities."
+  ],
+  "search_text": "Volume 14, Number 12. Fireho Newsletter. December 2016. Tax resolutions, social media policy, employee nonassociation rights. Legal updates including constitutional challenges and employment law cases.",
+  "legal_references": {
+    "cases": ["C-Tran", "Liverman v. City of Petersburg"],
+    "statutes": ["Article VII § 5", "RCW 41.56.122"],
+    "regulations": []
+  },
+  "key_findings": [
+    "Courts interpreted resolutions broadly under Article VII § 5.",
+    "Social media policies must align with First Amendment rights.",
+    "Nonassociation rights depend on mutual agreements with charities."
+  ],
+  "recommendations": [
+    "Conduct audits of tax resolution measures to ensure compliance with constitutional limits.",
+    "Review social media policies for adherence to employment laws and constitutional standards.",
+    "Provide training on employee rights related to religion and nonassociation."
+  ],
+  "metadata_quality": "high"
+}
+```

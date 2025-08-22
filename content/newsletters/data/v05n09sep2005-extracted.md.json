@@ -1,0 +1,40 @@
+```json
+{
+  "volume": 5,
+  "edition": 9,
+  "title": "Firehouse Lawyer",
+  "date": "2005-09-16",
+  "summary": "The newsletter discusses several key legal updates, including discussions on Open Public Meetings Act (OPMA) practices, the requirements for creating public records indexes, penalties for record withholding, interpretations of 'fullest assistance' in a statute, and implications of HB 1758. The document also highlights the importance of proper compliance with OPMA regarding committee meetings and provides insights into new legal developments affecting fire districts.",
+  "keywords": ["Open Public Meetings Act (OPMA)", "Public Records Act (RCW 42.17)", "HB 1758", "Penalties for Withholding Records"],
+  "topics": [
+    "Legal Categories: Open Government, Public Records, Emergency Services"
+  ],
+  "compressed_content": [
+    "Discussions on OPMA practices and public records requirements.",
+    "Statute interpretations regarding 'fullest assistance'.",
+    "HB 1758 implications for record requests.",
+    "Committee meetings' legal implications under OPMA.",
+    "New deskbook on open public records."
+  ],
+  "search_text": "Firehouse Lawyer Volume 5 Number 9 Open Public Meetings Act (OPMA) discussions, Public Records Act (RCW 42.17), HB 1758 amending RCW 42.17, penalties for record withholding, committee meetings and OPMA interpretations, new deskbook on open public records.",
+  "legal_references": {
+    "cases": ["Doe v. Washington State Patrol"],
+    "statutes": ["RCW 42.17.250 et seq.", "RCW 42.17.260", "RCW 4.96.020"]
+  },
+  "key_findings": [
+    "Discussions on OPMA practices and public records requirements.",
+    "Statute interpretations regarding 'fullest assistance'.",
+    "HB 1758 implications for record requests.",
+    "Committee meetings' legal implications under OPMA.",
+    "New deskbook on open public records."
+  ],
+  "recommendations": [
+    "Ensure compliance with OPMA, particularly in committee meetings.",
+    "Create indexes without unduly burdening the agency.",
+    "Review record requests and consider penalties for withholding.",
+    "Adopt best practices guides for public records.",
+    "Comply with HB 1758 requirements."
+  ],
+  "metadata_quality": "high"
+}
+```

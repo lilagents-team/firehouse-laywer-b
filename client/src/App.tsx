@@ -8,6 +8,7 @@ import Navigation from "./components/navigation";
 import Footer from "./components/footer";
 import Home from "./pages/home";
 import Newsletter from "./pages/newsletter";
+import NewsletterDetail from "./pages/newsletter-detail";
 import PracticeAreas from "./pages/practice-areas";
 import Attorneys from "./pages/attorneys";
 import Contact from "./pages/contact";
@@ -67,6 +68,23 @@ function Router() {
         <Switch>
           <Route path="/" component={Home} />
           <Route path="/newsletter" component={Newsletter} />
+          <Route path="/newsletter/v/:volume/:edition" component={NewsletterDetail} />
+          <Route path="/newsletter/:year/:month" component={NewsletterDetail} />
+          <Route path="/newsletter/:slug" component={NewsletterDetail} />
+          <Route path="/Newsletters" component={Newsletter} />
+          <Route path="/Newsletters/:filename" component={({params}) => {
+            // If filename ends with .pdf, trigger download
+            if (params.filename?.endsWith('.pdf')) {
+              window.location.href = `/Newsletters/${params.filename}`;
+              return <div className="min-h-screen bg-urban-gray flex items-center justify-center">
+                <div className="text-white text-xl font-bebas tracking-wider">DOWNLOADING PDF...</div>
+              </div>;
+            }
+            // Otherwise treat as slug (will handle PDF filename fallback via API)
+            return <NewsletterDetail />;
+          }} />
+          <Route path="/Newsletters/v/:volume/:edition" component={NewsletterDetail} />
+          <Route path="/Newsletters/:year/:month" component={NewsletterDetail} />
           <Route path="/practice-areas" component={PracticeAreas} />
           <Route path="/attorneys" component={Attorneys} />
           <Route path="/contact" component={Contact} />

@@ -1,0 +1,39 @@
+```json
+{
+  "volume": "3",
+  "number": "1",
+  "date": "1998-01-31",
+  "title": "Constitutional Questions: The Field of Fire Protection",
+  "summary": "The document discusses ongoing legal debates regarding the application of constitutional rights in fire protection laws, emphasizing the open fields doctrine and its implications. It also addresses updates to the FLSA 7(k) exemption for emergency medical personnel, highlighting the distinction between permissible and non-permissible activities. Key cases like 'K and Q' from Washington State are referenced, along with state constitutional issues.",
+  "keywords": ["Open Government", "Employment Law", "FLSA 7(k)", "Emergency Medical Personnel", "Fire Protection Law"],
+  "topics": [
+    "Open Government",
+    "Employment Law",
+    "Public Law Constellation",
+    "Emergency Medical Personnel",
+    "Fire Protection Law",
+    "Labor Law"
+  ],
+  "compressed_content": [
+    "The open fields doctrine remains a central topic in fire protection law.",
+    "Emergency medical personnel qualify for FLSA 7(k) exemptions based on their job duties.",
+    "State constitutional rights are explored in the context of fire protection laws."
+  ],
+  "search_text": "Constitutional Questions: The Field of Fire Protection, Open Government, Employment Law, Public Law Constellation, Emergency Medical Personnel, Fire Protection Law, Labor Law, United States v. K and Q, WAC 52.12, RCW 7(k) Update",
+  "legal_references": {
+    "cases": ["United States v. K and Q, No. 37 (1984)", "(1967), (1967)"],
+    "statutes": ["52.12", "389.447 U.S. 347 (1984)", "389.466 U.S. (1984)"],
+    "regulations": ["WAC"]
+  },
+  "key_findings": [
+    "The open fields doctrine is still relevant to fire protection law.",
+    "Emergency medical personnel qualify for FLSA 7(k) exemptions based on their job duties.",
+    "State constitutional rights are central to ongoing legal debates."
+  ],
+  "recommendations": [
+    "Fire departments should ensure that all witness testimony is from qualified individuals.",
+    "Agencies should review labor laws and regulations affecting emergency medical personnel in fire protection roles."
+  ],
+  "metadata_quality": "high"
+}
+```

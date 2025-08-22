@@ -100,19 +100,47 @@ backend:
 
 ### Static Hosting Limitations
 
-⚠️ **Backend Features Not Available**:
+⚠️ **Backend Features Not Available on Static Netlify**:
 - Contact form submissions
-- Newsletter subscriptions
+- Newsletter subscriptions  
+- **Newsletter search API** (requires server-side processing)
 - Any API endpoints requiring server-side processing
+
+### Newsletter Search Requirements
+
+The newsletter search system works with pre-processed compressed newsletter files:
+
+**What's Needed:**
+- **Pre-processed Newsletter Files**: 242 compressed .txt/.md files (created externally)
+- **Search API**: Server-side search across compressed content
+- **Caching Layer**: Performance optimization for mobile devices
+- **Index Management**: Static search index from processed files
+
+**Note**: The computationally intensive AI processing is done externally. The website only needs to serve and search the resulting compressed files.
 
 ### Alternative Solutions
 
-For full functionality including backend features:
+For full functionality including newsletter search:
 
-1. **Deploy to Replit** (recommended for development/testing)
-2. **Use Netlify Functions** (requires additional setup)
-3. **Deploy to Vercel/Railway** (full-stack support)
-4. **Use form services** like Netlify Forms or Formspree
+1. **Deploy to Netlify with Functions** (static + search API)
+   - Serve compressed newsletter files statically
+   - Use Netlify Functions for search API
+   - No real-time processing needed
+
+2. **Deploy to Replit** (recommended for development/testing)
+   - Full newsletter search capabilities
+   - Easy file management for compressed newsletters
+   - Simple API endpoint setup
+
+3. **Deploy to Vercel/Railway** (production full-stack)
+   - High-performance search API
+   - Professional hosting environment
+   - Advanced caching capabilities
+
+4. **Hybrid Approach** (Netlify + External API)
+   - Static site on Netlify for content
+   - Separate API server for newsletter search
+   - CDN delivery of compressed newsletter files
 
 ## File Structure After Build
 

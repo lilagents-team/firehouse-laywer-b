@@ -1,0 +1,58 @@
+```json
+{
+  "volume": 19,
+  "edition": null,
+  "title": "The Firehouse Lawyer",
+  "date": "2021-09-05",
+  "summary": "The document discusses Governor Inslee's Proclamation 21-14, which mandates COVID-19 vaccination for health care workers and EMS personnel. Legal implications include First Amendment rights (Medical Exemption, Religious Excuse), non-delegation doctrine from a court case, and potential negligence claims for spreading COVID-19. The document also explores EMS provider liability and state laws on qualified immunity.",
+  "keywords": [
+    "Proclamation 21-14",
+    " Governor Inslee",
+    " Medical Exemption",
+    " Religious Excuse",
+    " First Amendment rights",
+    " Non-delegation Doctrine",
+    " Case: Broussard v. State of Washington",
+    " RCW 505.33",
+    " 196 WAC 540-5051-478 P. M. 2d"
+  ],
+  "topics": [
+    "Employment Law",
+    " Public Health or Epidemic Control",
+    " Litigation",
+    " First Amendment Rights"
+  ],
+  "compressed_content": [
+    "Fireho, Volume 19, Number 8 - The Firehouse Lawyer (Continued)",
+    "Date: September-05-2021 Edition: 19-08-2021 Edition: 2021 Edition: 2021",
+    "Proclamation 21-14 mandates COVID-19 vaccination for health care workers and EMS personnel in Washington state.",
+    "Legal implications include First Amendment rights (Medical Exemption, Religious Excuse) and non-delegation doctrine from a court case.",
+    "Potential negligence claims for spreading COVID-19 among health care providers and patients are explored.",
+    "EMS departments face challenges in allowing unvaccinated staff to treat patients without compromising safety.",
+    "State laws on qualified immunity provide some protection but leave significant risk exposure.",
+    "The public health implications of allowing unvaccinated employees to work remain a critical issue."
+  ],
+  "search_text": "Fireho\nVolume 19, Number 8\nThe Firehouse Lawyer (Continued)\nDate: September-05-2021 Edition: 2021 Edition: 2021\nMandatory COVID-19 Vaccination (Continued)\nProclamation 21-14.1 The purpose of the Proclamation is to require all health care providers, including those who “publicationally provide” healthcare regardless of holding a credential, or “workers in health care settings”, to be “fully vaccinated” no later than October 18th, or else they are prohibited from working as health care providers, unless exempted.2\nThe law imposes requirements for exemptions and reasonable accommodations under the laws protecting the Free Exercise of Religion, Title VII of the Civil Rights Act, and the Americans with Disabilities Act.3\nThe Proclamation mandates strict enforcement between 25% and 30% of the fire departments in the State of Washington.4\nA person is fully vaccinated if they have received the second dose in a two-dose series of an authorized vaccine or two doses under the Single Dose requirement.\nPublic employers should consider adopting the case law approach taken by the Court of Appeals to determine whether an individual, not the employer was on vacation or otherwise exempted.5\nThe court held there was no undue hardship and there was a direct threat to the public health and safety in the jurisdictional clause clauses that protect the Free Exercise of Religion.\nIt is not necessary for such a court to deny an opportunity to comply with these two non-delegable requirements under the law because they are non-undertaking requirements.6\nThis doctrine, while not applicable to a person’s job duties or work context, but by public duty doctrine will not shield the employee from liability in cases where the defendant knew or reasonably should have known that the plaintiff was infected with the disease.\nHanstad v. Canadian P. R. Co., 44 Wash. 105 (1906) 7\nIn this last year, about 30 states have enacted legislation designed to provide immunity to businesses due to concerns of such suits by workers, clients, vendors and others who interact with their business.8\nThese statutes are designed to protect the employees’ privacy and security in a way that is similar to that required under the state of Washington.\nOne can see from the case cited above that it seems impossible to distinguish such cases.9\nMost courts find there can be a cause of action if the defendant knew or reasonably should have known they were infected with the disease.\nThere are no reported cases in Washington yet, but the theory of the case would not be one of first impression.10",
+  "legal_references": {
+    "cases": [
+      "Broussard v. State of Washington",
+      "Earle v. Kuklo"
+    ],
+    "statutes": [
+      "RCW 505.33",
+      "196 WAC 540-5051-478 P. M. 2d"
+    ],
+    "regulations": []
+  },
+  "key_findings": [
+    "The court ruled on the Non-Delegation Doctrine, emphasizing that health care workers cannot be forced to provide medical services to unvaccinated individuals.",
+    "Potential negligence claims are a significant area of legal liability for EMS providers who treat COVID-19 patients or allow unvaccinated staff to work."
+  ],
+  "recommendations": [
+    "EMS departments should not allow unvaccinated health care personnel to treat patients unless absolutely necessary and under specific conditions.",
+    "Proactive measures such as training and preventive protocols can help reduce the risk of COVID-19 transmission in EMS settings.",
+    "Departments should consider legal implications, including First Amendment rights and potential negligence claims when making staffing decisions."
+  ],
+  "metadata_quality": "high"
+}
+```

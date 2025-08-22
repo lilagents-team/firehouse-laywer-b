@@ -1,0 +1,29 @@
+```json
+{
+  "volume": 2,
+  "edition": 5,
+  "title": "Formulating and Implementing Policies",
+  "date": null,
+  "summary": "The newsletter discusses the Open Public Records Act (OPRA) under Washington State law, emphasizing access to records unless exempted by statute or regulation. Key updates include RCW 402.5-18 through 402.5-36 and the impact of state laws on record access.",
+  "keywords": ["Open Public Records Act (OPRA)", "records", "exemptions", "state laws"],
+  "topics": ["Legal Updates", "Access to Records", "Open Government"],
+  "compressed_content": [
+    "RCW 402.5-18 through 402.5-36 allow access to records unless exempted.",
+    "Exemptions for records accessed under state law.",
+    "Impact of Washington State Open Public Records Act on record access."
+  ],
+  "search_text": "Open Public Records Act (OPRA) records exemptions state laws",
+  "legal_references": {
+    "statutes": ["RCW 402.5-18 through 402.5-36", "Washington State Open Public Records Act"]
+  },
+  "key_findings": [
+    "Details on access to public records under OPRA.",
+    "Exemptions and their implications for record accessibility."
+  ],
+  "recommendations": [
+    "Fire departments should ensure compliance with state laws regarding access to public records.",
+    "Proper documentation and exemptions processes are crucial for record access under OPRA."
+  ],
+  "metadata_quality": "high"
+}
+```

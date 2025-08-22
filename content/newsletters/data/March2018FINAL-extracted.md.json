@@ -1,0 +1,41 @@
+```json
+{
+  "volume": 16,
+  "edition": 3,
+  "title": "Firehouse Legal Newsletter: March 2018 - Updates on Public Practice, Employment Law, and More",
+  "date": "2018-03-01",
+  "summary": "The newsletter covers updates on the Fair Chance Act, changes to sick leave regulations affecting fire departments, a case note on marijuana retail sales, and a safety bill impacting emergency services.",
+  "keywords": ["Fair Chance Act", "sick leave", "rcw 49.60", "wildland firefighters", "FOIA case"],
+  "topics": [
+    "Employment Law",
+    "Public Records",
+    "Fire Department",
+    "Emergency Services",
+    "Contract Law"
+  ],
+  "compressed_content": [
+    "The Fair Chance Act prohibits background checks for public employees.",
+    "Sick leave regulations now require one hour of accrued sick leave per 40 hours worked, but do not apply to fire departments.",
+    "Wildland firefighters are exempt from the new sick leave requirements.",
+    "Emergency safety standards now include incident command management.",
+    "FOIA case ruled in favor of Clark County on marijuana retail sales."
+  ],
+  "search_text": "Firehouse Lawyer March 2018 Legal Newsletter - Fair Chance Act updates, sick leave changes for fire departments, FOIA marijuana case, safety bill impacts",
+  "legal_references": {
+    "cases": ["Clark County v. Emerald Enterprises"],
+    "statutes": ["HB 1298", "RCW 49.60", "RCW 49.46"],
+    "regulations": []
+  },
+  "key_findings": [
+    "The Fair Chance Act prohibits background checks for public employees.",
+    "Sick leave regulations now require one hour of accrued sick leave per 40 hours worked, but do not apply to fire departments.",
+    "Wildland firefighters are exempt from the new sick leave requirements.",
+    "Emergency safety standards now include incident command management."
+  ],
+  "recommendations": [
+    "Fire departments should remove background checks under certain conditions as required by the Fair Chance Act.",
+    "Ensure compliance with updated sick leave regulations, particularly for fire departments and wildland firefighters."
+  ],
+  "metadata_quality": "high"
+}
+```

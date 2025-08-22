@@ -1,0 +1,35 @@
+```json
+{
+  "volume": null,
+  "edition": null,
+  "title": "Firehouse Lawyer",
+  "date": null,
+  "summary": "The document discusses Initiative 695's impact on fire departments and its constitutional defects. It highlights potential legal implications, including FLSA concerns for firefighters and the need for proactive measures to avoid budgetary issues.",
+  "keywords": ["Legal Issues", "Public Safety", "Financial Planning"],
+  "topics": ["Legal Issues (Employment)", "Public Safety (Fire Department)", "Financial Planning (Budget & Finance)"],
+  "compressed_content": [
+    "Initiative 695 proposes tax increases on fire departments.",
+    "It risks constitutional defects and impacts local governments.",
+    "FLSA implications for firefighters' overtime pay.",
+    "Potential constitutional challenges include overruling existing laws."
+  ],
+  "search_text": "Morse v. Wise, 37 Wn.2d 214 (1951) ; Initiative 695 -- Its Effects and its Defects\n1 Initiative 695 -- Its Effects and its Defects (continued)\n...",
+  "legal_references": {
+    "cases": ["Morse v. Wise, 37 Wn.2d 214 (1951)", "King County v. 52.04.100, 123 Wn.2d 84.00",
+              "K-695 v. 47.0L55 RCW 52.18.100", "K-695 v. 47.0L55 RCW 84.00"],
+    "statutes": ["RCW 52.04.100", "RCW 52.04.130", "RCW 52.18.100"],
+    "regulations": ["Morse v. Wise (1951)", "DOL guidance on FLSA overtime"]
+  },
+  "key_findings": [
+    "Initiative 695's definition of 'tax' is broad.",
+    "Potential constitutional defects render it unconstitutional.",
+    "FLSA implications for firefighters include potential overtime pay requirements."
+  ],
+  "recommendations": [
+    "Fire departments should conduct a legal review of Initiative 695.",
+    "Preventive measures like regular employee assessments are advised.",
+    "Avoid budgetary risks by ensuring compliance with existing laws."
+  ],
+  "metadata_quality": "medium"
+}
+```

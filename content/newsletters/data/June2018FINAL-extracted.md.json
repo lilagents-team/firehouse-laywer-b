@@ -1,0 +1,36 @@
+```json
+{
+  "volume": 16,
+  "edition": null,
+  "title": "Fire Department Legal Updates",
+  "date": "2018-06-01",
+  "summary": "The newsletter covers an upcoming municipal roundtable, significant legal opinions on fire district bid laws and their implications for procurement processes, analysis of best value criteria in public contracting, a new wildland fire safety bill, and a disclaimer at the end.",
+  "keywords": ["Municipal Roundtable", "Bid Law Opinion", "Wildland Fire Safety Bill"],
+  "topics": ["Emergency Services", "Contract Law"],
+  "compressed_content": [
+    "1. Municipal Roundtable scheduled for June 29, discussing employment law and Janus decision implications.",
+    "2. Legal opinion on fire district bid laws interpreting RCW 52.14.110 to broaden procurement criteria beyond lowest bidder.",
+    "3. Analysis of best value criteria in non-public works purchasing contracts.",
+    "4. Introduction of a wildland fire safety bill with specific requirements for piggyback purchases.",
+    "Disclaimer at the end."
+  ],
+  "search_text": "Volume 16, Number Six\nFirehouse Lawyer newsletter\nMunicipal Roundtable\nAG Opinion on Fire District Bid Law\nWildland Fire Safety Bill\nBest Value Criteria in Procurement\nPiggyback Purchasing Contracts",
+  "legal_references": {
+    "cases": ["Butler v. Federal Way School District"],
+    "statutes": ["RCW 52.14.110", "RCW 39.26.160", "RCW 39.34.030"],
+    "regulations": []
+  },
+  "key_findings": [
+    "Municipal Roundtable on June 29 focusing on employment law and Janus decision implications.",
+    "Legal opinion expanding fire district procurement criteria beyond lowest bidder.",
+    "Analysis of best value criteria application in non-public works contracts.",
+    "Wildland fire safety bill with specific purchase requirements."
+  ],
+  "recommendations": [
+    "Fire departments should consider incorporating best value criteria into their procurement processes.",
+    "Ensure compliance with public procurement regulations and common law principles to avoid fraud or collusion.",
+    "Review existing procurement policies to align with these legal considerations."
+  ],
+  "metadata_quality": "high"
+}
+```

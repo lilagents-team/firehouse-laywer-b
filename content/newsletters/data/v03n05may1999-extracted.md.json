@@ -1,0 +1,52 @@
+```json
+{
+  "volume": 3,
+  "edition": 5,
+  "title": "FIREHOUSE v. PERMISSIONS",
+  "date": "1999-05-31",
+  "summary": "The document discusses legal issues affecting public employees, including cases related to privacy rights under the Americans with Disabilities Act (ADA), Family and Medical Leave Act (FMLA), and Fair Credit Reporting Act. It also explores employment law concerns such as medical records, ADA accommodations, and employee protections.",
+  "keywords": [
+    "Americans with Disabilities Act",
+    "Family and Medical Leave Act (FMLA)",
+    "Fair Credit Reporting Act",
+    "Public Employees",
+    "Medical Records",
+    "Employee Privacy Rights"
+  ],
+  "topics": ["Employment Law"],
+  "compressed_content": [
+    "1. Public employees' privacy rights are protected under certain statutes.",
+    "2. ADA accommodations must be provided for disabled workers.",
+    "3. Medical records and benefits can be restricted under specific circumstances.",
+    "4. Employers must comply with legal requirements regarding employee documentation.",
+    "5. Privacy rights extend to medical information in certain cases."
+  ],
+  "search_text": "FIREHOUSE v. PERMISSIONS Public Employees' privacy rights Americans with Disabilities Act Family and Medical Leave Act (FMLA) Fair Credit Reporting Act employment law ADA accommodations medical records employee privacy rights public employees",
+  "legal_references": {
+    "cases": [
+      "IAFF Local 3",
+      "SE Law",
+      "Fair Credit Reporting Act",
+      "Family and Medical Leave Act"
+    ],
+    "statutes": [
+      "RCW 42.17",
+      "5081 (1999)",
+      "42.17, the federal",
+      "Fair Credit Reporting Act"
+    ],
+    "regulations": []
+  },
+  "key_findings": [
+    "Public employees' privacy rights are protected under certain statutes.",
+    "ADA accommodations must be provided for disabled workers.",
+    "Medical records and benefits can be restricted under specific circumstances."
+  ],
+  "recommendations": [
+    "Fire departments and agencies should maintain detailed employee records to comply with privacy laws.",
+    "Agencies should seek legal counsel when implementing ADA accommodations or leave policies.",
+    "Compliance with specific regulations regarding employee documentation is essential for workplace safety and legal obligations."
+  ],
+  "metadata_quality": "medium"
+}
+```

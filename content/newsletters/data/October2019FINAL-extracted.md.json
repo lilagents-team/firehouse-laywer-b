@@ -1,0 +1,34 @@
+```json
+{
+  "volume": 17,
+  "edition": 10,
+  "title": "Important Public Records Act Case - Standing Public Records Requests",
+  "date": "2019-10-01",
+  "summary": "The Washington Supreme Court ruled on a significant public records act case, emphasizing the application of temporal exemptions and the handling of redacted records in multi-installment requests.",
+  "keywords": ["public records act", "temporal exemption", "ron gipson v. snohomish county"],
+  "topics": ["Public Records"],
+  "compressed_content": [
+    "Volume 17, Number 10",
+    "October 2019 Public Records Act Case: 'Standing Public Records Requests'",
+    "Gipson v. Snohomish County (2019) ruling on temporal exemptions",
+    "Agency must clearly state exemption at request time to avoid standing issues",
+    "Public records remain accessible even if exemption expires during installment period"
+  ],
+  "search_text": "Volume 17, Number 10 public records act case standing public records requests Gipson Snohomish County 2019",
+  "legal_references": {
+    "cases": ["Ron Gipson v. Snohomish County (2019)"],
+    "statutes": ["RCW 42.56.250"]
+  },
+  "key_findings": [
+    "The Washington Supreme Court ruled on a temporal exemption case in Ron Gipson v. Snohomish County (2019)",
+    "Agency must clearly state the exemption at the time of request",
+    "Public records remain accessible even if exemption expires during installment period"
+  ],
+  "recommendations": [
+    "Fire departments and agencies should clearly state their exemptions at the time of a public records request to avoid standing issues with subsequent requests",
+    "Review and update policies on temporal exemptions to ensure compliance with court rulings",
+    "Ensure transparency in record handling practices to maintain public trust"
+  ],
+  "metadata_quality": "high"
+}
+```

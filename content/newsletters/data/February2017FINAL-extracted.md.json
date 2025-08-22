@@ -1,0 +1,40 @@
+```json
+{
+  "volume": 15,
+  "edition": 2,
+  "title": "The Firehouse Lawyer Newsletter",
+  "date": "2017-02-01",
+  "summary": "This newsletter highlights key legal updates, including the Open Public Meeting Act (OPMA) implications for fire departments, firefighter occupational disease presumptions under state law, changes to local property tax levies affecting junior districts and EMS services, and safety checklist updates.",
+  "keywords": ["Open Public Meeting Act", "Fire Department", "Employment Law", "Public Finance", "Local Levy Support", "Property Tax", "Fire Safety"],
+  "topics": [
+    "Legal Clean Sheets",
+    "Employment Law",
+    "Public Finance",
+    "Employment Law",
+    "Public Finance",
+    "Legal Clean Sheets"
+  ],
+  "compressed_content": [
+    "OPMA implications require fire departments to conduct substantive meetings.",
+    "Firefighters' presumptions of occupational disease are legally protected under state law.",
+    "Local property tax levies may exceed constitutional limits, affecting EMS and fire districts.",
+    "Safety checklist updates provide guidance for fire department safety programs."
+  ],
+  "search_text": "Open Public Meeting Act employment law public finance local levy support property tax fire department safety checklist",
+  "legal_references": {
+    "cases": ["West v. Pierce County"],
+    "statutes": ["RCW 42.30.030", "RCW 51.32.185", "RCW 51.32.185 (1)", "RCW 84.52.050", "SSB 5607"],
+    "regulations": []
+  },
+  "key_findings": [
+    "OPMA requires fire departments to conduct substantive meetings.",
+    "Firefighters' presumptions of occupational disease are protected under state law.",
+    "Local levies may exceed constitutional limits, affecting EMS and fire districts."
+  ],
+  "recommendations": [
+    "Conduct safety audits for compliance with new regulations.",
+    "Ensure local tax levies comply with statutory limits to avoid financial strain on departments."
+  ],
+  "metadata_quality": "high"
+}
+```

@@ -1,0 +1,32 @@
+```json
+{
+  "volume": 15,
+  "edition": 7,
+  "title": "Changes to the Public Records Act and Safety Bill Updates",
+  "date": "2017-07-01",
+  "summary": "The newsletter outlines changes to the Public Records Act, requiring public agencies to maintain logs of public records requests. It also introduces new rules for electronic record copying fees under certain conditions. Additionally, updates to the 'two in, two out' safety regulation are discussed, allowing three-person teams under specific immediately life-threatening conditions.",
+  "keywords": ["Public Records Act", "Washington State Public Records Act (WSPR)", "Electronic Record Costs", "Two-in-Two-out Safety Regulation"],
+  "topics": ["Open Government", "Emergency Services", "Public Records"],
+  "compressed_content": [
+    "Changes to the Public Records Act require public agencies to maintain logs of public records requests.",
+    "New rules introduced for electronic record copying fees under certain conditions.",
+    "Updates to the 'two in, two out' safety regulation allow three-person teams under specific immediately life-threatening conditions."
+  ],
+  "search_text": "Changes to the Public Records Act Volume 15 Number Seven July 2017. Fireho Newsletter. Public records act changes include new requirements for logging public records requests and electronic record copying fees.",
+  "legal_references": {
+    "cases": [],
+    "statutes": ["RCW 42.56", "EHB 1595"],
+    "regulations": ["WAC 296-305"]
+  },
+  "key_findings": [
+    "New requirements for logging public records requests implemented by public agencies.",
+    "Introduction of new rules governing electronic record copying fees.",
+    "Updates to the 'two in, two out' safety regulation."
+  ],
+  "recommendations": [
+    "Implement logging systems for public records requests as per updated statutory requirements.",
+    "Establish written charges for electronic record copying under specified conditions outlined in recent legislative changes."
+  ],
+  "metadata_quality": "high"
+}
+```

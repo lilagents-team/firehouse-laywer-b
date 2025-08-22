@@ -1,0 +1,41 @@
+```json
+{
+  "volume": 5,
+  "edition": 10,
+  "title": "Firehouse Lawyer",
+  "date": "2005-10-15",
+  "summary": "The newsletter discusses legal updates on surplus property disposal, discrimination and harassment laws, communication site leases, public funds usage, and provides actionable recommendations for fire protection districts.",
+  "keywords": ["Surplus Property", "Discrimination", "Harassment", "RCW", "Public Funds"],
+  "topics": [
+    "Emergency Services",
+    "Employment Law",
+    "Public Records",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "compressed_content": [
+    "Firehouse Lawyer: Volume 5, Number 10\nOctober 15, 2005\n\nJoseph F. Quinn discusses surplus property disposal methods for fire protection districts.\n\nI wrote an article on communication site leases for the Firehouse Lawyer in September 1998.\n\nThe ninth U.S. Circuit Court of Appeals decision has changed how harassment claims are analyzed.\n\nNew assistant executive director case highlights expanded harassment claims under Title VII.",
+    "Client tips on surplus property disposal procedures and lease agreements.\n\nGuidelines for using public funds during elections clarified in RCW 12.17.310.",
+    "Recommendations for fire departments to follow specific surplus property disposal procedures."
+  ],
+  "search_text": "Firehouse Lawyer Volume 5 Number 10 October 15 2005 Joseph F. Quinn surplus property discrimination harassment communication site leases public funds usage legal updates recommendations",
+  "legal_references": {
+    "cases": ["U.S. Circuit Court of Appeals, Ninth Circuit"],
+    "statutes": ["RCW 39.33.020", "RCW 12.17.310"],
+    "regulations": []
+  },
+  "key_findings": [
+    "Guidelines for surplus property disposal and dealing with personal property.",
+    "Impact of harassment claims on discrimination laws in Title VII.",
+    "Public funds usage restrictions during elections."
+  ],
+  "recommendations": [
+    "Adopt specific procedures for surplus real and personal property disposal.",
+    "Be cautious with public funds, especially before elections.",
+    "Consult legal counsel regarding harassment claims."
+  ],
+  "metadata_quality": "high"
+}
+```

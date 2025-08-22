@@ -1,0 +1,28 @@
+```json
+{
+  "volume": null,
+  "edition": null,
+  "title": "Union Activities at Work and Legal Implications",
+  "date": "2005-07-15",
+  "summary": "The document discusses a legal decision regarding union activities in the firehouse context. The court ruled against union claims, emphasizing the illegality of using public facilities and release time for union activities under specific statutory provisions like RCW 41.56.140. Key findings include restrictions on release time and the prohibition of assisting unions without a valid contract or past practice.",
+  "keywords": ["union activities", "public property", "release time", "statute RCW 41.56.140", "KGHJ"],
+  "topics": ["Employment Law", "Litigation"],
+  "compressed_content": [
+    "The decision discusses union activities in the firehouse context.",
+    "The court ruled against union claims.",
+    "Emphasizes illegality of public property use and release time for union activities.",
+    "Specifically addresses RCW 41.56.140 provisions.",
+    "Includes restrictions on release time and contract-based practices."
+  ],
+  "search_text": "Firehouse Lawyer July 15, 2005 legal decision union activities public property release time statute KGHJ",
+  "legal_references": {
+    "cases": ["KGHJ"],
+    "statutes": ["RCW 41.56.140"]
+  },
+  "key_findings": ["The court ruled against union claims.", "Emphasizes illegality of public property use and release time for union activities.", "Specifically addresses RCW 41.56.140 provisions."],
+  "recommendations": ["Fire departments should review existing practices regarding release time and public property use to ensure compliance with labor relations laws and prevent ULP allegations.",
+                      "Agencies must ensure that any funding or use of union activities complies with statutory restrictions.",
+                      "Engage legal counsel to explore contract language and past practices for potential violations of RCW 41.56.140."],
+  "metadata_quality": "high"
+}
+```

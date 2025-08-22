@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Newsletter Search Demo - Firehouse Lawyer</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'urban-dark': '#1a1a1a',
+                        'urban-medium': '#2d2d2d',
+                        'urban-gray': '#404040',
+                        'neon-orange': '#ff6b35',
+                        'fire-navy': '#1e3a8a',
+                        'warm-gray': '#9ca3af'
+                    },
+                    fontFamily: {
+                        'bebas': ['Bebas Neue', 'Arial Black', 'sans-serif'],
+                        'montserrat': ['Montserrat', 'sans-serif']
+                    }
+                }
+            }
+        }
+    </script>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/lucide/0.263.1/lucide.min.css" rel="stylesheet">
+    <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script>
+    <style>
+        .text-shadow-gritty {
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
+        }
+        .urban-grid {
+            background-image: 
+                linear-gradient(90deg, rgba(255,107,53,0.1) 1px, transparent 1px),
+                linear-gradient(rgba(255,107,53,0.1) 1px, transparent 1px);
+            background-size: 20px 20px;
+        }
+        .urban-concrete {
+            background-image: 
+                radial-gradient(circle at 25% 25%, rgba(255,107,53,0.1) 1px, transparent 1px),
+                radial-gradient(circle at 75% 75%, rgba(255,107,53,0.05) 1px, transparent 1px);
+            background-size: 40px 40px;
+        }
+        .distressed-border {
+            border-image: linear-gradient(45deg, #ff6b35, #ff6b35, transparent, #ff6b35) 1;
+        }
+        .urban-shadow-lg {
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3), 0 4px 6px -2px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body class="bg-urban-gray">
+    <!-- Header -->
+    <div class="bg-urban-dark py-16 urban-grid">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h1 class="text-4xl lg:text-6xl font-bebas font-bold text-white mb-4 tracking-wider text-shadow-gritty">OUR NEWSLETTER</h1>
+            <p class="text-xl text-gray-200 font-montserrat">Stay updated on laws impacting fire departments and other public agencies.</p>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 bg-urban-gray urban-concrete min-h-screen">
+        <div class="lg:grid lg:grid-cols-3 lg:gap-12">
+            <div class="lg:col-span-2">
+                <!-- Latest Issue -->
+                <div class="p-8 mb-8 bg-urban-medium border-2 border-neon-orange rounded-lg urban-shadow-lg">
+                    <div class="flex items-start justify-between mb-6">
+                        <div>
+                            <h2 class="text-2xl lg:text-3xl font-bebas font-bold text-white mb-4 tracking-wider text-shadow-gritty">
+                                LATEST ISSUE - VOLUME 25, EDITION 7
+                            </h2>
+                            <p class="text-gray-200 font-montserrat text-lg">
+                                Special-Meeting Notices Are Key
+                            </p>
+                        </div>
+                        <div class="flex flex-col gap-2">
+                            <span class="bg-neon-orange text-black px-2 py-1 text-sm font-bold rounded">NEW</span>
+                        </div>
+                    </div>
+                    <p class="text-gray-100 mb-4 leading-relaxed font-montserrat">
+                        This month's newsletter covers critical updates for fire service administrators and commissioners. We examine recent OPMA cases that clarify requirements for special meeting notices, ensuring your agency maintains compliance with transparency laws.
+                    </p>
+                    
+                    <!-- Keywords and Topics -->
+                    <div class="mb-6">
+                        <div class="flex flex-wrap gap-2 mb-3">
+                            <span class="border border-gray-600 text-gray-300 px-2 py-1 text-xs rounded">OPMA</span>
+                            <span class="border border-gray-600 text-gray-300 px-2 py-1 text-xs rounded">special meetings</span>
+                            <span class="border border-gray-600 text-gray-300 px-2 py-1 text-xs rounded">transparency</span>
+                            <span class="border border-gray-600 text-gray-300 px-2 py-1 text-xs rounded">fire service</span>
+                            <span class="border border-gray-600 text-gray-300 px-2 py-1 text-xs rounded">compliance</span>
+                        </div>
+                        <div class="flex flex-wrap gap-2">
+                            <span class="bg-fire-navy text-white px-2 py-1 text-xs rounded">Open Government</span>
+                            <span class="bg-fire-navy text-white px-2 py-1 text-xs rounded">Public Meetings</span>
+                            <span class="bg-fire-navy text-white px-2 py-1 text-xs rounded">Legal Compliance</span>
+                        </div>
+                    </div>
+
+                    <div class="flex flex-col sm:flex-row gap-4">
+                        <button class="bg-neon-orange text-white px-4 py-2 rounded hover:bg-red-600 transition-colors">
+                            📥 Read Full Issue (PDF)
+                        </button>
+                        <button class="border border-neon-orange text-white px-4 py-2 rounded hover:bg-red-600 transition-colors">
+                            🔗 View Compressed Content
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Newsletter Archive -->
+                <div class="p-8 bg-urban-medium border-2 border-neon-orange rounded-lg urban-shadow-lg">
+                    <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-6 gap-4">
+                        <h3 class="text-2xl font-bebas font-bold text-white tracking-wider text-shadow-gritty">NEWSLETTER ARCHIVE</h3>
+                        <div class="relative w-full sm:w-auto sm:min-w-[300px]">
+                            <input 
+                                type="text" 
+                                placeholder="Search archive..." 
+                                class="w-full pl-10 pr-4 py-2 bg-urban-dark border border-gray-600 text-white rounded focus:border-neon-orange outline-none"
+                                id="searchInput"
+                                onkeyup="filterNewsletters()"
+                            >
+                            <span class="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400">🔍</span>
+                        </div>
+                    </div>
+                    <div class="space-y-4" id="newsletterList">
+                        <!-- Newsletter 1 - Clean -->
+                        <div class="newsletter-item bg-urban-dark rounded-lg p-4 border border-gray-600 hover:border-neon-orange transition-colors cursor-pointer">
+                            <div class="flex items-start justify-between mb-2">
+                                <div class="flex-1">
+                                    <div class="flex items-center gap-2 mb-1">
+                                        <h4 class="font-semibold text-white hover:text-neon-orange transition-colors">
+                                            Open Investigations and Employee Privacy
+                                        </h4>
+                                    </div>
+                                    <p class="text-xs text-gray-400 mb-2">
+                                        Volume 13, Edition 4 • 4/1/2015
+                                    </p>
+                                </div>
+                                <div class="flex items-center gap-2">
+                                    <span class="text-white">📥</span>
+                                    <span class="text-gray-400">🔗</span>
+                                </div>
+                            </div>
+                            
+                            <p class="text-sm text-gray-300 hover:text-gray-100 transition-colors mb-3">
+                                Supreme Court ruling in Predisik v. Spokane School District clarifies that public records revealing ongoing investigations (but not specific allegations) are not exempt from disclosure under employee privacy protections.
+                            </p>
+                            
+                            <!-- Keywords -->
+                            <div class="flex flex-wrap gap-1 mb-2">
+                                <span class="border border-gray-600 text-gray-400 px-2 py-1 text-xs rounded">Predisik</span>
+                                <span class="border border-gray-600 text-gray-400 px-2 py-1 text-xs rounded">Public Records Act</span>
+                                <span class="border border-gray-600 text-gray-400 px-2 py-1 text-xs rounded">employee privacy</span>
+                                <span class="border border-gray-600 text-gray-400 px-2 py-1 text-xs rounded">investigations</span>
+                            </div>
+                            
+                            <!-- Topics -->
+                            <div class="flex flex-wrap gap-1">
+                                <span class="bg-fire-navy text-white px-2 py-1 text-xs rounded">Public Records</span>
+                                <span class="bg-fire-navy text-white px-2 py-1 text-xs rounded">Employment Law</span>
+                                <span class="bg-fire-navy text-white px-2 py-1 text-xs rounded">Privacy Rights</span>
+                            </div>
+                        </div>
+
+                        <!-- Newsletter 2 - Corrupted -->
+                        <div class="newsletter-item bg-urban-dark rounded-lg p-4 border border-gray-600 hover:border-neon-orange transition-colors cursor-pointer">
+                            <div class="flex items-start justify-between mb-2">
+                                <div class="flex-1">
+                                    <div class="flex items-center gap-2 mb-1">
+                                        <h4 class="font-semibold text-white hover:text-neon-orange transition-colors">
+                                            Open Government Trainings Act Requirements [PARTIAL - CORRUPTED]
+                                        </h4>
+                                        <span class="bg-red-600 text-white px-2 py-1 text-xs rounded flex items-center gap-1">
+                                            ⚠️ CORRUPTED
+                                        </span>
+                                    </div>
+                                    <p class="text-xs text-gray-400 mb-2">
+                                        Volume 12, Edition 2 • 6/1/2014
+                                    </p>
+                                </div>
+                                <div class="flex items-center gap-2">
+                                    <span class="text-white">📥</span>
+                                    <span class="text-gray-400">🔗</span>
+                                </div>
+                            </div>
+                            
+                            <p class="text-sm text-gray-300 hover:text-gray-100 transition-colors mb-3">
+                                Newsletter discusses new Open Government Trainings Act requiring training for elected officials on OPMA and PRA. Content partially corrupted due to 3-column layout conversion issues.
+                            </p>
+                            
+                            <!-- Keywords -->
+                            <div class="flex flex-wrap gap-1 mb-2">
+                                <span class="border border-gray-600 text-gray-400 px-2 py-1 text-xs rounded">Open Government Trainings Act</span>
+                                <span class="border border-gray-600 text-gray-400 px-2 py-1 text-xs rounded">OPMA</span>
+                                <span class="border border-gray-600 text-gray-400 px-2 py-1 text-xs rounded">training</span>
+                                <span class="border border-gray-600 text-gray-500 px-2 py-1 text-xs rounded">+2 more</span>
+                            </div>
+                            
+                            <!-- Topics -->
+                            <div class="flex flex-wrap gap-1 mb-3">
+                                <span class="bg-fire-navy text-white px-2 py-1 text-xs rounded">Open Government</span>
+                                <span class="bg-fire-navy text-white px-2 py-1 text-xs rounded">Training Requirements</span>
+                            </div>
+
+                            <!-- Corruption Warning -->
+                            <div class="p-2 bg-red-900/20 border border-red-600/30 rounded text-xs text-red-400">
+                                <strong>Corruption Notes:</strong> Severe 3-column to 2-column conversion corruption detected: garbled text sequences, incomplete headers, broken article flow. Recommend regeneration from original PDF.
+                            </div>
+                        </div>
+
+                        <!-- Newsletter 3 - Clean -->
+                        <div class="newsletter-item bg-urban-dark rounded-lg p-4 border border-gray-600 hover:border-neon-orange transition-colors cursor-pointer">
+                            <div class="flex items-start justify-between mb-2">
+                                <div class="flex-1">
+                                    <div class="flex items-center gap-2 mb-1">
+                                        <h4 class="font-semibold text-white hover:text-neon-orange transition-colors">
+                                            Special-Meeting Notices Are Key
+                                        </h4>
+                                    </div>
+                                    <p class="text-xs text-gray-400 mb-2">
+                                        Volume 25, Edition 7 • 7/15/2025
+                                    </p>
+                                </div>
+                                <div class="flex items-center gap-2">
+                                    <span class="text-white">📥</span>
+                                    <span class="text-gray-400">🔗</span>
+                                </div>
+                            </div>
+                            
+                            <p class="text-sm text-gray-300 hover:text-gray-100 transition-colors mb-3">
+                                Critical updates for fire service administrators and commissioners on OPMA special meeting requirements and compliance with transparency laws.
+                            </p>
+                            
+                            <!-- Keywords -->
+                            <div class="flex flex-wrap gap-1 mb-2">
+                                <span class="border border-gray-600 text-gray-400 px-2 py-1 text-xs rounded">OPMA</span>
+                                <span class="border border-gray-600 text-gray-400 px-2 py-1 text-xs rounded">special meetings</span>
+                                <span class="border border-gray-600 text-gray-400 px-2 py-1 text-xs rounded">transparency</span>
+                                <span class="border border-gray-600 text-gray-400 px-2 py-1 text-xs rounded">compliance</span>
+                            </div>
+                            
+                            <!-- Topics -->
+                            <div class="flex flex-wrap gap-1">
+                                <span class="bg-fire-navy text-white px-2 py-1 text-xs rounded">Open Government</span>
+                                <span class="bg-fire-navy text-white px-2 py-1 text-xs rounded">Public Meetings</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Sidebar -->
+            <div class="mt-12 lg:mt-0 space-y-8">
+                <!-- Newsletter Benefits -->
+                <div class="p-8 bg-urban-medium border-2 border-neon-orange rounded-lg urban-shadow-lg">
+                    <h3 class="text-2xl font-bebas font-bold text-white mb-4 tracking-wider text-shadow-gritty">WHAT YOU'LL GET</h3>
+                    <ul class="space-y-3">
+                        <li class="flex items-start space-x-3">
+                            <span class="text-neon-orange mt-0.5">✓</span>
+                            <span class="text-gray-100 font-montserrat">Monthly legal updates</span>
+                        </li>
+                        <li class="flex items-start space-x-3">
+                            <span class="text-neon-orange mt-0.5">✓</span>
+                            <span class="text-gray-100 font-montserrat">Case law analysis</span>
+                        </li>
+                        <li class="flex items-start space-x-3">
+                            <span class="text-neon-orange mt-0.5">✓</span>
+                            <span class="text-gray-100 font-montserrat">Legislative changes</span>
+                        </li>
+                        <li class="flex items-start space-x-3">
+                            <span class="text-neon-orange mt-0.5">✓</span>
+                            <span class="text-gray-100 font-montserrat">Best practices guidance</span>
+                        </li>
+                        <li class="flex items-start space-x-3">
+                            <span class="text-neon-orange mt-0.5">✓</span>
+                            <span class="text-gray-100 font-montserrat">AI-powered search across 242 historical issues</span>
+                        </li>
+                        <li class="flex items-start space-x-3">
+                            <span class="text-neon-orange mt-0.5">✓</span>
+                            <span class="text-gray-100 font-montserrat">Mobile-optimized newsletter archive</span>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Search Statistics -->
+                <div class="p-6 bg-urban-dark border border-gray-600 rounded-lg">
+                    <h4 class="text-lg font-bebas font-bold text-white mb-3 tracking-wider">ARCHIVE STATISTICS</h4>
+                    <div class="space-y-2 text-sm">
+                        <div class="flex justify-between">
+                            <span class="text-gray-400">Total Newsletters:</span>
+                            <span class="text-white font-medium">242</span>
+                        </div>
+                        <div class="flex justify-between">
+                            <span class="text-gray-400">Date Range:</span>
+                            <span class="text-white font-medium">1997-2025</span>
+                        </div>
+                        <div class="flex justify-between">
+                            <span class="text-gray-400">Searchable Content:</span>
+                            <span class="text-white font-medium">~6MB</span>
+                        </div>
+                        <div class="flex justify-between">
+                            <span class="text-gray-400">Corrupted Files:</span>
+                            <span class="text-red-400 font-medium">~15%</span>
+                        </div>
+                        <div class="flex justify-between">
+                            <span class="text-gray-400">Compression Ratio:</span>
+                            <span class="text-green-400 font-medium">70%</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function filterNewsletters() {
+            const searchInput = document.getElementById('searchInput');
+            const query = searchInput.value.toLowerCase();
+            const newsletterItems = document.querySelectorAll('.newsletter-item');
+            
+            newsletterItems.forEach(item => {
+                const title = item.querySelector('h4').textContent.toLowerCase();
+                const summary = item.querySelector('p.text-sm').textContent.toLowerCase();
+                const keywords = Array.from(item.querySelectorAll('.border')).map(badge => badge.textContent.toLowerCase()).join(' ');
+                const topics = Array.from(item.querySelectorAll('.bg-fire-navy')).map(badge => badge.textContent.toLowerCase()).join(' ');
+                
+                const searchableText = `${title} ${summary} ${keywords} ${topics}`;
+                
+                if (searchableText.includes(query)) {
+                    item.style.display = 'block';
+                } else {
+                    item.style.display = 'none';
+                }
+            });
+        }
+    </script>
+</body>
+</html>

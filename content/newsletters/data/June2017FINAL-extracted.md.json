@@ -1,0 +1,32 @@
+```json
+{
+  "volume": 15,
+  "edition": 6,
+  "title": "Legal Updates and Newsletter Themes",
+  "date": "2017-06-01",
+  "summary": "The newsletter discusses expanding office locations, implementing circuit riding for public records requests, correcting a legal requirement regarding five-day letters, exploring municipal roundtable funding sources, and detailing the procedure for retainage payments.",
+  "keywords": ["public records", "five-day letter", "circuit riding", "PRA", "Rufin v. City of Seattle"],
+  "topics": ["Public Records, Legal Updates, Public Works, Fire Department Practice Areas, Public Service"],
+  "compressed_content": [
+    "New office locations in Gig Harbor and Pierce County.",
+    "Implementation of circuit riding for public records requests.",
+    "Correction on the PRA five-day letter requirement.",
+    "Discussion on municipal roundtables and funding sources.",
+    "Details on retainage payment procedures."
+  ],
+  "search_text": "Fireho Volume 15 Number Six, Public Records Act, five-day letter, PRA Case Rufin v. City of Seattle, Circuit Riding Implementation, Municipal Roundtable Funding Sources, Retainage Payment Procedure",
+  "legal_references": {
+    "cases": ["Rufin v. City of Seattle"],
+    "statutes": ["RCW 42.56.520", "82.14.450"]
+  },
+  "key_findings": [
+    "The PRA violation regarding the failure to provide a five-day letter was addressed.",
+    "Circuit riding has been implemented for public records requests."
+  ],
+  "recommendations": [
+    "Fire departments should ensure all public records requests include a five-day letter.",
+    "Consider circuit riding as an additional service option for public record access."
+  ],
+  "metadata_quality": "high"
+}
+```

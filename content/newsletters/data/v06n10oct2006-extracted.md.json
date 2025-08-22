@@ -1,0 +1,41 @@
+```json
+{
+  "volume": 6,
+  "edition": 10,
+  "title": "Analysis of PERC Cases: Deferred Compensation Plans and Bargaining Rights",
+  "date": "2006-10-17",
+  "summary": "The newsletter discusses three key legal cases involving deferred compensation plans, labor bargaining practices, and union interference. The first case highlights the legal distinction between mandatory, permissive, and illegal bargaining subjects under state public employee relations laws. The second case examines a ULP claim against a union for coercive tactics during representation changes. The third case underscores the importance of maintaining exclusive bargaining rights and avoiding ULPs through coercive inducements.",
+  "keywords": ["PERC", "ULP", "DLRA", "RCW 41.26", "IAFF v. Seattle", "City of Redmond", "Rule of Three"],
+  "topics": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "compressed_content": [
+    "Case 1: PERC decision invalidates employer obligation to bargain on deferred compensation plans.",
+    "Case 2: ULP claims focus on coercive tactics during union representation changes.",
+    "Case 3: Union interference and exclusive bargaining rights under state labor laws."
+  ],
+  "search_text": "PERC, ULP, IAFF v. Seattle, City of Redmond, Rule of Three, PERC analysis, deferred compensation plans, labor negotiations",
+  "legal_references": {
+    "cases": ["IAFF Local 27 v. City of Seattle", "City of Redmond, Decision 8863"],
+    "statutes": ["RCW 41.26", "RCW 41.56.150", "RCW 41.08"],
+    "regulations": ["WAC 391-55-265"]
+  },
+  "key_findings": [
+    "PERC can avoid obligation to bargain on certain subjects under state labor laws.",
+    "Unions must differentiate between mandatory, permissive, and illegal bargaining subjects.",
+    "ULP claims can be successful through coercive tactics."
+  ],
+  "recommendations": [
+    "Fire departments should consult PERC for guidance on maintaining exclusive bargaining rights.",
+    "Bargaining procedures should strictly adhere to state labor laws and regulations.",
+    "Unions must avoid coercion during representation changes or any bargaining-related activities."
+  ],
+  "metadata_quality": "high"
+}
+```

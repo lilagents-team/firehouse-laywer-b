@@ -1,0 +1,86 @@
+```json
+{
+  "volume": 19,
+  "edition": 5,
+  "title": "Firehouse Lawyer",
+  "date": "2021-05-01",
+  "summary": "The newsletter covers several key legal updates, including mask guidelines for public safety, the implementation of the Long-Term Services and Support Act (LTCP) in Washington state, the potential impact of the Affordable Care Act on ground ambulance services through GEMT payments, considerations for law enforcement's use of force under new emergency management legislation, requirements for in-person meetings during public health emergencies, data sharing agreements (DSAs), medical record retention rules post-COVID-19, a Supreme Court ruling on media access during public events, and implications for contract law regarding ambulance providers.",
+  "keywords": [
+    "Mandatory Mask Order",
+    "Long-Term Services and Support Act (LTCP)",
+    "GEMT",
+    "Public Records Act",
+    "DSAs",
+    "Medical Incident Reports",
+    "Emergency Medical Transport",
+    "Supreme Court Case",
+    "Affordable Care Act",
+    "Contract Law"
+  ],
+  "topics": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation",
+    "Open Government"
+  ],
+  "compressed_content": [
+    "1. Mask Guidelines: Mandatory masks for fully vaccinated individuals.",
+    "2. LTCP Implementation: New law requires 40% of agencies to implement by July 2022.",
+    "3. ACA/GEMT Status: GEMT payments depend on the existence of the ACA.",
+    "4. Emergency Force Use: Law enforcement must use reasonable force and prioritize vulnerable individuals.",
+    "5. In-Person Meetings: Agencies must comply with state emergency guidelines for public health events.",
+    "6. DSAs Required: Public agencies must obtain DSA agreements for data sharing.",
+    "7. Medical Record Retention: Non-minors' records can remain until 8 years post-service, while minors' records extend to age 21.",
+    "8. Media Access Ruling: Legal entities not incorporated as news media cannot access public records.",
+    "9. Contract Law Implications: Fire departments face challenges under new emergency management legislation."
+  ],
+  "search_text": "Mask guidelines for public safety, implementation of LTCP in Washington state, impact of ACA on GEMT payments, considerations for law enforcement's use of force, requirements for in-person meetings during COVID-19, data sharing agreements (DSAs), medical record retention rules, Supreme Court ruling on media access, and implications for contract law regarding ambulance providers.",
+  "legal_references": {
+    "cases": ["Green v. Pierce County"],
+    "statutes": [
+      "RCW 50B.04.010",
+      "RCW 50B.04.020",
+      "RCW 35.21.930",
+      "RCW 70.05.153",
+      "RCW 71.05.153",
+      "RCW 36.5.179",
+      "RCW 42.56.070",
+      "9 https://www.sos.wa.gov/_assets/archives/recordsmanage
+ment/fire-and-emergency-medical-records-retention-schedule-v.2.0-(december-2020).pdf"
+    ],
+    "regulations": [
+      "1310",
+      "182-531-1740",
+      "https://www.hca.wa.gov/assets/billers-and-providers/GEMT-bg-20201001.pdf",
+      "https://www.supremecourt.gov/opinions/987688.pdf",
+      "https://www.supremecourt.gov/opinions/20pdf/19-840_6jfm.pdf"
+    ]
+  },
+  "key_findings": [
+    "Mandatory mask guidance for fully vaccinated individuals.",
+    "LTCP implementation requiring agencies to adopt new procedures by July 2022.",
+    "GEMT payments depend on the ACA remaining in effect.",
+    "Emergency personnel must use reasonable force and protect vulnerable individuals.",
+    "In-person meetings must comply with state emergency guidelines.",
+    "Public agencies must obtain DSAs for data sharing.",
+    "Medical record retention rules vary based on individual age.",
+    "Legal entities not incorporated as news media cannot access public records.",
+    "Fire departments face challenges under new emergency management legislation."
+  ],
+  "recommendations": [
+    "Agencies should comply with mask guidelines to protect public health.",
+    "LTCP implementation must be conducted without relying on the ACA until its survivability is confirmed.",
+    "Preparation for potential ACA-related litigation is essential.",
+    "Implement CARES programs to maintain ambulance capacity during public health emergencies.",
+    "Ensure agencies obtain necessary DSA agreements before sharing sensitive data.",
+    "Compliance with medical record retention rules post-COVID-19 must be strictly followed.",
+    "Engagement with legal counsel is advised to navigate media access restrictions.",
+    "Fire departments should adopt additional training on emergency use of force and public health protocols."
+  ],
+  "metadata_quality": "high"
+}
+```

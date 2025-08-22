@@ -1,0 +1,29 @@
+```json
+{
+  "volume": 15,
+  "edition": 8,
+  "title": "Changes to Washington Medical Records Laws",
+  "date": "2017-08-01",
+  "summary": "The newsletter discusses updates to medical records laws in Washington, allowing disclosure without patient authorization under specific conditions. It also covers legal standards for Local Improvement District (LID) assessments, emphasizing that an assessment is not fundamentally wrong if broadly applied and others could argue its reasonableness.",
+  "keywords": ["medical records laws", "family member", "close personal friend", "LID Assessments", "fundamentally wrong basis", "arbitrary and capricious"],
+  "topics": ["Public Records", "Emergency Services"],
+  "compressed_content": [
+    "Changes to Washington Medical Records Laws",
+    "Case Note on LID Assessments"
+  ],
+  "search_text": "Changes to Washington Medical Records Laws\nCase Note on LID Assessments\n...\nuse Lawyer\nAugust 2017\nReview Your Patient Privacy\nA significant change to the Washington Uniform Health Care Information Act (UHCIA) may have slipped under the radar.",
+  "legal_references": {
+    "cases": ["Abbenhaus v. City of Yakima"],
+    "statutes": ["RCW 70.02.205", "89 Wn.2d 855"]
+  },
+  "key_findings": [
+    "New exception for medical record disclosure under the Washington Medical Records Laws",
+    "Criteria for LID assessments: not fundamentally wrong if broadly applied and others could argue reasonableness"
+  ],
+  "recommendations": [
+    "Fire departments should ensure compliance with updated medical record laws",
+    "Conduct training on interpreting and applying LID assessment criteria"
+  ],
+  "metadata_quality": "high"
+}
+```

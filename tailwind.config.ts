@@ -13,6 +13,15 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        // Urban gritty theme colors
+        'urban-dark': 'var(--urban-dark)',
+        'urban-gray': 'var(--urban-gray)', 
+        'urban-medium': 'var(--urban-medium)',
+        'urban-light': 'var(--urban-light)',
+        'muted-red': 'var(--muted-red)',
+        'neon-orange': 'var(--neon-orange)',
+        'fire-navy': '#1e3a8a',
+        'warm-gray': '#9ca3af',
         card: {
           DEFAULT: "var(--card)",
           foreground: "var(--card-foreground)",
@@ -83,6 +92,10 @@ export default {
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
+      },
+      fontFamily: {
+        'bebas': ['Bebas Neue', 'Arial Black', 'sans-serif'],
+        'montserrat': ['Montserrat', 'sans-serif'],
       },
     },
   },

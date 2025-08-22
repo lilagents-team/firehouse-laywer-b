@@ -7,19 +7,23 @@ export default function PracticeAreas() {
   const practiceAreas = [
     {
       title: "Open Public Meetings",
-      description: "The Open Public Meetings Act (OPMA) requires that all meetings of a governing body of an agency be open to the public, with limited exceptions. We have more than thirty years' experience with such issues."
+      description: "The Open Public Meetings Act (OPMA) requires that all meetings of a governing body of an agency be open to the public, with limited exceptions. We have more than thirty years' experience with such issues.",
+      searchTerm: "OPMA"
     },
     {
       title: "HIPAA Compliance",
-      description: "Washington and federal law are both very protective of the medical information of individual persons. We address the intricacies of these laws to avoid consequences of improper disclosure."
+      description: "Washington and federal law are both very protective of the medical information of individual persons. We address the intricacies of these laws to avoid consequences of improper disclosure.",
+      searchTerm: "HIPAA"
     },
     {
       title: "Personnel/Labor Matters",
-      description: "We work in a fire station, and keep our doors open. Labor questions arise all the time, covering worker's compensation, employment discrimination, workplace safety, and collective bargaining."
+      description: "We work in a fire station, and keep our doors open. Labor questions arise all the time, covering worker's compensation, employment discrimination, workplace safety, and collective bargaining.",
+      searchTerm: "employment law"
     },
     {
       title: "Financial Management",
-      description: "Property taxes and other financial issues can be baffling. After more than thirty years in local government, we have considerable expertise with property taxes, fire benefit charges, and procurement."
+      description: "Property taxes and other financial issues can be baffling. After more than thirty years in local government, we have considerable expertise with property taxes, fire benefit charges, and procurement.",
+      searchTerm: "budget finance"
     }
   ];
 
@@ -62,6 +66,17 @@ export default function PracticeAreas() {
                     <span>Implementation oversight</span>
                   </li>
                 </ul>
+                <div className="mt-6">
+                  <Button 
+                    asChild
+                    variant="outline" 
+                    className="border-neon-orange text-white hover:bg-red-600 hover:text-white font-montserrat font-semibold"
+                  >
+                    <Link to={`/newsletter?search=${encodeURIComponent("mergers consolidations")}`}>
+                      View Related Newsletters →
+                    </Link>
+                  </Button>
+                </div>
               </div>
               <div className="mt-8 lg:mt-0">
                 <div className="relative bg-urban-light urban-shadow-lg p-2" style={{ clipPath: 'polygon(0 0, 95% 0, 100% 95%, 5% 100%)' }}>
@@ -120,6 +135,17 @@ export default function PracticeAreas() {
                     <span>Exemption analysis</span>
                   </li>
                 </ul>
+                <div className="mt-6">
+                  <Button 
+                    asChild
+                    variant="outline" 
+                    className="border-neon-orange text-white hover:bg-red-600 hover:text-white font-montserrat font-semibold"
+                  >
+                    <Link to={`/newsletter?search=${encodeURIComponent("Public Records Act")}`}>
+                      View Related Newsletters →
+                    </Link>
+                  </Button>
+                </div>
               </div>
             </div>
           </CardContent>
@@ -133,11 +159,14 @@ export default function PracticeAreas() {
                 <h3 className="text-3xl lg:text-4xl font-bebas font-bold text-white mb-4 tracking-wider text-shadow-gritty">{area.title.toUpperCase()}</h3>
                 <p className="text-gray-100 mb-4 font-montserrat">{area.description}</p>
                 <Button 
+                  asChild
                   variant="link" 
                   className="text-neon-orange hover:text-red-400 p-0 font-montserrat font-semibold uppercase tracking-wide transition-all duration-300"
                   data-testid={`button-learn-more-${index}`}
                 >
-                  Learn More →
+                  <Link to={`/newsletter?search=${encodeURIComponent(area.searchTerm)}`}>
+                    Learn More →
+                  </Link>
                 </Button>
               </CardContent>
             </Card>
