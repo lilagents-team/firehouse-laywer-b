@@ -7,6 +7,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.1] - 2025-08-22
+
+### Fixed
+- **Search Term Optimization** - Fixed class of errors with overly specific practice area search terms
+  - **Home Page vs Practice Areas Consistency** - Standardized search terms between pages
+  - **"OPMA Public Records" → "OPMA"** - Simplified compound term that was returning zero results
+  - **"employment law" → "employment"** - Broader term matches more newsletter content
+  - **"budget finance" → "budget"** - More commonly found keyword in actual newsletters
+  - **"contract law" → "contract"** - Simplified for better content matching
+  - **"mergers consolidations" → "merger"** - Single effective keyword instead of compound term
+
+### Enhanced
+- **Environment-Aware API Calls** - Automatic detection for production vs development endpoints
+  - **Development**: Uses Express server routes (`/api/newsletters/index`)
+  - **Production**: Uses static JSON files (`/api/newsletters/index.json`)
+  - **Seamless Deployment** - No manual configuration needed for Netlify vs local development
+
 ## [2.0.0] - 2025-08-22
 
 ### Added

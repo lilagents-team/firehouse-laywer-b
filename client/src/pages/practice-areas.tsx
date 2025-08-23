@@ -18,12 +18,12 @@ export default function PracticeAreas() {
     {
       title: "Personnel/Labor Matters",
       description: "We work in a fire station, and keep our doors open. Labor questions arise all the time, covering worker's compensation, employment discrimination, workplace safety, and collective bargaining.",
-      searchTerm: "employment law"
+      searchTerm: "employment"
     },
     {
       title: "Financial Management",
       description: "Property taxes and other financial issues can be baffling. After more than thirty years in local government, we have considerable expertise with property taxes, fire benefit charges, and procurement.",
-      searchTerm: "budget finance"
+      searchTerm: "budget"
     }
   ];
 

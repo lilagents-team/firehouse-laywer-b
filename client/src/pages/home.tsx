@@ -54,19 +54,19 @@ export default function Home() {
       icon: Building2,
       title: "Mergers and Consolidations",
       description: "Expert guidance through complex fire district mergers and consolidations with political and legal implications.",
-      searchTerm: "mergers consolidations"
+      searchTerm: "merger"
     },
     {
       icon: FileText,
       title: "Public Records & OPMA",
       description: "Navigate public records requests and open meeting requirements with confidence and compliance.",
-      searchTerm: "OPMA Public Records"
+      searchTerm: "OPMA"
     },
     {
       icon: Users,
       title: "Personnel Matters",
       description: "Complete support for employment law, collective bargaining, and workplace policy issues.",
-      searchTerm: "employment law"
+      searchTerm: "employment"
     },
     {
       icon: Shield,
@@ -78,13 +78,13 @@ export default function Home() {
       icon: DollarSign,
       title: "Public Finances",
       description: "Expert advice on property taxes, fire benefit charges, and financial compliance matters.",
-      searchTerm: "budget finance"
+      searchTerm: "budget"
     },
     {
       icon: ClipboardCheck,
       title: "Contract Review",
       description: "Comprehensive contract drafting and review for mutual aid agreements and procurement.",
-      searchTerm: "contract law"
+      searchTerm: "contract"
     }
   ];
 
