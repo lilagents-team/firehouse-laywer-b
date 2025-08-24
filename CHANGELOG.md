@@ -7,6 +7,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.2] - 2025-08-24
+
+### Enhanced
+- **Newsletter Corruption Detection System**
+  - **Enhanced Date Validation** - Now detects invalid dates like "20xx-04-29" as corruption
+  - **Consistent Development/Production Behavior** - Both environments now serve identical content
+  - **PDF URL Consistency** - Fixed discrepancies between static files and server responses
+  - **Single Source of Truth** - Both development server and production build use same static files
+  
+### Fixed
+- **Development Server Consistency** - Server now correctly serves from updated static files instead of legacy cache
+- **PDF File Matching Logic** - Removed inconsistent filtering that caused different PDF URLs between environments
+- **Corruption Flag Accuracy** - Enhanced validation now catches placeholder dates containing "xx"
+- **Build Process Validation** - Static file generation now includes enhanced corruption detection for invalid dates
+
+### Technical Improvements
+- **Static File Serving Priority** - Volume/edition routes now properly serve from static files first
+- **Enhanced Date Validation** - Corruption detection now flags dates with "xx" placeholders as invalid
+- **Consistent PDF Resolution** - Both static generator and server routes use identical PDF matching logic
+- **Debug Interface Cleanup** - Removed temporary debug headers from newsletter detail pages
+
 ## [2.0.1] - 2025-08-22
 
 ### Fixed

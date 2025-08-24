@@ -15,8 +15,8 @@ function dateToPdfFilename(dateString) {
 async function findPdfFile(newsletter, availableFiles) {
   const pdfDir = path.join(process.cwd(), 'client/public/Newsletters');
   
-  // Try original filename first if it exists and is not a generated one
-  if (newsletter.original_filename && !newsletter.original_filename.includes('n')) {
+  // Try original filename first if it exists
+  if (newsletter.original_filename) {
     try {
       await fs.access(path.join(pdfDir, newsletter.original_filename));
       console.log(`Found original filename: ${newsletter.original_filename}`);
@@ -58,18 +58,22 @@ async function findPdfFile(newsletter, availableFiles) {
     }
   }
   
-  // Try standard MonthYearFINAL.pdf format as fallback
-  const standardFormat = dateToPdfFilename(newsletter.date);
-  const standardPath = path.join(pdfDir, path.basename(standardFormat));
-  
-  try {
-    await fs.access(standardPath);
-    console.log(`Found fallback PDF: ${standardFormat}`);
-    return standardFormat;
-  } catch {
-    console.log(`No PDF found for newsletter ${newsletter.slug}`);
-    return null;
+  // Try standard MonthYearFINAL.pdf format as fallback (only if date exists)
+  if (newsletter.date) {
+    const standardFormat = dateToPdfFilename(newsletter.date);
+    const standardPath = path.join(pdfDir, path.basename(standardFormat));
+    
+    try {
+      await fs.access(standardPath);
+      console.log(`Found fallback PDF: ${standardFormat}`);
+      return standardFormat;
+    } catch {
+      // Date-based fallback failed, continue to null return
+    }
   }
+  
+  console.log(`No PDF found for newsletter ${newsletter.slug}`);
+  return null;
 }
 
 async function generateStaticNewsletters() {
@@ -115,6 +119,24 @@ async function generateStaticNewsletters() {
         
         const newsletter = JSON.parse(content);
         
+        // Check for data quality issues
+        let dataCorruption = newsletter.corruption_detected || false;
+        let corruptionNotes = newsletter.corruption_notes || '';
+        
+        // Detect missing essential data
+        const missingFields = [];
+        if (!newsletter.date || newsletter.date.includes('xx') || newsletter.date === '') missingFields.push('date');
+        if (!newsletter.summary) missingFields.push('summary');
+        if (!newsletter.title) missingFields.push('title');
+        
+        if (missingFields.length > 0) {
+          dataCorruption = true;
+          const missingFieldsText = missingFields.join(', ');
+          corruptionNotes = corruptionNotes 
+            ? `${corruptionNotes}. Missing essential fields: ${missingFieldsText}`
+            : `Missing essential fields: ${missingFieldsText}. This newsletter may have incomplete data extraction.`;
+        }
+        
         // Normalize the newsletter format
         const normalizedNewsletter = {
           volume: newsletter.volume,
@@ -128,8 +150,8 @@ async function generateStaticNewsletters() {
             ? newsletter.compressed_content.join(' ') 
             : newsletter.compressed_content || '',
           search_text: newsletter.search_text || newsletter.title.toLowerCase(),
-          corruption_detected: newsletter.corruption_detected || false,
-          corruption_notes: newsletter.corruption_notes || '',
+          corruption_detected: dataCorruption,
+          corruption_notes: corruptionNotes,
           original_filename: newsletter.original_filename || null,
           slug: (newsletter.slug || file.replace('.json', '')).replace('.md', ''),
           file_size_kb: newsletter.file_size_kb || 0

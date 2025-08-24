@@ -355,6 +355,7 @@ export async function registerRoutes(app: Express): Promise<Server> {
           const filePath = path.join(dataDir, file);
           let content = await fs.readFile(filePath, 'utf-8');
           
+          
           // Handle JSON wrapped in markdown code blocks
           if (content.startsWith('```json')) {
             const jsonMatch = content.match(/```json\n([\s\S]*?)\n```/);
@@ -363,7 +364,27 @@ export async function registerRoutes(app: Express): Promise<Server> {
             }
           }
           
-          const newsletter = JSON.parse(content);
+          let newsletter;
+          try {
+            newsletter = JSON.parse(content);
+          } catch (parseError) {
+            // Handle corrupted JSON files by creating a basic fallback entry
+            console.log(`❌ JSON parse error in ${file}: ${parseError.message}`);
+            const filename = file.replace('.json', '').replace('.md', '');
+            newsletter = {
+              title: `Corrupted Newsletter Data (${filename})`,
+              date: null,
+              summary: "This newsletter file contains corrupted data that cannot be fully parsed. The original PDF may still be available for download.",
+              keywords: [],
+              topics: ["Corrupted Data"],
+              compressed_content: `Error parsing newsletter data from ${file}: ${parseError.message}`,
+              search_text: filename,
+              corruption_detected: true,
+              corruption_notes: `JSON parsing failed: ${parseError.message}. This file contains malformed data that prevents normal processing.`,
+              volume: null,
+              edition: null
+            };
+          }
           
           // Extract volume and edition from filename if not present in JSON
           let volume = newsletter.volume;
@@ -376,6 +397,26 @@ export async function registerRoutes(app: Express): Promise<Server> {
               volume = volume || parseInt(volumeEditionMatch[1]);
               edition = edition || parseInt(volumeEditionMatch[2]);
             }
+          }
+          
+          // Check for data quality issues
+          let dataCorruption = newsletter.corruption_detected || false;
+          let corruptionNotes = newsletter.corruption_notes || '';
+          
+          // Detect missing essential data
+          const missingFields = [];
+          if (!newsletter.date || newsletter.date.includes('xx') || newsletter.date === '') missingFields.push('date');
+          if (!newsletter.summary) missingFields.push('summary');
+          if (!newsletter.title) missingFields.push('title');
+          
+          
+          
+          if (missingFields.length > 0) {
+            dataCorruption = true;
+            const missingFieldsText = missingFields.join(', ');
+            corruptionNotes = corruptionNotes 
+              ? `${corruptionNotes}. Missing essential fields: ${missingFieldsText}`
+              : `Missing essential fields: ${missingFieldsText}. This newsletter may have incomplete data extraction.`;
           }
           
           // Normalize the newsletter format to match our interface
@@ -391,8 +432,8 @@ export async function registerRoutes(app: Express): Promise<Server> {
               ? newsletter.compressed_content.join(' ') 
               : newsletter.compressed_content || '',
             search_text: newsletter.search_text || newsletter.title.toLowerCase(),
-            corruption_detected: newsletter.corruption_detected || false,
-            corruption_notes: newsletter.corruption_notes || '',
+            corruption_detected: dataCorruption,
+            corruption_notes: corruptionNotes,
             original_filename: newsletter.original_filename || null,
             slug: (newsletter.slug || file.replace('.json', '')).replace('.md', ''),
             file_size_kb: newsletter.file_size_kb || 0
@@ -482,43 +523,34 @@ export async function registerRoutes(app: Express): Promise<Server> {
 
   // Newsletter API Routes
 
-  // Newsletter index endpoint
+  // Newsletter index endpoint - serve from static files (single source of truth)
   app.get("/api/newsletters/index", async (req, res) => {
     try {
-      const newsletters = await loadNewsletters();
-      
-      res.json({
-        newsletters,
-        total_count: newsletters.length,
-        last_updated: new Date().toISOString(),
-        cache_version: "1.0"
-      });
+      const staticIndexPath = path.join(process.cwd(), 'client/public/api/newsletters/index.json');
+      const staticData = await fs.readFile(staticIndexPath, 'utf-8');
+      const data = JSON.parse(staticData);
+      res.json(data);
     } catch (error) {
-      console.error("Newsletter index error:", error);
+      console.error('Failed to load static newsletter index:', error);
       res.status(500).json({ 
-        error: "Failed to load newsletter index",
-        details: error.message 
+        error: "Newsletter index not found. Run: node scripts/generate-newsletter-static.cjs",
+        hint: "The development server now uses static files as the single source of truth."
       });
     }
   });
 
-  // Newsletter index endpoint with .json extension (for static file compatibility)
+  // Newsletter index endpoint with .json extension - serve from static files
   app.get("/api/newsletters/index.json", async (req, res) => {
-    console.log("HIT INDEX.JSON ROUTE");
     try {
-      const newsletters = await loadNewsletters();
-      
-      res.json({
-        newsletters,
-        total_count: newsletters.length,
-        last_updated: new Date().toISOString(),
-        cache_version: "1.0"
-      });
+      const staticIndexPath = path.join(process.cwd(), 'client/public/api/newsletters/index.json');
+      const staticData = await fs.readFile(staticIndexPath, 'utf-8');
+      const data = JSON.parse(staticData);
+      res.json(data);
     } catch (error) {
-      console.error("Newsletter index error:", error);
+      console.error('Failed to load static newsletter index:', error);
       res.status(500).json({ 
-        error: "Failed to load newsletter index",
-        details: error.message 
+        error: "Newsletter index not found. Run: node scripts/generate-newsletter-static.cjs",
+        hint: "The development server now uses static files as the single source of truth."
       });
     }
   });
@@ -646,8 +678,23 @@ export async function registerRoutes(app: Express): Promise<Server> {
     }
   });
 
+  // Get specific newsletter by volume/edition using /v/ prefix - serve from static files (MUST BE BEFORE :slug route!)
+  app.get("/api/newsletters/v/:volume/:edition", async (req, res) => {
+    const { volume, edition } = req.params;
+    const staticFilePath = path.resolve(process.cwd(), 'client', 'public', 'api', 'newsletters', 'v', volume, `${edition}.json`);
+    
+    try {
+      const data = await fs.readFile(staticFilePath, 'utf8');
+      res.setHeader('Content-Type', 'application/json');
+      res.send(data);
+    } catch (error) {
+      res.status(404).json({ error: "Newsletter not found" });
+    }
+  });
+
   // Get specific newsletter by year/month (all 2-digit and 4-digit numbers treated as years)
   app.get("/api/newsletters/:year/:month", async (req, res) => {
+    console.log("📅 YEAR/MONTH route hit with params:", req.params);
     try {
       let year = parseInt(req.params.year);
       const month = parseInt(req.params.month);
@@ -693,40 +740,10 @@ export async function registerRoutes(app: Express): Promise<Server> {
     }
   });
 
-  // Get specific newsletter by volume/edition using /v/ prefix
-  app.get("/api/newsletters/v/:volume/:edition", async (req, res) => {
-    try {
-      const volume = parseInt(req.params.volume);
-      const edition = parseInt(req.params.edition);
-      
-      if (isNaN(volume) || isNaN(edition)) {
-        return res.status(400).json({ error: "Invalid volume or edition number" });
-      }
-
-      const newsletters = await loadNewsletters();
-      const newsletter = newsletters.find(n => n.volume === volume && n.edition === edition);
-      
-      if (!newsletter) {
-        return res.status(404).json({ error: "Newsletter not found" });
-      }
-
-      // Find the actual PDF file that exists
-      const actualPdfUrl = await findPdfFile(newsletter);
-      const updatedNewsletter = { ...newsletter, pdf_url: actualPdfUrl || undefined };
-
-      res.json(updatedNewsletter);
-    } catch (error) {
-      console.error("Newsletter fetch error:", error);
-      res.status(500).json({ 
-        error: "Failed to fetch newsletter",
-        message: "Unable to retrieve newsletter data" 
-      });
-    }
-  });
 
   // Get specific newsletter by slug or handle PDF filename (exclude index routes)
   app.get("/api/newsletters/:slug", async (req, res) => {
-    console.log("HIT SLUG ROUTE with slug:", req.params.slug);
+    console.log("🚨🚨🚨 HIT SLUG ROUTE with slug:", req.params.slug);
     try {
       const slug = req.params.slug;
       
@@ -847,6 +864,7 @@ export async function registerRoutes(app: Express): Promise<Server> {
 
   // Get specific newsletter by year/month (all 2-digit and 4-digit numbers treated as years)
   app.get("/api/newsletters/:year/:month", async (req, res) => {
+    console.log("📅 YEAR/MONTH route hit with params:", req.params);
     try {
       let year = parseInt(req.params.year);
       const month = parseInt(req.params.month);
@@ -891,38 +909,6 @@ export async function registerRoutes(app: Express): Promise<Server> {
       });
     }
   });
-
-  // Get specific newsletter by volume/edition using /v/ prefix
-  app.get("/api/newsletters/v/:volume/:edition", async (req, res) => {
-    try {
-      const volume = parseInt(req.params.volume);
-      const edition = parseInt(req.params.edition);
-      
-      if (isNaN(volume) || isNaN(edition)) {
-        return res.status(400).json({ error: "Invalid volume or edition number" });
-      }
-
-      const newsletters = await loadNewsletters();
-      const newsletter = newsletters.find(n => n.volume === volume && n.edition === edition);
-      
-      if (!newsletter) {
-        return res.status(404).json({ error: "Newsletter not found" });
-      }
-
-      // Find the actual PDF file that exists
-      const actualPdfUrl = await findPdfFile(newsletter);
-      const updatedNewsletter = { ...newsletter, pdf_url: actualPdfUrl || undefined };
-
-      res.json(updatedNewsletter);
-    } catch (error) {
-      console.error("Newsletter fetch error:", error);
-      res.status(500).json({ 
-        error: "Failed to fetch newsletter",
-        message: "Unable to retrieve newsletter data" 
-      });
-    }
-  });
-
 
   // Direct PDF access by stub/filename
   app.get("/Newsletters/:filename", async (req, res) => {

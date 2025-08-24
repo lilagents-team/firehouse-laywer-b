@@ -9,6 +9,9 @@ app.use(express.urlencoded({ extended: false }));
 app.use((req, res, next) => {
   const start = Date.now();
   const path = req.path;
+  if (path.includes('/api/newsletters/v/')) {
+    console.log("🔍 Middleware intercepted newsletter v route:", path);
+  }
   let capturedJsonResponse: Record<string, any> | undefined = undefined;
 
   const originalResJson = res.json;

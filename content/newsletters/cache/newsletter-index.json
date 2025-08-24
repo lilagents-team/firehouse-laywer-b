@@ -687,6 +687,32 @@
     },
     {
       "volume": 14,
+      "edition": 12,
+      "title": "First Amendment on Social Media",
+      "date": "2016-12-31",
+      "summary": "The newsletter covers key legal updates including tax resolution cases under Article VII § 5, social media policies in public employment, and employee rights related to religious beliefs. Articles delve into constitutional challenges regarding expenditures from specific tax measures and the implications of nonassociation rights for public employees.",
+      "keywords": [
+        "Article VII § 5",
+        "C-Tran",
+        "Liverman v. City of Petersburg",
+        "RCW 41.56.122",
+        "First Amendment"
+      ],
+      "topics": [
+        "Open Government",
+        "Employment Law",
+        "Contract Law"
+      ],
+      "compressed_content": "Tax resolutions subject to Article VII § 5: C-Tran case examined the constitutionality of expenditures from ballot measures. Social media policies in public employment: Ruling on Facebook usage and promotion practices. Employee nonassociation rights: Emphasis on religious beliefs and mutual agreement with charities.",
+      "search_text": "Volume 14, Number 12. Fireho Newsletter. December 2016. Tax resolutions, social media policy, employee nonassociation rights. Legal updates including constitutional challenges and employment law cases.",
+      "corruption_detected": false,
+      "corruption_notes": "",
+      "original_filename": "14n12.pdf",
+      "slug": "December2016FINAL-extracted",
+      "file_size_kb": 0
+    },
+    {
+      "volume": 14,
       "edition": "9",
       "title": "Firehouse Newsletter: Legal Updates for Fire Departments",
       "date": "2016-09-01",
@@ -742,6 +768,148 @@
       "corruption_notes": "",
       "original_filename": "14n4.pdf",
       "slug": "April2016FINAL-extracted",
+      "file_size_kb": 0
+    },
+    {
+      "volume": 13,
+      "edition": 12,
+      "title": "Legal Updates on Fire Department Liability and Unfair Labor Practices",
+      "date": "2015-12-31",
+      "summary": "The newsletter discusses a Municipal Roundtable addressing Unfair Labor Practices, emphasizing the importance of quick responses to prevent property damage. It also outlines a negligence claim against the Washington State for failing to contain a fire that spread from public lands to private properties.",
+      "keywords": [
+        "Municipal Roundtable",
+        "Unfair Labor Practices (ULP)",
+        "Negligence claim",
+        "Fire Department",
+        "Permanence of Commissioner",
+        "RCW 41.56.140",
+        "RCW 76.04.760"
+      ],
+      "topics": [
+        "Employment Law",
+        "Public Liability"
+      ],
+      "compressed_content": "- Municipal Roundtable on 'Unfair Labor Practices' scheduled for December 18. - Discussion focuses on how the Public Employment Relations Commission (PERC) may rule on ULP claims. - Emphasizes the need for quick responses to prevent property damage. - Negligence claim against Washington State due to delayed response to a fire spreading from public lands. - Fire started in 2014 on State lands, spread to private properties, and caused extensive damage. - Plaintiffs allege failure to contain the fire, leading to significant property damage.",
+      "search_text": "Municipal Roundtable on Unfair Labor Practices. Discussion on how PERC may rule on claims for unfair labor practices over the last five years. Joseph Quinn as legal counsel to more than 40 Fire Departments in Washington State. Office telephone: 253-858-3226. Email addresses for contact information. Inside this Issue section mentions a December 18 Municipal Roundtable and a lawsuit over the Carlton Complex Fire.",
+      "corruption_detected": false,
+      "corruption_notes": "",
+      "original_filename": "13n12.pdf",
+      "slug": "December2015FINAL-extracted",
+      "file_size_kb": 0
+    },
+    {
+      "volume": "13",
+      "edition": "Number Eight",
+      "title": "The Firehouse Lawyer | Volume 13, Number Eight",
+      "date": "2015-07-01",
+      "summary": "The newsletter discusses the Public Bid Law and its application to fire departments. It highlights the lack of legal requirement for fire districts to award Lowest Responsible Bidding contracts unless specified by statute. The analysis concludes that fire districts may exercise their broad powers to enter into and perform any necessary contracts, even if they are not required to award the LRB. Additional topics include business functions, employment law considerations, public records access, emergency services regulations, contract awards, budget practices, training compliance, and litigation strategies.",
+      "keywords": [
+        "Public Bid Law",
+        "Lowest Responsible Bidder",
+        "Business Function",
+        "Employment Law",
+        "Public Records",
+        "Emergency Services",
+        "Contract Law",
+        "Budget & Finance",
+        "Training & Compliance",
+        "Litigation"
+      ],
+      "topics": [
+        "Open Government",
+        "Employment Law",
+        "Public Records",
+        "Emergency Services",
+        "Contract Law",
+        "Budget & Finance",
+        "Training & Compliance",
+        "Litigation"
+      ],
+      "compressed_content": "The newsletter explores Public Bid Law and its application to fire departments. It highlights the lack of legal requirement for fire districts to award Lowest Responsible Bidding contracts unless specified by statute. Analysis concludes that fire districts may exercise their broad powers to enter into and perform necessary contracts. Additional topics include business functions, employment law considerations, public records access, emergency services regulations, contract awards, budget practices, training compliance, and litigation strategies.",
+      "search_text": "The Firehouse Lawyer | Volume 13, Number Eight\nJuly 2015\n\n[Section 1 of 1]\n\nThe Firehouse Lawyer\nVolume 13, Number Eight\nBe sure to visit this Newsletter and its contents.\n\nJoseph F. Quinn, Esq., Legal counsel to more than 40 Fire departments in the State of Washington.\n\nCase Note: Public Bid Law application to fire departments:\n- Analysis shows lack of legal requirement for Lowest Responsible Bidding contracts unless specified by statute.\n- Fire districts may exercise their broad powers to enter into and perform necessary contracts.",
+      "corruption_detected": false,
+      "corruption_notes": "",
+      "original_filename": "13nNumber Eight.pdf",
+      "slug": "August_2015-extracted",
+      "file_size_kb": 0
+    },
+    {
+      "volume": 18,
+      "edition": 3,
+      "title": "Correction of Previous Issue",
+      "date": null,
+      "summary": "The newsletter corrects an error regarding tax breaks for local governments under the Families First Coronavirus Response Act (FFCR), clarifying that relief does not apply to public agencies.",
+      "keywords": [
+        "public agencies",
+        "tax breaks",
+        "local governments",
+        "Families First Coronavirus Response Act"
+      ],
+      "topics": [
+        "Emergency Services",
+        "Public Records",
+        "Employment Law"
+      ],
+      "compressed_content": "Volume 18, Number 3 Correction Notice: Tax breaks relief does not apply to public agencies. Editorial Contact Information: Eric T. Quinn and Joseph F. Quinn. Newsletter Subscription Details: firehouselawyer.com. Main Legal Update: Clarification on FFCR application.",
+      "search_text": "Volume 18, Number 3 Correction Notice Families First Coronavirus Response Act public agencies tax breaks employment law",
+      "corruption_detected": false,
+      "corruption_notes": "",
+      "original_filename": "18n3.pdf",
+      "slug": "2020MarchCORRECTION-extracted",
+      "file_size_kb": 0
+    },
+    {
+      "volume": 18,
+      "edition": 4,
+      "title": "Volume 18, Number 4",
+      "date": null,
+      "summary": "The newsletter discusses key legal updates including an extension of OPMA prohibitions, federal grant management under 2 CFR and state law (public duty doctrine), and public health declarations.",
+      "keywords": [
+        "Open Public Meetings Act",
+        "Federal Grants",
+        "Public Duty Doctrine",
+        "Beltran-Serrano case",
+        "2 CFR § 200.302",
+        "RCW 52.16.020"
+      ],
+      "topics": [
+        "Open Government",
+        "Emergency Services",
+        "Contract Law",
+        "Budget & Finance",
+        "Training & Compliance",
+        "Legal Updates"
+      ],
+      "compressed_content": "Extension of OPMA Prohibitions: The order lifting in-person meetings remains valid. Federal Grant Management: Key regulations under 2 CFR § 200.302 apply, requiring tracking allowable costs and proper documentation. Public Duty Doctrine: The public duty doctrine applies to certain interactions with the public, as held by the court in Ehrhart v. King County.",
+      "search_text": "Open Public Meetings Act Federal Grants Public Duty Doctrine Beltran-Serrano case 2 CFR § 200.302 RCW 52.16.020",
+      "corruption_detected": false,
+      "corruption_notes": "",
+      "original_filename": "18n4.pdf",
+      "slug": "April2020FINAL-extracted",
+      "file_size_kb": 0
+    },
+    {
+      "volume": 22,
+      "edition": "4E",
+      "title": "Volume 22, Number 4E",
+      "date": null,
+      "summary": "The newsletter contains a correction notice regarding prevailing wage laws and information about upcoming training opportunities. It also provides details on how to attend a Municipal Roundtable and a seminar sponsored by the Pierce County Fire Commissioners Association.",
+      "keywords": [
+        "prevailing wages",
+        "Municipal Roundtable",
+        "Firehouse Lawyer"
+      ],
+      "topics": [
+        "Public Records",
+        "Employment Law",
+        "Training & Compliance"
+      ],
+      "compressed_content": "Correction Notice: Prevailing wage laws do not apply to state or local employees. Upcoming Training Opportunities: Free training sessions on Municipal Roundtables and seminars. Meeting Details: Details for the seminar are available via a provided link. Contact Information: For inquiries, contact Denise R at piercecountyfireassociation.org.",
+      "search_text": "Correction Notice: In our previous issue (Volume 22, Number 4), we indicated that employees of your fire departments who perform public works on your properties must be paid prevailing wages. Actually, such employees are not subject to the prevailing wage laws. WAC 296-127-026 (4) clearly states that 'The prevailin\ng wage requirements of chapter 39.12 RCW do not apply to: Workers regularly employed by the state or any county, municipality, or political subdivision created by its laws.' Free Training Opportunities: Two upcoming training opportunities should be of interest to our fire district and regional fire authority clients. First, another free Municipal Roundtable taking place on April 12 (Friday) from 9 to 11 AM! Second, a seminar sponsored by the Pierce County Fire Commissioners Association.",
+      "corruption_detected": false,
+      "corruption_notes": "",
+      "original_filename": "22n4E.pdf",
+      "slug": "April2024ExtraCORRECTION-extracted",
       "file_size_kb": 0
     },
     {
@@ -929,6 +1097,38 @@
       "corruption_notes": "",
       "original_filename": "22n6.pdf",
       "slug": "June2024FINAL-extracted",
+      "file_size_kb": 0
+    },
+    {
+      "volume": 22,
+      "edition": 1,
+      "title": "Inside this Issue",
+      "date": "2024-01-24",
+      "summary": "The newsletter covers updates on emission caps for public agencies, the impact of Tax Increment Financing (TIF) on fire departments, a legal case regarding First Amendment rights in social media, an analysis of an eminent domain case with equitable distribution, a minimum wage increase, and new cannabis use policies affecting public employers.",
+      "keywords": [
+        "emission caps",
+        "public agencies",
+        "TIF impact analysis",
+        "Lindke v. Freed",
+        "Landmark Transit Authority",
+        "minimum wage update",
+        "cannabis use policy"
+      ],
+      "topics": [
+        "Open Government",
+        "Employment Law",
+        "Public Records",
+        "Contract Law",
+        "Budget & Finance",
+        "Training & Compliance",
+        "Litigation"
+      ],
+      "compressed_content": "Emission caps increase for public agencies. TIF impact on fire departments and revenue analysis. Case on First Amendment rights for public officials in social media. Eminent domain case with equitable distribution of compensation. Minimum wage update to $16.28 per hour. Cannabis use policy affecting public employer hiring.",
+      "search_text": "Fireho Volume 22 Number 1 January 2024 Open Government Employment Law Public Records Contract Law Budget & Finance Training & Compliance Litigation",
+      "corruption_detected": false,
+      "corruption_notes": "",
+      "original_filename": "22n1.pdf",
+      "slug": "January2024FINAL-extracted",
       "file_size_kb": 0
     },
     {
@@ -1309,6 +1509,42 @@
       "corruption_notes": "",
       "original_filename": "19n10.pdf",
       "slug": "October2021FINAL-extracted",
+      "file_size_kb": 0
+    },
+    {
+      "volume": 19,
+      "edition": 5,
+      "title": "Firehouse Lawyer",
+      "date": "2021-05-01",
+      "summary": "The newsletter covers several key legal updates, including mask guidelines for public safety, the implementation of the Long-Term Services and Support Act (LTCP) in Washington state, the potential impact of the Affordable Care Act on ground ambulance services through GEMT payments, considerations for law enforcement's use of force under new emergency management legislation, requirements for in-person meetings during public health emergencies, data sharing agreements (DSAs), medical record retention rules post-COVID-19, a Supreme Court ruling on media access during public events, and implications for contract law regarding ambulance providers.",
+      "keywords": [
+        "Mandatory Mask Order",
+        "Long-Term Services and Support Act (LTCP)",
+        "GEMT",
+        "Public Records Act",
+        "DSAs",
+        "Medical Incident Reports",
+        "Emergency Medical Transport",
+        "Supreme Court Case",
+        "Affordable Care Act",
+        "Contract Law"
+      ],
+      "topics": [
+        "Employment Law",
+        "Public Records",
+        "Emergency Services",
+        "Contract Law",
+        "Budget & Finance",
+        "Training & Compliance",
+        "Litigation",
+        "Open Government"
+      ],
+      "compressed_content": "1. Mask Guidelines: Mandatory masks for fully vaccinated individuals. 2. LTCP Implementation: New law requires 40% of agencies to implement by July 2022. 3. ACA/GEMT Status: GEMT payments depend on the existence of the ACA. 4. Emergency Force Use: Law enforcement must use reasonable force and prioritize vulnerable individuals. 5. In-Person Meetings: Agencies must comply with state emergency guidelines for public health events. 6. DSAs Required: Public agencies must obtain DSA agreements for data sharing. 7. Medical Record Retention: Non-minors' records can remain until 8 years post-service, while minors' records extend to age 21. 8. Media Access Ruling: Legal entities not incorporated as news media cannot access public records. 9. Contract Law Implications: Fire departments face challenges under new emergency management legislation.",
+      "search_text": "Mask guidelines for public safety, implementation of LTCP in Washington state, impact of ACA on GEMT payments, considerations for law enforcement's use of force, requirements for in-person meetings during COVID-19, data sharing agreements (DSAs), medical record retention rules, Supreme Court ruling on media access, and implications for contract law regarding ambulance providers.",
+      "corruption_detected": false,
+      "corruption_notes": "",
+      "original_filename": "19n5.pdf",
+      "slug": "MayJune2021FINAL-extracted",
       "file_size_kb": 0
     },
     {
@@ -2091,32 +2327,6 @@
     },
     {
       "volume": 14,
-      "edition": 12,
-      "title": "First Amendment on Social Media",
-      "date": "2016-12-31",
-      "summary": "The newsletter covers key legal updates including tax resolution cases under Article VII § 5, social media policies in public employment, and employee rights related to religious beliefs. Articles delve into constitutional challenges regarding expenditures from specific tax measures and the implications of nonassociation rights for public employees.",
-      "keywords": [
-        "Article VII § 5",
-        "C-Tran",
-        "Liverman v. City of Petersburg",
-        "RCW 41.56.122",
-        "First Amendment"
-      ],
-      "topics": [
-        "Open Government",
-        "Employment Law",
-        "Contract Law"
-      ],
-      "compressed_content": "Tax resolutions subject to Article VII § 5: C-Tran case examined the constitutionality of expenditures from ballot measures. Social media policies in public employment: Ruling on Facebook usage and promotion practices. Employee nonassociation rights: Emphasis on religious beliefs and mutual agreement with charities.",
-      "search_text": "Volume 14, Number 12. Fireho Newsletter. December 2016. Tax resolutions, social media policy, employee nonassociation rights. Legal updates including constitutional challenges and employment law cases.",
-      "corruption_detected": false,
-      "corruption_notes": "",
-      "original_filename": "14n12.pdf",
-      "slug": "December2016FINAL-extracted",
-      "file_size_kb": 0
-    },
-    {
-      "volume": 14,
       "edition": 11,
       "title": "Legal Updates in Firehouse Lawyer Newsletter",
       "date": "2016-11-01",
@@ -2255,33 +2465,6 @@
     },
     {
       "volume": 13,
-      "edition": 12,
-      "title": "Legal Updates on Fire Department Liability and Unfair Labor Practices",
-      "date": "2015-12-31",
-      "summary": "The newsletter discusses a Municipal Roundtable addressing Unfair Labor Practices, emphasizing the importance of quick responses to prevent property damage. It also outlines a negligence claim against the Washington State for failing to contain a fire that spread from public lands to private properties.",
-      "keywords": [
-        "Municipal Roundtable",
-        "Unfair Labor Practices (ULP)",
-        "Negligence claim",
-        "Fire Department",
-        "Permanence of Commissioner",
-        "RCW 41.56.140",
-        "RCW 76.04.760"
-      ],
-      "topics": [
-        "Employment Law",
-        "Public Liability"
-      ],
-      "compressed_content": "- Municipal Roundtable on 'Unfair Labor Practices' scheduled for December 18. - Discussion focuses on how the Public Employment Relations Commission (PERC) may rule on ULP claims. - Emphasizes the need for quick responses to prevent property damage. - Negligence claim against Washington State due to delayed response to a fire spreading from public lands. - Fire started in 2014 on State lands, spread to private properties, and caused extensive damage. - Plaintiffs allege failure to contain the fire, leading to significant property damage.",
-      "search_text": "Municipal Roundtable on Unfair Labor Practices. Discussion on how PERC may rule on claims for unfair labor practices over the last five years. Joseph Quinn as legal counsel to more than 40 Fire Departments in Washington State. Office telephone: 253-858-3226. Email addresses for contact information. Inside this Issue section mentions a December 18 Municipal Roundtable and a lawsuit over the Carlton Complex Fire.",
-      "corruption_detected": false,
-      "corruption_notes": "",
-      "original_filename": "13n12.pdf",
-      "slug": "December2015FINAL-extracted",
-      "file_size_kb": 0
-    },
-    {
-      "volume": 13,
       "edition": 10,
       "title": "The Doctrine of Wrongful Discharge",
       "date": "2015-10-01",
@@ -2345,42 +2528,6 @@
       "file_size_kb": 0
     },
     {
-      "volume": "13",
-      "edition": "Number Eight",
-      "title": "The Firehouse Lawyer | Volume 13, Number Eight",
-      "date": "2015-07-01",
-      "summary": "The newsletter discusses the Public Bid Law and its application to fire departments. It highlights the lack of legal requirement for fire districts to award Lowest Responsible Bidding contracts unless specified by statute. The analysis concludes that fire districts may exercise their broad powers to enter into and perform any necessary contracts, even if they are not required to award the LRB. Additional topics include business functions, employment law considerations, public records access, emergency services regulations, contract awards, budget practices, training compliance, and litigation strategies.",
-      "keywords": [
-        "Public Bid Law",
-        "Lowest Responsible Bidder",
-        "Business Function",
-        "Employment Law",
-        "Public Records",
-        "Emergency Services",
-        "Contract Law",
-        "Budget & Finance",
-        "Training & Compliance",
-        "Litigation"
-      ],
-      "topics": [
-        "Open Government",
-        "Employment Law",
-        "Public Records",
-        "Emergency Services",
-        "Contract Law",
-        "Budget & Finance",
-        "Training & Compliance",
-        "Litigation"
-      ],
-      "compressed_content": "The newsletter explores Public Bid Law and its application to fire departments. It highlights the lack of legal requirement for fire districts to award Lowest Responsible Bidding contracts unless specified by statute. Analysis concludes that fire districts may exercise their broad powers to enter into and perform necessary contracts. Additional topics include business functions, employment law considerations, public records access, emergency services regulations, contract awards, budget practices, training compliance, and litigation strategies.",
-      "search_text": "The Firehouse Lawyer | Volume 13, Number Eight\nJuly 2015\n\n[Section 1 of 1]\n\nThe Firehouse Lawyer\nVolume 13, Number Eight\nBe sure to visit this Newsletter and its contents.\n\nJoseph F. Quinn, Esq., Legal counsel to more than 40 Fire departments in the State of Washington.\n\nCase Note: Public Bid Law application to fire departments:\n- Analysis shows lack of legal requirement for Lowest Responsible Bidding contracts unless specified by statute.\n- Fire districts may exercise their broad powers to enter into and perform necessary contracts.",
-      "corruption_detected": false,
-      "corruption_notes": "",
-      "original_filename": "13nNumber Eight.pdf",
-      "slug": "August_2015-extracted",
-      "file_size_kb": 0
-    },
-    {
       "volume": 13,
       "edition": 5,
       "title": "Volume 13, Number 5",
@@ -2438,34 +2585,6 @@
       "corruption_notes": "",
       "original_filename": "13n5.pdf",
       "slug": "May_2015-extracted",
-      "file_size_kb": 0
-    },
-    {
-      "volume": 1,
-      "edition": 1,
-      "title": "Overtime Pay for Emergency Services Personnel and Political Discrimination in Employment",
-      "date": "20xx-04-29",
-      "summary": "The document discusses updates on overtime pay requirements for paramedics and EMTs, emphasizing the impact of Supreme Court rulings on the 'salary basis' test. It also addresses cases involving political discrimination in employment, highlighting constitutional protections under the Fair Labor Standards Act.",
-      "keywords": [
-        "Overtime Pay",
-        "Paramedic",
-        "EMT",
-        "Fair Labor Standards Act (FLSA)",
-        "Supreme Court Ruling",
-        "Salary Basis Test"
-      ],
-      "topics": [
-        "Employment Law",
-        "Emergency Services",
-        "Contract Law",
-        "Public Employment Rights"
-      ],
-      "compressed_content": "Vol. 1, No. 1 Joseph F. Quin Overtime pay requirements for emergency services personnel clarified by Supreme Court rulings. The 'salary basis' test for exempt employees is upheld in certain cases. Political discrimination in employment prohibited under constitutional protections. Fair Labor Standards Act (FLSA) continues to influence overtime pay calculations.",
-      "search_text": "Vol. 1, No. 1 Joseph F. Quin. Overtime pay updates. Paramedic EMT rules. Fair Labor Standards Act. Supreme Court rulings. Salary basis test. Political discrimination employment cases.",
-      "corruption_detected": false,
-      "corruption_notes": "",
-      "original_filename": "1n1.pdf",
-      "slug": "v01n01apr1997-extracted",
       "file_size_kb": 0
     },
     {
@@ -3403,85 +3522,6 @@
       "file_size_kb": 0
     },
     {
-      "volume": 18,
-      "edition": 3,
-      "title": "Correction of Previous Issue",
-      "date": null,
-      "summary": "The newsletter corrects an error regarding tax breaks for local governments under the Families First Coronavirus Response Act (FFCR), clarifying that relief does not apply to public agencies.",
-      "keywords": [
-        "public agencies",
-        "tax breaks",
-        "local governments",
-        "Families First Coronavirus Response Act"
-      ],
-      "topics": [
-        "Emergency Services",
-        "Public Records",
-        "Employment Law"
-      ],
-      "compressed_content": "Volume 18, Number 3 Correction Notice: Tax breaks relief does not apply to public agencies. Editorial Contact Information: Eric T. Quinn and Joseph F. Quinn. Newsletter Subscription Details: firehouselawyer.com. Main Legal Update: Clarification on FFCR application.",
-      "search_text": "Volume 18, Number 3 Correction Notice Families First Coronavirus Response Act public agencies tax breaks employment law",
-      "corruption_detected": false,
-      "corruption_notes": "",
-      "original_filename": "18n3.pdf",
-      "slug": "2020MarchCORRECTION-extracted",
-      "file_size_kb": 0
-    },
-    {
-      "volume": 18,
-      "edition": 4,
-      "title": "Volume 18, Number 4",
-      "date": null,
-      "summary": "The newsletter discusses key legal updates including an extension of OPMA prohibitions, federal grant management under 2 CFR and state law (public duty doctrine), and public health declarations.",
-      "keywords": [
-        "Open Public Meetings Act",
-        "Federal Grants",
-        "Public Duty Doctrine",
-        "Beltran-Serrano case",
-        "2 CFR § 200.302",
-        "RCW 52.16.020"
-      ],
-      "topics": [
-        "Open Government",
-        "Emergency Services",
-        "Contract Law",
-        "Budget & Finance",
-        "Training & Compliance",
-        "Legal Updates"
-      ],
-      "compressed_content": "Extension of OPMA Prohibitions: The order lifting in-person meetings remains valid. Federal Grant Management: Key regulations under 2 CFR § 200.302 apply, requiring tracking allowable costs and proper documentation. Public Duty Doctrine: The public duty doctrine applies to certain interactions with the public, as held by the court in Ehrhart v. King County.",
-      "search_text": "Open Public Meetings Act Federal Grants Public Duty Doctrine Beltran-Serrano case 2 CFR § 200.302 RCW 52.16.020",
-      "corruption_detected": false,
-      "corruption_notes": "",
-      "original_filename": "18n4.pdf",
-      "slug": "April2020FINAL-extracted",
-      "file_size_kb": 0
-    },
-    {
-      "volume": 22,
-      "edition": "4E",
-      "title": "Volume 22, Number 4E",
-      "date": null,
-      "summary": "The newsletter contains a correction notice regarding prevailing wage laws and information about upcoming training opportunities. It also provides details on how to attend a Municipal Roundtable and a seminar sponsored by the Pierce County Fire Commissioners Association.",
-      "keywords": [
-        "prevailing wages",
-        "Municipal Roundtable",
-        "Firehouse Lawyer"
-      ],
-      "topics": [
-        "Public Records",
-        "Employment Law",
-        "Training & Compliance"
-      ],
-      "compressed_content": "Correction Notice: Prevailing wage laws do not apply to state or local employees. Upcoming Training Opportunities: Free training sessions on Municipal Roundtables and seminars. Meeting Details: Details for the seminar are available via a provided link. Contact Information: For inquiries, contact Denise R at piercecountyfireassociation.org.",
-      "search_text": "Correction Notice: In our previous issue (Volume 22, Number 4), we indicated that employees of your fire departments who perform public works on your properties must be paid prevailing wages. Actually, such employees are not subject to the prevailing wage laws. WAC 296-127-026 (4) clearly states that 'The prevailin\ng wage requirements of chapter 39.12 RCW do not apply to: Workers regularly employed by the state or any county, municipality, or political subdivision created by its laws.' Free Training Opportunities: Two upcoming training opportunities should be of interest to our fire district and regional fire authority clients. First, another free Municipal Roundtable taking place on April 12 (Friday) from 9 to 11 AM! Second, a seminar sponsored by the Pierce County Fire Commissioners Association.",
-      "corruption_detected": false,
-      "corruption_notes": "",
-      "original_filename": "22n4E.pdf",
-      "slug": "April2024ExtraCORRECTION-extracted",
-      "file_size_kb": 0
-    },
-    {
       "volume": 19,
       "edition": "8A",
       "title": "Vaccinations are Mandatory!",
@@ -4119,6 +4159,34 @@
     },
     {
       "volume": 1,
+      "edition": 1,
+      "title": "Overtime Pay for Emergency Services Personnel and Political Discrimination in Employment",
+      "date": "20xx-04-29",
+      "summary": "The document discusses updates on overtime pay requirements for paramedics and EMTs, emphasizing the impact of Supreme Court rulings on the 'salary basis' test. It also addresses cases involving political discrimination in employment, highlighting constitutional protections under the Fair Labor Standards Act.",
+      "keywords": [
+        "Overtime Pay",
+        "Paramedic",
+        "EMT",
+        "Fair Labor Standards Act (FLSA)",
+        "Supreme Court Ruling",
+        "Salary Basis Test"
+      ],
+      "topics": [
+        "Employment Law",
+        "Emergency Services",
+        "Contract Law",
+        "Public Employment Rights"
+      ],
+      "compressed_content": "Vol. 1, No. 1 Joseph F. Quin Overtime pay requirements for emergency services personnel clarified by Supreme Court rulings. The 'salary basis' test for exempt employees is upheld in certain cases. Political discrimination in employment prohibited under constitutional protections. Fair Labor Standards Act (FLSA) continues to influence overtime pay calculations.",
+      "search_text": "Vol. 1, No. 1 Joseph F. Quin. Overtime pay updates. Paramedic EMT rules. Fair Labor Standards Act. Supreme Court rulings. Salary basis test. Political discrimination employment cases.",
+      "corruption_detected": false,
+      "corruption_notes": "",
+      "original_filename": "1n1.pdf",
+      "slug": "v01n01apr1997-extracted",
+      "file_size_kb": 0
+    },
+    {
+      "volume": 1,
       "edition": 2,
       "title": "Legal Updates on Employment Law and Public Policy",
       "date": null,
@@ -4482,8 +4550,8 @@
       "file_size_kb": 0
     }
   ],
-  "total_count": 157,
-  "last_updated": "2025-08-23T14:03:09.807Z",
+  "total_count": 159,
+  "last_updated": "2025-08-24T00:02:51.574Z",
   "cache_version": "2.0-dynamic",
   "generated_from": "individual_json_files"
 }

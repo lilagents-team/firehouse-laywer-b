@@ -1,0 +1,22 @@
+{
+  "volume": 99,
+  "edition": 1,
+  "title": "Test Corrupted Newsletter Data",
+  "date": "2024-01-01",
+  "summary": "This newsletter demonstrates corruption handling in the UI",
+  "keywords": [
+    "test",
+    "corruption"
+  ],
+  "topics": [
+    "Testing"
+  ],
+  "compressed_content": "This is a test newsletter with intentional corruption flags for demonstration",
+  "search_text": "test corrupted newsletter data",
+  "corruption_detected": true,
+  "corruption_notes": "This is a test newsletter created to demonstrate how corruption warnings display in the user interface. This file contains intentionally flagged corruption for testing purposes.",
+  "original_filename": null,
+  "slug": "test-invalid-json",
+  "file_size_kb": 0,
+  "pdf_url": null
+}

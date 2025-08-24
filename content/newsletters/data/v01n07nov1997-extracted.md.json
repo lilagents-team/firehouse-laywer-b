@@ -1,7 +1,6 @@
-```json
 {
-  "volume": null,
-  "edition": null,
+  "volume": 1,
+  "edition": 7,
   "title": "Vol. 1, No. 7",
   "date": "1997-07-01",
   "summary": "The newsletter discusses key legal updates related to FMLA protections for qualifying employees, employer obligations regarding documentation and medical evaluations, state laws affecting disability claims, and the implications of employer discharge for individuals with disabilities.",
@@ -31,6 +30,10 @@
     "Implement proper documentation processes for eligible employees",
     "Provide training to employees on medical evaluations and their implications"
   ],
-  "metadata_quality": "high"
+  "metadata_quality": "high",
+  "corruption_detected": true,
+  "corruption_notes": "This 1997 newsletter had data extraction issues during PDF conversion. Some formatting and content may not display correctly. The original PDF is recommended for complete accuracy.",
+  "original_filename": "v01n07nov1997.pdf",
+  "slug": "v01n07nov1997-extracted",
+  "file_size_kb": 45
 }
-```

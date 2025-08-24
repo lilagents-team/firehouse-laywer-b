@@ -29,6 +29,8 @@ export default function NewsletterDetail() {
     month?: string;
     filename?: string;
   }>();
+  
+  console.log("🎯 Newsletter component loaded with params:", params);
   const [newsletter, setNewsletter] = useState<CompressedNewsletter | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -57,12 +59,14 @@ export default function NewsletterDetail() {
       }
 
       try {
+        console.log("🌐 Frontend calling API:", apiUrl);
         const response = await fetch(apiUrl);
         if (!response.ok) {
           throw new Error(`Newsletter not found (${response.status})`);
         }
         
         const data = await response.json();
+        console.log("📧 Frontend received:", data.corruption_detected, data.corruption_notes);
         setNewsletter(data);
       } catch (error) {
         console.error('Failed to load newsletter:', error);
@@ -101,11 +105,13 @@ export default function NewsletterDetail() {
   }
 
   // Format the date for display
-  const formattedDate = new Date(newsletter.date).toLocaleDateString('en-US', {
-    year: 'numeric',
-    month: 'long',
-    day: 'numeric'
-  });
+  const formattedDate = newsletter.date 
+    ? new Date(newsletter.date).toLocaleDateString('en-US', {
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric'
+      })
+    : 'Date not available';
 
   return (
     <div>
@@ -132,6 +138,7 @@ export default function NewsletterDetail() {
       </div>
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 bg-urban-gray urban-concrete min-h-screen">
+        
         {/* Corruption Warning */}
         {newsletter.corruption_detected && (
           <div className="bg-yellow-900 border border-yellow-600 rounded-lg p-6 mb-8">
@@ -203,7 +210,7 @@ export default function NewsletterDetail() {
                   </Button>
                 ) : (
                   <div className="text-gray-400 font-montserrat text-sm">
-                    PDF not available for this newsletter
+                    {!newsletter.filename ? "Invalid Filename" : "PDF not available for this newsletter"}
                   </div>
                 )}
               </div>
