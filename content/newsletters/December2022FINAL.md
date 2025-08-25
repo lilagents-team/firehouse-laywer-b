@@ -27,7 +27,7 @@ legal_statutes:
   - "PECBA"
 summary: "December 2022 newsletter covers key updates in public agency law including Public Employees Collective Bargaining Act (PECBA) requirements, EMTALA compliance for emergency medical services, federal grant contract provisions, and responsible bidder considerations. Features important PERC rulings affecting collective bargaining practices and Open Public Meetings Act obligations for fire departments and public agencies."
 source_pdf: "December2022FINAL.pdf"
-metadata_quality: medium
+metadata_quality: "high"
 search_keywords: "Volume 20, Number 12 Firehouse Lawyer December 2022. The newsletter includes updates on public agencies, employment practices, emergency medical law (EMTALA), contract law with federal grants, and the..."
 processed_date: 2025-08-22
 layout: newsletter

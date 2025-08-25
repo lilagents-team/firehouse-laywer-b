@@ -298,7 +298,17 @@ export default function Newsletter() {
             <Card className="p-8 bg-urban-medium border-neon-orange distressed-border urban-shadow-lg">
               <CardContent className="p-0">
                 <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-6 gap-4">
-                  <h3 className="text-2xl font-bebas font-bold text-white tracking-wider text-shadow-gritty">NEWSLETTER ARCHIVE</h3>
+                  <h3 className="text-2xl font-bebas font-bold text-white tracking-wider text-shadow-gritty">
+                    NEWSLETTER ARCHIVE
+                    {latestNewsletter && latestNewsletter.date && (
+                      <span className="block text-base font-montserrat text-neon-orange mt-1 font-semibold">
+                        Latest: {(() => {
+                          const date = new Date(latestNewsletter.date);
+                          return `${date.toLocaleDateString('en-US', { month: 'long' })} ${date.getFullYear()}`;
+                        })()}
+                      </span>
+                    )}
+                  </h3>
                   <div className="relative w-full sm:w-auto sm:min-w-[300px]">
                     <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-4 h-4" />
                     <Input

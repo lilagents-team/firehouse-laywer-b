@@ -25,7 +25,7 @@ legal_statutes:
   - "RCW 39.114.050"
   - "RCW 43.09.210"
 source_pdf: "October2023FINAL.pdf"
-metadata_quality: high
+metadata_quality: "high"
 search_keywords: " EMS Districts created under RCW 36.32.480 with property tax authority. Tax Increment Financing (TIF) allows cities to benefit financially from public projects, potentially conflicting with EMS distri..."
 processed_date: 2025-08-22
 layout: newsletter

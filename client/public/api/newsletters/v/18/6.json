@@ -4,14 +4,55 @@
   "title": "COVID-19 Safety Guidelines, LEOFF Member Negligence Cases, and Public Records Act Exemptions",
   "date": "2020-07-01",
   "summary": "This issue covers several key legal updates including COVID-19 safety guidelines for public agencies, negligence suits against LEOFF members, and cases related to the Public Records Act. The newsletter also discusses state statute exemptions regarding personnel evaluations.",
-  "keywords": [],
-  "topics": [],
+  "description": "This issue covers several key legal updates including COVID-19 safety guidelines for public agencies, negligence suits against LEOFF members, and cases related to the Public Records Act. The newsletter also discusses state statute exemptions regarding personnel evaluations.",
+  "keywords": [
+    "COVID-19",
+    "negligence",
+    "LEOFF",
+    "public records act",
+    "personnel evaluations"
+  ],
+  "topics": [
+    "Emergency Services",
+    "Contract Law",
+    "Public Liability",
+    "Open Government",
+    "Training & Compliance"
+  ],
+  "legal_cases": [
+    "Division I of the Washington State Court of Appeals",
+    "Case of Divine Earth v. City of Tacoma"
+  ],
+  "legal_statutes": [
+    "RCW 49.17.060",
+    "RCW 41.26.281",
+    "RCW 42.56.230",
+    "RCW 42.56.050"
+  ],
+  "categories": [
+    "Emergency Services",
+    "Contract Law",
+    "Public Liability",
+    "Open Government",
+    "Training & Compliance"
+  ],
+  "tags": [
+    "COVID-19",
+    "negligence",
+    "LEOFF",
+    "public records act",
+    "personnel evaluations"
+  ],
   "compressed_content": "",
   "search_text": "covid-19 safety guidelines, leoff member negligence cases, and public records act exemptions",
+  "search_keywords": "Volume 18, Number 6 Firehouse Lawyer newsletter COVID-19 safety guidelines negligence suits LEOFF members negligence case opinions public records act personnel evaluations...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "JuneJuly2020FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "JuneJuly2020FINAL.pdf",
   "pdf_url": "/Newsletters/JuneJuly2020FINAL.pdf"
 }

@@ -4,14 +4,66 @@
   "title": "Fire District HIPAA Social Media Compliance, Worker Compensation Cases, and Public Records Act Changes",
   "date": "2016-09-01",
   "summary": "Key legal developments for fire districts including HIPAA compliance for social media, worker's compensation updates, and Public Records Act changes.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter highlights key legal developments, including laws applicable to fire districts and regional fire authorities (RFAs), considerations for social media use under HIPAA, updates on worker's compensation cases, and changes to the Public Records Act's statute of limitations. The document also provides insights into emergency management practices and potential challenges in contract law.",
+  "keywords": [
+    "Firehouse Newsletter",
+    "Legal Updates",
+    "Fire Districts",
+    "Regional Fire Authorities (RFAs)",
+    "HIPAA",
+    "Worker's Compensation",
+    "Public Records Act",
+    "RCW"
+  ],
+  "topics": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "legal_cases": [
+    "Felipe v. Department of Labor and Industries"
+  ],
+  "legal_statutes": [
+    "RCW 52.12.021",
+    "RCW 52.16.130",
+    "RCW 52.18.010",
+    "RCW 43.09.210",
+    "RCW 42.56.070",
+    "RCW 39.33.010"
+  ],
+  "categories": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "tags": [
+    "Firehouse Newsletter",
+    "Legal Updates",
+    "Fire Districts",
+    "Regional Fire Authorities (RFAs)",
+    "HIPAA",
+    "Worker's Compensation",
+    "Public Records Act",
+    "RCW"
+  ],
   "compressed_content": "",
   "search_text": "fire district hipaa social media compliance, worker compensation cases, and public records act changes",
+  "search_keywords": "Volume 14, Number Nine, Firehouse Newsletter, October 2016, firehouselawyer.com, HIPAA compliance, social media, worker compensation, Public Records Act, fire district laws, RCW 52.12.021",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "2016SeptemberFINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "2016SeptemberFINAL.pdf",
   "pdf_url": "/Newsletters/2016SeptemberFINAL.pdf"
 }

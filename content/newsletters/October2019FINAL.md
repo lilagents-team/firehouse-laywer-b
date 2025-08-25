@@ -17,7 +17,7 @@ legal_cases:
 legal_statutes:
   - "RCW 42.56.250"
 source_pdf: "October2019FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Volume 17, Number 10 public records act case standing public records requests Gipson Snohomish County 2019..."
 processed_date: 2025-08-22
 layout: newsletter

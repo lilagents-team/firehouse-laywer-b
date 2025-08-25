@@ -27,7 +27,7 @@ legal_statutes:
   - "WAC 197-11-660"
 summary: "July 2015 newsletter analyzes Kitsap County employment law case involving non-enforceable contract implications for fire departments, explores Public Records Act (WRA) implications under the Conard Rule, examines SEPA mitigation authority with examples from various county codes including WAC 197-11-660, and provides guidance based on West Main Associates v. City of Bellevue precedent for municipal fire departments."
 source_pdf: "July_2015_FINAL_2.pdf"
-metadata_quality: high
+metadata_quality: "high"
 search_keywords: "Firehouse Lawyer Volume 13 Number 7, firehouselawyer.com, Kitsap County employment case, SEPA mitigation authority, Conard Rule, WRA, RCW 41.56.470"
 processed_date: 2025-08-22
 layout: newsletter

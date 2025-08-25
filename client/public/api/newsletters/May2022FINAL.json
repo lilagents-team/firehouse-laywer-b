@@ -4,14 +4,47 @@
   "title": "DEI Program Implementation, Impact Fee Appeals, and Whistleblower Retaliation Case Analysis",
   "date": "2022-05-01",
   "summary": "This issue covers updates on Diversity, Equity, and Inclusion (DEI) programs for fire departments, a decision by the Washington Court of Appeals regarding impact fees, and a wage recovery case involving a whistleblower who was retaliated against.",
-  "keywords": [],
-  "topics": [],
+  "description": "This issue covers updates on Diversity, Equity, and Inclusion (DEI) programs for fire departments, a decision by the Washington Court of Appeals regarding impact fees, and a wage recovery case involving a whistleblower who was retaliated against.",
+  "keywords": [
+    "DEI programs",
+    "impact fees",
+    "retaliation cases",
+    "whistleblower protection",
+    "RCW 42.41",
+    "RCW 49.48"
+  ],
+  "topics": [
+    "Employment Law"
+  ],
+  "legal_cases": [
+    "Viking JV, City of Puyallup",
+    "Reeves v. Mason County"
+  ],
+  "legal_statutes": [
+    "RCW 42.41",
+    "RCW 49.48"
+  ],
+  "categories": [
+    "Employment Law"
+  ],
+  "tags": [
+    "DEI programs",
+    "impact fees",
+    "retaliation cases",
+    "whistleblower protection",
+    "RCW 42.41",
+    "RCW 49.48"
+  ],
   "compressed_content": "",
   "search_text": "dei program implementation, impact fee appeals, and whistleblower retaliation case analysis",
+  "search_keywords": "Volume 20, Number 5 Legal Updates on DEI Programs Impact Fees Whistleblower Cases...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "May2022FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "May2022FINAL.pdf",
   "pdf_url": "/Newsletters/May2022FINAL.pdf"
 }

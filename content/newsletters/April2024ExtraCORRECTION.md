@@ -17,7 +17,7 @@ tags:
 legal_statutes:
   - "WAC 296-127-026 (4)"
 source_pdf: "April2024ExtraCORRECTION.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Correction Notice: In our previous issue (Volume 22, Number 4), we indicated that employees of your fire departments who perform public works on your properties must be paid prevailing wages. Actually..."
 processed_date: 2025-08-22
 layout: newsletter

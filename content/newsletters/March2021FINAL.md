@@ -24,7 +24,7 @@ legal_statutes:
   - "RCW 29A.36.071"
   - "RCW 52.18.050"
 source_pdf: "March2021FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Volume 19 Number 3, Firehouse Lawyer March 2021, Ballot Title Requirements, Fox v. City of Bellingham, EMS search warrant policies, RCW 29A.36.071"
 processed_date: 2025-08-22
 layout: newsletter

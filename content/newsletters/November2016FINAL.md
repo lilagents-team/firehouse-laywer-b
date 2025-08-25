@@ -21,7 +21,7 @@ legal_statutes:
   - "RCW 42.56.100"
 summary: "November 2016 newsletter covers municipal roundtable discussions on labor and employment law, examines public records requests compliance under Public Records Act RCW 42.56.100 and Employment Law regulations RCW 41.56.140, analyzes regulatory changes affecting overtime pay implementation, emphasizes importance of formalizing written procedures in testing processes to prevent disputes, and highlights public records role in collective bargaining negotiations."
 source_pdf: "November2016FINAL.pdf"
-metadata_quality: high
+metadata_quality: "high"
 search_keywords: "Volume 14, Number 11, December 16 Municipal Roundtable, Public Records Requests, Regulatory Changes, Municipal Roundtable, LCBA, Overtime Pay Act, Firehouse Lawyer, November 2016"
 processed_date: 2025-08-22
 layout: newsletter

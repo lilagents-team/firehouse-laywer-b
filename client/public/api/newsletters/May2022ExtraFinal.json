@@ -4,14 +4,50 @@
   "title": "Proclamation 20-28 Rescinded",
   "date": "2022-05-11",
   "summary": "On May 11, 2022, Governor Inslee rescinded Proclamation 20-28, which altered provisions of the Open Public Meetings Act (OPMA) and affected in-person meeting requirements. The rescission allows for hybrid meetings with remote participation options.",
-  "keywords": [],
-  "topics": [],
+  "description": "On May 11, 2022, Governor Inslee rescinded Proclamation 20-28, which altered provisions of the Open Public Meetings Act (OPMA) and affected in-person meeting requirements. The rescission allows for hybrid meetings with remote participation options.",
+  "keywords": [
+    "Proclamation 20-28",
+    "Open Public Meetings Act (OPMA)",
+    "Emergency Order 20-28.16",
+    "Hybrid Meetings"
+  ],
+  "topics": [
+    "Public Records",
+    "Employment Law",
+    "Public Dis closure law",
+    "Fire andEMS",
+    "Risk Management"
+  ],
+  "legal_cases": [],
+  "legal_statutes": [
+    "Proclamation 20-28",
+    "OPMA",
+    "ESHB 1329",
+    "RCW 42.30.077"
+  ],
+  "categories": [
+    "Public Records",
+    "Employment Law",
+    "Public Dis closure law",
+    "Fire andEMS",
+    "Risk Management"
+  ],
+  "tags": [
+    "Proclamation 20-28",
+    "Open Public Meetings Act (OPMA)",
+    "Emergency Order 20-28.16",
+    "Hybrid Meetings"
+  ],
   "compressed_content": "",
   "search_text": "proclamation 20-28 rescinded",
+  "search_keywords": "Volume 20, Number 5E Proclamation 20-28 Rescinded Effective June 1 2022 On May 11 2022 Governor Inslee announced that effective June 1 2022 his Proclamation 20-28 shall be considered rescinded as per ...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "May2022ExtraFinal",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "May2022ExtraFinal.pdf",
   "pdf_url": "/Newsletters/May2022ExtraFinal.pdf"
 }

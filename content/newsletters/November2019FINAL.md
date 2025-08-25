@@ -26,7 +26,7 @@ legal_cases:
 legal_statutes:
   - "RCW 42.56.070"
 source_pdf: "November2019FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Minimum Staffing case | Public Records Act | Birth Dates Privacy | City of Everett v. PERC | Washington Public Employees Association..."
 processed_date: 2025-08-22
 layout: newsletter

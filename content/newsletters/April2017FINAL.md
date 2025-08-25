@@ -22,7 +22,7 @@ legal_statutes:
   - "RCW 102.308"
   - "RCW 102.310"
 source_pdf: "April2017FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "2017 legislation to enhance fire departments' funding, Introduction of the '450 Tax', negotiation example using contract law principles, Safety Bill Column discussion regarding OSHA forms...."
 processed_date: 2025-08-22
 layout: newsletter

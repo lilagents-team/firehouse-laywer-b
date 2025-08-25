@@ -10,14 +10,23 @@ interface CompressedNewsletter {
   title: string;
   date: string;
   summary: string;
+  description?: string;
   keywords: string[];
   topics: string[];
+  legal_cases?: string[];
+  legal_statutes?: string[];
+  categories?: string[];
+  tags?: string[];
   compressed_content: string;
   search_text: string;
+  search_keywords?: string;
   corruption_detected: boolean;
   corruption_notes: string;
   pdf_url?: string;
   slug?: string;
+  metadata_quality?: string;
+  processed_date?: string;
+  source_pdf?: string;
 }
 
 export default function NewsletterDetail() {
@@ -220,20 +229,103 @@ export default function NewsletterDetail() {
           {/* Sidebar */}
           <div className="mt-12 lg:mt-0 space-y-8">
             {/* Keywords */}
-            <div className="bg-urban-medium p-6 rounded-lg border border-neon-orange distressed-border urban-shadow-lg">
-              <h3 className="text-xl font-bebas font-bold text-white mb-4 tracking-wider text-shadow-gritty">
-                KEYWORDS
-              </h3>
-              <div className="flex flex-wrap gap-2">
-                {newsletter.keywords.map((keyword, index) => (
-                  <Link key={index} to={`/newsletter?search=${encodeURIComponent(keyword)}`}>
-                    <Badge variant="outline" className="text-xs border-neon-orange text-white hover:bg-neon-orange hover:text-black transition-colors cursor-pointer">
-                      {keyword}
-                    </Badge>
-                  </Link>
-                ))}
+            {newsletter.keywords && newsletter.keywords.length > 0 && (
+              <div className="bg-urban-medium p-6 rounded-lg border border-neon-orange distressed-border urban-shadow-lg">
+                <h3 className="text-xl font-bebas font-bold text-white mb-4 tracking-wider text-shadow-gritty">
+                  KEYWORDS
+                </h3>
+                <div className="flex flex-wrap gap-2">
+                  {newsletter.keywords.map((keyword, index) => (
+                    <Link key={index} to={`/newsletter?search=${encodeURIComponent(keyword)}`}>
+                      <Badge variant="outline" className="text-xs border-neon-orange text-white hover:bg-neon-orange hover:text-black transition-colors cursor-pointer">
+                        {keyword}
+                      </Badge>
+                    </Link>
+                  ))}
+                </div>
               </div>
-            </div>
+            )}
+
+            {/* Legal Cases */}
+            {newsletter.legal_cases && newsletter.legal_cases.length > 0 && (
+              <div className="bg-urban-medium p-6 rounded-lg border border-neon-orange distressed-border urban-shadow-lg">
+                <h3 className="text-xl font-bebas font-bold text-white mb-4 tracking-wider text-shadow-gritty">
+                  LEGAL CASES
+                </h3>
+                <div className="flex flex-wrap gap-2">
+                  {newsletter.legal_cases.map((case_name, index) => (
+                    <Link key={index} to={`/newsletter?search=${encodeURIComponent(case_name)}`}>
+                      <Badge variant="outline" className="text-xs border-blue-400 text-blue-300 hover:bg-blue-400 hover:text-black transition-colors cursor-pointer">
+                        {case_name}
+                      </Badge>
+                    </Link>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* Legal Statutes */}
+            {newsletter.legal_statutes && newsletter.legal_statutes.length > 0 && (
+              <div className="bg-urban-medium p-6 rounded-lg border border-neon-orange distressed-border urban-shadow-lg">
+                <h3 className="text-xl font-bebas font-bold text-white mb-4 tracking-wider text-shadow-gritty">
+                  LEGAL STATUTES
+                </h3>
+                <div className="flex flex-wrap gap-2">
+                  {newsletter.legal_statutes.map((statute, index) => (
+                    <Link key={index} to={`/newsletter?search=${encodeURIComponent(statute)}`}>
+                      <Badge variant="outline" className="text-xs border-purple-400 text-purple-300 hover:bg-purple-400 hover:text-black transition-colors cursor-pointer">
+                        {statute}
+                      </Badge>
+                    </Link>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* Categories */}
+            {newsletter.categories && newsletter.categories.length > 0 && (
+              <div className="bg-urban-medium p-6 rounded-lg border border-neon-orange distressed-border urban-shadow-lg">
+                <h3 className="text-xl font-bebas font-bold text-white mb-4 tracking-wider text-shadow-gritty">
+                  CATEGORIES
+                </h3>
+                <div className="flex flex-wrap gap-2">
+                  {newsletter.categories.map((category, index) => (
+                    <Link key={index} to={`/newsletter?search=${encodeURIComponent(category)}`}>
+                      <Badge variant="outline" className="text-xs border-green-400 text-green-300 hover:bg-green-400 hover:text-black transition-colors cursor-pointer">
+                        {category}
+                      </Badge>
+                    </Link>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* Metadata Info */}
+            {(newsletter.metadata_quality || newsletter.processed_date) && (
+              <div className="bg-urban-medium p-6 rounded-lg border border-neon-orange distressed-border urban-shadow-lg">
+                <h3 className="text-xl font-bebas font-bold text-white mb-4 tracking-wider text-shadow-gritty">
+                  METADATA
+                </h3>
+                <div className="space-y-2 text-sm text-gray-300">
+                  {newsletter.metadata_quality && (
+                    <div className="flex justify-between">
+                      <span>Quality:</span>
+                      <Badge variant={newsletter.metadata_quality === 'high' ? 'default' : newsletter.metadata_quality === 'medium' ? 'secondary' : newsletter.metadata_quality === 'low' ? 'destructive' : 'outline'} className="text-xs">
+                        {newsletter.metadata_quality.toUpperCase()}
+                      </Badge>
+                    </div>
+                  )}
+                  {newsletter.processed_date && (
+                    <div className="flex justify-between">
+                      <span>Processed:</span>
+                      <span className="text-gray-400">
+                        {new Date(newsletter.processed_date).toLocaleDateString()}
+                      </span>
+                    </div>
+                  )}
+                </div>
+              </div>
+            )}
 
             {/* Navigation */}
             <div className="bg-urban-medium p-6 rounded-lg border border-neon-orange distressed-border urban-shadow-lg">

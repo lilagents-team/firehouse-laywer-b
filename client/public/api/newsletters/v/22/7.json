@@ -1,17 +1,62 @@
 {
   "volume": "22",
   "edition": "7",
-  "title": "Inside this Issue",
+  "title": "Supreme Court Chevron Deference and Public Records Exemption Updates",
   "date": "2024-07-25",
   "summary": "The newsletter highlights key legal updates, including Supreme Court decisions on administrative law, public records exemptions, labor-dispute resolution, and non-discrimination cases. It also covers updates on public records compliance, labor contracts, and emergency services policies.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter highlights key legal updates, including Supreme Court decisions on administrative law, public records exemptions, labor-dispute resolution, and non-discrimination cases. It also covers updates on public records compliance, labor contracts, and emergency services policies.",
+  "keywords": [
+    "SCOTUS",
+    "Chevron deference",
+    "Administrative Procedure Act",
+    "Loper Bright",
+    "Public Records Exemption",
+    "Labor Dispute Resolution",
+    "Indian Law",
+    "Religious Discrimination"
+  ],
+  "topics": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance"
+  ],
+  "legal_cases": [
+    "Citizens Action v. City of Spokane (2024)",
+    "Groff v. DeJoy (2023)"
+  ],
+  "legal_statutes": [
+    "RCW 42.56.280",
+    "RCW 52.26.110"
+  ],
+  "categories": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance"
+  ],
+  "tags": [
+    "SCOTUS",
+    "Chevron deference",
+    "Administrative Procedure Act",
+    "Loper Bright",
+    "Public Records Exemption",
+    "Labor Dispute Resolution",
+    "Indian Law",
+    "Religious Discrimination"
+  ],
   "compressed_content": "",
-  "search_text": "inside this issue",
+  "search_text": "supreme court chevron deference and public records exemption updates",
+  "search_keywords": "Volume 22 Number 7, firehouselawyer.com, SCOTUS Chevron deference, administrative law, Loper Bright, Citizens Action v. City of Spokane, public records exemption",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "July2024FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "July2024FINAL.pdf",
   "pdf_url": "/Newsletters/July2024FINAL.pdf"
 }

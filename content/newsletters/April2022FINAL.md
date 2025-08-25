@@ -27,7 +27,7 @@ legal_statutes:
   - "RCW 71.05"
   - "SHB 1735"
 source_pdf: "April2022FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Volume 20 Number 4, Delegation of Authority, Firehouse Lawyer, non-delegation doctrine, public duty doctrine, Barry & Barry v. DMV, emergency response, Quinn and Quinn P.S."
 processed_date: 2025-08-22
 layout: newsletter

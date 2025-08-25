@@ -23,7 +23,7 @@ legal_statutes:
   - "ESHB 1329"
   - "RCW 42.30.077"
 source_pdf: "May2022ExtraFinal.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Volume 20, Number 5E Proclamation 20-28 Rescinded Effective June 1 2022 On May 11 2022 Governor Inslee announced that effective June 1 2022 his Proclamation 20-28 shall be considered rescinded as per ..."
 processed_date: 2025-08-22
 layout: newsletter

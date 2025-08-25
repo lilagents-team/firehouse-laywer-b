@@ -4,14 +4,54 @@
   "title": "Legal Updates for Public Agencies: Public Procurement, Mask Mandates, and Fire Service Consulting",
   "date": "2022-08-01",
   "summary": "The newsletter covers updates on public procurement laws, including exceptions for piggybacking purchases under RCW 39.34.030(5)(b), the legal upheld of mask mandates in Washington State, and the transition of legal responsibilities between firehouse lawyers.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter covers updates on public procurement laws, including exceptions for piggybacking purchases under RCW 39.34.030(5)(b), the legal upheld of mask mandates in Washington State, and the transition of legal responsibilities between firehouse lawyers.",
+  "keywords": [
+    "public procurement",
+    "piggybacking",
+    "RCW 39.34.030(5)(b)",
+    "mask mandate",
+    "fire service consulting"
+  ],
+  "topics": [
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "legal_cases": [
+    "Sehmel et al. v. Shah"
+  ],
+  "legal_statutes": [
+    "RCW 39.34.030(5)(b)",
+    "RCW 52.14.110"
+  ],
+  "categories": [
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "tags": [
+    "public procurement",
+    "piggybacking",
+    "RCW 39.34.030(5)(b)",
+    "mask mandate",
+    "fire service consulting"
+  ],
   "compressed_content": "",
   "search_text": "legal updates for public agencies: public procurement, mask mandates, and fire service consulting",
+  "search_keywords": "Volume 20 Number 8, Public Procurement Updates, piggybacking purchases RCW 39.34.030, mask mandate Washington State, fire service consulting, Sehmel v. Shah",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "August2022FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "August2022FINAL.pdf",
   "pdf_url": "/Newsletters/August2022FINAL.pdf"
 }

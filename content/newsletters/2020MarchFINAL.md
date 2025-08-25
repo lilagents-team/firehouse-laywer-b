@@ -19,7 +19,7 @@ legal_statutes:
   - "52.26.040-090"
   - "HHS Secretary regulations"
 source_pdf: "2020MarchFINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Volume 18, Number 3. Coronavirus response options. Benefit Charge Law Changes. The law expands rights under the Family and Medical Leave Act. Temporary FMLA benefits for employees. Emergency Sick Leav..."
 processed_date: 2025-08-22
 layout: newsletter

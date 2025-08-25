@@ -4,14 +4,64 @@
   "title": "Supreme Court Title VII Discrimination Ruling, Chaudry Nuisance Case, and Public Duty Doctrine in EMS",
   "date": "2024-06-01",
   "summary": "The newsletter covers key legal developments including a significant Supreme Court decision on Title VII discrimination cases, a case involving private nuisance and negligence, districting regulations in fire protection services, and the ongoing application of public duty doctrine in emergency medical services.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter covers key legal developments including a significant Supreme Court decision on Title VII discrimination cases, a case involving private nuisance and negligence, districting regulations in fire protection services, and the ongoing application of public duty doctrine in emergency medical services.",
+  "keywords": [
+    "Title VII",
+    "SCOTUS",
+    "discrimination",
+    "harm",
+    "some harm approach",
+    "Kavanaugh",
+    "Chaudry case",
+    "nuisance",
+    "negligence",
+    "districting"
+  ],
+  "topics": [
+    "Employment Law",
+    "Private Nuisance and Negligence",
+    "Public Records/Districting",
+    "Emergency Services",
+    "Public Duty Doctrine"
+  ],
+  "legal_cases": [
+    "Supreme Court (SCOTUS) opinions",
+    "Chaudry v. City of Seattle"
+  ],
+  "legal_statutes": [
+    "RCW 52.26.0803",
+    "RCW 44.05",
+    "RCW 29A.76"
+  ],
+  "categories": [
+    "Employment Law",
+    "Private Nuisance and Negligence",
+    "Public Records/Districting",
+    "Emergency Services",
+    "Public Duty Doctrine"
+  ],
+  "tags": [
+    "Title VII",
+    "SCOTUS",
+    "discrimination",
+    "harm",
+    "some harm approach",
+    "Kavanaugh",
+    "Chaudry case",
+    "nuisance",
+    "negligence",
+    "districting"
+  ],
   "compressed_content": "",
   "search_text": "supreme court title vii discrimination ruling, chaudry nuisance case, and public duty doctrine in ems",
+  "search_keywords": "Volume 22, Number 6 Firehouse Lawyer newsletter covers legal updates including SCOTUS Title VII decision, Chaudry case on nuisance, districting regulations, and public duty in EMS....",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "June2024FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "June2024FINAL.pdf",
   "pdf_url": "/Newsletters/June2024FINAL.pdf"
 }

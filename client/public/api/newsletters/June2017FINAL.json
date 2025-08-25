@@ -4,14 +4,44 @@
   "title": "PRA Five-Day Letter Requirements, Circuit Riding Implementation, and Retainage Payment Procedures",
   "date": "2017-06-01",
   "summary": "The newsletter discusses expanding office locations, implementing circuit riding for public records requests, correcting a legal requirement regarding five-day letters, exploring municipal roundtable funding sources, and detailing the procedure for retainage payments.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses expanding office locations, implementing circuit riding for public records requests, correcting a legal requirement regarding five-day letters, exploring municipal roundtable funding sources, and detailing the procedure for retainage payments.",
+  "keywords": [
+    "public records",
+    "five-day letter",
+    "circuit riding",
+    "PRA",
+    "Rufin v. City of Seattle"
+  ],
+  "topics": [
+    "Public Records, Legal Updates, Public Works, Fire Department Practice Areas, Public Service"
+  ],
+  "legal_cases": [
+    "Rufin v. City of Seattle"
+  ],
+  "legal_statutes": [
+    "RCW 42.56.520",
+    "82.14.450"
+  ],
+  "categories": [
+    "Public Records, Legal Updates, Public Works, Fire Department Practice Areas, Public Service"
+  ],
+  "tags": [
+    "public records",
+    "five-day letter",
+    "circuit riding",
+    "PRA",
+    "Rufin v. City of Seattle"
+  ],
   "compressed_content": "",
   "search_text": "pra five-day letter requirements, circuit riding implementation, and retainage payment procedures",
+  "search_keywords": "Fireho Volume 15 Number Six, Public Records Act, five-day letter, PRA Case Rufin v. City of Seattle, Circuit Riding Implementation, Municipal Roundtable Funding Sources, Retainage Payment Procedure...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "June2017FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "June2017FINAL.pdf",
   "pdf_url": "/Newsletters/June2017FINAL.pdf"
 }

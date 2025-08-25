@@ -1,5 +1,5 @@
 ---
-title: "Inside this Issue"
+title: "FLSA Case Analysis and Privacy Breach Discrimination Due Process"
 date: 2024-11-30
 description: "The newsletter covers key legal updates including an important FLSA case, a significant privacy breach case, the application of due process in discrimination cases, and considerations for 24-hour shift regulations."
 summary: "The newsletter covers key legal updates including an important FLSA case, a significant privacy breach case, the application of due process in discrimination cases, and considerations for 24-hour shift regulations."
@@ -28,7 +28,7 @@ legal_statutes:
   - "RCW 70.02"
   - "RCW 43.105.369"
 source_pdf: "November2024FINAL.pdf"
-metadata_quality: medium
+metadata_quality: "medium"
 search_keywords: "Fireho Volume 22, Number 11. Important FLSA case at SCOTUS blog. Important privacy case in WA Court of Appeals. Undue Hardship defense revisited in WA Supreme Court. 24-hour shifts legal consideration..."
 processed_date: 2025-08-22
 layout: newsletter

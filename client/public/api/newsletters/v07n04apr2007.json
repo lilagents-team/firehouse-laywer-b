@@ -4,14 +4,53 @@
   "title": "ADA Physical Limitations and HIPAA Medical Records Compliance",
   "date": "2007-04-17",
   "summary": "The document discusses the legal implications of employers regarding physical limitations under the ADA, a case involving discrimination in employment based on inability to meet physical requirements, and HIPAA/Health Care Information Act sections. It also provides guidance on medical record requests for health care providers.",
-  "keywords": [],
-  "topics": [],
+  "description": "The document discusses the legal implications of employers regarding physical limitations under the ADA, a case involving discrimination in employment based on inability to meet physical requirements, and HIPAA/Health Care Information Act sections. It also provides guidance on medical record requests for health care providers.",
+  "keywords": [
+    "ADA",
+    "Discrimination",
+    "Employment Law",
+    "HIPAA",
+    "RCW"
+  ],
+  "topics": [
+    "Public Records",
+    "Employment Law",
+    "Legal Discrimination",
+    "Fire Department Safety",
+    "Medical Records"
+  ],
+  "legal_cases": [
+    "Walton v. U.S. Marshals Service (9th Cir., 2007)"
+  ],
+  "legal_statutes": [
+    "RCW 70.02.140",
+    "RCW 70.02.050(2)(c)",
+    "HIPAA amendment in 2006"
+  ],
+  "categories": [
+    "Public Records",
+    "Employment Law",
+    "Legal Discrimination",
+    "Fire Department Safety",
+    "Medical Records"
+  ],
+  "tags": [
+    "ADA",
+    "Discrimination",
+    "Employment Law",
+    "HIPAA",
+    "RCW"
+  ],
   "compressed_content": "",
   "search_text": "ada physical limitations and hipaa medical records compliance",
+  "search_keywords": "Firehouse Lawyer Volume 7 Number 4: ADA protections regarding physical limitations, employment discrimination cases, HIPAA/HCIA sections, HIPAA medical record requirements, and legal considerations fo...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v07n04apr2007",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v07n04apr2007.pdf",
   "pdf_url": "/Newsletters/v07n04apr2007.pdf"
 }

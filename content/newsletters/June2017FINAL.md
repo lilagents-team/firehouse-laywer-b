@@ -19,7 +19,7 @@ legal_statutes:
   - "RCW 42.56.520"
   - "82.14.450"
 source_pdf: "June2017FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Fireho Volume 15 Number Six, Public Records Act, five-day letter, PRA Case Rufin v. City of Seattle, Circuit Riding Implementation, Municipal Roundtable Funding Sources, Retainage Payment Procedure..."
 summary: "The newsletter discusses expanding office locations, implementing circuit riding for public records requests, correcting a legal requirement regarding five-day letters, exploring municipal roundtable funding sources, and detailing the procedure for retainage payments."
 processed_date: 2025-08-22

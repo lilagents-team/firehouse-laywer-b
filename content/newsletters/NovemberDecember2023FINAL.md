@@ -11,7 +11,7 @@ tags:
 legal_cases: 
 legal_statutes: 
 source_pdf: NovemberDecember2023FINAL.pdf
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: The newsletter discusses tax increment financing interpretation and its implications for public agencies. It addresses concerns about the application of the tax increment law, including how it affects...
 processed_date: 2025-08-22
 layout: newsletter

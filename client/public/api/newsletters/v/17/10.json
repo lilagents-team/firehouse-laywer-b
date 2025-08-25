@@ -4,14 +4,39 @@
   "title": "Important Public Records Act Case - Standing Public Records Requests",
   "date": "2019-10-01",
   "summary": "The Washington Supreme Court ruled on a significant public records act case, emphasizing the application of temporal exemptions and the handling of redacted records in multi-installment requests.",
-  "keywords": [],
-  "topics": [],
+  "description": "The Washington Supreme Court ruled on a significant public records act case, emphasizing the application of temporal exemptions and the handling of redacted records in multi-installment requests.",
+  "keywords": [
+    "public records act",
+    "temporal exemption",
+    "ron gipson v. snohomish county"
+  ],
+  "topics": [
+    "Public Records"
+  ],
+  "legal_cases": [
+    "Ron Gipson v. Snohomish County (2019)"
+  ],
+  "legal_statutes": [
+    "RCW 42.56.250"
+  ],
+  "categories": [
+    "Public Records"
+  ],
+  "tags": [
+    "public records act",
+    "temporal exemption",
+    "ron gipson v. snohomish county"
+  ],
   "compressed_content": "",
   "search_text": "important public records act case - standing public records requests",
+  "search_keywords": "Volume 17, Number 10 public records act case standing public records requests Gipson Snohomish County 2019...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "October2019FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "October2019FINAL.pdf",
   "pdf_url": "/Newsletters/October2019FINAL.pdf"
 }

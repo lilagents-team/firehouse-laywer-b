@@ -26,7 +26,7 @@ legal_statutes:
   - "RCW 26.44.060(1)"
 summary: "May 2016 newsletter examines mandatory reporter legal implications for fire departments under Washington state law, analyzes negligence claims for failure to report suspected abuse under RCW 74.34.035 and RCW 26.44.060(1) including Kim v. Lakeside Adult Family Home precedent, addresses donation policy regarding public funds and constitutional gift restrictions, and provides guidance on DFCA compliance to ensure donations serve fundamental government purposes of protecting life and property."
 source_pdf: "May2016FINAL.pdf"
-metadata_quality: medium
+metadata_quality: "medium"
 search_keywords: "Volume 14 Number 5, Inside this Issue, Implied Cause of Action for Abuse, Vol. 14 No. 5, Mandatory Reporters Must Report Suspected Abuse, Public Funds Unconstitutional Gifts, Municipal Roundtable Discussion"
 processed_date: 2025-08-22
 layout: newsletter

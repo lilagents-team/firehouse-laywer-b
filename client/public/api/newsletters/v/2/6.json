@@ -4,14 +4,60 @@
   "title": "Planning and Professionalism",
   "date": "1998-06-25",
   "summary": "The newsletter discusses certification requirements for fire chiefs, planning processes in fire departments, public bid laws, and relevant statutes affecting emergency services.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses certification requirements for fire chiefs, planning processes in fire departments, public bid laws, and relevant statutes affecting emergency services.",
+  "keywords": [
+    "Certification",
+    "Fire Chiefs",
+    "Planning",
+    "Public Bid Laws",
+    "Statutes"
+  ],
+  "topics": [
+    "Open Government",
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "legal_cases": [
+    "Marinucci v. United States Fire Corps"
+  ],
+  "legal_statutes": [
+    "RCW 52.14.10",
+    "RCW 52.14.120",
+    "RCW 39.12.020",
+    "RCW 39.04.270"
+  ],
+  "categories": [
+    "Open Government",
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "tags": [
+    "Certification",
+    "Fire Chiefs",
+    "Planning",
+    "Public Bid Laws",
+    "Statutes"
+  ],
   "compressed_content": "",
   "search_text": "planning and professionalism",
+  "search_keywords": "Vol. 2, No. 6, Joseph F. Quinn, Planning and Professionalism, Firehouse Lawyer, Public Bid Laws, fire chief certification, RCW 52.14.10",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v02n06jun1998",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v02n06jun1998.pdf",
   "pdf_url": "/Newsletters/v02n06jun1998.pdf"
 }

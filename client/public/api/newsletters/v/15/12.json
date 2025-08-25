@@ -4,14 +4,55 @@
   "title": "Sick Leave Law Compliance, LEOFF II Contribution Changes, and Post-Amtrak Safety Protocols",
   "date": "2017-12-31",
   "summary": "The newsletter covers various legal topics including updates on sick leave laws, upcoming municipal roundtables, legislative changes to LEOFF II, and safety guidelines following an Amtrak incident. Key legal findings include discussions on accrued paid sick leave requirements, the application of RCW 49.46.210(1)(j), and updated safety protocols for emergency services.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter covers various legal topics including updates on sick leave laws, upcoming municipal roundtables, legislative changes to LEOFF II, and safety guidelines following an Amtrak incident. Key legal findings include discussions on accrued paid sick leave requirements, the application of RCW 49.46.210(1)(j), and updated safety protocols for emergency services.",
+  "keywords": [
+    "sick leave",
+    "accrued paid sick leave",
+    "RCW 49.46.210(1)(j)",
+    "LEOFF II",
+    "public records"
+  ],
+  "topics": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "legal_cases": [],
+  "legal_statutes": [
+    "RCW 49.46.210(1)(j)",
+    "RCW 35.21.730",
+    "RCW 9.41.251(2)(b)"
+  ],
+  "categories": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "tags": [
+    "sick leave",
+    "accrued paid sick leave",
+    "RCW 49.46.210(1)(j)",
+    "LEOFF II",
+    "public records"
+  ],
   "compressed_content": "",
   "search_text": "sick leave law compliance, leoff ii contribution changes, and post-amtrak safety protocols",
+  "search_keywords": "Volume 15, Number Twelve. Firehouse Lawyer. December 2017. Contact information. Questions regarding the new sick leave law. We were recently asked whether the new sick leave law requires that 40 hours...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "December2017FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "December2017FINAL.pdf",
   "pdf_url": "/Newsletters/December2017FINAL.pdf"
 }

@@ -19,7 +19,7 @@ legal_statutes:
   - "RCW 41.56"
   - "House Bill 2751"
 source_pdf: "June2018Janus.pdf"
-metadata_quality: medium
+metadata_quality: "medium"
 search_keywords: "Fireho Volume 16, Number Six Legal updates on Janus Ruling and Agency Shop Provisions. The newsletter discusses the implications of the Janus Court decision, which overrules the Abood v. Detroit Board..."
 summary: "The newsletter discusses the implications of the Janus Court decision, which overrules the Abood v. Detroit Board of Education case, declaring agency shop provisions in collective bargaining agreements unconstitutional under First Amendment rights."
 processed_date: 2025-08-22

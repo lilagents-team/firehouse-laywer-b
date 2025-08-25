@@ -28,7 +28,7 @@ legal_statutes:
   - "SSB 5607"
 summary: "February 2017 newsletter examines Open Public Meeting Act (OPMA) requirements for fire departments under RCW 42.30.030, analyzes firefighter occupational disease presumptions under RCW 51.32.185 including West v. Pierce County precedent, discusses local property tax levy changes affecting junior districts and EMS services per RCW 84.52.050, and provides updated safety checklist requirements for compliance."
 source_pdf: "February2017FINAL.pdf"
-metadata_quality: high
+metadata_quality: "high"
 search_keywords: "Open Public Meeting Act, employment law, public finance, local levy support, property tax, fire department, safety checklist, RCW 42.30.030, RCW 51.32.185, RCW 84.52.050"
 processed_date: 2025-08-22
 layout: newsletter

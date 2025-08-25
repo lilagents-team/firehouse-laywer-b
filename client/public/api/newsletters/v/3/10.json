@@ -4,14 +4,58 @@
   "title": "Comp Time – Use It or Lose It",
   "date": "1999-10-01",
   "summary": "October 1999 issue examining compensatory time management under employment-at-will doctrine for public safety departments, analyzing FLSA compliance requirements for comp time caps including Collins v. Lobdell and Harris County precedents, establishing due process protections for fire districts and emergency services, and providing guidance on balancing employer authority with employee rights in public sector employment.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses the employment-at-will doctrine and its implications for public safety departments like firehouses. It highlights that employers can require employees to use comp time but must comply with FLSA caps and due process protections.",
+  "keywords": [
+    "comp time",
+    "employment-at-will doctrine",
+    "Flsa",
+    "public safety departments",
+    "firehouse districts",
+    "due process"
+  ],
+  "topics": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "legal_cases": [
+    "Collins v. Lobdell",
+    "Harris County v. (5th Cir., 1998)"
+  ],
+  "legal_statutes": [
+    "FLSA"
+  ],
+  "categories": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "tags": [
+    "comp time",
+    "employment-at-will doctrine",
+    "Flsa",
+    "public safety departments",
+    "firehouse districts",
+    "due process"
+  ],
   "compressed_content": "",
   "search_text": "comp time – use it or lose it",
+  "search_keywords": "Comp Time Use It or Lose It, Vol. 3 No. 10, Joseph F. Quinn, employment-at-will doctrine, employers restrict eliminate employee protections, Public safety departments, firehouse districts",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v03n10oct1999",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v03n10oct1999.pdf",
   "pdf_url": "/Newsletters/v03n10oct1999.pdf"
 }

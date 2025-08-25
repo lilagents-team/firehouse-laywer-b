@@ -20,7 +20,7 @@ legal_cases:
 legal_statutes:
   - "RCW 42.40.140"
 source_pdf: "October2018FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Volume 16, Number 10, Legal News, Open Public Meetings Act, Collective Bargaining, Mandatory Subjects, Permissive Subjects, Ground Rules, Teamsters Local 690, PERC ruling..."
 processed_date: 2025-08-22
 layout: newsletter

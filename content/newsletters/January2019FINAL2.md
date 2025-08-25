@@ -21,7 +21,7 @@ legal_statutes:
   - "RCW 52.14.010"
 summary: "January 2019 newsletter introduces new Editor Eric T. Quinn, examines Paid Family and Medical Leave (FMLA) Act updates under RCW 50A.04 including small employer exemptions for businesses with fewer than 50 employees, analyzes Washington State interpretation excluding elected officials from FMLA employee classification, and discusses safety bill enhancements for fire department insurance coverage under RCW 52.14.010."
 source_pdf: "January2019FINAL2.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Firehouse Lawyer Volume 17 Number 1, Paid FMLA Issues, Safety Bill, Employment Law, Small Employers, Fire Departments, January 2019..."
 processed_date: 2025-08-22
 layout: newsletter

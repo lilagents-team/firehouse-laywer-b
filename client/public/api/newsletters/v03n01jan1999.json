@@ -4,14 +4,56 @@
   "title": "Constitutional Questions: The Field of Fire Protection",
   "date": "1999-01-31",
   "summary": "January 1999 newsletter examines constitutional questions in fire protection law including open fields doctrine application, analyzes FLSA 7(k) exemption updates for emergency medical personnel distinguishing permissible versus non-permissible activities, discusses United States v. K and Q precedent from Washington State, reviews state constitutional rights issues in fire protection contexts, and provides guidance on labor law compliance for fire departments employing emergency medical personnel under federal statute 52.12.",
-  "keywords": [],
-  "topics": [],
+  "description": "The document discusses ongoing legal debates regarding the application of constitutional rights in fire protection laws, emphasizing the open fields doctrine and its implications. It also addresses updates to the FLSA 7(k) exemption for emergency medical personnel, highlighting the distinction between permissible and non-permissible activities. Key cases like 'K and Q' from Washington State are referenced, along with state constitutional issues.",
+  "keywords": [
+    "Open Government",
+    "Employment Law",
+    "FLSA 7(k)",
+    "Emergency Medical Personnel",
+    "Fire Protection Law"
+  ],
+  "topics": [
+    "Open Government",
+    "Employment Law",
+    "Public Law Constellation",
+    "Emergency Medical Personnel",
+    "Fire Protection Law",
+    "Labor Law"
+  ],
+  "legal_cases": [
+    "United States v. K and Q, No. 37 (1984)",
+    "(1967), (1967)"
+  ],
+  "legal_statutes": [
+    "52.12",
+    "389.447 U.S. 347 (1984)",
+    "389.466 U.S. (1984)"
+  ],
+  "categories": [
+    "Open Government",
+    "Employment Law",
+    "Public Law Constellation",
+    "Emergency Medical Personnel",
+    "Fire Protection Law",
+    "Labor Law"
+  ],
+  "tags": [
+    "Open Government",
+    "Employment Law",
+    "FLSA 7(k)",
+    "Emergency Medical Personnel",
+    "Fire Protection Law"
+  ],
   "compressed_content": "",
   "search_text": "constitutional questions: the field of fire protection",
+  "search_keywords": "Constitutional Questions: The Field of Fire Protection, Open Government, Employment Law, Public Law Constellation, Emergency Medical Personnel, Fire Protection Law, Labor Law, United States v. K and Q...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v03n01jan1999",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v03n01jan1999.pdf",
   "pdf_url": "/Newsletters/v03n01jan1999.pdf"
 }

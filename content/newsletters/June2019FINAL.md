@@ -30,7 +30,7 @@ legal_statutes:
   - "RCW 84.52.056"
   - "RCW 52.16.061"
 source_pdf: "June2019FINAL.pdf"
-metadata_quality: medium
+metadata_quality: "medium"
 search_keywords: "Volume 17 Number 6, Firehouse Lawyer June 2019, EMS Liability Cases negligence, Public Duty Doctrine city responsibility, Safety Bills workplace safety, HIPAA Violations employment"
 summary: "The newsletter covers EMS liability, public duty doctrine, safety bills, HIPAA violations, property tax issues, emergency preparedness, budgeting, training compliance, and litigation."
 processed_date: 2025-08-22

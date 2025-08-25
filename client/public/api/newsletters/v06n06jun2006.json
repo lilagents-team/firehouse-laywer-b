@@ -4,14 +4,45 @@
   "title": "Supreme Court Decides Major Public Employee Speech Case",
   "date": "2006-05-30",
   "summary": "June 2006 newsletter analyzes Supreme Court's 5-4 decision in Garcetti v. Ceballos establishing First Amendment protection for public employee speech on matters of public concern, distinguishes protected speech from personal speech, discusses interlocal agreement updates under HB 2676 allowing online posting while addressing funding challenges, and provides guidance on balancing public officials' speech rights with employer interests in maintaining efficient public services.",
-  "keywords": [],
-  "topics": [],
+  "description": "The Supreme Court issued a 5-4 decision in *Garcetti v. Ceballos* addressing public employee speech under the First Amendment. The case involved a deputy district attorney who was fired for speaking on matters of public concern as part of his job duties. The court ruled that his speech qualified as protected under the First Amendment, distinguishing it from personal speech. The decision highlighted the importance of balancing public officials' rights to express opinions with the interests of their employers in maintaining efficient public services.",
+  "keywords": [
+    "First Amendment",
+    "public employee speech",
+    "Garcetti v. Ceballos",
+    "Pickering v. Board of Education",
+    "RCW 39.34"
+  ],
+  "topics": [
+    "Employment Law"
+  ],
+  "legal_cases": [
+    "*Garcetti v. Ceballos*",
+    "*Pickering v. Board of Education*",
+    "*Connick*"
+  ],
+  "legal_statutes": [
+    "RCW 39.34"
+  ],
+  "categories": [
+    "Employment Law"
+  ],
+  "tags": [
+    "First Amendment",
+    "public employee speech",
+    "Garcetti v. Ceballos",
+    "Pickering v. Board of Education",
+    "RCW 39.34"
+  ],
   "compressed_content": "",
   "search_text": "supreme court decides major public employee speech case",
+  "search_keywords": "Garcetti v. Ceballos 5-4 decision public employee speech First Amendment employment law employment rights public officials speech content matter public concern...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v06n06jun2006",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v06n06jun2006.pdf",
   "pdf_url": "/Newsletters/v06n06jun2006.pdf"
 }

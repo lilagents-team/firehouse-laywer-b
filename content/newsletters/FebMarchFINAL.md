@@ -32,7 +32,7 @@ legal_statutes:
   - "RCW 52.26.180 et seq."
   - "162-12-140"
 source_pdf: "FebMarchFINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Fireho Volume 23, Number 2: Legal Updates. Electronic Funds Transfers (EFTs) policies discussed in detail. Public Records Act (PRA) case analysis, including the importance of request clarity and searc..."
 processed_date: 2025-08-22
 layout: newsletter

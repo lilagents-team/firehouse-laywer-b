@@ -4,14 +4,64 @@
   "title": "Fire Department Budget Increases and First Amendment Digital Footprint Analysis",
   "date": "2024-01-01",
   "summary": "The newsletter covers key legal updates including budget increases for fire departments, tax increment financing implications, First Amendment case analysis, public agency responsibilities, and updates on minimum wage laws and labor law changes.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter covers key legal updates including budget increases for fire departments, tax increment financing implications, First Amendment case analysis, public agency responsibilities, and updates on minimum wage laws and labor law changes.",
+  "keywords": [
+    "budget increase",
+    "tax increment financing",
+    "First Amendment",
+    "public agencies",
+    "minimum wage",
+    "labor law"
+  ],
+  "topics": [
+    "Open Government",
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "legal_cases": [
+    "Lindke v. Freed",
+    "Sound Transit v. LMRK PROPCO 3 LLC (Case: 85120-9-1)"
+  ],
+  "legal_statutes": [
+    "RCW 52.14.010",
+    "RCW 84.55.66",
+    "RCW 84.55.010",
+    "RCW 39.114.010",
+    "RCW 49.44.240"
+  ],
+  "categories": [
+    "Open Government",
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "tags": [
+    "budget increase",
+    "tax increment financing",
+    "First Amendment",
+    "public agencies",
+    "minimum wage",
+    "labor law"
+  ],
   "compressed_content": "",
   "search_text": "fire department budget increases and first amendment digital footprint analysis",
+  "search_keywords": "Budget increases, tax increment financing, First Amendment case analysis, public agency responsibilities, minimum wage hike, Lindke v. Freed case, Sound Transit v. LMRK PROPCO 3 LLC (Case: 85120-9-1),...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "January2024FINAL (2)",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "January2024FINAL (2).pdf",
   "pdf_url": "/Newsletters/January2024FINAL.pdf"
 }

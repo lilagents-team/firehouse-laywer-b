@@ -11,7 +11,7 @@ legal_cases:
 legal_statutes: 
 summary: September 2020 newsletter addresses fire department challenges in negotiating services with Tribal authorities under sovereign immunity laws utilizing RCW 52.30.080, analyzes significant Open Public Meetings Act (OPMA) court cases including Egan v. City of Seattle and West v. Battle Ground School District regarding pre-meeting communications compliance, and provides guidance on contract law requirements and public records compliance for fire protection agencies.
 source_pdf: September2020FINAL.pdf
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Volume 18 Number 9, Legal Updates on Fire Protection and Open Government Act Compliance October 2020, challenges faced by fire departments negotiating services with Tribal authorities, sovereign immunity laws, OPMA"
 processed_date: 2025-08-22
 layout: newsletter

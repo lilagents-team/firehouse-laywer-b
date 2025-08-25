@@ -4,14 +4,43 @@
   "title": "Open Public Meetings Act Compliance and Public Records Index Requirements",
   "date": "2005-09-16",
   "summary": "The newsletter discusses several key legal updates, including discussions on Open Public Meetings Act (OPMA) practices, the requirements for creating public records indexes, penalties for record withholding, interpretations of 'fullest assistance' in a statute, and implications of HB 1758. The document also highlights the importance of proper compliance with OPMA regarding committee meetings and provides insights into new legal developments affecting fire districts.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses several key legal updates, including discussions on Open Public Meetings Act (OPMA) practices, the requirements for creating public records indexes, penalties for record withholding, interpretations of 'fullest assistance' in a statute, and implications of HB 1758. The document also highlights the importance of proper compliance with OPMA regarding committee meetings and provides insights into new legal developments affecting fire districts.",
+  "keywords": [
+    "Open Public Meetings Act (OPMA)",
+    "Public Records Act (RCW 42.17)",
+    "HB 1758",
+    "Penalties for Withholding Records"
+  ],
+  "topics": [
+    "Legal Categories: Open Government, Public Records, Emergency Services"
+  ],
+  "legal_cases": [
+    "Doe v. Washington State Patrol"
+  ],
+  "legal_statutes": [
+    "RCW 42.17.250 et seq.",
+    "RCW 42.17.260",
+    "RCW 4.96.020"
+  ],
+  "categories": [
+    "Legal Categories: Open Government, Public Records, Emergency Services"
+  ],
+  "tags": [
+    "Open Public Meetings Act (OPMA)",
+    "Public Records Act (RCW 42.17)",
+    "HB 1758",
+    "Penalties for Withholding Records"
+  ],
   "compressed_content": "",
   "search_text": "open public meetings act compliance and public records index requirements",
+  "search_keywords": "Firehouse Lawyer Volume 5 Number 9 Open Public Meetings Act (OPMA) discussions, Public Records Act (RCW 42.17), HB 1758 amending RCW 42.17, penalties for record withholding, committee meetings and OPM...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v05n09sep2005",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v05n09sep2005.pdf",
   "pdf_url": "/Newsletters/v05n09sep2005.pdf"
 }

@@ -31,7 +31,7 @@ legal_statutes:
   - "RCW 52 14 020"
   - "RCW 42 12 070"
 source_pdf: "February2020.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Volume 18, Number 2 February 2020 Proposed Legislation in Washington State Public Agencies and Health Care Services The law firm of Quinn and Quinn P.S. is legal counsel to more than 40 Fire Departmen..."
 processed_date: 2025-08-22
 layout: newsletter

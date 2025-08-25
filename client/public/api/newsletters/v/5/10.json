@@ -4,14 +4,56 @@
   "title": "Surplus Property Disposal and Discrimination Law Updates",
   "date": "2005-10-15",
   "summary": "The newsletter discusses legal updates on surplus property disposal, discrimination and harassment laws, communication site leases, public funds usage, and provides actionable recommendations for fire protection districts.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses legal updates on surplus property disposal, discrimination and harassment laws, communication site leases, public funds usage, and provides actionable recommendations for fire protection districts.",
+  "keywords": [
+    "Surplus Property",
+    "Discrimination",
+    "Harassment",
+    "RCW",
+    "Public Funds"
+  ],
+  "topics": [
+    "Emergency Services",
+    "Employment Law",
+    "Public Records",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "legal_cases": [
+    "U.S. Circuit Court of Appeals, Ninth Circuit"
+  ],
+  "legal_statutes": [
+    "RCW 39.33.020",
+    "RCW 12.17.310"
+  ],
+  "categories": [
+    "Emergency Services",
+    "Employment Law",
+    "Public Records",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "tags": [
+    "Surplus Property",
+    "Discrimination",
+    "Harassment",
+    "RCW",
+    "Public Funds"
+  ],
   "compressed_content": "",
   "search_text": "surplus property disposal and discrimination law updates",
+  "search_keywords": "Firehouse Lawyer Volume 5 Number 10 October 15 2005 Joseph F. Quinn surplus property discrimination harassment communication site leases public funds usage legal updates recommendations...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v05n10oct2005",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v05n10oct2005.pdf",
   "pdf_url": "/Newsletters/v05n10oct2005.pdf"
 }

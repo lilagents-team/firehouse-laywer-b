@@ -11,7 +11,7 @@ legal_cases:
 legal_statutes: 
 summary: January 2017 newsletter analyzes privacy rights under First and Fourth Amendments for fire departments, examines conditional employment offers under ADA guidelines including medical examination requirements, discusses public official recall procedures referencing West v. Vermillion and In re Recall of Boldt cases, and provides comprehensive safety regulation compliance guidance under RCW 39.04.155 and WAC 296-305-01509.
 source_pdf: January_2017_FINAL.pdf
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: Open Government Employment Law Public Records Emergency Services Contract Law Training & Compliance Litigation...
 processed_date: 2025-08-22
 layout: newsletter

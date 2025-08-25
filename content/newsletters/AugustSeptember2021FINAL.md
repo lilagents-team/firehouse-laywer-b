@@ -27,7 +27,7 @@ legal_statutes:
   - "RCW 505.33"
   - "196 WAC 540-5051-478 P. M. 2d"
 source_pdf: "AugustSeptember2021FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Firehouse Lawyer Volume 19 Number 8, September 2021, Mandatory COVID-19 Vaccination, Proclamation 21-14, Governor Inslee, healthcare workers EMS personnel"
 processed_date: 2025-08-22
 layout: newsletter

@@ -1,5 +1,5 @@
 ---
-title: "Legal Updates on Fire Department Liability and Unfair Labor Practices"
+title: "Municipal Roundtable on Unfair Labor Practices and State Fire Liability Claims"
 date: 2015-12-31
 description: "The newsletter discusses a Municipal Roundtable addressing Unfair Labor Practices, emphasizing the importance of quick responses to prevent property damage. It also outlines a negligence claim against the Washington State for failing to contain a fire that spread from public lands to private properties."
 summary: "The newsletter discusses a Municipal Roundtable addressing Unfair Labor Practices, emphasizing the importance of quick responses to prevent property damage. It also outlines a negligence claim against the Washington State for failing to contain a fire that spread from public lands to private properties."
@@ -21,7 +21,7 @@ legal_statutes:
   - "RCW 41.56.140"
   - "RCW 76.04.760"
 source_pdf: "December2015FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Municipal Roundtable on Unfair Labor Practices. Discussion on how PERC may rule on claims for unfair labor practices over the last five years. Joseph Quinn as legal counsel to more than 40 Fire Depart..."
 processed_date: 2025-08-22
 layout: newsletter

@@ -201,17 +201,26 @@ async function generateStaticNewsletters() {
           title: Array.isArray(newsletter.title) ? newsletter.title.join(', ') : newsletter.title,
           date: newsletter.date,
           summary: Array.isArray(newsletter.summary) ? newsletter.summary.join(' ') : newsletter.summary,
-          keywords: Array.isArray(newsletter.keywords) ? newsletter.keywords : [],
-          topics: Array.isArray(newsletter.topics) ? newsletter.topics : [],
+          description: newsletter.description || '',
+          keywords: Array.isArray(newsletter.keywords) ? newsletter.keywords : (Array.isArray(newsletter.tags) ? newsletter.tags : []),
+          topics: Array.isArray(newsletter.topics) ? newsletter.topics : (Array.isArray(newsletter.categories) ? newsletter.categories : []),
+          legal_cases: Array.isArray(newsletter.legal_cases) ? newsletter.legal_cases : [],
+          legal_statutes: Array.isArray(newsletter.legal_statutes) ? newsletter.legal_statutes : [],
+          categories: Array.isArray(newsletter.categories) ? newsletter.categories : [],
+          tags: Array.isArray(newsletter.tags) ? newsletter.tags : [],
           compressed_content: Array.isArray(newsletter.compressed_content) 
             ? newsletter.compressed_content.join(' ') 
             : newsletter.compressed_content || '',
           search_text: newsletter.search_text || newsletter.title.toLowerCase(),
+          search_keywords: newsletter.search_keywords || '',
           corruption_detected: dataCorruption,
           corruption_notes: corruptionNotes,
           original_filename: newsletter.original_filename || null,
           slug: (newsletter.slug || file.replace('.json', '')).replace('.md', ''),
-          file_size_kb: newsletter.file_size_kb || 0
+          file_size_kb: newsletter.file_size_kb || 0,
+          metadata_quality: newsletter.metadata_quality || 'no_quality',
+          processed_date: newsletter.processed_date || null,
+          source_pdf: newsletter.source_pdf || null
         };
         
         // Find PDF file

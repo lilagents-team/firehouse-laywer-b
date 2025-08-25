@@ -1,17 +1,59 @@
 {
   "volume": "17",
   "edition": "3",
-  "title": "Inside this Issue",
+  "title": "Public Health Law and FMLA Employment Relations Updates",
   "date": "2019-04-03",
   "summary": "March/April 2019 newsletter examines public health law under RCW 70.02 protecting health care information privacy, addresses FMLA compliance issues and employer rights regarding concurrent paid sick leave under RCW 50A.04.250, analyzes safety bill impacts on employee retirement benefits, reviews PERC rulings on unilateral changes and past practices in Volkert v. Fairbank Construction Co., Escriba v. Foster Poultry Farms, and Seaquist v. Caldier cases, and provides employment relations guidance for public sector labor negotiations.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter covers legal updates on public health law, FMLA quagmire issues, safety bills, labor concepts, and employment relations.",
+  "keywords": [
+    "RCW",
+    "FMLA",
+    "PERC",
+    "Volkert v. Fairbank Construction Co., Inc.",
+    "Escriba v. Foster Poultry Farms, Inc.",
+    "Seaquist v. Caldier"
+  ],
+  "topics": [
+    "Employment Law",
+    "Contract Law",
+    "Public Records",
+    "Emergency Services",
+    "Labor Law"
+  ],
+  "legal_cases": [
+    "Volkert v. Fairbank Construction Co., Inc. (2019)",
+    "Escriba v. Foster Poultry Farms, Inc. (2014)",
+    "Seaquist v. Caldier (2018)"
+  ],
+  "legal_statutes": [
+    "RCW 70.02",
+    "RCW 50A.04.250"
+  ],
+  "categories": [
+    "Employment Law",
+    "Contract Law",
+    "Public Records",
+    "Emergency Services",
+    "Labor Law"
+  ],
+  "tags": [
+    "RCW",
+    "FMLA",
+    "PERC",
+    "Volkert v. Fairbank Construction Co., Inc.",
+    "Escriba v. Foster Poultry Farms, Inc.",
+    "Seaquist v. Caldier"
+  ],
   "compressed_content": "",
-  "search_text": "inside this issue",
+  "search_text": "public health law and fmla employment relations updates",
+  "search_keywords": "March/April 2019 newsletter content includes sections on public health law, FMLA issues, safety bills, labor concepts, and employment relations....",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "MarchApril2019",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "MarchApril2019.pdf",
   "pdf_url": "/Newsletters/MarchApril2019.pdf"
 }

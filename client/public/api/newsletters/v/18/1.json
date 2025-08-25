@@ -1,17 +1,58 @@
 {
   "volume": "18",
   "edition": "1",
-  "title": "Inside This Issue",
+  "title": "Quo Warranto Proceedings and Fire Chief Governance Authority Separation",
   "date": "2020-01-01",
   "summary": "January 2020 newsletter examines Quo Warranto proceedings under RCW 7.56.002 ruling that public officials cannot oust administrative authorities without proper standing, analyzes separation of duties between governing board and Fire Chief including Kilduff v. Quinncoll and Shoreline Community College v. City of Tacoma precedents, recommends governing boards handle PRA matters while Fire Chiefs focus on administrative duties, and provides guidance on PERC deferrals in labor disputes under RCW 59.13.002.",
-  "keywords": [],
-  "topics": [],
+  "description": "The Quo Warranto case ruled that a public official could oust an administrative authority with a private attorney unless they had standing. Fire departments are recommended to have the governing board handle PRA matters while the Fire Chief handles administrative duties.",
+  "keywords": [
+    "Public Act on Reserve Powers",
+    "Open Records Act (PRA)",
+    "Permanence and Stability of Work Order",
+    "PERC",
+    "Kilduff v. Quinncoll",
+    "Shoreline Community College v. City of Tacoma"
+  ],
+  "topics": [
+    "Public Records Law",
+    "Emergency Services",
+    "Contract Law",
+    "Employment Law",
+    "Litigation"
+  ],
+  "legal_cases": [
+    "Kilduff v. Quinncoll",
+    "Shoreline Community College v. City of Tacoma"
+  ],
+  "legal_statutes": [
+    "RCW 7.56.002",
+    "RCW 59.13.002"
+  ],
+  "categories": [
+    "Public Records Law",
+    "Emergency Services",
+    "Contract Law",
+    "Employment Law",
+    "Litigation"
+  ],
+  "tags": [
+    "Public Act on Reserve Powers",
+    "Open Records Act (PRA)",
+    "Permanence and Stability of Work Order",
+    "PERC",
+    "Kilduff v. Quinncoll",
+    "Shoreline Community College v. City of Tacoma"
+  ],
   "compressed_content": "",
-  "search_text": "inside this issue",
+  "search_text": "quo warranto proceedings and fire chief governance authority separation",
+  "search_keywords": "Date: January 20, 2020 Open Puzzles - What’s That?, The Board and the Fire Chief: Who’s Responsible for What? (Part 1) Quo Warranto – What’s That?, The Board and the Fire Chief: Who’s Responsible for ...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "January2020FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "January2020FINAL.pdf",
   "pdf_url": "/Newsletters/January2020FINAL.pdf"
 }

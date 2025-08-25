@@ -23,7 +23,7 @@ legal_statutes:
   - "RCW 49.77.030"
   - "USERRA"
 source_pdf: "May18FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Fireho Volume 16, Number Five Municipal Roundtable Veterans’ Preference Laws SAFETY BILL use Lawyer May 2018 RCW 41.04.010 USERRA WAC 296-305-01509 WAC 296-305-06507 WAC 296-305-05004 WAC 296-305-0451..."
 processed_date: 2025-08-22
 layout: newsletter

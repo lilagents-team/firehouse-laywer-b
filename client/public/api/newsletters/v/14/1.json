@@ -4,14 +4,52 @@
   "title": "SB 6250 Revenue Bills, HB 1425 OPMA Changes, and Heffernan v. City of Paterson First Amendment Rights",
   "date": "2016-01-01",
   "summary": "January 2016 newsletter covers legal updates for fire departments and public safety agencies including legislative proposals SB 6250/SB 1605 and HB 1425/OPMA, analyzes annexation issues and revenue bills, discusses small works roster changes and fireworks ordinances, examines proposed firefighter memorial license plate program, and addresses First Amendment rights in public employee unions through Heffernan v. City of Paterson and Friedrichs v. California Teachers Association cases affecting union dues requirements.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter covers various legal updates affecting fire departments, including legislative proposals such as SB 6250/SB 1605 and HB 1425/OPMA. Key topics include annexation issues, revenue bills, small works roster changes, fireworks ordnances, and a proposed firefighter memorial license plate program. The document also discusses First Amendment rights in the context of public employee unions and union dues.",
+  "keywords": [
+    "legislative proposals",
+    "SB 6250/SB 1605",
+    "HB 1425/OPMA",
+    "Firehouse Lawyer",
+    "Heffernan v. City of Paterson",
+    "Friedrichs v. California Teachers Association"
+  ],
+  "topics": [
+    "Employment Law",
+    "Public Safety",
+    "Contract Law",
+    "Revenue Issues"
+  ],
+  "legal_cases": [
+    "Heffernan v. City of Paterson",
+    "Friedrichs v. California Teachers Association"
+  ],
+  "legal_statutes": [
+    "HB 1425/OPMA"
+  ],
+  "categories": [
+    "Employment Law",
+    "Public Safety",
+    "Contract Law",
+    "Revenue Issues"
+  ],
+  "tags": [
+    "legislative proposals",
+    "SB 6250/SB 1605",
+    "HB 1425/OPMA",
+    "Firehouse Lawyer",
+    "Heffernan v. City of Paterson",
+    "Friedrichs v. California Teachers Association"
+  ],
   "compressed_content": "",
   "search_text": "sb 6250 revenue bills, hb 1425 opma changes, and heffernan v. city of paterson first amendment rights",
+  "search_keywords": "Volume 14 Number 1 Legal updates for fire departments and public safety agencies discuss legislative proposals such as SB 6250/SB 1605 and HB 1425/OPMA. Topics include annexation issues, revenue bills...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "January2016FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "January2016FINAL.pdf",
   "pdf_url": "/Newsletters/January2016FINAL.pdf"
 }

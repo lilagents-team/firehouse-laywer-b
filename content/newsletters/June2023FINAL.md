@@ -1,5 +1,5 @@
 ---
-title: "Inside This Issue"
+title: "Fourth Amendment Community Caretaking and Tax Increment Financing Law Updates"
 date: 2023-06-01
 description: "The newsletter covers several key legal updates, including the application of Fourth Amendment exceptions to community caretaking, tax increment financing law implications for local jurisdictions, changes in cannabis testing laws affecting employment practices, considerations for used equipment purchases under bid laws, and guidance on awarding contracts under the small works roster process."
 volume: 21
@@ -31,7 +31,7 @@ legal_statutes:
   - "52.14.110"
 summary: "This issue examines critical Fourth Amendment developments in community caretaking exceptions following Caniglia v. Strom, analyzes Washington state's tax increment financing law implications for local jurisdictions, covers employment law changes regarding cannabis testing discrimination, provides guidance on used equipment purchases under competitive bid requirements, and explains small works roster contract award procedures for public agencies."
 source_pdf: "June2023FINAL.pdf"
-metadata_quality: high
+metadata_quality: "high"
 search_keywords: "Volume 21, Number 6, firehouselawyer.com, June 2023, Community Caretaking, Fourth Amendment, Tax Increment Financing Law, Cannabis Testing, Bid Laws, Small Works Roster"
 processed_date: 2025-08-22
 layout: newsletter

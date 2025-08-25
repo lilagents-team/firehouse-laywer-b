@@ -4,14 +4,44 @@
   "title": "Formulating and Implementing Policies",
   "date": "1998-05-01",
   "summary": "May 1998 newsletter examines Open Public Records Act (OPRA) under Washington State law, emphasizes public access to records unless exempted by statute or regulation, analyzes RCW 402.5-18 through 402.5-36 requirements for record accessibility, discusses exemption procedures and their implications for public agencies, and provides guidance for fire departments on compliance with state laws regarding public record access and documentation processes.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses the Open Public Records Act (OPRA) under Washington State law, emphasizing access to records unless exempted by statute or regulation. Key updates include RCW 402.5-18 through 402.5-36 and the impact of state laws on record access.",
+  "keywords": [
+    "Open Public Records Act (OPRA)",
+    "records",
+    "exemptions",
+    "state laws"
+  ],
+  "topics": [
+    "Legal Updates",
+    "Access to Records",
+    "Open Government"
+  ],
+  "legal_cases": [],
+  "legal_statutes": [
+    "RCW 402.5-18 through 402.5-36",
+    "Washington State Open Public Records Act"
+  ],
+  "categories": [
+    "Legal Updates",
+    "Access to Records",
+    "Open Government"
+  ],
+  "tags": [
+    "Open Public Records Act (OPRA)",
+    "records",
+    "exemptions",
+    "state laws"
+  ],
   "compressed_content": "",
   "search_text": "formulating and implementing policies",
+  "search_keywords": "Open Public Records Act (OPRA) records exemptions state laws...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v02n05may1998",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v02n05may1998.pdf",
   "pdf_url": "/Newsletters/v02n05may1998.pdf"
 }

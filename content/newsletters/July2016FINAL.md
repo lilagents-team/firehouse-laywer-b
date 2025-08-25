@@ -22,7 +22,7 @@ legal_statutes:
   - "RCW 41.32.860"
   - "RCW 41.40.023 (3)"
 source_pdf: "July2016FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Document content includes sections on pension restructuring, DRS interpretations, equal protection issues, Open Government Act compliance, and recommendations for fire departments...."
 processed_date: 2025-08-22
 layout: newsletter

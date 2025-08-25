@@ -4,14 +4,51 @@
   "title": "FIREHOUSE v. PERMISSIONS",
   "date": "1999-05-31",
   "summary": "The document discusses legal issues affecting public employees, including cases related to privacy rights under the Americans with Disabilities Act (ADA), Family and Medical Leave Act (FMLA), and Fair Credit Reporting Act. It also explores employment law concerns such as medical records, ADA accommodations, and employee protections.",
-  "keywords": [],
-  "topics": [],
+  "description": "The document discusses legal issues affecting public employees, including cases related to privacy rights under the Americans with Disabilities Act (ADA), Family and Medical Leave Act (FMLA), and Fair Credit Reporting Act. It also explores employment law concerns such as medical records, ADA accommodations, and employee protections.",
+  "keywords": [
+    "Americans with Disabilities Act",
+    "Family and Medical Leave Act (FMLA)",
+    "Fair Credit Reporting Act",
+    "Public Employees",
+    "Medical Records",
+    "Employee Privacy Rights"
+  ],
+  "topics": [
+    "Employment Law"
+  ],
+  "legal_cases": [
+    "IAFF Local 3",
+    "SE Law",
+    "Fair Credit Reporting Act",
+    "Family and Medical Leave Act"
+  ],
+  "legal_statutes": [
+    "RCW 42.17",
+    "5081 (1999)",
+    "42.17, the federal",
+    "Fair Credit Reporting Act"
+  ],
+  "categories": [
+    "Employment Law"
+  ],
+  "tags": [
+    "Americans with Disabilities Act",
+    "Family and Medical Leave Act (FMLA)",
+    "Fair Credit Reporting Act",
+    "Public Employees",
+    "Medical Records",
+    "Employee Privacy Rights"
+  ],
   "compressed_content": "",
   "search_text": "firehouse v. permissions",
+  "search_keywords": "FIREHOUSE v. PERMISSIONS Public Employees' privacy rights Americans with Disabilities Act Family and Medical Leave Act (FMLA) Fair Credit Reporting Act employment law ADA accommodations medical record...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v03n05may1999",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v03n05may1999.pdf",
   "pdf_url": "/Newsletters/v03n05may1999.pdf"
 }

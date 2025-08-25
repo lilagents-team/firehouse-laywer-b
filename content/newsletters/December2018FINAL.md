@@ -22,7 +22,7 @@ legal_statutes:
   - "RCW 51.32.090"
 summary: "December 2018 newsletter announces new office location at 7403 Lakewood Drive West Suite 11, examines labor comparables standards for wages and benefits in public service areas, analyzes annexation implications under RCW 35.02.190 affecting fire district asset transfers, reviews SAFETY BILL entitlements for injured employees under RCW 51.32.090, and discusses KING County lid lift revenue considerations for future financial planning."
 source_pdf: "December2018FINAL.pdf"
-metadata_quality: medium
+metadata_quality: "medium"
 search_keywords: "New Office Location, Labor Comparables, Annexation Implications, SAFETY BILL, Lid Lifts, Legal References, Public Records, Employment Law, Emergency Services, Contract Law..."
 processed_date: 2025-08-22
 layout: newsletter

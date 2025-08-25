@@ -21,7 +21,7 @@ legal_statutes:
   - "RCW 7.28.090"
   - "RCW 4.12.020"
 source_pdf: "November2021FINAL.pdf"
-metadata_quality: medium
+metadata_quality: "high"
 search_keywords: "OSHA ETS, CMS rule, Executive Order 14042, adverse possession, public property law..."
 processed_date: 2025-08-22
 layout: newsletter

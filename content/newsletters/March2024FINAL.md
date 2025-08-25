@@ -20,7 +20,7 @@ legal_statutes:
   - "RCW 39.04.151"
   - "RCW 52.14.110"
 source_pdf: "March2024FINAL.pdf"
-metadata_quality: medium
+metadata_quality: "medium"
 search_keywords: "Firehouse Lawyer, Volume 22, Number 3, Municipal Roundtables, Bid Law Changes, Social Media decision by SCOTUS, MAJOR BID LAW CHANGES, RCW 52.14.110, Lindke v. Freed"
 summary: "The newsletter highlights significant changes to bid laws affecting public works and procurement processes, along with a Supreme Court ruling impacting public officials' social media activities."
 processed_date: 2025-08-22

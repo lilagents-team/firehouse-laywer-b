@@ -4,14 +4,51 @@
   "title": "Ballot Title Requirements, Fox v. City of Bellingham, and EMS Search Warrant Policies",
   "date": "2021-03-20",
   "summary": "The newsletter highlights key legal updates related to ballot titles in Washington state, the due care required by fire departments with deceased personnel, and EMS search policies. These updates emphasize statutory requirements, negligence in search warrants, and the importance of proper training.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter highlights key legal updates related to ballot titles in Washington state, the due care required by fire departments with deceased personnel, and EMS search policies. These updates emphasize statutory requirements, negligence in search warrants, and the importance of proper training.",
+  "keywords": [
+    "ballot titles",
+    "RCW 29A.36.071",
+    "Fox v. City of Bellingham",
+    "Mancini v. City of Tacoma",
+    "EMS policies"
+  ],
+  "topics": [
+    "Public Records",
+    "Emergency Services",
+    "Employment Law",
+    "Contract Law"
+  ],
+  "legal_cases": [
+    "Fox v. City of Bellingham",
+    "Mancini v. City of Tacoma"
+  ],
+  "legal_statutes": [
+    "RCW 29A.36.071",
+    "RCW 52.18.050"
+  ],
+  "categories": [
+    "Public Records",
+    "Emergency Services",
+    "Employment Law",
+    "Contract Law"
+  ],
+  "tags": [
+    "ballot titles",
+    "RCW 29A.36.071",
+    "Fox v. City of Bellingham",
+    "Mancini v. City of Tacoma",
+    "EMS policies"
+  ],
   "compressed_content": "",
   "search_text": "ballot title requirements, fox v. city of bellingham, and ems search warrant policies",
+  "search_keywords": "Volume 19 Number 3, Firehouse Lawyer March 2021, Ballot Title Requirements, Fox v. City of Bellingham, EMS search warrant policies, RCW 29A.36.071",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "March2021FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "March2021FINAL.pdf",
   "pdf_url": "/Newsletters/March2021FINAL.pdf"
 }

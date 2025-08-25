@@ -1,17 +1,65 @@
 {
   "volume": "16",
   "edition": "1",
-  "title": "Volume 16, Number One: Inside the Firehouse - Legal News and Updates",
+  "title": "Employee Diversity Promotion and ADA Website Accessibility Compliance",
   "date": "2018-01-01",
   "summary": "The newsletter covers various legal updates including promoting employee diversity with the Public Agency Quinn, a ruling on free speech in fire departments, a safety bill allowing employers to self-report safety violations, ADA compliance regarding website accessibility, and employer-friendly rulings from the NLRB.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter covers various legal updates including promoting employee diversity with the Public Agency Quinn, a ruling on free speech in fire departments, a safety bill allowing employers to self-report safety violations, ADA compliance regarding website accessibility, and employer-friendly rulings from the NLRB.",
+  "keywords": [
+    "Public Agency Law",
+    "Employee-Friendly Policies",
+    "Firefighters Rights",
+    "Safety Bills",
+    "ADA Compliance",
+    "NLRB Rulings"
+  ],
+  "topics": [
+    "Employment Law",
+    "Public Records",
+    "Fire Department Safety",
+    "ADA Accessibility",
+    "Labor Relations"
+  ],
+  "legal_cases": [
+    "Quin, P.S. vs. Public Agencies, Inc.",
+    "Sprague v. Spokane Valley Fire Department",
+    "Winn Dixie",
+    "Hy-Brand",
+    "Boeing",
+    "Raytheon"
+  ],
+  "legal_statutes": [
+    "RCW 49.17.110",
+    "29 U.S.C. § 666",
+    "Laws of the United States",
+    "5 U.S.C. § 658",
+    "29 U.S.C. § 657"
+  ],
+  "categories": [
+    "Employment Law",
+    "Public Records",
+    "Fire Department Safety",
+    "ADA Accessibility",
+    "Labor Relations"
+  ],
+  "tags": [
+    "Public Agency Law",
+    "Employee-Friendly Policies",
+    "Firefighters Rights",
+    "Safety Bills",
+    "ADA Compliance",
+    "NLRB Rulings"
+  ],
   "compressed_content": "",
-  "search_text": "volume 16, number one: inside the firehouse - legal news and updates",
+  "search_text": "employee diversity promotion and ada website accessibility compliance",
+  "search_keywords": "Firehouse Lawyer Volume 16 Number One, Public Agency Quin Employee Promotions, Sprague v Spokane Valley Fire Department, Safety Bill, ADA Compliance, NLRB Rulings, Raytheon NLRA Changes",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "January2018FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "January2018FINAL.pdf",
   "pdf_url": "/Newsletters/January2018FINAL.pdf"
 }

@@ -4,14 +4,47 @@
   "title": "ADA Visual Impairment Claims and Employment Discrimination Law",
   "date": "1999-04-01",
   "summary": "The document discusses ADA cases involving visual impairment claims and their implications for employers. It highlights the need for employers to provide reasonable accommodations or qualify as a safe disability but emphasizes that discrimination based on perceived impairments is illegal.",
-  "keywords": [],
-  "topics": [],
+  "description": "The document discusses ADA cases involving visual impairment claims and their implications for employers. It highlights the need for employers to provide reasonable accommodations or qualify as a safe disability but emphasizes that discrimination based on perceived impairments is illegal.",
+  "keywords": [
+    "Americans with Disabilities Act",
+    "uncompensated vision",
+    "safety disability",
+    "job discrimination"
+  ],
+  "topics": [
+    "Employment Law",
+    "Public Safety",
+    "Emergency Services"
+  ],
+  "legal_cases": [
+    "Kingtonburg v. Albertsons Inc.",
+    "Thurston v. United Airlines"
+  ],
+  "legal_statutes": [
+    "RCW 19.403(2)",
+    "WACO § 5.3"
+  ],
+  "categories": [
+    "Employment Law",
+    "Public Safety",
+    "Emergency Services"
+  ],
+  "tags": [
+    "Americans with Disabilities Act",
+    "uncompensated vision",
+    "safety disability",
+    "job discrimination"
+  ],
   "compressed_content": "",
   "search_text": "ada visual impairment claims and employment discrimination law",
+  "search_keywords": "Vol. 3, No. 4, Joseph F. Quinn, ADA Cases, visual impairment claims, employment discrimination, reasonable accommodations, safety disability, lazy eye condition",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v03n04apr1999",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v03n04apr1999.pdf",
   "pdf_url": "/Newsletters/v03n04apr1999.pdf"
 }

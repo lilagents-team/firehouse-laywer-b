@@ -22,7 +22,7 @@ legal_cases:
 legal_statutes:
   - "WAC 296-126-002"
 source_pdf: "December2021FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Fireho Volume 19, Number 12. Important Travel Time Case. Court of Appeals Issued Decision. Important Travel Time Case. Port of Tacoma v. Sacks. MWA Interpretation. Travel Time Requirements. Legal Upda..."
 processed_date: 2025-08-22
 layout: newsletter

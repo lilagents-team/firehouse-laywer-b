@@ -28,7 +28,7 @@ legal_statutes:
   - "RCW 35.21.930"
 summary: "March 2016 newsletter addresses municipal roundtables and HIPAA compliance requirements, examines property rights for probationary employees requiring Loudermill conference procedures under RCW 41.56.100, analyzes Local Improvement Districts (LIDs) feasibility for CARES Programs under RCW 35.21.930, discusses medical records privacy protection under HIPAA and UHCIA regulations, reviews EMS contract compliance requirements, and provides comprehensive guidance on PHI handling and public records exemptions for employee medical information."
 source_pdf: "March2016.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Municipal Roundtables, HIPAA Compliance, Property Rights, Probationary Employees, CARES Program Formation, EMS Contracts, CARES Program Feasibility, HIPAA Application, Medical Records Privacy, Public ..."
 processed_date: 2025-08-22
 layout: newsletter

@@ -4,14 +4,58 @@
   "title": "Kitsap County Employment Case and SEPA Mitigation Authority for Fire Departments",
   "date": "2015-07-20",
   "summary": "July 2015 newsletter analyzes Kitsap County employment law case involving non-enforceable contract implications for fire departments, explores Public Records Act (WRA) implications under the Conard Rule, examines SEPA mitigation authority with examples from various county codes including WAC 197-11-660, and provides guidance based on West Main Associates v. City of Bellevue precedent for municipal fire departments.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses legal matters impacting fire departments, including an analysis of Kitap County's employment law case involving a non-enforceable contract and the implications for fire departments. It also explores the Public Records Act (WRA) implications and provides guidance on SEPA mitigation authority with examples from various counties.",
+  "keywords": [
+    "Conard Rule",
+    "Kitsap County",
+    "SEPA",
+    "WRA",
+    "RCW 41.56.470",
+    "West Main Associates v. City of Bellevue"
+  ],
+  "topics": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "legal_cases": [
+    "Kitap County v. Quinlan, West Main Associates v. City of Bellevue"
+  ],
+  "legal_statutes": [
+    "RCW 41.56.470",
+    "WAC 197-11-660"
+  ],
+  "categories": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "tags": [
+    "Conard Rule",
+    "Kitsap County",
+    "SEPA",
+    "WRA",
+    "RCW 41.56.470",
+    "West Main Associates v. City of Bellevue"
+  ],
   "compressed_content": "",
   "search_text": "kitsap county employment case and sepa mitigation authority for fire departments",
+  "search_keywords": "Firehouse Lawyer Volume 13 Number 7, firehouselawyer.com, Kitsap County employment case, SEPA mitigation authority, Conard Rule, WRA, RCW 41.56.470",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "July_2015_FINAL_2",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "July_2015_FINAL_2.pdf",
   "pdf_url": "/Newsletters/July_2015_FINAL_2.pdf"
 }

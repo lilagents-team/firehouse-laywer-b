@@ -4,14 +4,44 @@
   "title": "SAO Guidance on Piggybacking | Deliberative Process Exemption | SAFETY BILL",
   "date": "2018-08-01",
   "summary": "Legal updates on piggybacking procurement, deliberative process exemption, and PPE safety requirements for public employees.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter covers three key legal updates: guidance on piggybacking under RCW 39.34.030, the deliberative process exemption under RCW 42.56.280, and a safety bill affecting PPE requirements for public employees.",
+  "keywords": [
+    "Piggybacking",
+    "Deliberative Process Exemption",
+    "RCW 39.34.030",
+    "RCW 42.56.280"
+  ],
+  "topics": [
+    "Public Records",
+    "Contract Law",
+    "Training & Compliance"
+  ],
+  "legal_cases": [],
+  "legal_statutes": [
+    "RCW 39.34.030",
+    "RCW 42.56.280"
+  ],
+  "categories": [
+    "Public Records",
+    "Contract Law",
+    "Training & Compliance"
+  ],
+  "tags": [
+    "Piggybacking",
+    "Deliberative Process Exemption",
+    "RCW 39.34.030",
+    "RCW 42.56.280"
+  ],
   "compressed_content": "",
   "search_text": "sao guidance on piggybacking | deliberative process exemption | safety bill",
+  "search_keywords": "Volume 16, Number Eight | State Auditor's Guidance on Piggybacking | Deliberative Process Exemption | SAFETY BILL | Public agencies | Procurement laws | RCW 39.34.030 | RCW 42.56.280...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "August2018",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "August2018.pdf",
   "pdf_url": "/Newsletters/August2018.pdf"
 }

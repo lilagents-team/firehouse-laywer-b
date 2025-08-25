@@ -4,14 +4,44 @@
   "title": "Janus v. AFSCME Overturns Abood Decision, Agency Shop Provisions Unconstitutional",
   "date": "2018-06-01",
   "summary": "The newsletter discusses the implications of the Janus Court decision, which overrules the Abood v. Detroit Board of Education case, declaring agency shop provisions in collective bargaining agreements unconstitutional under First Amendment rights.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses the implications of the Janus Court decision, which overrules the Abood v. Detroit Board of Education case, declaring agency shop provisions in collective bargaining agreements unconstitutional under First Amendment rights.",
+  "keywords": [
+    "Janus",
+    "First Amendment",
+    "agency shop provisions",
+    "RCW 41.56",
+    "House Bill 2751"
+  ],
+  "topics": [
+    "Employment Law"
+  ],
+  "legal_cases": [
+    "Abood v. Detroit Board of Education"
+  ],
+  "legal_statutes": [
+    "RCW 41.56",
+    "House Bill 2751"
+  ],
+  "categories": [
+    "Employment Law"
+  ],
+  "tags": [
+    "Janus",
+    "First Amendment",
+    "agency shop provisions",
+    "RCW 41.56",
+    "House Bill 2751"
+  ],
   "compressed_content": "",
   "search_text": "janus v. afscme overturns abood decision, agency shop provisions unconstitutional",
+  "search_keywords": "Fireho Volume 16, Number Six Legal updates on Janus Ruling and Agency Shop Provisions. The newsletter discusses the implications of the Janus Court decision, which overrules the Abood v. Detroit Board...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "June2018Janus",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "June2018Janus.pdf",
   "pdf_url": "/Newsletters/June2018Janus.pdf"
 }

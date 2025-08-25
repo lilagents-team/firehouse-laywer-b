@@ -4,14 +4,56 @@
   "title": "Public Contract Compliance, Mandatory Reporter Child Abuse Laws, and EMS Operation Standards",
   "date": "2017-03-01",
   "summary": "The newsletter discusses key legal issues including public contracts, child abuse reporting laws, mandatory reporter duties, and emergency services compliance. It highlights cases such as Eric T. Quinney's contract dispute with the Washington State Police and emphasizes strict standards for EMS operations.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses key legal issues including public contracts, child abuse reporting laws, mandatory reporter duties, and emergency services compliance. It highlights cases such as Eric T. Quinney's contract dispute with the Washington State Police and emphasizes strict standards for EMS operations.",
+  "keywords": [
+    "Public Contracts",
+    "Mandatory Reporter Duty",
+    "Child Abuse Reporting",
+    "Emergency Medical Services Compliance",
+    "Case: Eric T. Quinney v. Washington State Police"
+  ],
+  "topics": [
+    "Public Records",
+    "Employment Law",
+    "Health & Safety",
+    "Emergency Services",
+    "Contract Law",
+    "Finance & Revenue"
+  ],
+  "legal_cases": [
+    "Eric T. Quinney v. Washington State Police",
+    "Case: Joe C. vs. Fire Districts"
+  ],
+  "legal_statutes": [
+    "RCW 52.14.01",
+    "RCW 71.05.120",
+    "RCW 52.14.030"
+  ],
+  "categories": [
+    "Public Records",
+    "Employment Law",
+    "Health & Safety",
+    "Emergency Services",
+    "Contract Law",
+    "Finance & Revenue"
+  ],
+  "tags": [
+    "Public Contracts",
+    "Mandatory Reporter Duty",
+    "Child Abuse Reporting",
+    "Emergency Medical Services Compliance",
+    "Case: Eric T. Quinney v. Washington State Police"
+  ],
   "compressed_content": "",
   "search_text": "public contract compliance, mandatory reporter child abuse laws, and ems operation standards",
+  "search_keywords": "The newsletter discusses public contracts and their implications, mandatory reporter duties for emergency services, child abuse reporting laws, and strict standards for EMS compliance. It also highlig...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "March2017FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "March2017FINAL.pdf",
   "pdf_url": "/Newsletters/March2017FINAL.pdf"
 }

@@ -18,7 +18,7 @@ tags:
 legal_statutes:
   - "Families First Coronavirus Response Act (FFCR)"
 source_pdf: "2020MarchCORRECTION.pdf"
-metadata_quality: medium
+metadata_quality: "medium"
 search_keywords: "Volume 18, Number 3 Correction Notice Families First Coronavirus Response Act public agencies tax breaks employment law..."
 processed_date: 2025-08-22
 layout: newsletter

@@ -4,14 +4,59 @@
   "title": "FIREHOUSE LEGAL ISSUES AND VOLUNTEERISM REGULATIONS",
   "date": "1997-09-01",
   "summary": "The document discusses legal issues related to volunteerism under the Fair Labor Standards Act (FLSA), including regulations governing nominal fees, minimum wage, and overtime pay for volunteers. It also references court decisions on classifying volunteers versus employees, legislative proposals affecting fire departments, and property tax resolutions.",
-  "keywords": [],
-  "topics": [],
+  "description": "The document discusses legal issues related to volunteerism under the Fair Labor Standards Act (FLSA), including regulations governing nominal fees, minimum wage, and overtime pay for volunteers. It also references court decisions on classifying volunteers versus employees, legislative proposals affecting fire departments, and property tax resolutions.",
+  "keywords": [
+    "Fair Labor Standards Act (FLSA)",
+    "Volunteerism",
+    "Nominal fee",
+    "Minimum wage",
+    "Overtime pay",
+    "Krause v. Cherry Hill Fire Department",
+    "Fire protection districts"
+  ],
+  "topics": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "legal_cases": [
+    "Krause v. Cherry Hill Fire Department"
+  ],
+  "legal_statutes": [
+    "RCW 106.942"
+  ],
+  "categories": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "tags": [
+    "Fair Labor Standards Act (FLSA)",
+    "Volunteerism",
+    "Nominal fee",
+    "Minimum wage",
+    "Overtime pay",
+    "Krause v. Cherry Hill Fire Department",
+    "Fire protection districts"
+  ],
   "compressed_content": "",
   "search_text": "firehouse legal issues and volunteerism regulations",
+  "search_keywords": "Vol. 1, No. 6 Joseph F. Quin FIREHOUSE LEGAL ISSUES AND VOLUNTEERISM. Page Inside (Page 1 of 4). Document content includes discussions on FLSA regulations, nominal fees, minimum wage, overtime pay, co...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v01n06sep1997",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v01n06sep1997.pdf",
   "pdf_url": "/Newsletters/v01n06sep1997.pdf"
 }

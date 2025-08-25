@@ -10,7 +10,7 @@ tags:
 legal_statutes: 
 summary: March 2025 newsletter announces upcoming seminars on disability discrimination and garnishment procedures, introduces new nondiscrimination statute RCW 49.60.530 for state contracts, explains the role of ex officio members in fire districts post-annexation, and provides guidance on forming regional fire authorities including specific formation criteria and legal requirements under current Washington state law.
 source_pdf: MARCH2025FINAL.pdf
-metadata_quality: high
+metadata_quality: "low"
 search_keywords: "Volume 23 Number 3, Upcoming Seminars on disability discrimination and garnishment, Eric Quinn discusses regional fire authority formation, New non-discrimination statute for state contracts, Ex officio members"
 processed_date: 2025-08-22
 layout: newsletter

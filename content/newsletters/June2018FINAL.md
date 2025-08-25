@@ -11,7 +11,7 @@ legal_cases:
 legal_statutes: 
 summary: June 2018 newsletter covers municipal roundtable discussion on employment law and Janus decision implications, analyzes significant Attorney General opinion on fire district bid laws under RCW 52.14.110 expanding procurement criteria beyond lowest bidder, examines best value criteria application in public contracting including Butler v. Federal Way School District, and discusses new wildland fire safety bill requirements.
 source_pdf: June2018FINAL.pdf
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: Volume 16, Number Six
 processed_date: 2025-08-22
 layout: newsletter

@@ -27,7 +27,7 @@ legal_statutes:
   - "RCW § 4.24.314"
   - "RCW § 70.105D.080"
 source_pdf: "August2019FINAL.pdf"
-metadata_quality: medium
+metadata_quality: "medium"
 search_keywords: "Legal updates include changes to ordinary maintenance definitions, requirements for HIPAA breach notifications, application of the Model Toxic Control Act (MTCA), and an exception to the professional ..."
 processed_date: 2025-08-22
 layout: newsletter

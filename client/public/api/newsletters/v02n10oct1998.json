@@ -4,14 +4,65 @@
   "title": "FLSA Classification of Firefighter Employees vs Volunteers and Compensatory Time Policies",
   "date": "1998-10-01",
   "summary": "The newsletter discusses the legal classification of firehouse workers as employees or volunteers under the Fair Labor Standards Act (FLSA), focusing on whether they are considered public employees or independent contractors. The document also examines compensatory time policies for on-call workers, referencing several court cases and regulations such as RCW 553.101(101) and 84.55. Key findings include the lack of clear legal distinction between employees and volunteers in this context.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses the legal classification of firehouse workers as employees or volunteers under the Fair Labor Standards Act (FLSA), focusing on whether they are considered public employees or independent contractors. The document also examines compensatory time policies for on-call workers, referencing several court cases and regulations such as RCW 553.101(101) and 84.55. Key findings include the lack of clear legal distinction between employees and volunteers in this context.",
+  "keywords": [
+    "Fair Labor Standards Act (FLSA)",
+    "employment status",
+    "compensatory time",
+    "firehouse workers",
+    "volunteers",
+    "RCW 553.101(101)",
+    "LCRA"
+  ],
+  "topics": [
+    "Open Government",
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "legal_cases": [
+    "V. City of Finance Hours, 43 F.3d",
+    "Heaton v. Moore, 97-22",
+    "Bartholomew v. County of Bucks, No. 96-4184"
+  ],
+  "legal_statutes": [
+    "RCW 553.101(101)",
+    "LCRA",
+    "84.55"
+  ],
+  "categories": [
+    "Open Government",
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "tags": [
+    "Fair Labor Standards Act (FLSA)",
+    "employment status",
+    "compensatory time",
+    "firehouse workers",
+    "volunteers",
+    "RCW 553.101(101)",
+    "LCRA"
+  ],
   "compressed_content": "",
   "search_text": "flsa classification of firefighter employees vs volunteers and compensatory time policies",
+  "search_keywords": "Vol. 2, No. 10: Legal News and Updates October 31, 2019 Firefighters Were [...] classified as private entities in a public agency. The FLSA requires that bonuses or minimum wage payment after city [.....",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v02n10oct1998",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v02n10oct1998.pdf",
   "pdf_url": "/Newsletters/v02n10oct1998.pdf"
 }

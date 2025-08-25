@@ -4,14 +4,55 @@
   "title": "FLSA Compensatory Time Rules and Christensen v. Harris County Impact",
   "date": "1999-11-01",
   "summary": "The document discusses updates on compensatory time (comp time) rules under the Fair Labor Standards Act (FLSA), legal implications for public employders regarding primary duty designations, and compliance with the Family Credit Reporting Act (FCRA) and Fair Trade Commission (FTC) regulations. Key cases include Christensen v. Harris County and Mellas v. C, which explore issues related to comp time limits and background checks.",
-  "keywords": [],
-  "topics": [],
+  "description": "The document discusses updates on compensatory time (comp time) rules under the Fair Labor Standards Act (FLSA), legal implications for public employders regarding primary duty designations, and compliance with the Family Credit Reporting Act (FCRA) and Fair Trade Commission (FTC) regulations. Key cases include Christensen v. Harris County and Mellas v. C, which explore issues related to comp time limits and background checks.",
+  "keywords": [
+    "comp time",
+    "FLSA",
+    "Christensen v. Harris County",
+    "Mellas v. C",
+    "FCRA",
+    "FTC"
+  ],
+  "topics": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Public Employers"
+  ],
+  "legal_cases": [
+    "Christensen v. Harris County",
+    "Mellas v. C"
+  ],
+  "legal_statutes": [
+    "29 U.S.C. §207(o)(5)",
+    "FCRA"
+  ],
+  "categories": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Public Employers"
+  ],
+  "tags": [
+    "comp time",
+    "FLSA",
+    "Christensen v. Harris County",
+    "Mellas v. C",
+    "FCRA",
+    "FTC"
+  ],
   "compressed_content": "",
   "search_text": "flsa compensatory time rules and christensen v. harris county impact",
+  "search_keywords": "Vol. 3, No. 11, Firehouse Lawyer, October issue, Update, Comp time, FLSA, Ninth Circuit, Collins v. Lobdell, Christensen v. Harris County",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v03n11nov1999",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v03n11nov1999.pdf",
   "pdf_url": "/Newsletters/v03n11nov1999.pdf"
 }

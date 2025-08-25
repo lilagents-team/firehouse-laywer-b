@@ -21,7 +21,7 @@ legal_statutes:
   - "RCW 39.114"
   - "RCW 52.14.110"
 source_pdf: "November2022FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Volume 20, Number 11: Tax Increment Financing Statute, Responsible Bidder Column, Small Works Procurement Process, Public Agencies, Fire Districts, Tax Impact Analysis..."
 processed_date: 2025-08-22
 layout: newsletter

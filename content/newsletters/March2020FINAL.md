@@ -24,7 +24,7 @@ legal_statutes:
   - "RCP 5704"
   - "RCW 38.52.100(2)"
 source_pdf: "March2020FINAL.pdf"
-metadata_quality: high
+metadata_quality: "high"
 search_keywords: "Volume 18 Number 3E, March 2020, Firehouse Lawyer, Emergency Management, Quinn Fire Departments, Open Meeting Law, Emergency Powers Act RCP 520, Executive Order 5704, RCW 38.52.100, Stafford Act"
 summary: "The newsletter discusses emergency management laws and regulations, including the Emergency Powers Act (RCP 520), Executive Order 5704, and RCW 38.52.100(2). It highlights actions such as declaring an emergency declaration, handling public travel during a pandemic, and federal aid requests under the Stafford Act."
 processed_date: 2025-08-22

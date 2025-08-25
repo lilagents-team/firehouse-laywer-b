@@ -4,14 +4,62 @@
   "title": "Laborhous",
   "date": "2018-11-30",
   "summary": "The newsletter explores key legal topics such as double jeopardy in labor disputes, impact fees and SEPA mitigation requirements, a safety bill emphasizing PPE training records, and restrictions on indefinite disability leave under ADA.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter explores key legal topics such as double jeopardy in labor disputes, impact fees and SEPA mitigation requirements, a safety bill emphasizing PPE training records, and restrictions on indefinite disability leave under ADA.",
+  "keywords": [
+    "Labor and Industries (L&I)",
+    "SEPA",
+    "RCW",
+    "PPE training records",
+    "Indefinite Disability Leave"
+  ],
+  "topics": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "legal_cases": [
+    "Hudson v. MCI Telecommunications Corp.",
+    "Peyton v. Fred's Stores of Arkansas, Inc.",
+    "Stanley Kieffer v. CPR Restoration and Cleaning Services, LLC",
+    "Dick v. Dickinson State University"
+  ],
+  "legal_statutes": [
+    "RCW 82.02.060 (1)",
+    "RCW 82.02.090 (5)",
+    "RCW 43.21C.240 (2)",
+    "RCW 43.21C.060",
+    "RCW 52.30.020"
+  ],
+  "categories": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "tags": [
+    "Labor and Industries (L&I)",
+    "SEPA",
+    "RCW",
+    "PPE training records",
+    "Indefinite Disability Leave"
+  ],
   "compressed_content": "",
   "search_text": "laborhous",
+  "search_keywords": "Laborhous Volume 16, Number 11. Labor Concepts: Double jeopardy application in labor disputes. Impact Fees, SEPA Mitigation and RCW Fire departments, schools, counties and cities may be entitled to im...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "November2018FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "November2018FINAL.pdf",
   "pdf_url": "/Newsletters/November2018FINAL.pdf"
 }

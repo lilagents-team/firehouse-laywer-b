@@ -4,14 +4,56 @@
   "title": "Labor & Employment Law Updates | Public Disclosure Laws & More",
   "date": "2019-11-30",
   "summary": "The newsletter highlights two key legal updates: a Court of Appeals ruling on minimum staffing as a mandatory bargaining subject due to increased call volumes and their impact on firefighter safety, and a Public Records Act case where the Supreme Court reversed a prior decision, finding birth dates not protected under privacy laws.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter highlights two key legal updates: a Court of Appeals ruling on minimum staffing as a mandatory bargaining subject due to increased call volumes and their impact on firefighter safety, and a Public Records Act case where the Supreme Court reversed a prior decision, finding birth dates not protected under privacy laws.",
+  "keywords": [
+    "Minimum Staffing",
+    "Public Records Act",
+    "Birth Dates Privacy",
+    "City of Everett v. PERC",
+    "Washington Public Employees Association"
+  ],
+  "topics": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "legal_cases": [
+    "City of Everett v. PERC, No. 77831-5-I",
+    "Washington Public Employees Association v. Evergreen Freedom Foundation et al., No. 95262-1"
+  ],
+  "legal_statutes": [
+    "RCW 42.56.070"
+  ],
+  "categories": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "tags": [
+    "Minimum Staffing",
+    "Public Records Act",
+    "Birth Dates Privacy",
+    "City of Everett v. PERC",
+    "Washington Public Employees Association"
+  ],
   "compressed_content": "",
   "search_text": "labor & employment law updates | public disclosure laws & more",
+  "search_keywords": "Minimum Staffing case | Public Records Act | Birth Dates Privacy | City of Everett v. PERC | Washington Public Employees Association...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "November2019FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "November2019FINAL.pdf",
   "pdf_url": "/Newsletters/November2019FINAL.pdf"
 }

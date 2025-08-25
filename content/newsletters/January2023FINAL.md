@@ -28,7 +28,7 @@ legal_statutes:
   - "RCW 39.04.155"
   - "RCW 52.14.110"
 source_pdf: "January2023FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Public Duty Doctrine, Norg v. Seattle Fire Department, HB 1621, RCW 52.14.110, contractor bonds, completion bonds..."
 summary: "The newsletter discusses the Public Duty Doctrine case of Norg v. Seattle Fire Department, where the court ruled against the city's defense, emphasizing EMS as a governmental function. It also highlights legislative updates, including HB 1621, which modifies bid laws in Washington state."
 processed_date: 2025-08-22

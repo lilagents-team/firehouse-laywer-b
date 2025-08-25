@@ -25,7 +25,7 @@ legal_statutes:
   - "RCW 84.52.043(2)"
   - "WAC §415-02-115"
 source_pdf: "November2020FINAL.pdf"
-metadata_quality: medium
+metadata_quality: "medium"
 search_keywords: "Prorationing of property taxes, fire districts, equitable estoppel, Wilson COA decision, firefighters' cases, separation from service, public employee benefits...."
 processed_date: 2025-08-22
 layout: newsletter

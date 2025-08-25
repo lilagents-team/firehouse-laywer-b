@@ -4,14 +4,47 @@
   "title": "New Editor in Chief! Paid FMLA Updates and Safety Bills",
   "date": "2019-01-01",
   "summary": "January 2019 newsletter announces Eric T. Quinn as new editor-in-chief, provides updates to Paid Family and Medical Leave (FMLA) Act under RCW 50A.04 affecting fire departments, introduces safety bill with implications for public agencies, examines ESD interpretation excluding elected officials from FMLA employee classification through Monroe v. Soliz case precedent, and offers guidance on employee classification policy updates for emergency services organizations.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter highlights the appointment of Eric T. Quinn as the new editor-in-chief, discusses updates to the Paid Family and Medical Leave (FMLA) Act affecting fire departments, and introduces a safety bill with implications for public agencies.",
+  "keywords": [
+    "Paid FMLA",
+    "Employment Law",
+    "Fire Departments",
+    "Public Agencies",
+    "50A.04 RCW"
+  ],
+  "topics": [
+    "Open Government",
+    "Employment Law",
+    "Emergency Services"
+  ],
+  "legal_cases": [
+    "Monroe v. Soliz"
+  ],
+  "legal_statutes": [
+    "RCW 50A.04"
+  ],
+  "categories": [
+    "Open Government",
+    "Employment Law",
+    "Emergency Services"
+  ],
+  "tags": [
+    "Paid FMLA",
+    "Employment Law",
+    "Fire Departments",
+    "Public Agencies",
+    "50A.04 RCW"
+  ],
   "compressed_content": "",
   "search_text": "new editor in chief! paid fmla updates and safety bills",
+  "search_keywords": "Volume 17, Number 1 January 2019 Fireho Volume 17 Number 1 Legal updates include new editor appointments Paid FMLA changes Safety Bill introduction ESD interpretation on elected officials and employme...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "January2019FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "January2019FINAL.pdf",
   "pdf_url": "/Newsletters/January2019FINAL.pdf"
 }

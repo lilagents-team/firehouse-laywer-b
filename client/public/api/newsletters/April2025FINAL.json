@@ -1,17 +1,53 @@
 {
   "volume": "23",
   "edition": "4",
-  "title": "Inside This Issue",
+  "title": "Public Records Act Search Fees and Pilloud v. Employment Security Department Analysis",
   "date": "2025-04-01",
   "summary": "April 2025 newsletter analyzes Washington State's Public Records Act (PRA) interpretation regarding search fees and labor costs, examines the Pilloud v. Employment Security Department case and its $250 penalty implications, compares PRA penalty structures across states, and provides guidance for public agencies on compliance with records request acknowledgment requirements and procedural fairness standards.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses updates to the Public Records Act (PRA) in Washington state, highlighting its interpretation on search fees and labor expended in fulfilling public records requests. It also explores penalties for PRA violations, citing a case involving Pilloud v. Employment Security Department where the court affirmed a $250 fine despite delays. The newsletter further examines how other states handle PRA-related penalties.",
+  "keywords": [
+    "Public Records Act",
+    "search fees",
+    "Pilloud v. Employment Security Department",
+    "rcw 42.56.120",
+    "wa supreme court"
+  ],
+  "topics": [
+    "Open Government Law",
+    "Public Discretion Law",
+    "Employment Law"
+  ],
+  "legal_cases": [
+    "Pilloud v. Employment Security Department"
+  ],
+  "legal_statutes": [
+    "rcw 42.56.120",
+    "rcw 42.56.320",
+    "rcw 42.56.520",
+    "rcw 42.56.550"
+  ],
+  "categories": [
+    "Open Government Law",
+    "Public Discretion Law",
+    "Employment Law"
+  ],
+  "tags": [
+    "Public Records Act",
+    "search fees",
+    "Pilloud v. Employment Security Department",
+    "rcw 42.56.120",
+    "wa supreme court"
+  ],
   "compressed_content": "",
-  "search_text": "inside this issue",
+  "search_text": "public records act search fees and pilloud v. employment security department analysis",
+  "search_keywords": "The Firehouselawyer Newsletter Volume 23 Number 4 discusses updates to the Public Records Act (PRA) in Washington state. It highlights its interpretation on search fees and labor expended in fulfillin...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "April2025FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "April2025FINAL.pdf",
   "pdf_url": "/Newsletters/April2025FINAL.pdf"
 }

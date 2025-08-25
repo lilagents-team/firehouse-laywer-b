@@ -27,7 +27,7 @@ legal_statutes:
   - "RCW 42.56.230"
   - "RCW 42.56.050"
 source_pdf: "JuneJuly2020FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Volume 18, Number 6 Firehouse Lawyer newsletter COVID-19 safety guidelines negligence suits LEOFF members negligence case opinions public records act personnel evaluations..."
 processed_date: 2025-08-22
 layout: newsletter

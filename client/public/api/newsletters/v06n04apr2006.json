@@ -4,14 +4,43 @@
   "title": "Pre-Paid Warrants, Wage Claims, and Severance Pay Policies",
   "date": "2006-04-17",
   "summary": "The newsletter covers key legal updates on tax issues, wage claims penalties, and public records concerns. It includes a case example of a city's severance pay policy affecting termination.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter covers key legal updates on tax issues, wage claims penalties, and public records concerns. It includes a case example of a city's severance pay policy affecting termination.",
+  "keywords": [
+    "tax issues",
+    "wage claims penalties",
+    "RCW 42.24.180"
+  ],
+  "topics": [
+    "Public Records",
+    "Employment Law",
+    "Contract Law"
+  ],
+  "legal_cases": [
+    "Case example of public records issues in severance pay"
+  ],
+  "legal_statutes": [
+    "RCW 42.24.180"
+  ],
+  "categories": [
+    "Public Records",
+    "Employment Law",
+    "Contract Law"
+  ],
+  "tags": [
+    "tax issues",
+    "wage claims penalties",
+    "RCW 42.24.180"
+  ],
   "compressed_content": "",
   "search_text": "pre-paid warrants, wage claims, and severance pay policies",
+  "search_keywords": "Firehouse Lawyer Volume 6 Number 4 Joseph F. Quinn Editor Pierce County WA Pierce County WA phone 253 589 3226 email quinnjoseph qwest net publication date April 17 2006 deadline extended two days for...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v06n04apr2006",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v06n04apr2006.pdf",
   "pdf_url": "/Newsletters/v06n04apr2006.pdf"
 }

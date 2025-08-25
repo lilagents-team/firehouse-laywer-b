@@ -22,7 +22,7 @@ legal_statutes:
   - "RCW 49.17.060"
   - "52.33.040"
 source_pdf: "November2015FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "The Public Duty Doctrine and Marijuana, Volume 13, Number Eleven, public tort liability, duty of care, firefighter impaired driving, shift trade policies, FLSA overtime calculations"
 processed_date: 2025-08-22
 layout: newsletter

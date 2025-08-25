@@ -25,7 +25,7 @@ legal_statutes:
   - "RCW 39.04.105"
   - "RCW 39.04.350"
 source_pdf: "September2022FINAL (2).pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Firehouse Lawyer September 2022 Volume 20 Number 9, firehouselawyer.com, Growth Management Act, Responsible Bidding, Eric T. Quinn Editor, Joseph F. Quinn"
 processed_date: 2025-08-22
 layout: newsletter

@@ -25,7 +25,7 @@ legal_statutes:
   - "RCW 253-858-323"
 summary: "June 2016 newsletter announces municipal roundtable discussion on emergency services at West Pierce Fire Station 21, provides Medicaid billing clarifications under Washington state law for ALS, BLS, and EMS services per RCW 74.66.005, analyzes WISHA compliance requirements including Potelco v. L&I case regarding unpreventable employee misconduct, and offers guidance on safety program documentation and enforcement."
 source_pdf: "June2016FINAL.pdf"
-metadata_quality: high
+metadata_quality: "high"
 search_keywords: "Firehouse Volume 14, Number 6, Another Municipal Roundtable, Municipal Roundtable Discussion, Next Friday June 24, West Pierce Fire and Rescue Station 21, MR free discussion group, RCW 74.66.005"
 processed_date: 2025-08-22
 layout: newsletter

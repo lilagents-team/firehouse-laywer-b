@@ -1,17 +1,59 @@
 {
   "volume": "15",
   "edition": "10",
-  "title": "Inside this Issue",
+  "title": "Payments in Lieu of Tax Law and Gender Discrimination Case Analysis",
   "date": "2017-10-01",
   "summary": "October 2017 newsletter covers Payments in Lieu of Tax (PILT) legal updates for fire departments under RCW 52.30.020, analyzes Mikkelsen v. Public Utility District gender discrimination case focusing on performance-based termination versus bias evidence, examines privacy protections for homeless individuals under Washington Constitution, and reviews safety bill regulations for SCBA usage compliance under WAC 296-305-04001 for firefighter protection.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter covers key legal updates on Payments in Lieu of Tax for fire departments, a case on gender discrimination where termination was based on performance and discipline rather than explicit gender bias, privacy protections for homeless individuals under the Washington Constitution, and a safety bill regulating SCBA usage for firefighters.",
+  "keywords": [
+    "Payments in Lieu of Tax",
+    "PILT Law",
+    "gender discrimination case",
+    "homeless privacy rights",
+    "WAC 296-305-04001"
+  ],
+  "topics": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "legal_cases": [
+    "Mikkelsen v. Public Utility District No. 93731-1 (2017)"
+  ],
+  "legal_statutes": [
+    "WAC 296-305-04001",
+    "RCW 52.30.020"
+  ],
+  "categories": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "tags": [
+    "Payments in Lieu of Tax",
+    "PILT Law",
+    "gender discrimination case",
+    "homeless privacy rights",
+    "WAC 296-305-04001"
+  ],
   "compressed_content": "",
-  "search_text": "inside this issue",
+  "search_text": "payments in lieu of tax law and gender discrimination case analysis",
+  "search_keywords": "Volume 15 Number Ten, October 2017, Payment and Substitute Insurance, In A Public Agency, Privacy Protections for the Homeless, PILT Law, gender discrimination, SCBA usage, WAC 296-305-04001",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "October2017FINAL5",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "October2017FINAL5.pdf",
   "pdf_url": "/Newsletters/October2017FINAL5.pdf"
 }

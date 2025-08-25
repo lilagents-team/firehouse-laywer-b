@@ -26,7 +26,7 @@ legal_cases:
 legal_statutes:
   - "RCW 39.34.030"
 source_pdf: "December2019FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Volume 17, Number 12. Legal content includes case analyses such as Eric Quinnett's review of employment laws, statute changes like RCW 39.34.030, emergency services updates on evacuation drills, and p..."
 processed_date: 2025-08-22
 layout: newsletter

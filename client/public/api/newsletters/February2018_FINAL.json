@@ -4,14 +4,48 @@
   "title": "Facebook Posts as Public Records and Municipal Safety Requirements",
   "date": "2018-02-01",
   "summary": "February 2018 newsletter announces municipal roundtable on March 23, 2018, examines Facebook posts as public records under RCW 42.56.010 per Arthur West v. City of Seattle case precedent, establishes criteria for social media content prepared within scope of employment or official capacity, and provides safety bill requirements for occupational injury records documentation under WAC 296-305-01501 compliance.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter covers upcoming municipal roundtables, legal considerations regarding Facebook posts as public records, and updates on safety regulations. It also includes information about a safety bill requiring occupational injury records.",
+  "keywords": [
+    "public records",
+    "municipal roundtable",
+    "Facebook posts",
+    "West case",
+    "safety bill"
+  ],
+  "topics": [
+    "Public Records",
+    "Emergency Services",
+    "Contract Law"
+  ],
+  "legal_cases": [
+    "Arthur West v. City of Seattle (No. 49857-0-II)"
+  ],
+  "legal_statutes": [
+    "RCW 42.56.010",
+    "WAC 296-305-01501"
+  ],
+  "categories": [
+    "Public Records",
+    "Emergency Services",
+    "Contract Law"
+  ],
+  "tags": [
+    "public records",
+    "municipal roundtable",
+    "Facebook posts",
+    "West case",
+    "safety bill"
+  ],
   "compressed_content": "",
   "search_text": "facebook posts as public records and municipal safety requirements",
+  "search_keywords": "Volume 16, Number Two. Firehouse Lawyer newsletter. Municipal roundtable on March 23, 2018. Facebook posts as public records. Safety bill requirements. Arthur West v. City of Seattle case. Public Reco...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "February2018_FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "February2018_FINAL.pdf",
   "pdf_url": "/Newsletters/February2018_FINAL.pdf"
 }

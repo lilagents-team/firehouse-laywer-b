@@ -25,7 +25,7 @@ legal_cases:
 legal_statutes:
   - "RCW 74.135: Open Records Act"
 source_pdf: "June2022FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Volume 20 Number 6, firehouselawyer.com, Eric T. Quinn Editor, Joseph F. Quinn, Quinn and Quinn P.S., Wilson v. Board of Commissioners, Supreme Court censure authority"
 processed_date: 2025-08-22
 layout: newsletter

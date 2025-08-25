@@ -4,14 +4,56 @@
   "title": "Frequently Asked Questions",
   "date": "2006-05-17",
   "summary": "The newsletter discusses several key legal topics, including the requirements for piggybacking on another agency's bid process under RCW 39.34.030, the necessity of filing interlocal agreements with the county auditor as per RCW 4.96.020, sex discrimination cases in employment affecting female firefighters, FLSA requirements regarding sick leave buy-back funds, and a wrongful termination case involving public policy and employee speech rights.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses several key legal topics, including the requirements for piggybacking on another agency's bid process under RCW 39.34.030, the necessity of filing interlocal agreements with the county auditor as per RCW 4.96.020, sex discrimination cases in employment affecting female firefighters, FLSA requirements regarding sick leave buy-back funds, and a wrongful termination case involving public policy and employee speech rights.",
+  "keywords": [
+    "Public records",
+    "Interlocal agreements",
+    "Piggybacking",
+    "Fiscal policy",
+    "Sick leave",
+    "Public policy",
+    "First Amendment"
+  ],
+  "topics": [
+    "Public Records",
+    "Employment Law",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance"
+  ],
+  "legal_cases": [],
+  "legal_statutes": [
+    "RCW 39.34.030",
+    "RCW 39.34.040",
+    "RCW 4.96.020",
+    "FLSA"
+  ],
+  "categories": [
+    "Public Records",
+    "Employment Law",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance"
+  ],
+  "tags": [
+    "Public records",
+    "Interlocal agreements",
+    "Piggybacking",
+    "Fiscal policy",
+    "Sick leave",
+    "Public policy",
+    "First Amendment"
+  ],
   "compressed_content": "",
   "search_text": "frequently asked questions",
+  "search_keywords": "Piggybacking on another agency's bid process Public records Interlocal agreements FLSA Sick leave buy-back funds First Amendment sex discrimination employment Public policy...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v06n05may2006",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v06n05may2006.pdf",
   "pdf_url": "/Newsletters/v06n05may2006.pdf"
 }

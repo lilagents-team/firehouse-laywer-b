@@ -27,7 +27,7 @@ legal_statutes:
   - "RCW 28A.200.010"
   - "RCW 29A.56.110(1)(b)"
 source_pdf: "October2020FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Home-schooled children charges, single subject rule, Stay Home Stay Healthy order, Jay Inslee's recall, public health regulations, defamation burden on plaintiffs, fire department safety laws..."
 processed_date: 2025-08-22
 layout: newsletter

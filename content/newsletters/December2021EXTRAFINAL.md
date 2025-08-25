@@ -20,7 +20,7 @@ legal_cases:
 legal_statutes:
   - "RCW 42.56.230"
 source_pdf: "December2021EXTRAFINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Important Information Regarding the Washington CARES Fund, When is an Employee’s Private Information Exempt from Public Disclosure, Quinn and Quinn, P.S., fire departments in Washington State, Lakewoo..."
 processed_date: 2025-08-22
 layout: newsletter

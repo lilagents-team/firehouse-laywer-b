@@ -4,14 +4,45 @@
   "title": "Important Information Regarding the Washington CARES Fund",
   "date": "2022-12-31",
   "summary": "Washington CARES Fund updates, employer premium collection guidance, and privacy protections under RCW 42.56.230(3).",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses updates related to the Washington CARES Fund, including guidance for employers on collecting premiums and maintaining privacy protections under RCW 42.56.230(3). It also explores the legal implications of maintaining files for public employees, referencing case law from Baxter v. Western Washington University.",
+  "keywords": [
+    "Washington CARES Fund",
+    "files maintained for",
+    "RCW 42.56.230",
+    "Baxter v. Western Washington University"
+  ],
+  "topics": [
+    "Public Records",
+    "Employment Law",
+    "Privacy Protections"
+  ],
+  "legal_cases": [
+    "Baxter v. Western Washington University"
+  ],
+  "legal_statutes": [
+    "RCW 42.56.230"
+  ],
+  "categories": [
+    "Public Records",
+    "Employment Law",
+    "Privacy Protections"
+  ],
+  "tags": [
+    "Washington CARES Fund",
+    "files maintained for",
+    "RCW 42.56.230",
+    "Baxter v. Western Washington University"
+  ],
   "compressed_content": "",
   "search_text": "important information regarding the washington cares fund",
+  "search_keywords": "Important Information Regarding the Washington CARES Fund, When is an Employee’s Private Information Exempt from Public Disclosure, Quinn and Quinn, P.S., fire departments in Washington State, Lakewoo...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "December2021EXTRAFINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "December2021EXTRAFINAL.pdf",
   "pdf_url": "/Newsletters/December2021EXTRAFINAL.pdf"
 }

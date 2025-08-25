@@ -4,14 +4,57 @@
   "title": "Bills of Interest",
   "date": "2022-02-28",
   "summary": "The newsletter highlights several bills affecting fire departments, including updates on public participation in meetings (ESHB 1329), election timing for fire districts (SHB 1727), police reform measures (SHB 1735), emergency responder interference laws (HB 1826), and modifications to family medical leave policies (SSB 5649).",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter highlights several bills affecting fire departments, including updates on public participation in meetings (ESHB 1329), election timing for fire districts (SHB 1727), police reform measures (SHB 1735), emergency responder interference laws (HB 1826), and modifications to family medical leave policies (SSB 5649).",
+  "keywords": [
+    "bills",
+    "public participation",
+    "elections",
+    "fire districts",
+    "police reform",
+    "emergency responders",
+    "family medical leave"
+  ],
+  "topics": [
+    "Public Records",
+    "Employment Law",
+    "Public Safety",
+    "Legal Reforms",
+    "Health & Safety"
+  ],
+  "legal_cases": [],
+  "legal_statutes": [
+    "ESHB 1329",
+    "SHB 1727",
+    "SHB 1735",
+    "HB 1826",
+    "SSB 5649"
+  ],
+  "categories": [
+    "Public Records",
+    "Employment Law",
+    "Public Safety",
+    "Legal Reforms",
+    "Health & Safety"
+  ],
+  "tags": [
+    "bills",
+    "public participation",
+    "elections",
+    "fire districts",
+    "police reform",
+    "emergency responders",
+    "family medical leave"
+  ],
   "compressed_content": "",
   "search_text": "bills of interest",
+  "search_keywords": "Volume 20, Number 2, ESHB 1329, SHB 1727, SHB 1735, HB 1826, SSB 5649, public participation, elections, fire districts, police reform, emergency responders, family medical leave...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "February2022FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "February2022FINAL.pdf",
   "pdf_url": "/Newsletters/February2022FINAL.pdf"
 }

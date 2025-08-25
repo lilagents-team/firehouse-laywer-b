@@ -4,14 +4,49 @@
   "title": "First Amendment on Social Media",
   "date": "2016-12-31",
   "summary": "The newsletter covers key legal updates including tax resolution cases under Article VII § 5, social media policies in public employment, and employee rights related to religious beliefs. Articles delve into constitutional challenges regarding expenditures from specific tax measures and the implications of nonassociation rights for public employees.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter covers key legal updates including tax resolution cases under Article VII § 5, social media policies in public employment, and employee rights related to religious beliefs. Articles delve into constitutional challenges regarding expenditures from specific tax measures and the implications of nonassociation rights for public employees.",
+  "keywords": [
+    "Article VII § 5",
+    "C-Tran",
+    "Liverman v. City of Petersburg",
+    "RCW 41.56.122",
+    "First Amendment"
+  ],
+  "topics": [
+    "Open Government",
+    "Employment Law",
+    "Contract Law"
+  ],
+  "legal_cases": [
+    "C-Tran",
+    "Liverman v. City of Petersburg"
+  ],
+  "legal_statutes": [
+    "Article VII § 5",
+    "RCW 41.56.122"
+  ],
+  "categories": [
+    "Open Government",
+    "Employment Law",
+    "Contract Law"
+  ],
+  "tags": [
+    "Article VII § 5",
+    "C-Tran",
+    "Liverman v. City of Petersburg",
+    "RCW 41.56.122",
+    "First Amendment"
+  ],
   "compressed_content": "",
   "search_text": "first amendment on social media",
+  "search_keywords": "Volume 14, Number 12. Fireho Newsletter. December 2016. Tax resolutions, social media policy, employee nonassociation rights. Legal updates including constitutional challenges and employment law cases...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "December2016FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "December2016FINAL.pdf",
   "pdf_url": "/Newsletters/December2016FINAL.pdf"
 }

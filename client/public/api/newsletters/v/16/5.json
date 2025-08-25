@@ -4,14 +4,51 @@
   "title": "Municipal Roundtables, Veterans' Preference Employment Laws, and Safety Bill Compliance",
   "date": "2018-05-01",
   "summary": "The newsletter covers upcoming municipal roundtables, updates on veterans' preference laws, and a new safety bill. It also discusses various legal topics including employment law, military leave regulations, and emergency service compliance.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter covers upcoming municipal roundtables, updates on veterans' preference laws, and a new safety bill. It also discusses various legal topics including employment law, military leave regulations, and emergency service compliance.",
+  "keywords": [
+    "Fire departments",
+    "Veterans’ Preference Laws",
+    "Military Leave",
+    "USERRA",
+    "Safety Regulations"
+  ],
+  "topics": [
+    "Emergency Services",
+    "Employment Law",
+    "Military Law",
+    "Public Safety",
+    "Legal Compliance"
+  ],
+  "legal_cases": [],
+  "legal_statutes": [
+    "RCW 41.04.010",
+    "RCW 49.77.030",
+    "USERRA"
+  ],
+  "categories": [
+    "Emergency Services",
+    "Employment Law",
+    "Military Law",
+    "Public Safety",
+    "Legal Compliance"
+  ],
+  "tags": [
+    "Fire departments",
+    "Veterans’ Preference Laws",
+    "Military Leave",
+    "USERRA",
+    "Safety Regulations"
+  ],
   "compressed_content": "",
   "search_text": "municipal roundtables, veterans' preference employment laws, and safety bill compliance",
+  "search_keywords": "Fireho Volume 16, Number Five Municipal Roundtable Veterans’ Preference Laws SAFETY BILL use Lawyer May 2018 RCW 41.04.010 USERRA WAC 296-305-01509 WAC 296-305-06507 WAC 296-305-05004 WAC 296-305-0451...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "May18FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "May18FINAL.pdf",
   "pdf_url": "/Newsletters/May18FINAL.pdf"
 }

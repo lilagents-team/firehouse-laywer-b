@@ -4,14 +4,51 @@
   "title": "Another Municipal Roundtable",
   "date": "2016-06-01",
   "summary": "June 2016 newsletter announces municipal roundtable discussion on emergency services at West Pierce Fire Station 21, provides Medicaid billing clarifications under Washington state law for ALS, BLS, and EMS services per RCW 74.66.005, analyzes WISHA compliance requirements including Potelco v. L&I case regarding unpreventable employee misconduct, and offers guidance on safety program documentation and enforcement.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses several key legal topics, including a municipal roundtable discussion on emergency services, Medicaid billing clarifications under Washington state law, and safety citations related to unpreventable employee misconduct.",
+  "keywords": [
+    "Municipal Roundtable",
+    "Medicaid Billing",
+    "Washington State Law",
+    "Public Disclosure Commission",
+    "Firehouse Lawyer"
+  ],
+  "topics": [
+    "Emergency Services",
+    "Employment Law",
+    "Litigation"
+  ],
+  "legal_cases": [
+    "Potelco v. L&I, No. 73226-9-1 (2016)"
+  ],
+  "legal_statutes": [
+    "RCW 49.17.060",
+    "RCW 42.17A.555",
+    "RCW 74.66.005",
+    "RCW 5000-6000",
+    "RCW 253-858-323"
+  ],
+  "categories": [
+    "Emergency Services",
+    "Employment Law",
+    "Litigation"
+  ],
+  "tags": [
+    "Municipal Roundtable",
+    "Medicaid Billing",
+    "Washington State Law",
+    "Public Disclosure Commission",
+    "Firehouse Lawyer"
+  ],
   "compressed_content": "",
   "search_text": "another municipal roundtable",
+  "search_keywords": "Firehouse Volume 14, Number 6, Another Municipal Roundtable, Municipal Roundtable Discussion, Next Friday June 24, West Pierce Fire and Rescue Station 21, MR free discussion group, RCW 74.66.005",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "June2016FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "June2016FINAL.pdf",
   "pdf_url": "/Newsletters/June2016FINAL.pdf"
 }

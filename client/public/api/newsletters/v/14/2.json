@@ -4,14 +4,47 @@
   "title": "Local Improvement Districts, Special Assessments, and Justice Scalia's Legal Legacy",
   "date": "2016-02-01",
   "summary": "Local improvement districts formation, funding through special assessments, proportionality principles, and Scalia case analysis.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses the formation and funding of local improvement districts (LIDs) in fire departments. It explains how LIDs can be used to fund local improvements through special assessments, emphasizing legal principles such as proportionality and fairness. The document also highlights a landmark case involving the death of Justice Antonin Scalia.",
+  "keywords": [
+    "Local Improvement Districts",
+    "Special Assessments",
+    "RCW 52.18.050",
+    "Sterling Realty Co.",
+    "Antonin Scalia"
+  ],
+  "topics": [
+    "Emergency Services",
+    "Contract Law"
+  ],
+  "legal_cases": [
+    "Sterling Realty Co. v. City of Bellevue",
+    "Hasit at 940"
+  ],
+  "legal_statutes": [
+    "RCW 52.18.050",
+    "RCW 35.43.042"
+  ],
+  "categories": [
+    "Emergency Services",
+    "Contract Law"
+  ],
+  "tags": [
+    "Local Improvement Districts",
+    "Special Assessments",
+    "RCW 52.18.050",
+    "Sterling Realty Co.",
+    "Antonin Scalia"
+  ],
   "compressed_content": "",
   "search_text": "local improvement districts, special assessments, and justice scalia's legal legacy",
+  "search_keywords": "Local Improvement Districts, Formation of LIDs, Special Assessments, Legal Principles, Proportionality, Sterling Realty Co. v. City of Bellevue, Antonin Scalia...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "February2016FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "February2016FINAL.pdf",
   "pdf_url": "/Newsletters/February2016FINAL.pdf"
 }

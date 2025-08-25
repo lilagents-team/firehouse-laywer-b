@@ -4,14 +4,45 @@
   "title": "Bargaining in Public or Private?",
   "date": "2018-10-10",
   "summary": "The newsletter discusses a legal case involving bargaining practices under the Open Public Meetings Act (OPMA). The case, Teamsters Local 690 v. County of Pierce, highlights the complexities of holding collective bargaining sessions in public or private settings. The ruling emphasizes that parties must engage in good faith discussions without unilaterally restricting bargaining locations.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses a legal case involving bargaining practices under the Open Public Meetings Act (OPMA). The case, Teamsters Local 690 v. County of Pierce, highlights the complexities of holding collective bargaining sessions in public or private settings. The ruling emphasizes that parties must engage in good faith discussions without unilaterally restricting bargaining locations.",
+  "keywords": [
+    "Open Public Meetings Act",
+    "Collective Bargaining",
+    "Mandatory Subjects",
+    "Permissive Subjects",
+    "Ground Rules",
+    "Teamsters Local 690"
+  ],
+  "topics": [
+    "Employment Law"
+  ],
+  "legal_cases": [
+    "Teamsters Local 690 v. County of Pierce"
+  ],
+  "legal_statutes": [
+    "RCW 42.40.140"
+  ],
+  "categories": [
+    "Employment Law"
+  ],
+  "tags": [
+    "Open Public Meetings Act",
+    "Collective Bargaining",
+    "Mandatory Subjects",
+    "Permissive Subjects",
+    "Ground Rules",
+    "Teamsters Local 690"
+  ],
   "compressed_content": "",
   "search_text": "bargaining in public or private?",
+  "search_keywords": "Volume 16, Number 10, Legal News, Open Public Meetings Act, Collective Bargaining, Mandatory Subjects, Permissive Subjects, Ground Rules, Teamsters Local 690, PERC ruling...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "October2018FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "October2018FINAL.pdf",
   "pdf_url": "/Newsletters/October2018FINAL.pdf"
 }

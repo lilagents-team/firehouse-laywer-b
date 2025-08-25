@@ -29,7 +29,7 @@ legal_statutes:
   - "RCW 35.21.930"
   - "RCW 18.71.030"
 source_pdf: "September2015_ThidDraft.pdf"
-metadata_quality: medium
+metadata_quality: "medium"
 search_keywords: "Volume 13 Number 9, Firehouse Lawyer Newsletter September 2015, Clipse v. Pierce County, WLAD disability classification, DLS payment rules, Washington Law Against Discrimination"
 processed_date: 2025-08-22
 layout: newsletter

@@ -22,7 +22,7 @@ legal_statutes:
   - "RCW 42.41"
   - "RCW 49.48"
 source_pdf: "May2022FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Volume 20, Number 5 Legal Updates on DEI Programs Impact Fees Whistleblower Cases..."
 processed_date: 2025-08-22
 layout: newsletter

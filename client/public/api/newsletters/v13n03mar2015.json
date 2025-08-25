@@ -4,14 +4,56 @@
   "title": "HB 1389 Fire Service Mobilization, HB 2077 Community Paramedicine, and HB 2007 Medicaid Transportation",
   "date": "2015-03-01",
   "summary": "March 2015 newsletter analyzes three key house bills affecting fire services including HB 1389 expanding fire service mobilization definition under RCW 43.43 to include all-risk resources for improved reimbursement, HB 2077 amending EMS programs and addressing scope of practice concerns under RCW 35.21.930, and HB 2007 introducing cost-recovery measures for Medicaid ground transportation services under RCW 84.52.069 and RCW 41.05, providing comprehensive guidance for community paramedicine programs and emergency services legal compliance.",
-  "keywords": [],
-  "topics": [],
+  "description": "Three key house bills (HB 1389, HB 2077, HB 2007) were discussed in this issue. HB 1389 expands the definition of fire service mobilization to include all-risk resources, aiding reimbursement efforts. HB 2077 amends EMS programs and addresses scope of practice concerns. HB 2007 introduces cost-recovery measures for Medicaid ground transportation services.",
+  "keywords": [
+    "HB 1389",
+    "HB 2077",
+    "HB 2007",
+    "RCW 43.43",
+    "Community Paramedicine",
+    "Fire Service Mobilization",
+    "Reimbursement"
+  ],
+  "topics": [
+    "Emergency Services",
+    "Contract Law",
+    "Public Policy",
+    "Legal Reforms",
+    "Healthcare Reform"
+  ],
+  "legal_cases": [],
+  "legal_statutes": [
+    "RCW 43.43",
+    "RCW 35.21.930",
+    "RCW 84.52.069",
+    "RCW 41.05"
+  ],
+  "categories": [
+    "Emergency Services",
+    "Contract Law",
+    "Public Policy",
+    "Legal Reforms",
+    "Healthcare Reform"
+  ],
+  "tags": [
+    "HB 1389",
+    "HB 2077",
+    "HB 2007",
+    "RCW 43.43",
+    "Community Paramedicine",
+    "Fire Service Mobilization",
+    "Reimbursement"
+  ],
   "compressed_content": "",
   "search_text": "hb 1389 fire service mobilization, hb 2077 community paramedicine, and hb 2007 medicaid transportation",
+  "search_keywords": "Volume 13, Number 3: Legal Updates on Fire Service Mobilization, Community Paramedicine, and Medicaid Transportation. Three house bills (HB 1389, HB 2077, HB 2007) were discussed in this issue....",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v13n03mar2015",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v13n03mar2015.pdf",
   "pdf_url": "/Newsletters/v13n03mar2015.pdf"
 }

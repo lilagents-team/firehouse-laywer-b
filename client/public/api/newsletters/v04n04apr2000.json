@@ -4,14 +4,52 @@
   "title": "Retroactive Pay Increases-Be Careful",
   "date": "2000-04-30",
   "summary": "The newsletter discusses the legal implications of retroactive pay increases for public employees, emphasizing constitutional concerns under Article II of the Washington State Constitution. Cases such as Christine v. Port and Frankly v. State of Washington highlight the need for valid collective bargaining agreements to avoid unconstitutional pay increases. The document also explores administrative exemptions under the Federal Labor Standards Act (FLSA) and on-call pay policies in emergency services.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses the legal implications of retroactive pay increases for public employees, emphasizing constitutional concerns under Article II of the Washington State Constitution. Cases such as Christine v. Port and Frankly v. State of Washington highlight the need for valid collective bargaining agreements to avoid unconstitutional pay increases. The document also explores administrative exemptions under the Federal Labor Standards Act (FLSA) and on-call pay policies in emergency services.",
+  "keywords": [
+    "Retroactive Pay Increases",
+    "Public Employees",
+    "Collective Bargaining Agreements",
+    "Christine v. Port",
+    "Frankly v. State of Washington",
+    "Federal Labor Standards Act (FLSA)",
+    "Administrative Exemption",
+    "On-Call Pay"
+  ],
+  "topics": [
+    "Employment Law",
+    "Emergency Services"
+  ],
+  "legal_cases": [
+    "Christine v. Port",
+    "Frankly v. State of Washington"
+  ],
+  "legal_statutes": [
+    "Federal Labor Standards Act (FLSA)"
+  ],
+  "categories": [
+    "Employment Law",
+    "Emergency Services"
+  ],
+  "tags": [
+    "Retroactive Pay Increases",
+    "Public Employees",
+    "Collective Bargaining Agreements",
+    "Christine v. Port",
+    "Frankly v. State of Washington",
+    "Federal Labor Standards Act (FLSA)",
+    "Administrative Exemption",
+    "On-Call Pay"
+  ],
   "compressed_content": "",
   "search_text": "retroactive pay increases-be careful",
+  "search_keywords": "Retroactive Pay Increases-Be Careful, Federal Labor Standards Act (FLSA), Administrative Exemption, Public Employees, Collective Bargaining Agreements, Christine v. Port, Frankly v. State of Washingto...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v04n04apr2000",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v04n04apr2000.pdf",
   "pdf_url": "/Newsletters/v04n04apr2000.pdf"
 }

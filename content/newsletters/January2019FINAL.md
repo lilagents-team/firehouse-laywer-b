@@ -21,7 +21,7 @@ legal_statutes:
   - "RCW 50A.04"
 summary: "January 2019 newsletter announces Eric T. Quinn as new editor-in-chief, provides updates to Paid Family and Medical Leave (FMLA) Act under RCW 50A.04 affecting fire departments, introduces safety bill with implications for public agencies, examines ESD interpretation excluding elected officials from FMLA employee classification through Monroe v. Soliz case precedent, and offers guidance on employee classification policy updates for emergency services organizations."
 source_pdf: "January2019FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Volume 17, Number 1 January 2019 Fireho Volume 17 Number 1 Legal updates include new editor appointments Paid FMLA changes Safety Bill introduction ESD interpretation on elected officials and employme..."
 processed_date: 2025-08-22
 layout: newsletter

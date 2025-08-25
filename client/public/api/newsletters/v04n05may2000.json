@@ -4,14 +4,64 @@
   "title": "FLSA Compensatory Time Rules, Fire District Naming Standards, and Emergency Vehicle Weight Limits",
   "date": "2000-05-31",
   "summary": "This newsletter highlights several key legal updates, including the impact of the Fair Labor Standards Act (FLSA) on compensatory time use, a court ruling affirming the employer's right to schedule compensatory time without undue disruption, naming conventions for fire districts, emergency vehicle policies, and weight limits for fire trucks.",
-  "keywords": [],
-  "topics": [],
+  "description": "This newsletter highlights several key legal updates, including the impact of the Fair Labor Standards Act (FLSA) on compensatory time use, a court ruling affirming the employer's right to schedule compensatory time without undue disruption, naming conventions for fire districts, emergency vehicle policies, and weight limits for fire trucks.",
+  "keywords": [
+    "Firehouse",
+    "Sheriff's Department",
+    "Compensatory Time",
+    "FLSA",
+    "Sheriff's fire trucks",
+    "Weight Limits",
+    "Fire Protection Districts",
+    "Name Plates"
+  ],
+  "topics": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "legal_cases": [
+    "Harris County Case"
+  ],
+  "legal_statutes": [
+    "FLSA",
+    "RCW 52.30.060",
+    "WAC 468-38",
+    "WAC 488-38"
+  ],
+  "categories": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "tags": [
+    "Firehouse",
+    "Sheriff's Department",
+    "Compensatory Time",
+    "FLSA",
+    "Sheriff's fire trucks",
+    "Weight Limits",
+    "Fire Protection Districts",
+    "Name Plates"
+  ],
   "compressed_content": "",
   "search_text": "flsa compensatory time rules, fire district naming standards, and emergency vehicle weight limits",
+  "search_keywords": "Firehou Volume 4, Number 5; Sherifffirehouse employment law; FLSA compensatory time; Sherifffire trucks weight limits; Public Records Act; Sherifffire protection districts naming conventions; Emergenc...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v04n05may2000",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v04n05may2000.pdf",
   "pdf_url": "/Newsletters/v04n05may2000.pdf"
 }

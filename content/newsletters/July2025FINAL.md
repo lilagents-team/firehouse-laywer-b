@@ -8,12 +8,12 @@ legal_cases: null
 legal_statutes: null
 content: ''
 source_pdf: July2025FINAL.pdf
-metadata_quality: high
+metadata_quality: "high"
 description: The newsletter discusses various legal updates affecting fire departments and service areas. Key topics include the Open Government Act (OGA), Emergency Medical Services Law (ems_law), Public Housing Act (PHA), and merger/annexation laws. Specific cases like West v. City of Spokane are highlighted, emphasizing violations of OGA Section 1(a) and employee liability in merger cases.
+search_keywords: Legal updates on Open Government Act, Emergency Medical Services Law, Public Housing Act, West v. City of Spokane, merger/annexation laws, FOIA, EMS regulations, risk assessments, training requirement...
 issue: 5
 processed_date: 2025-08-22
 layout: newsletter
-search_keywords: Legal updates on Open Government Act, Emergency Medical Services Law, Public Housing Act, West v. City of Spokane, merger/annexation laws, FOIA, EMS regulations, risk assessments, training requirement...
 tags: null
 categories: null
 ---

@@ -4,14 +4,64 @@
   "title": "HIPAA Compliance and Employee Property Rights for Probationary Workers",
   "date": "2016-03-01",
   "summary": "March 2016 newsletter addresses municipal roundtables and HIPAA compliance requirements, examines property rights for probationary employees requiring Loudermill conference procedures under RCW 41.56.100, analyzes Local Improvement Districts (LIDs) feasibility for CARES Programs under RCW 35.21.930, discusses medical records privacy protection under HIPAA and UHCIA regulations, reviews EMS contract compliance requirements, and provides comprehensive guidance on PHI handling and public records exemptions for employee medical information.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses legal updates on municipal roundtables, property rights for probationary employees, local improvement districts (LIDs) and CARES Programs, medical records privacy under HIPAA and UHCIA, Loudermill conference procedures, and compliance with EMS contracts. It also addresses the feasibility of forming LIDs for CARES Programs and provides guidance on PHI and public records exemptions.",
+  "keywords": [
+    "HIPAA",
+    "UHCIA",
+    "property rights",
+    "probationary employees",
+    "LOD",
+    "CARES Program",
+    "EMS contracts",
+    "public records",
+    "LCRA"
+  ],
+  "topics": [
+    "Open Government",
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "legal_cases": [],
+  "legal_statutes": [
+    "RCW 41.56.100",
+    "RCW 35.21.930"
+  ],
+  "categories": [
+    "Open Government",
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "tags": [
+    "HIPAA",
+    "UHCIA",
+    "property rights",
+    "probationary employees",
+    "LOD",
+    "CARES Program",
+    "EMS contracts",
+    "public records",
+    "LCRA"
+  ],
   "compressed_content": "",
   "search_text": "hipaa compliance and employee property rights for probationary workers",
+  "search_keywords": "Municipal Roundtables, HIPAA Compliance, Property Rights, Probationary Employees, CARES Program Formation, EMS Contracts, CARES Program Feasibility, HIPAA Application, Medical Records Privacy, Public ...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "March2016",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "March2016.pdf",
   "pdf_url": "/Newsletters/March2016.pdf"
 }

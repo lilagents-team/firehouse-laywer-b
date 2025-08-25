@@ -4,14 +4,60 @@
   "title": "RCW 39.34 Piggybacking Bids, OPMA Compliance, and Spokane County Bid Specification Cases",
   "date": "2005-01-15",
   "summary": "January 2005 newsletter highlights new Washington legislation including RCW 39.34 amendments for piggybacking bids and public meetings compliance, analyzes key cases Mike M. Johnson Inc. v. Spokane County on bid specifications, Weber Construction v. Spokane County on Open Public Meetings Act compliance, and Eugster v. City of Spokane regarding final action validity, examines H.B. 2615 requirements and Minimum Wage Act updates, and provides comprehensive legal guidance for fire service personnel on contracting and employment law compliance.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter highlights new legislation in Washington, including RCW 39.34 amendments related to piggybacking bids and public meetings compliance. Key cases discussed include Johnson v. Spokane County (2003) on bid specifications, Weber Construction v. Spokane County (2004) on OPMA compliance, and Eugster v. City of Spokane (2003) regarding final action validity.",
+  "keywords": [
+    "Firehouse Lawyer",
+    "Washington legislation",
+    "piggybacking bids",
+    "Open Public Meetings Act",
+    "Minimum Wage Act"
+  ],
+  "topics": [
+    "Legal Updates",
+    "Employment Law",
+    "Public Records/Omnipage",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "legal_cases": [
+    "Mike M. Johnson, Inc. v. Spokane County (2003)",
+    "Weber Construction v. Spokane County (ordered published-9/21/2004)",
+    "Eugster v. City of Spokane (2003)"
+  ],
+  "legal_statutes": [
+    "RCW 39.34",
+    "H.B. 2615"
+  ],
+  "categories": [
+    "Legal Updates",
+    "Employment Law",
+    "Public Records/Omnipage",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "tags": [
+    "Firehouse Lawyer",
+    "Washington legislation",
+    "piggybacking bids",
+    "Open Public Meetings Act",
+    "Minimum Wage Act"
+  ],
   "compressed_content": "",
   "search_text": "rcw 39.34 piggybacking bids, opma compliance, and spokane county bid specification cases",
+  "search_keywords": "Volume 5, Number 1, Firehouse Lawyer, Joseph F. Quinn Editor, RCW 39.34 piggybacking bids, OPMA compliance, Spokane County bid specifications, Washington legislation",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v05n01jan2005",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v05n01jan2005.pdf",
   "pdf_url": "/Newsletters/v05n01jan2005.pdf"
 }

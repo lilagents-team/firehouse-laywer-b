@@ -4,14 +4,43 @@
   "title": "Initiative 695 Ruled",
   "date": "2000-03-20",
   "summary": "Initiative 695 ruled unconstitutional, affecting motor vehicle excise taxes and property tax legislation.",
-  "keywords": [],
-  "topics": [],
+  "description": "The Washington State Initiative 695 was ruled unconstitutional under Article 6 and Section 1 of the Initiative Law. This ruling affects motor vehicle excise taxes, property taxes, and Initiative-related legislation.",
+  "keywords": [
+    "Initiative 695",
+    "Constitutional Rule",
+    "Unconstitutional",
+    "Motor Vehicle Tax",
+    "Property Tax"
+  ],
+  "topics": [
+    "Public Finance"
+  ],
+  "legal_cases": [
+    "State v. Qu, 2000"
+  ],
+  "legal_statutes": [
+    "RCW 84.55.010 et seq"
+  ],
+  "categories": [
+    "Public Finance"
+  ],
+  "tags": [
+    "Initiative 695",
+    "Constitutional Rule",
+    "Unconstitutional",
+    "Motor Vehicle Tax",
+    "Property Tax"
+  ],
   "compressed_content": "",
   "search_text": "initiative 695 ruled",
+  "search_keywords": "Initiative 695 Ruled that the initiative a constitutional pro... affecting various aspects....",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v04n03mar2000",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v04n03mar2000.pdf",
   "pdf_url": "/Newsletters/v04n03mar2000.pdf"
 }

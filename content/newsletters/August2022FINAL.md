@@ -25,7 +25,7 @@ legal_statutes:
   - "RCW 39.34.030(5)(b)"
   - "RCW 52.14.110"
 source_pdf: "August2022FINAL.pdf"
-metadata_quality: high
+metadata_quality: "high"
 search_keywords: "Volume 20 Number 8, Public Procurement Updates, piggybacking purchases RCW 39.34.030, mask mandate Washington State, fire service consulting, Sehmel v. Shah"
 processed_date: 2025-08-22
 layout: newsletter

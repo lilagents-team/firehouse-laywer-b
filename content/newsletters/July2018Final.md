@@ -1,5 +1,5 @@
 ---
-title: "Labor Contracts, Paid Family Leave Statute, and Legal Updates"
+title: "Equipment Procurement Bidding Requirements and Paid Family Leave Act Analysis"
 date: 2018-07-01
 description: "The newsletter discusses labor contract laws requiring bid openness for equipment installation over $10,000, analysis of the Paid Family Leave Act under RCW 52.14.110, and details on the Firehouse Law newsletter."
 volume: 16
@@ -23,7 +23,7 @@ legal_statutes:
   - "RCW 54.04.070"
   - "RCW 69"
 source_pdf: "July2018Final.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Labor Contracts involving installation of equipment, Public Agancies and their legal obligations, Firehouse Lawyer newsletter content, Paid Family Leave Act analysis, RCW references like 52.14.110, 57..."
 summary: "The newsletter discusses labor contract laws requiring bid openness for equipment installation over $10,000, analysis of the Paid Family Leave Act under RCW 52.14.110, and details on the Firehouse Law newsletter."
 processed_date: 2025-08-22

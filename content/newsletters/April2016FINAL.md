@@ -22,7 +22,7 @@ legal_cases:
 legal_statutes:
   - "RCW 42.56.030"
 source_pdf: "April2016FINAL.pdf"
-metadata_quality: high
+metadata_quality: "high"
 search_keywords: "Firehouse Lawyer Volume 14 Number Four, Public Records Act PRA Nutrition Disclosure, firehouselawyer.com, law enforcement, public disclosure law, Kitsap County"
 processed_date: 2025-08-22
 layout: newsletter

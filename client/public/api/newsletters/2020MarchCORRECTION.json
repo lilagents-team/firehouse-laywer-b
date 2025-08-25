@@ -4,14 +4,43 @@
   "title": "Correction of Previous Issue",
   "date": "2020-03-15",
   "summary": "Correction clarifying that FFCR tax breaks do not apply to public agencies, including fire departments.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter corrects an error regarding tax breaks for local governments under the Families First Coronavirus Response Act (FFCR), clarifying that relief does not apply to public agencies.",
+  "keywords": [
+    "public agencies",
+    "tax breaks",
+    "local governments",
+    "Families First Coronavirus Response Act"
+  ],
+  "topics": [
+    "Emergency Services",
+    "Public Records",
+    "Employment Law"
+  ],
+  "legal_cases": [],
+  "legal_statutes": [
+    "Families First Coronavirus Response Act (FFCR)"
+  ],
+  "categories": [
+    "Emergency Services",
+    "Public Records",
+    "Employment Law"
+  ],
+  "tags": [
+    "public agencies",
+    "tax breaks",
+    "local governments",
+    "Families First Coronavirus Response Act"
+  ],
   "compressed_content": "",
   "search_text": "correction of previous issue",
+  "search_keywords": "Volume 18, Number 3 Correction Notice Families First Coronavirus Response Act public agencies tax breaks employment law...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "2020MarchCORRECTION",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "2020MarchCORRECTION.pdf",
   "pdf_url": "/Newsletters/2020MarchCORRECTION.pdf"
 }

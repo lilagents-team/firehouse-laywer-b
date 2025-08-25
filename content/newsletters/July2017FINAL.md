@@ -10,7 +10,7 @@ tags:
 legal_statutes: 
 summary: "July 2017 newsletter outlines significant changes to Public Records Act under RCW 42.56 requiring agencies to maintain comprehensive logs of public records requests, introduces new electronic record copying fee structures under EHB 1595, updates 'two in, two out' safety regulations allowing three-person emergency teams under immediately life-threatening conditions, and provides implementation guidance for enhanced public transparency and firefighter safety protocols."
 source_pdf: July2017FINAL.pdf
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: Changes to the Public Records Act Volume 15 Number Seven July 2017. Fireho Newsletter. Public records act changes include new requirements for logging public records requests and electronic record cop...
 processed_date: 2025-08-22
 layout: newsletter

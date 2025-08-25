@@ -4,14 +4,62 @@
   "title": "Proposed Legislation in Washington State Public Agencies and Health Care Services",
   "date": "2020-02-01",
   "summary": "Proposed legislation affecting public agencies, employee privacy under PRA, health clinics for fire districts, and volunteer firefighter pensions.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses proposed legislation affecting public agencies, including the potential impact on employee privacy under the Public Records Act (PRA) and the Janus v. AFSLGE case. It also covers a bill proposing health clinics for fire districts and updates on volunteer firefighter pensions.",
+  "keywords": [
+    "proposed legislation",
+    "public agencies",
+    "public records act",
+    "employee privacy rights",
+    "health care services",
+    "fire districts",
+    "volunteer firefighters"
+  ],
+  "topics": [
+    "Employment Law",
+    "Public Records",
+    "Litigation",
+    "Emergency Services",
+    "Health Care",
+    "Contract Law"
+  ],
+  "legal_cases": [
+    "American Federation of State and Local Government Employees v. Janus"
+  ],
+  "legal_statutes": [
+    "SB 6582",
+    "SSHB 1888",
+    "SSB 5829",
+    "RCW 42 56 230",
+    "RCW 52 14 020",
+    "RCW 42 12 070"
+  ],
+  "categories": [
+    "Employment Law",
+    "Public Records",
+    "Litigation",
+    "Emergency Services",
+    "Health Care",
+    "Contract Law"
+  ],
+  "tags": [
+    "proposed legislation",
+    "public agencies",
+    "public records act",
+    "employee privacy rights",
+    "health care services",
+    "fire districts",
+    "volunteer firefighters"
+  ],
   "compressed_content": "",
   "search_text": "proposed legislation in washington state public agencies and health care services",
+  "search_keywords": "Volume 18, Number 2 February 2020 Proposed Legislation in Washington State Public Agencies and Health Care Services The law firm of Quinn and Quinn P.S. is legal counsel to more than 40 Fire Departmen...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "February2020",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "February2020.pdf",
   "pdf_url": "/Newsletters/February2020.pdf"
 }

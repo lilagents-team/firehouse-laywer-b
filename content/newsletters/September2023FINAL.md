@@ -28,7 +28,7 @@ legal_statutes:
   - "RCW 39.114.050"
   - "State Department of Revenue guidance on TIAs"
 source_pdf: "September2023FINAL.pdf"
-metadata_quality: high
+metadata_quality: "high"
 search_keywords: "The Firehouse Lawyer newsletter Volume 21, Number 9 covers legal developments involving Native American tribal sovereignty, tax increment financing, and public agency practices. Key cases include anal..."
 processed_date: 2025-08-22
 layout: newsletter

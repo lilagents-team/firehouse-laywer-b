@@ -21,7 +21,7 @@ legal_statutes:
   - "RCW 70.105D.040"
 summary: "January 2018 extra newsletter focuses on Model Toxic Controls Act (MTCA) under RCW 70.105D.040 allowing persons to seek compensation for hazardous substance remediation costs, examines municipal corporation liability recovery rights unless actions equivalent to Department of Ecology authority, analyzes Douglass v. Shamrock Paving case precedent for MTCA applications, and provides guidance for fire departments handling hazardous substance spills and seeking compensation."
 source_pdf: "January2018ExtraFinal.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Model Toxic Controls Act, Firehouse Lawyer, Public Agancies Law, Douglass v. Shamrock Paving, Inc., RCW 70.105D.040, Quinns and Quinn, P.S...."
 processed_date: 2025-08-22
 layout: newsletter

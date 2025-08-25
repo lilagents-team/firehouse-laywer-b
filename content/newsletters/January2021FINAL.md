@@ -31,7 +31,7 @@ legal_statutes:
   - "RCW 58.49.020"
   - "RCW 52.30.020"
 source_pdf: "January2021FINAL.pdf"
-metadata_quality: medium
+metadata_quality: "medium"
 search_keywords: "The newsletter contains detailed discussions on updating RCW 52.30.020, HR questions about COVID-19 vaccinations, the SECURE Act's impact on volunteer firefighters, trademark issues with fire departme..."
 summary: "The newsletter discusses updates to the Public Safety Law (RCW 52.30.020), focusing on contract modifications, COVID-19 vaccination policies for employees, and the impact of the SECURE Act on volunteer firefighter benefits. It also addresses trademark issues with fire department logos and provides insights into labor law considerations."
 processed_date: 2025-08-22

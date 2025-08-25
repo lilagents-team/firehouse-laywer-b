@@ -23,7 +23,7 @@ legal_statutes:
   - "Article VII § 5"
   - "RCW 41.56.122"
 source_pdf: "December2016FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Volume 14, Number 12. Fireho Newsletter. December 2016. Tax resolutions, social media policy, employee nonassociation rights. Legal updates including constitutional challenges and employment law cases..."
 processed_date: 2025-08-22
 layout: newsletter

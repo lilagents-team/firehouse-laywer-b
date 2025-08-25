@@ -4,14 +4,48 @@
   "title": "OSHA ETS and CMS Rule Updates",
   "date": "2021-11-01",
   "summary": "The November 2021 newsletter discusses OSHA's Emergency Temporary Standard (ETS) for larger employers, noting its applicability to fire departments with federal contracts but excluding healthcare providers. CMS has issued an interim rule affecting EMS agencies, which do not apply to fire departments receiving Medicare or Medicaid funds.",
-  "keywords": [],
-  "topics": [],
+  "description": "The November 2021 newsletter discusses OSHA's Emergency Temporary Standard (ETS) for larger employers, noting its applicability to fire departments with federal contracts but excluding healthcare providers. CMS has issued an interim rule affecting EMS agencies, which do not apply to fire departments receiving Medicare or Medicaid funds.",
+  "keywords": [
+    "OSHA",
+    "ETS",
+    "CMS",
+    "Executive Order 14042",
+    "adverse possession",
+    "public property law"
+  ],
+  "topics": [
+    "Employment Law",
+    "Contract Law"
+  ],
+  "legal_cases": [
+    "Michel v. City of Seattle"
+  ],
+  "legal_statutes": [
+    "RCW 7.28.090",
+    "RCW 4.12.020"
+  ],
+  "categories": [
+    "Employment Law",
+    "Contract Law"
+  ],
+  "tags": [
+    "OSHA",
+    "ETS",
+    "CMS",
+    "Executive Order 14042",
+    "adverse possession",
+    "public property law"
+  ],
   "compressed_content": "",
   "search_text": "osha ets and cms rule updates",
+  "search_keywords": "OSHA ETS, CMS rule, Executive Order 14042, adverse possession, public property law...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "November2021FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "November2021FINAL.pdf",
   "pdf_url": "/Newsletters/November2021FINAL.pdf"
 }

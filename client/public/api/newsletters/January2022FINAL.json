@@ -1,17 +1,63 @@
 {
   "volume": "20",
   "edition": "1",
-  "title": "Inside this Issue",
+  "title": "Public Comment Laws and Supreme Court Vaccine Mandate Ruling Analysis",
   "date": "2022-01-01",
   "summary": "The newsletter covers several key legal updates, including proposed public comment laws, policies on alienation discrimination, interpretations of EO 14042 and the SCOTUS ruling on vaccine mandates, and ongoing litigation in King County. The document also includes sections on public comment periods, employment practices, vaccine rules, and legal references.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter covers several key legal updates, including proposed public comment laws, policies on alienation discrimination, interpretations of EO 14042 and the SCOTUS ruling on vaccine mandates, and ongoing litigation in King County. The document also includes sections on public comment periods, employment practices, vaccine rules, and legal references.",
+  "keywords": [
+    "public comment",
+    "alienation",
+    "vaccine mandate",
+    "EO 14042",
+    "vaccine rules",
+    "discrimination",
+    "reasonable accommodation",
+    "King County lawsuit"
+  ],
+  "topics": [
+    "Public Comment & Compliance",
+    "Employment Law",
+    "Litigation",
+    "Emergency Services",
+    "Contract Law"
+  ],
+  "legal_cases": [
+    "ESHB 1329",
+    "Mathews v. Diaz"
+  ],
+  "legal_statutes": [
+    "RCW 42.30.050",
+    "RCW 6.10.047",
+    "RCW 49.60.180"
+  ],
+  "categories": [
+    "Public Comment & Compliance",
+    "Employment Law",
+    "Litigation",
+    "Emergency Services",
+    "Contract Law"
+  ],
+  "tags": [
+    "public comment",
+    "alienation",
+    "vaccine mandate",
+    "EO 14042",
+    "vaccine rules",
+    "discrimination",
+    "reasonable accommodation",
+    "King County lawsuit"
+  ],
   "compressed_content": "",
-  "search_text": "inside this issue",
+  "search_text": "public comment laws and supreme court vaccine mandate ruling analysis",
+  "search_keywords": "Public Comment Periods, Alienage Discrimination, EO 14042, Vaccine Mandates, SCOTUS Rulings, King County litigation, Public employment policies, Alienation discrimination, Fair pre-employment inquirie...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "January2022FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "January2022FINAL.pdf",
   "pdf_url": "/Newsletters/January2022FINAL.pdf"
 }

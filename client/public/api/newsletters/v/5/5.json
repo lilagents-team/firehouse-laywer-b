@@ -4,14 +4,49 @@
   "title": "Random Drug Testing Policies and Supreme Court Legal Precedents",
   "date": "2005-05-15",
   "summary": "May 2005 newsletter analyzes legal aspects of random drug testing in fire departments referencing U.S. Supreme Court cases supporting such programs, discusses legislative changes affecting drug testing policies including Arizona City of Mesa v. City of Mesa and Alaska Co cases, examines public disclosure law requirements under RCW 42.17.130, and emphasizes importance of documentation and collective bargaining compliance for emergency services drug testing protocols.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses legal aspects of random drug testing in fire departments, referencing Supreme Court cases that support such programs. It also covers legislative changes affecting these policies and the importance of public disclosure laws.",
+  "keywords": [
+    "random drug testing",
+    "Supreme Court cases",
+    "RCW 42.17.130",
+    "legislative updates"
+  ],
+  "topics": [
+    "Legal Compliance",
+    "Employment Law",
+    "Public Records Act",
+    "Emergency Services regulations"
+  ],
+  "legal_cases": [
+    "Arizona City of Mesa v. City of Mesa",
+    "Alaska Co",
+    "U.S. Supreme Court cases on random drug testing"
+  ],
+  "legal_statutes": [
+    "RCW 42.17.130"
+  ],
+  "categories": [
+    "Legal Compliance",
+    "Employment Law",
+    "Public Records Act",
+    "Emergency Services regulations"
+  ],
+  "tags": [
+    "random drug testing",
+    "Supreme Court cases",
+    "RCW 42.17.130",
+    "legislative updates"
+  ],
   "compressed_content": "",
   "search_text": "random drug testing policies and supreme court legal precedents",
+  "search_keywords": "Volume 5 Number 5, Random drug testing policies, U.S. Constitution, Supreme Court decisions support random drug testing for firefighters, fire departments, legal compliance",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v05n05may2005",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v05n05may2005.pdf",
   "pdf_url": "/Newsletters/v05n05may2005.pdf"
 }

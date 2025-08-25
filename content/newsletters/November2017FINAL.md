@@ -11,7 +11,7 @@ legal_cases:
 legal_statutes: 
 summary: November 2017 newsletter covers Public Works Act changes affecting labor and employment law, analyzes PERC decision on minimum staffing mandates in public agencies, explains Open-PAYGO law requirements for electronic clearinghouses in municipal payments, examines emergency services contract disputes over safety bills, discusses recall case involving local government officials and public duty violations, and addresses public records privacy protections.
 source_pdf: November2017FINAL.pdf
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: Public Works Act changes PERC decision Open-PAYGO law contract dispute recall case firehouse lawyer employment law public records emergency services safety bill minimum staffing budget & finance train...
 processed_date: 2025-08-22
 layout: newsletter

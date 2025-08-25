@@ -1,17 +1,59 @@
 {
   "volume": "22",
   "edition": "11",
-  "title": "Inside this Issue",
+  "title": "FLSA Case Analysis and Privacy Breach Discrimination Due Process",
   "date": "2024-11-30",
   "summary": "The newsletter covers key legal updates including an important FLSA case, a significant privacy breach case, the application of due process in discrimination cases, and considerations for 24-hour shift regulations.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter covers key legal updates including an important FLSA case, a significant privacy breach case, the application of due process in discrimination cases, and considerations for 24-hour shift regulations.",
+  "keywords": [
+    "FLSA",
+    "privacy case",
+    "undue hardship",
+    "discrimination case",
+    "contract law",
+    "public record law"
+  ],
+  "topics": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law"
+  ],
+  "legal_cases": [
+    "E.M.T.Q.",
+    "Encino v. Navarro",
+    "Jameis P. Quinby v. Firehouselawyer.com"
+  ],
+  "legal_statutes": [
+    "RCW 19.373",
+    "RCW 42.56",
+    "RCW 70.02",
+    "RCW 43.105.369"
+  ],
+  "categories": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law"
+  ],
+  "tags": [
+    "FLSA",
+    "privacy case",
+    "undue hardship",
+    "discrimination case",
+    "contract law",
+    "public record law"
+  ],
   "compressed_content": "",
-  "search_text": "inside this issue",
+  "search_text": "flsa case analysis and privacy breach discrimination due process",
+  "search_keywords": "Fireho Volume 22, Number 11. Important FLSA case at SCOTUS blog. Important privacy case in WA Court of Appeals. Undue Hardship defense revisited in WA Supreme Court. 24-hour shifts legal consideration...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "November2024FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "November2024FINAL.pdf",
   "pdf_url": "/Newsletters/November2024FINAL.pdf"
 }

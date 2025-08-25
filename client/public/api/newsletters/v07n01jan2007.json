@@ -4,14 +4,50 @@
   "title": "Interlocal Agreements – An Audit: A Finding Waiting to Happen? | Public Finance Updates",
   "date": "2007-01-15",
   "summary": "January 2007 newsletter examines interlocal agreements audit findings questioning mutual aid agreement legality under RCW 39.34.010 and 39.34.060, analyzes discrepancies between auditing procedures and applicable statutes under RCW 43.09.200 and 43.09.210, discusses public finance updates affecting fire departments, reviews Hunsley v. Giard precedent for motor vehicle accident bystander negligence, and provides comprehensive guidance on proper emergency response protocols and interlocal agreement compliance requirements.",
-  "keywords": [],
-  "topics": [],
+  "description": "The article discusses potential legal challenges related to interlocal agreements, focusing on an audit finding that questions the legality of mutual aid agreements. The analysis highlights discrepancies between auditing procedures and applicable statutes, suggesting a need for comprehensive review. Additionally, the article examines a case involving bystander negligence in a motor vehicle accident, emphasizing the importance of proper emergency response protocols.",
+  "keywords": [
+    "interlocal agreements",
+    "statute 39.34.010",
+    "RCW 43.09.200",
+    "public finance",
+    "mutual aid agreement"
+  ],
+  "topics": [
+    "Public Finance",
+    "Mutual Aid Agreements",
+    "Audit Findings"
+  ],
+  "legal_cases": [
+    "Hunsley v. Giard, 87 Wn. 2d 424, 553 P.2d 1096 (1976)"
+  ],
+  "legal_statutes": [
+    "RCW 43.09.200",
+    "RCW 43.09.210",
+    "RCW 39.34.010",
+    "RCW 39.34.060"
+  ],
+  "categories": [
+    "Public Finance",
+    "Mutual Aid Agreements",
+    "Audit Findings"
+  ],
+  "tags": [
+    "interlocal agreements",
+    "statute 39.34.010",
+    "RCW 43.09.200",
+    "public finance",
+    "mutual aid agreement"
+  ],
   "compressed_content": "",
   "search_text": "interlocal agreements – an audit: a finding waiting to happen? | public finance updates",
+  "search_keywords": "Interlocal agreements audit finding 2007 | Public finance legal updates | Mutual aid agreement statute analysis | Fire department emergency protocol improvement...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v07n01jan2007",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v07n01jan2007.pdf",
   "pdf_url": "/Newsletters/v07n01jan2007.pdf"
 }

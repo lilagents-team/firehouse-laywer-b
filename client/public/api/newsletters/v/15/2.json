@@ -4,14 +4,57 @@
   "title": "Open Public Meeting Act and Firefighter Occupational Disease Presumptions",
   "date": "2017-02-01",
   "summary": "February 2017 newsletter examines Open Public Meeting Act (OPMA) requirements for fire departments under RCW 42.30.030, analyzes firefighter occupational disease presumptions under RCW 51.32.185 including West v. Pierce County precedent, discusses local property tax levy changes affecting junior districts and EMS services per RCW 84.52.050, and provides updated safety checklist requirements for compliance.",
-  "keywords": [],
-  "topics": [],
+  "description": "This newsletter highlights key legal updates, including the Open Public Meeting Act (OPMA) implications for fire departments, firefighter occupational disease presumptions under state law, changes to local property tax levies affecting junior districts and EMS services, and safety checklist updates.",
+  "keywords": [
+    "Open Public Meeting Act",
+    "Fire Department",
+    "Employment Law",
+    "Public Finance",
+    "Local Levy Support",
+    "Property Tax",
+    "Fire Safety"
+  ],
+  "topics": [
+    "Legal Updates",
+    "Employment Law",
+    "Public Finance",
+    "Open Government"
+  ],
+  "legal_cases": [
+    "West v. Pierce County"
+  ],
+  "legal_statutes": [
+    "RCW 42.30.030",
+    "RCW 51.32.185",
+    "RCW 51.32.185 (1)",
+    "RCW 84.52.050",
+    "SSB 5607"
+  ],
+  "categories": [
+    "Legal Updates",
+    "Employment Law",
+    "Public Finance",
+    "Open Government"
+  ],
+  "tags": [
+    "Open Public Meeting Act",
+    "Fire Department",
+    "Employment Law",
+    "Public Finance",
+    "Local Levy Support",
+    "Property Tax",
+    "Fire Safety"
+  ],
   "compressed_content": "",
   "search_text": "open public meeting act and firefighter occupational disease presumptions",
+  "search_keywords": "Open Public Meeting Act, employment law, public finance, local levy support, property tax, fire department, safety checklist, RCW 42.30.030, RCW 51.32.185, RCW 84.52.050",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "February2017FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "February2017FINAL.pdf",
   "pdf_url": "/Newsletters/February2017FINAL.pdf"
 }

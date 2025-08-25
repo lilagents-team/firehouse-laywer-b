@@ -46,7 +46,7 @@ legal_statutes:
   - "RCW 52.12.024"
   - "RCW 52.12.025"
 source_pdf: "August_2015.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "The Firehouse Lawyer Volume 13 Number Eight, July 2015, Joseph F. Quinn Esq, newsletter contents legal updates"
 processed_date: 2025-08-22
 layout: newsletter

@@ -33,7 +33,7 @@ legal_statutes:
   - "App. Wash. Code/RCW default.aspx?cite=182-531-1740"
   - "App. Wash. Code/RCW default.aspx?cite=182-546"
 source_pdf: "August2024FINAL.pdf"
-metadata_quality: high
+metadata_quality: "high"
 search_keywords: "Volume 22 Number 8, IMEs posted to social media, GEMT treat and refer, FLSA agreed overtime pay, independent medical examinations, fire department legal updates"
 summary: "The newsletter covers several key legal updates, including a ruling on the constitutionality of social media posting restrictions for independent medical examinations (IMEs), the interaction between the GEMT and Treat and Refer programs, the impact of FLSA overtime laws on fire departments, and important legal references."
 processed_date: 2025-08-22

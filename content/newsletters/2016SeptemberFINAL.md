@@ -33,7 +33,7 @@ legal_statutes:
   - "RCW 42.56.070"
   - "RCW 39.33.010"
 source_pdf: "2016SeptemberFINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Volume 14, Number Nine, Firehouse Newsletter, October 2016, firehouselawyer.com, HIPAA compliance, social media, worker compensation, Public Records Act, fire district laws, RCW 52.12.021"
 processed_date: 2025-08-22
 layout: newsletter

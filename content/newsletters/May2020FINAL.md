@@ -17,7 +17,7 @@ legal_statutes:
   - "RCW 42.30"
   - "RCW 42.30.020"
 source_pdf: "May2020FINAL.pdf"
-metadata_quality: medium
+metadata_quality: "medium"
 search_keywords: "Volume 18, Number 5, Open Public Meetings Act Updates, Emergency Management Act guidance, Proclamation 20-28 extensions, fire department resume operations, Phase Three re-opening plan, public particip..."
 processed_date: 2025-08-22
 layout: newsletter

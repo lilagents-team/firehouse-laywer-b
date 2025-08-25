@@ -19,7 +19,7 @@ legal_statutes:
   - "RCW 39.34.030"
   - "RCW 42.56.280"
 source_pdf: "August2018.pdf"
-metadata_quality: medium
+metadata_quality: "medium"
 search_keywords: "Volume 16, Number Eight | State Auditor's Guidance on Piggybacking | Deliberative Process Exemption | SAFETY BILL | Public agencies | Procurement laws | RCW 39.34.030 | RCW 42.56.280..."
 processed_date: 2025-08-22
 layout: newsletter

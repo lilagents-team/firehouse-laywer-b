@@ -22,7 +22,7 @@ legal_statutes:
   - "RCW 36.28.010"
   - "RCW 46.61.035"
 source_pdf: "July2021FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Firehouse Lawyer Newsletter Volume 19, Number 7, Power and Security, police power limitations, public duty doctrine, EMS fire departments, Beltran-Serrano v. City of Seattle, Mancenico v. City of Federal Way, RCW 36.28.010"
 processed_date: 2025-08-22
 layout: newsletter

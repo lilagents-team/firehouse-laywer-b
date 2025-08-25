@@ -4,14 +4,48 @@
   "title": "Pension Laws and Fire Department Practice",
   "date": "2016-07-01",
   "summary": "The document discusses pension law violations affecting fire departments, focusing on the potential restructuring of pensions for fire commissioners. It highlights issues with public employees' rights under the Public Employees Retirement System (PERS), the interpretation of employment definitions, and equal protection violations under various legal statutes.",
-  "keywords": [],
-  "topics": [],
+  "description": "The document discusses pension law violations affecting fire departments, focusing on the potential restructuring of pensions for fire commissioners. It highlights issues with public employees' rights under the Public Employees Retirement System (PERS), the interpretation of employment definitions, and equal protection violations under various legal statutes.",
+  "keywords": [
+    "Pension Laws",
+    "Fire Departments",
+    "Public Records",
+    "Employment Law",
+    "Equal Protection"
+  ],
+  "topics": [
+    "Employment Law",
+    "Public Records",
+    "Contract Law"
+  ],
+  "legal_cases": [
+    "Board of Regents v. Natural Resources Defense Council"
+  ],
+  "legal_statutes": [
+    "RCW 41.32.860",
+    "RCW 41.40.023 (3)"
+  ],
+  "categories": [
+    "Employment Law",
+    "Public Records",
+    "Contract Law"
+  ],
+  "tags": [
+    "Pension Laws",
+    "Fire Departments",
+    "Public Records",
+    "Employment Law",
+    "Equal Protection"
+  ],
   "compressed_content": "",
   "search_text": "pension laws and fire department practice",
+  "search_keywords": "Document content includes sections on pension restructuring, DRS interpretations, equal protection issues, Open Government Act compliance, and recommendations for fire departments....",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "July2016FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "July2016FINAL.pdf",
   "pdf_url": "/Newsletters/July2016FINAL.pdf"
 }

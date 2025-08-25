@@ -4,14 +4,47 @@
   "title": "Legal Update on COVID-19 Vaccination Mandate for Federal Contractors",
   "date": "2021-09-01",
   "summary": "The President's Executive Order (14042) mandates COVID-19 vaccination for federal contractors, unless employees are legally exempt or receive reasonable accommodations. The Task Force provided guidance defining 'covered contractors' and their employees as those subject to full vaccination by December 8, 2021. Exemptions apply to health care providers with religious beliefs or disabilities.",
-  "keywords": [],
-  "topics": [],
+  "description": "The President's Executive Order (14042) mandates COVID-19 vaccination for federal contractors, unless employees are legally exempt or receive reasonable accommodations. The Task Force provided guidance defining 'covered contractors' and their employees as those subject to full vaccination by December 8, 2021. Exemptions apply to health care providers with religious beliefs or disabilities.",
+  "keywords": [
+    "Executive Order",
+    "14042",
+    "COVID-19 Vaccination Mandate",
+    "Covered Contractors",
+    "Federal Employees",
+    "Reasonable Accommodations"
+  ],
+  "topics": [
+    "Contract Law",
+    "Public Records",
+    "Legal Updates"
+  ],
+  "legal_cases": [],
+  "legal_statutes": [
+    "42 C.F.R. § 447"
+  ],
+  "categories": [
+    "Contract Law",
+    "Public Records",
+    "Legal Updates"
+  ],
+  "tags": [
+    "Executive Order",
+    "14042",
+    "COVID-19 Vaccination Mandate",
+    "Covered Contractors",
+    "Federal Employees",
+    "Reasonable Accommodations"
+  ],
   "compressed_content": "",
   "search_text": "legal update on covid-19 vaccination mandate for federal contractors",
+  "search_keywords": "October 18, 2021 Executive Order on Mandatory COVID-19 Vaccination for Federal Contractors; September 9, 2021 OMB Guidance on Mandatory COVID-19 Vaccination for Federal Contractors; September 24, 2021...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "September2021ExtraFINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "September2021ExtraFINAL.pdf",
   "pdf_url": "/Newsletters/September2021ExtraFINAL.pdf"
 }

@@ -30,7 +30,7 @@ legal_statutes:
   - "RCW 82.02.050"
   - "RCW 52.30.020"
 source_pdf: "May2017FINAL.pdf"
-metadata_quality: medium
+metadata_quality: "medium"
 search_keywords: "Firehouse Lawyer Volume 15 Number Five, May 2017, legal updates fire departments, circuit riding, housing authority contracts, public agency law, impact fees incompatibility doctrine"
 processed_date: 2025-08-22
 layout: newsletter

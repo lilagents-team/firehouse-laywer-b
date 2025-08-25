@@ -20,7 +20,7 @@ legal_statutes:
   - "RCW 39.04.105"
 summary: "September 2022 newsletter examines Growth Management Act (GMA) updates under RCW 36.70A.070 affecting rural fire departments and capacity requirements, analyzes contract law changes under RCW 52.14.130 and RCW 39.04.105 regarding bid protest procedures, discusses Dick Enterprises v. King County precedent for contract award challenges, provides guidance on sufficient capacity assessments for fire department compliance, and offers recommendations for proper bid protest documentation and injunction procedures."
 source_pdf: "September2022.pdf"
-metadata_quality: medium
+metadata_quality: "medium"
 search_keywords: "Firehousela wyer & Public Agreements, MR. Quin and Mr. Quinn, P.S., is legal counsel to more than 40 Fire Departments in the State of Washington. Our office is legal counsel to more than 40 Fire Depar..."
 processed_date: 2025-08-22
 layout: newsletter

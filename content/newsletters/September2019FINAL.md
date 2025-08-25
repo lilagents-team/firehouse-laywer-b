@@ -19,7 +19,7 @@ legal_cases:
 legal_statutes:
   - "RCW 42.56.520(3)"
 source_pdf: "September2019FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Fireho Volume 17 Number 9 The Fireh Public Records Act Cases Eric T. Quinn Joseph F. Quinn The law firm of Quinn and Quinn P.S. is legal counsel to more than 40 Fire Departments in the State of Washin..."
 processed_date: 2025-08-22
 layout: newsletter

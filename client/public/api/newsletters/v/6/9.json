@@ -4,14 +4,63 @@
   "title": "Substantially Career Fire Departments and Workers Compensation Classifications",
   "date": "2006-09-15",
   "summary": "September 2006 newsletter analyzes the interpretation of 'substantially career' in fire departments under HB 1756 as remedial legislation, discusses workers compensation classifications under WAC 296-17-749, 296-17-679, and 296-17-545, examines HIPAA compliance issues with ride-along programs, reviews stayed court ruling on Initiative 747, and details ADEA release requirements including legal precedents from Doty v. Town of South Prairie and McConnell v. Mothers Work cases.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses several legal topics, including the interpretation of 'substantially career' in fire departments, the use of 'substantial' language, workers compensation classifications under WAC sections, concerns about ride-alongs and HIPAA compliance, a stayed court ruling on Initiative 747, and requirements for releases in ADEA cases.",
+  "keywords": [
+    "Substantially Career Fire Department",
+    "Substantial language interpretation",
+    "Workers Compensation Classifications",
+    "Ride-along programs",
+    "HIPAA Privacy Issues",
+    "Initiative 747",
+    "ADEA Releases"
+  ],
+  "topics": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "legal_cases": [
+    "*Doty v. Town of South Prairie*, *McConnell v. Mothers Work, Inc.*"
+  ],
+  "legal_statutes": [
+    "RCW 52.33.010",
+    ".030",
+    "WAC 296-17-749",
+    "WAC 296-17-679",
+    "WAC 296-17-545"
+  ],
+  "categories": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "tags": [
+    "Substantially Career Fire Department",
+    "Substantial language interpretation",
+    "Workers Compensation Classifications",
+    "Ride-along programs",
+    "HIPAA Privacy Issues",
+    "Initiative 747",
+    "ADEA Releases"
+  ],
   "compressed_content": "",
   "search_text": "substantially career fire departments and workers compensation classifications",
+  "search_keywords": "Firehouse Lawyer Volume 6 Number 9 publication date September 15 2006 legal interpretations remedial legislation HB 1756 case Doty v. Town of South Prairie WAC sections workers compensation Initiative...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v06n09sep2006",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v06n09sep2006.pdf",
   "pdf_url": "/Newsletters/v06n09sep2006.pdf"
 }

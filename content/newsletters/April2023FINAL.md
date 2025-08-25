@@ -10,7 +10,7 @@ tags:
 legal_statutes: 
 summary: April 2023 newsletter provides updates on state legislation including SB 5618 changes and shortened tie to SB 5495 until August 1, announces SB 5770 effective date of September 1, examines FLSA executive and administrative exemptions with salary tests and primary duties requiring discretion, outlines responsible bidder requirements for public contract opportunities, and highlights DEI initiatives at Pierce County Fire Commissioners Association event promoting inclusive workforce development.
 source_pdf: April2023FINAL.pdf
-metadata_quality: medium
+metadata_quality: "medium"
 search_keywords: Volume 21, Number 4 Firehouse Lawyer SB 5618 SB 5770 SB 5495 FLSA DEI initiatives Pierce County Fire Commissioners Association Eric T. Quinn Joseph F. Quinn Washington state statutes public contracts ...
 processed_date: 2025-08-22
 layout: newsletter

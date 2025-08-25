@@ -35,7 +35,7 @@ legal_statutes:
   - "RCW 84.55.050"
   - "RCW 42.56.050"
 source_pdf: "September2016CORRECTION.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Firehouse Lawyer Newsletter, Volume 14, Number Nine (September 2016). Legal updates on fire district and regional fire authority laws. Corrections to previous voting requirements for worker benefit ch..."
 processed_date: 2025-08-22
 layout: newsletter

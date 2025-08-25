@@ -4,14 +4,53 @@
   "title": "Property Tax Prorationing, Firefighter Separation Cases, and Equitable Estoppel in Public Benefits",
   "date": "2020-11-01",
   "summary": "The newsletter discusses prorationing of property taxes, legal cases involving firefighters and separation from service, and a case regarding equitable estoppel applied to public employee benefits.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses prorationing of property taxes, legal cases involving firefighters and separation from service, and a case regarding equitable estoppel applied to public employee benefits.",
+  "keywords": [
+    "prorationing",
+    "property taxes",
+    "firefighters",
+    "equitable estoppel",
+    "Wilson case",
+    "COA ruling"
+  ],
+  "topics": [
+    "Employment Law",
+    "Public Records",
+    "Financial/Budget",
+    "Training & Compliance"
+  ],
+  "legal_cases": [
+    "Wilson v. DRS, No. 79867-7-I",
+    "Leitner v. City of Tacoma and Department of Labor and Industries, No.52908-4-II"
+  ],
+  "legal_statutes": [
+    "RCW 84.52.043(2)",
+    "WAC §415-02-115"
+  ],
+  "categories": [
+    "Employment Law",
+    "Public Records",
+    "Financial/Budget",
+    "Training & Compliance"
+  ],
+  "tags": [
+    "prorationing",
+    "property taxes",
+    "firefighters",
+    "equitable estoppel",
+    "Wilson case",
+    "COA ruling"
+  ],
   "compressed_content": "",
   "search_text": "property tax prorationing, firefighter separation cases, and equitable estoppel in public benefits",
+  "search_keywords": "Prorationing of property taxes, fire districts, equitable estoppel, Wilson COA decision, firefighters' cases, separation from service, public employee benefits....",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "November2020FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "November2020FINAL.pdf",
   "pdf_url": "/Newsletters/November2020FINAL.pdf"
 }

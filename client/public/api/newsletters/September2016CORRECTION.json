@@ -4,14 +4,67 @@
   "title": "Fire District Benefit Charges, Public Records Act Changes, and HIPAA Social Media Compliance",
   "date": "2016-09-01",
   "summary": "The newsletter discusses legal updates related to fire districts and regional fire authorities, including corrections on voting requirements for benefit charges, policy changes regarding public records under the Public Records Act, concerns about HIPAA social media breaches, a case decision affecting worker's compensation claims based on subjective findings, and updates on the Public Records Act's statute of limitations.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses legal updates related to fire districts and regional fire authorities, including corrections on voting requirements for benefit charges, policy changes regarding public records under the Public Records Act, concerns about HIPAA social media breaches, a case decision affecting worker's compensation claims based on subjective findings, and updates on the Public Records Act's statute of limitations.",
+  "keywords": [
+    "fire district",
+    "regional fire authority",
+    "public records act",
+    "HIPAA",
+    "worker’s compensation",
+    "statute of limitations"
+  ],
+  "topics": [
+    "Open Government",
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "legal_cases": [
+    "Felipe v. Department of Labor and Industries, NO. 75232-4-I (Div. One 2016)"
+  ],
+  "legal_statutes": [
+    "RCW 52.18.010",
+    "RCW 43.09.210",
+    "RCW 39.33.010",
+    "RCW 82.04.419",
+    "RCW 52.16.061",
+    "RCW 41.08",
+    "RCW 43.21C.060",
+    "RCW 84.55.050",
+    "RCW 42.56.050"
+  ],
+  "categories": [
+    "Open Government",
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "tags": [
+    "fire district",
+    "regional fire authority",
+    "public records act",
+    "HIPAA",
+    "worker’s compensation",
+    "statute of limitations"
+  ],
   "compressed_content": "",
   "search_text": "fire district benefit charges, public records act changes, and hipaa social media compliance",
+  "search_keywords": "Firehouse Lawyer Newsletter, Volume 14, Number Nine (September 2016). Legal updates on fire district and regional fire authority laws. Corrections to previous voting requirements for worker benefit ch...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "September2016CORRECTION",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "September2016CORRECTION.pdf",
   "pdf_url": "/Newsletters/September2016CORRECTION.pdf"
 }

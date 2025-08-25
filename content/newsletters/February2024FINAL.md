@@ -24,7 +24,7 @@ legal_statutes:
   - "RCW 39.114.010"
   - "RCW 39.114.020"
 source_pdf: "February2024FINAL.pdf"
-metadata_quality: high
+metadata_quality: "high"
 search_keywords: "Volume 22, Number 2 Firehouse Lawyer. FLSA Rule on Independent Contractors Will be More Restrictive. Legislation: Bills of Interest. Diversion of Property Taxes in the TIF context may be unconstitutio..."
 summary: "The newsletter discusses proposed changes to the Fair Labor Standards Act (FLSA) regarding independent contractors, legislative bills such as HB 2044 and ESB 5770, and a significant legal decision concerning the constitutionality of property tax diversions under Tax Increment Financing (TIF) schemes."
 processed_date: 2025-08-22

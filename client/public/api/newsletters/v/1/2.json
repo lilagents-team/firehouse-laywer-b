@@ -4,14 +4,67 @@
   "title": "Wrongful Transfer Claims Rejected, Nepotism Challenges, and LEOFF II Death Benefits",
   "date": "1997-05-01",
   "summary": "The document discusses several legal cases and updates related to employment law, public policy, and discrimination. Key topics include wrongful transfer claims rejected by the Supreme Court of Washington based on public policy considerations, Nepotism in hiring found lacking a rational basis by a U.S. District Court case, amendments to death benefits under LEOFF II, physical fitness requirements for firefighters, and cases involving free speech rights versus discipline.",
-  "keywords": [],
-  "topics": [],
+  "description": "The document discusses several legal cases and updates related to employment law, public policy, and discrimination. Key topics include wrongful transfer claims rejected by the Supreme Court of Washington based on public policy considerations, Nepotism in hiring found lacking a rational basis by a U.S. District Court case, amendments to death benefits under LEOFF II, physical fitness requirements for firefighters, and cases involving free speech rights versus discipline.",
+  "keywords": [
+    "wrongful transfer",
+    "public policy",
+    "Nepotism",
+    "LCW",
+    "death benefits",
+    "physical fitness",
+    "discrimination",
+    "First Amendment rights",
+    "retaliation"
+  ],
+  "topics": [
+    "Employment Law",
+    "Public Policy",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "legal_cases": [
+    "Backlund v. Hessen (8th Cir. 1997)",
+    "Heil v. Santoro, D.C. S.N.Y. (cause number 94CIV.9109, February 28, 1997)"
+  ],
+  "legal_statutes": [
+    "RCW 41.26",
+    "RCW 43.43"
+  ],
+  "categories": [
+    "Employment Law",
+    "Public Policy",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "tags": [
+    "wrongful transfer",
+    "public policy",
+    "Nepotism",
+    "LCW",
+    "death benefits",
+    "physical fitness",
+    "discrimination",
+    "First Amendment rights",
+    "retaliation"
+  ],
   "compressed_content": "",
   "search_text": "wrongful transfer claims rejected, nepotism challenges, and leoff ii death benefits",
+  "search_keywords": "Vol. 1, No. 2, Joseph F. Quinn, wrongful transfer claims, nepotism challenges, LEOFF II death benefits, employment law, public policy, discrimination",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v01n02may1997",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v01n02may1997.pdf",
   "pdf_url": "/Newsletters/v01n02may1997.pdf"
 }

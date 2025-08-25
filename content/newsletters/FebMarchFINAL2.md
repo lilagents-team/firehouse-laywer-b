@@ -26,7 +26,7 @@ legal_statutes:
   - "RCW 39.58.750"
   - "RCW 25.49.160"
 source_pdf: "FebMarchFINAL2.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Firehouse newsletter Volume 23, Number 2 Spring 2025. Electronic Fund Transfers (ECTRs) Adoption. Proper authorization required for EFTs in fire departments. Public agencies must adopt a directive. Fi..."
 processed_date: 2025-08-22
 layout: newsletter

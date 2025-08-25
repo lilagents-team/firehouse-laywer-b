@@ -22,7 +22,7 @@ legal_statutes:
   - "SB 5618"
   - "SB 5495"
 source_pdf: "February2023FINAL.pdf"
-metadata_quality: high
+metadata_quality: "high"
 search_keywords: "Fireho Volume 21, Number 2 DEI Seminar Diversity Equity & Inclusion Public Law SB 5618 SB 5495 Contractor Registration Budget Finance Inflation Relief..."
 summary: "This issue covers key legal updates including a seminar on diversity, equity and inclusion, reminders about contractor registration requirements, case citations related to bid laws, and discussions on inflation relief with mentions of specific statutes."
 processed_date: 2025-08-22

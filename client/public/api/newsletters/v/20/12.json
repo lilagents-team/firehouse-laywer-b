@@ -4,14 +4,58 @@
   "title": "PECBA Updates, EMTALA Compliance, and Federal Grant Contract Requirements",
   "date": "2022-12-31",
   "summary": "December 2022 newsletter covers key updates in public agency law including Public Employees Collective Bargaining Act (PECBA) requirements, EMTALA compliance for emergency medical services, federal grant contract provisions, and responsible bidder considerations. Features important PERC rulings affecting collective bargaining practices and Open Public Meetings Act obligations for fire departments and public agencies.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter covers updates on public agencies, employment practices, emergency medical law (EMTALA), contract law with federal grants, and the responsible bidder column. Key legal topics include Public Employees Collective Bargaining Act (PECBA), Open Public Meetings Act, and Section 40 of the Public Disposition Law.",
+  "keywords": [
+    "Firehouse Lawyer",
+    "EMTALA",
+    "PERC",
+    "PECBA",
+    "Section 40",
+    "Open Public Meetings Act",
+    "Public Employees Collective Bargaining Act",
+    "RCW 41.56"
+  ],
+  "topics": [
+    "Employment Law",
+    "Public Records/Obligations",
+    "Emergency Services",
+    "Contract Law",
+    "Litigation"
+  ],
+  "legal_cases": [
+    "Case 1"
+  ],
+  "legal_statutes": [
+    "RCW 41.56",
+    "PECBA"
+  ],
+  "categories": [
+    "Employment Law",
+    "Public Records/Obligations",
+    "Emergency Services",
+    "Contract Law",
+    "Litigation"
+  ],
+  "tags": [
+    "Firehouse Lawyer",
+    "EMTALA",
+    "PERC",
+    "PECBA",
+    "Section 40",
+    "Open Public Meetings Act",
+    "Public Employees Collective Bargaining Act",
+    "RCW 41.56"
+  ],
   "compressed_content": "",
   "search_text": "pecba updates, emtala compliance, and federal grant contract requirements",
+  "search_keywords": "Volume 20, Number 12 Firehouse Lawyer December 2022. The newsletter includes updates on public agencies, employment practices, emergency medical law (EMTALA), contract law with federal grants, and the...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "December2022FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "December2022FINAL.pdf",
   "pdf_url": "/Newsletters/December2022FINAL.pdf"
 }

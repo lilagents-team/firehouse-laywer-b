@@ -4,14 +4,65 @@
   "title": "The Doctrine of Wrongful Discharge",
   "date": "2015-10-01",
   "summary": "This newsletter explores key legal developments in wrongful discharge, including case analyses and updates on public records retention schedules. The documents discuss the abolition of strict adequacy requirements, significant cases like Becker v. Community Health, and employment law changes affecting light duty policies.",
-  "keywords": [],
-  "topics": [],
+  "description": "This newsletter explores key legal developments in wrongful discharge, including case analyses and updates on public records retention schedules. The documents discuss the abolition of strict adequacy requirements, significant cases like Becker v. Community Health, and employment law changes affecting light duty policies.",
+  "keywords": [
+    "Wrongful Discharge",
+    "Public Policy",
+    "Strict Adequacy",
+    "Public Records",
+    "WDVP",
+    "Becker v. Community Health",
+    "PERC decisions"
+  ],
+  "topics": [
+    "Open Government",
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "legal_cases": [
+    "Rose v. Anderson",
+    "Becker v. Community Health",
+    "Rickman v. Premera"
+  ],
+  "legal_statutes": [
+    "RCW 49.17",
+    "RCW 42.56.030",
+    "RCW 40.14.070"
+  ],
+  "categories": [
+    "Open Government",
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "tags": [
+    "Wrongful Discharge",
+    "Public Policy",
+    "Strict Adequacy",
+    "Public Records",
+    "WDVP",
+    "Becker v. Community Health",
+    "PERC decisions"
+  ],
   "compressed_content": "",
   "search_text": "the doctrine of wrongful discharge",
+  "search_keywords": "Firehouse Lawyer Volume 13 Number Ten, Becker v. Anderson, wrongful discharge doctrine, Washington Supreme Court, public policy violation, October 2015",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "October2015_FINAL ",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "October2015_FINAL .pdf",
   "pdf_url": "/Newsletters/October2015_FINAL .pdf"
 }

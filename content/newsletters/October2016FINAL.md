@@ -26,7 +26,7 @@ legal_statutes:
   - "RCW 42.56.070"
   - "RCW 42.56.290"
 source_pdf: "October2016FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Public Records Act (42.56) Cedar Grove v. City of Marysville Functional Equivalency Telford v. Thurston County Board of Commissioners attorney-client privilege Open Government Public Records PRA 95 Wn..."
 processed_date: 2025-08-22
 layout: newsletter

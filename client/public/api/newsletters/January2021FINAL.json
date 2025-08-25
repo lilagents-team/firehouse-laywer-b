@@ -4,14 +4,66 @@
   "title": "An editorial: Time to update and clarify RCW 52.30.020",
   "date": "2021-10-01",
   "summary": "The newsletter discusses updates to the Public Safety Law (RCW 52.30.020), focusing on contract modifications, COVID-19 vaccination policies for employees, and the impact of the SECURE Act on volunteer firefighter benefits. It also addresses trademark issues with fire department logos and provides insights into labor law considerations.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses updates to the Public Safety Law (RCW 52.30.020), focusing on contract modifications, COVID-19 vaccination policies for employees, and the impact of the SECURE Act on volunteer firefighter benefits. It also addresses trademark issues with fire department logos and provides insights into labor law considerations.",
+  "keywords": [
+    "public agencies",
+    "contract modification",
+    "COVID-19 vaccination",
+    "workplace safety",
+    "volunteer firefighter",
+    "VRIPA",
+    "SECURE Act",
+    "trademark",
+    "logistics",
+    "discrimination"
+  ],
+  "topics": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "legal_cases": [
+    "Washington State v. City of Spokane (2014)"
+  ],
+  "legal_statutes": [
+    "RCW 52.30.020",
+    "RCW 59.26.020",
+    "RCW 58.49.020",
+    "RCW 52.30.020"
+  ],
+  "categories": [
+    "Employment Law",
+    "Public Records",
+    "Emergency Services",
+    "Contract Law",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "tags": [
+    "public agencies",
+    "contract modification",
+    "COVID-19 vaccination",
+    "workplace safety",
+    "volunteer firefighter",
+    "VRIPA",
+    "SECURE Act",
+    "trademark",
+    "logistics",
+    "discrimination"
+  ],
   "compressed_content": "",
   "search_text": "an editorial: time to update and clarify rcw 52.30.020",
+  "search_keywords": "The newsletter contains detailed discussions on updating RCW 52.30.020, HR questions about COVID-19 vaccinations, the SECURE Act's impact on volunteer firefighters, trademark issues with fire departme...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "January2021FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "January2021FINAL.pdf",
   "pdf_url": "/Newsletters/January2021FINAL.pdf"
 }

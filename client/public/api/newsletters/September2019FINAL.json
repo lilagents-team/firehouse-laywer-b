@@ -4,14 +4,43 @@
   "title": "Public Records Act Cases",
   "date": "2019-09-01",
   "summary": "The newsletter discusses two key Public Records Act (PRA) cases. The first case, 'The 'Estimated Estimate' Case,' addresses the time estimates required by the PRA for responding to public records requests, emphasizing that agencies must provide initial estimates and only commit to the first installment of records. The second case, Hoffman v. Kittitas County and the Kittitas County Sheriff, involved a penalty of $15,498 imposed for a 246-day delay in providing public records, with no actionable findings due to agency mistakes.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses two key Public Records Act (PRA) cases. The first case, 'The 'Estimated Estimate' Case,' addresses the time estimates required by the PRA for responding to public records requests, emphasizing that agencies must provide initial estimates and only commit to the first installment of records. The second case, Hoffman v. Kittitas County and the Kittitas County Sheriff, involved a penalty of $15,498 imposed for a 246-day delay in providing public records, with no actionable findings due to agency mistakes.",
+  "keywords": [
+    "Public Records Act",
+    "Fire Department",
+    "Risk Management",
+    "PRA Penalties",
+    "Hoffman v. Kittitas County"
+  ],
+  "topics": [
+    "Public Records Law"
+  ],
+  "legal_cases": [
+    "Hoffman v. Kittitas County and the Kittitas County Sheriff"
+  ],
+  "legal_statutes": [
+    "RCW 42.56.520(3)"
+  ],
+  "categories": [
+    "Public Records Law"
+  ],
+  "tags": [
+    "Public Records Act",
+    "Fire Department",
+    "Risk Management",
+    "PRA Penalties",
+    "Hoffman v. Kittitas County"
+  ],
   "compressed_content": "",
   "search_text": "public records act cases",
+  "search_keywords": "Fireho Volume 17 Number 9 The Fireh Public Records Act Cases Eric T. Quinn Joseph F. Quinn The law firm of Quinn and Quinn P.S. is legal counsel to more than 40 Fire Departments in the State of Washin...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "September2019FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "September2019FINAL.pdf",
   "pdf_url": "/Newsletters/September2019FINAL.pdf"
 }

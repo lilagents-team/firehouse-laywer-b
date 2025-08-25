@@ -31,7 +31,7 @@ legal_statutes:
   - "RCW 39.114.010"
   - "RCW 49.44.240"
 source_pdf: "January2024FINAL (2).pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Budget increases, tax increment financing, First Amendment case analysis, public agency responsibilities, minimum wage hike, Lindke v. Freed case, Sound Transit v. LMRK PROPCO 3 LLC (Case: 85120-9-1),..."
 summary: "The newsletter covers key legal updates including budget increases for fire departments, tax increment financing implications, First Amendment case analysis, public agency responsibilities, and updates on minimum wage laws and labor law changes."
 processed_date: 2025-08-22

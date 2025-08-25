@@ -24,7 +24,7 @@ legal_statutes:
   - "HB 1425/OPMA"
 summary: "January 2016 newsletter covers legal updates for fire departments and public safety agencies including legislative proposals SB 6250/SB 1605 and HB 1425/OPMA, analyzes annexation issues and revenue bills, discusses small works roster changes and fireworks ordinances, examines proposed firefighter memorial license plate program, and addresses First Amendment rights in public employee unions through Heffernan v. City of Paterson and Friedrichs v. California Teachers Association cases affecting union dues requirements."
 source_pdf: "January2016FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Volume 14 Number 1 Legal updates for fire departments and public safety agencies discuss legislative proposals such as SB 6250/SB 1605 and HB 1425/OPMA. Topics include annexation issues, revenue bills..."
 processed_date: 2025-08-22
 layout: newsletter

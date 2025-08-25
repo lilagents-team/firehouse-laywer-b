@@ -22,7 +22,7 @@ legal_statutes:
   - "RCW 39.34.030(5)(b)"
 summary: "October 2022 newsletter covers transition from COVID-19 emergency declaration and return to in-person meetings for public agencies, examines piggybacking procurement procedures under RCW 39.34.030(5)(b) allowing use of existing contracts without competition, analyzes Supreme Court decision in Barry & Barry v. Department of Motor Vehicles upholding state delegation authority in prevailing wage laws, and provides compliance guidance for procurement processes and wage law applications."
 source_pdf: "October2022FINAL.pdf"
-metadata_quality: low
+metadata_quality: "high"
 search_keywords: "Public agencies, COVID-19 emergency declaration, piggybacking under RCW 39.34.030(5)(b), prevailing wage law, Supreme Court decision on delegation..."
 processed_date: 2025-08-22
 layout: newsletter

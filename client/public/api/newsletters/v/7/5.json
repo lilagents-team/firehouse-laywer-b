@@ -4,14 +4,54 @@
   "title": "The Good, the Bad, and the Ugly",
   "date": "2007-05-05",
   "summary": "This issue of the Firehouse Lawyer discusses organizational development services provided by Ascent Partners, workplace safety concerns involving fire commissioners, proposed law revisions affecting fire commissioner compensation, and debates surrounding Social Security and Medicare coverage for firefighters.",
-  "keywords": [],
-  "topics": [],
+  "description": "This issue of the Firehouse Lawyer discusses organizational development services provided by Ascent Partners, workplace safety concerns involving fire commissioners, proposed law revisions affecting fire commissioner compensation, and debates surrounding Social Security and Medicare coverage for firefighters.",
+  "keywords": [
+    "public safety",
+    "firefighters",
+    "emergency response",
+    "liability",
+    "compensation",
+    "statute"
+  ],
+  "topics": [
+    "Organizational Development",
+    "Employment Law",
+    "Public Safety",
+    "Criminal Law",
+    "Labor and Employment",
+    "Legal Statistics"
+  ],
+  "legal_cases": [],
+  "legal_statutes": [
+    "RCW 52.14.010",
+    "ESHB 1368"
+  ],
+  "categories": [
+    "Organizational Development",
+    "Employment Law",
+    "Public Safety",
+    "Criminal Law",
+    "Labor and Employment",
+    "Legal Statistics"
+  ],
+  "tags": [
+    "public safety",
+    "firefighters",
+    "emergency response",
+    "liability",
+    "compensation",
+    "statute"
+  ],
   "compressed_content": "",
   "search_text": "the good, the bad, and the ugly",
+  "search_keywords": "Firehouse Lawyer Volume 7 Number 5, May 2007, organizational development, workplace safety, emergency response, public safety, employment law, compensation, statute, RCW 52.14.010, ESHB 1368...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v07n05may2007",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v07n05may2007.pdf",
   "pdf_url": "/Newsletters/v07n05may2007.pdf"
 }

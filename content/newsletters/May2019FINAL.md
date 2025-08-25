@@ -32,7 +32,7 @@ legal_statutes:
   - "RCW 390-05-273"
   - "RCW 42.17A.555"
 source_pdf: "May2019FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Firehouse Lawyer Volume 17 Number 5, firehouselawyer.com, public agencies Washington State, fire district forest land collection rights, labor law updates, HIPAA privacy requirements"
 processed_date: 2025-08-22
 layout: newsletter

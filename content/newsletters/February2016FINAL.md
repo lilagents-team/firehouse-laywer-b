@@ -22,7 +22,7 @@ legal_statutes:
   - "RCW 52.18.050"
   - "RCW 35.43.042"
 source_pdf: "February2016FINAL.pdf"
-metadata_quality: medium
+metadata_quality: "medium"
 search_keywords: "Local Improvement Districts, Formation of LIDs, Special Assessments, Legal Principles, Proportionality, Sterling Realty Co. v. City of Bellevue, Antonin Scalia..."
 processed_date: 2025-08-22
 layout: newsletter

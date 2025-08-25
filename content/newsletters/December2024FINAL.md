@@ -29,7 +29,7 @@ legal_statutes:
   - "RCW 52.18.070"
   - "RCW 52.26.250"
 source_pdf: "December2024FINAL.pdf"
-metadata_quality: medium
+metadata_quality: "high"
 search_keywords: "Public records act updates, Fire benefit charge legislation, Leasing space to non-profits, PRA case Valderrama v. City of Sammamish, Benefit charge fireworks restrictions and lease compliance...."
 processed_date: 2025-08-22
 layout: newsletter

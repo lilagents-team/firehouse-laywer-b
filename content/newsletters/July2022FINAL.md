@@ -22,7 +22,7 @@ legal_statutes:
   - "RCW 39.04.280(1)(a)"
   - "RCW 39.04.280(1)(b)"
 source_pdf: "July2022FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Volume 20, Number 7, Firehouse Lawyer July 2022, New Bid Law Column, Municipal Roundtable, Sole Source Purchases, RCW 39.04.280(1)(a), Market Conditions exemption, Special Facilities"
 processed_date: 2025-08-22
 layout: newsletter

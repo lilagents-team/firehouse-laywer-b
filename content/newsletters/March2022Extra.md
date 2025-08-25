@@ -22,7 +22,7 @@ legal_statutes:
   - "RCW 42.56.152"
 summary: "March 2022 extra edition highlights mandatory Open Government Training Act (OGTA) training requirements for fire departments under RCW 42.30.205, emphasizes separation of responsibilities between administration and governance, announces free OGTA training workshops due to state funding, discusses public records compliance under RCW 42.56.150 and 42.56.152, and announces upcoming roundtable on leave policies targeting upper management personnel."
 source_pdf: "March2022Extra.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Volume 20, Number 3E. Mandatory OGTA Training for Fire Departments. Separation of Responsibilities between Administration and Governance. Free OGTA Training Workshops. Upcoming Roundtable on Leave Pol..."
 processed_date: 2025-08-22
 layout: newsletter

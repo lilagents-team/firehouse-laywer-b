@@ -4,14 +4,57 @@
   "title": "OPMA Extensions and Federal Grant Management Requirements",
   "date": "2020-04-01",
   "summary": "Legal updates on OPMA extensions, federal grant management, and public duty doctrine applications.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses key legal updates including an extension of OPMA prohibitions, federal grant management under 2 CFR and state law (public duty doctrine), and public health declarations.",
+  "keywords": [
+    "Open Public Meetings Act",
+    "Federal Grants",
+    "Public Duty Doctrine",
+    "Beltran-Serrano case",
+    "2 CFR § 200.302",
+    "RCW 52.16.020"
+  ],
+  "topics": [
+    "Open Government",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Legal Updates"
+  ],
+  "legal_cases": [
+    "Ehrhart v. King County",
+    "Beltran-Serrano case"
+  ],
+  "legal_statutes": [
+    "RCW 52.16.020",
+    "2 CFR § 200.302"
+  ],
+  "categories": [
+    "Open Government",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Legal Updates"
+  ],
+  "tags": [
+    "Open Public Meetings Act",
+    "Federal Grants",
+    "Public Duty Doctrine",
+    "Beltran-Serrano case",
+    "2 CFR § 200.302",
+    "RCW 52.16.020"
+  ],
   "compressed_content": "",
   "search_text": "opma extensions and federal grant management requirements",
+  "search_keywords": "Open Public Meetings Act Federal Grants Public Duty Doctrine Beltran-Serrano case 2 CFR § 200.302 RCW 52.16.020...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "April2020FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "April2020FINAL.pdf",
   "pdf_url": "/Newsletters/April2020FINAL.pdf"
 }

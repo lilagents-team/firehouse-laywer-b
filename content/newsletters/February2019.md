@@ -29,7 +29,7 @@ legal_statutes:
   - "WAC 296-305-05000"
 summary: "February 2019 newsletter covers Paid FMLA issues updates and legal implications, analyzes proposed legislation SSB 5010 and SB 5337 affecting public fire protection and interlocal agreements under RCW 52.30.020, examines labor rights regarding background checks under Fair Credit Reporting Act (FCRA) and Fair Chance Act provisions, discusses Mathews v. Eldridge and Fields v. WA State Dep't of Early Learning precedents, and provides safety standards guidance for post-emergency monitoring requirements under WAC 296-305-05000."
 source_pdf: "February2019.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Volume 17, Number 2. Update on Paid FMLA issues. Proposed Legislative Bills: Public Fire Protection and Interlocal Agreements. Labor Concept Updates: Consumer Credit Checks and the Fair Chance Act. Sa..."
 processed_date: 2025-08-22
 layout: newsletter

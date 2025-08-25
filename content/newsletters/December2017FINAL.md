@@ -25,7 +25,7 @@ legal_statutes:
   - "RCW 35.21.730"
   - "RCW 9.41.251(2)(b)"
 source_pdf: "December2017FINAL.pdf"
-metadata_quality: medium
+metadata_quality: "medium"
 search_keywords: "Volume 15, Number Twelve. Firehouse Lawyer. December 2017. Contact information. Questions regarding the new sick leave law. We were recently asked whether the new sick leave law requires that 40 hours..."
 processed_date: 2025-08-22
 layout: newsletter

@@ -27,7 +27,7 @@ legal_statutes:
   - "RCW 52.16.020"
   - "2 CFR § 200.302"
 source_pdf: "April2020FINAL.pdf"
-metadata_quality: medium
+metadata_quality: "high"
 search_keywords: "Open Public Meetings Act Federal Grants Public Duty Doctrine Beltran-Serrano case 2 CFR § 200.302 RCW 52.16.020..."
 processed_date: 2025-08-22
 layout: newsletter

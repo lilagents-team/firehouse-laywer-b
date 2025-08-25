@@ -4,14 +4,59 @@
   "title": "Norg v. Seattle Fire Department Public Duty Doctrine Ruling and HB 1621 Bid Law Changes",
   "date": "2023-01-01",
   "summary": "The newsletter discusses the Public Duty Doctrine case of Norg v. Seattle Fire Department, where the court ruled against the city's defense, emphasizing EMS as a governmental function. It also highlights legislative updates, including HB 1621, which modifies bid laws in Washington state.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses the Public Duty Doctrine case of Norg v. Seattle Fire Department, where the court ruled against the city's defense, emphasizing EMS as a governmental function. It also highlights legislative updates, including HB 1621, which modifies bid laws in Washington state.",
+  "keywords": [
+    "Public Duty Doctrine",
+    "Norg v. Seattle Fire Department",
+    "HB 1621",
+    "RCW 52.14.110",
+    "contractor bonds",
+    "completion bonds"
+  ],
+  "topics": [
+    "Legal",
+    "Emergency Services",
+    "Contract Law",
+    "Public Law",
+    "Bid Laws",
+    "Public Duty Doctrine"
+  ],
+  "legal_cases": [
+    "Norg v. Seattle Fire Department",
+    "Munchausen's Doctrine"
+  ],
+  "legal_statutes": [
+    "RCW 39.08.010",
+    "RCW 39.04.190",
+    "RCW 39.04.155",
+    "RCW 52.14.110"
+  ],
+  "categories": [
+    "Legal",
+    "Emergency Services",
+    "Contract Law",
+    "Public Law",
+    "Bid Laws",
+    "Public Duty Doctrine"
+  ],
+  "tags": [
+    "Public Duty Doctrine",
+    "Norg v. Seattle Fire Department",
+    "HB 1621",
+    "RCW 52.14.110",
+    "contractor bonds",
+    "completion bonds"
+  ],
   "compressed_content": "",
   "search_text": "norg v. seattle fire department public duty doctrine ruling and hb 1621 bid law changes",
+  "search_keywords": "Public Duty Doctrine, Norg v. Seattle Fire Department, HB 1621, RCW 52.14.110, contractor bonds, completion bonds...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "January2023FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "January2023FINAL.pdf",
   "pdf_url": "/Newsletters/January2023FINAL.pdf"
 }

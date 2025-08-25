@@ -4,14 +4,50 @@
   "title": "Legal Updates on Diversity, Equity & Inclusion | Contractor Registration | Inflation Relief Bills",
   "date": "2023-02-01",
   "summary": "This issue covers key legal updates including a seminar on diversity, equity and inclusion, reminders about contractor registration requirements, case citations related to bid laws, and discussions on inflation relief with mentions of specific statutes.",
-  "keywords": [],
-  "topics": [],
+  "description": "This issue covers key legal updates including a seminar on diversity, equity and inclusion, reminders about contractor registration requirements, case citations related to bid laws, and discussions on inflation relief with mentions of specific statutes.",
+  "keywords": [
+    "Diversity, Equity & Inclusion",
+    "Contractor Registration",
+    "SB 5618",
+    "SB 5495",
+    "Firehouse Lawyer"
+  ],
+  "topics": [
+    "Public Law: DEI and Bid Laws",
+    "Contract Law: Contractor Registration",
+    "Budget & Finance: Inflation Relief",
+    "Legislation: SB 5618 and SB 5495"
+  ],
+  "legal_cases": [
+    "Dobson v. Archibald"
+  ],
+  "legal_statutes": [
+    "SB 5618",
+    "SB 5495"
+  ],
+  "categories": [
+    "Public Law: DEI and Bid Laws",
+    "Contract Law: Contractor Registration",
+    "Budget & Finance: Inflation Relief",
+    "Legislation: SB 5618 and SB 5495"
+  ],
+  "tags": [
+    "Diversity, Equity & Inclusion",
+    "Contractor Registration",
+    "SB 5618",
+    "SB 5495",
+    "Firehouse Lawyer"
+  ],
   "compressed_content": "",
   "search_text": "legal updates on diversity, equity & inclusion | contractor registration | inflation relief bills",
+  "search_keywords": "Fireho Volume 21, Number 2 DEI Seminar Diversity Equity & Inclusion Public Law SB 5618 SB 5495 Contractor Registration Budget Finance Inflation Relief...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "February2023FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "February2023FINAL.pdf",
   "pdf_url": "/Newsletters/February2023FINAL.pdf"
 }

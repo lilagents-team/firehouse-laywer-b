@@ -4,14 +4,44 @@
   "title": "FLSA - §207(k) Amended",
   "date": "2000-01-01",
   "summary": "The newsletter discusses amendments to the Fair Labor Standards Act (FLSA), specifically §207(k), which provides exemptions for fire protection work. It highlights cases involving paramedics and emergency medical technicians, emphasizing that EMTs do not qualify as fire protection workers under this amendment. The document also addresses wrongful discharge claims under public policy, citing a Supreme Court decision that extended such claims to cover terminations at will.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses amendments to the Fair Labor Standards Act (FLSA), specifically §207(k), which provides exemptions for fire protection work. It highlights cases involving paramedics and emergency medical technicians, emphasizing that EMTs do not qualify as fire protection workers under this amendment. The document also addresses wrongful discharge claims under public policy, citing a Supreme Court decision that extended such claims to cover terminations at will.",
+  "keywords": [
+    "FLSA",
+    "§207(k)",
+    "Firehouse Lawyer",
+    "Case 1: Quin v. City of tacoma",
+    "Case 2: West v. Quin"
+  ],
+  "topics": [
+    "Legal References & Updates"
+  ],
+  "legal_cases": [
+    "Case 1: Quin v. City of tacoma",
+    "Case 2: West v. Quin"
+  ],
+  "legal_statutes": [
+    "RCW 1983"
+  ],
+  "categories": [
+    "Legal References & Updates"
+  ],
+  "tags": [
+    "FLSA",
+    "§207(k)",
+    "Firehouse Lawyer",
+    "Case 1: Quin v. City of tacoma",
+    "Case 2: West v. Quin"
+  ],
   "compressed_content": "",
   "search_text": "flsa - §207(k) amended",
+  "search_keywords": "FLSA §207(k) Amended Firehouse Lawyer Volume 4 No. 1 Joseph F. Quin January 31 2000 FLSA §207(k) Extension of fire protection exemptions paramedic emergency medical technician wrongful discharge publi...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v04n01jan2000",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v04n01jan2000.pdf",
   "pdf_url": "/Newsletters/v04n01jan2000.pdf"
 }

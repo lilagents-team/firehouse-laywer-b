@@ -4,14 +4,49 @@
   "title": "Mandatory OGTA Training and Leave Policy Roundtable Updates",
   "date": "2022-03-15",
   "summary": "March 2022 extra edition highlights mandatory Open Government Training Act (OGTA) training requirements for fire departments under RCW 42.30.205, emphasizes separation of responsibilities between administration and governance, announces free OGTA training workshops due to state funding, discusses public records compliance under RCW 42.56.150 and 42.56.152, and announces upcoming roundtable on leave policies targeting upper management personnel.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter highlights mandatory training under the Open Government Training Act (OGTA) for fire departments, emphasizing separation of responsibilities between administration and governance. It also announces an upcoming roundtable on leave policies targeting upper management.",
+  "keywords": [
+    "Open Government Training Act (OGTA)",
+    "mandatory training",
+    "fire departments",
+    "public records",
+    "leave use"
+  ],
+  "topics": [
+    "Open Government",
+    "Leave Policies/Procedures",
+    "Public Records",
+    "Fire Department Operations"
+  ],
+  "legal_cases": [],
+  "legal_statutes": [
+    "RCW 42.30.205",
+    "RCW 42.56.150",
+    "RCW 42.56.152"
+  ],
+  "categories": [
+    "Open Government",
+    "Leave Policies/Procedures",
+    "Public Records",
+    "Fire Department Operations"
+  ],
+  "tags": [
+    "Open Government Training Act (OGTA)",
+    "mandatory training",
+    "fire departments",
+    "public records",
+    "leave use"
+  ],
   "compressed_content": "",
   "search_text": "mandatory ogta training and leave policy roundtable updates",
+  "search_keywords": "Volume 20, Number 3E. Mandatory OGTA Training for Fire Departments. Separation of Responsibilities between Administration and Governance. Free OGTA Training Workshops. Upcoming Roundtable on Leave Pol...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "March2022Extra",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "March2022Extra.pdf",
   "pdf_url": "/Newsletters/March2022Extra.pdf"
 }

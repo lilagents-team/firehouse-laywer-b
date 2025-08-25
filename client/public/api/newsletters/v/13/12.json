@@ -1,17 +1,51 @@
 {
   "volume": "13",
   "edition": "12",
-  "title": "Legal Updates on Fire Department Liability and Unfair Labor Practices",
+  "title": "Municipal Roundtable on Unfair Labor Practices and State Fire Liability Claims",
   "date": "2015-12-31",
   "summary": "The newsletter discusses a Municipal Roundtable addressing Unfair Labor Practices, emphasizing the importance of quick responses to prevent property damage. It also outlines a negligence claim against the Washington State for failing to contain a fire that spread from public lands to private properties.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses a Municipal Roundtable addressing Unfair Labor Practices, emphasizing the importance of quick responses to prevent property damage. It also outlines a negligence claim against the Washington State for failing to contain a fire that spread from public lands to private properties.",
+  "keywords": [
+    "Municipal Roundtable",
+    "Unfair Labor Practices (ULP)",
+    "Negligence claim",
+    "Fire Department",
+    "Permanence of Commissioner",
+    "RCW 41.56.140",
+    "RCW 76.04.760"
+  ],
+  "topics": [
+    "Employment Law",
+    "Public Liability"
+  ],
+  "legal_cases": [],
+  "legal_statutes": [
+    "RCW 41.56.140",
+    "RCW 76.04.760"
+  ],
+  "categories": [
+    "Employment Law",
+    "Public Liability"
+  ],
+  "tags": [
+    "Municipal Roundtable",
+    "Unfair Labor Practices (ULP)",
+    "Negligence claim",
+    "Fire Department",
+    "Permanence of Commissioner",
+    "RCW 41.56.140",
+    "RCW 76.04.760"
+  ],
   "compressed_content": "",
-  "search_text": "legal updates on fire department liability and unfair labor practices",
+  "search_text": "municipal roundtable on unfair labor practices and state fire liability claims",
+  "search_keywords": "Municipal Roundtable on Unfair Labor Practices. Discussion on how PERC may rule on claims for unfair labor practices over the last five years. Joseph Quinn as legal counsel to more than 40 Fire Depart...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "December2015FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "December2015FINAL.pdf",
   "pdf_url": "/Newsletters/December2015FINAL.pdf"
 }

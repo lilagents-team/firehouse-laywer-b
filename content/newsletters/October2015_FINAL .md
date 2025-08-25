@@ -32,7 +32,7 @@ legal_statutes:
   - "RCW 42.56.030"
   - "RCW 40.14.070"
 source_pdf: "October2015_FINAL .pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Firehouse Lawyer Volume 13 Number Ten, Becker v. Anderson, wrongful discharge doctrine, Washington Supreme Court, public policy violation, October 2015"
 processed_date: 2025-08-22
 layout: newsletter

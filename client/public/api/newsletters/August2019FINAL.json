@@ -4,14 +4,60 @@
   "title": "Ordinary Maintenance Law Changes, HIPAA Breach Notifications, and MTCA Cleanup Cost Recovery",
   "date": "2019-08-23",
   "summary": "The newsletter discusses several key legal updates, including changes to the definition of 'ordinary maintenance' under Washington State law, requirements for HIPAA breach notifications, application of the Model Toxic Control Act (MTCA) for public agencies, and an exception to the professional rescuer doctrine in a case involving firefighters.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses several key legal updates, including changes to the definition of 'ordinary maintenance' under Washington State law, requirements for HIPAA breach notifications, application of the Model Toxic Control Act (MTCA) for public agencies, and an exception to the professional rescuer doctrine in a case involving firefighters.",
+  "keywords": [
+    "Ordinary Maintenance",
+    "HIPAA Breach",
+    "MTCA",
+    "Professional Rescuer Doctrine",
+    "Firefighters Breach",
+    "RCW 4.24.314",
+    "Loiland v. State"
+  ],
+  "topics": [
+    "Legal Professional Liability",
+    "Public Records Act",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "legal_cases": [
+    "Loiland v. State"
+  ],
+  "legal_statutes": [
+    "RCW § 4.24.314",
+    "RCW § 70.105D.080"
+  ],
+  "categories": [
+    "Legal Professional Liability",
+    "Public Records Act",
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "tags": [
+    "Ordinary Maintenance",
+    "HIPAA Breach",
+    "MTCA",
+    "Professional Rescuer Doctrine",
+    "Firefighters Breach",
+    "RCW 4.24.314",
+    "Loiland v. State"
+  ],
   "compressed_content": "",
   "search_text": "ordinary maintenance law changes, hipaa breach notifications, and mtca cleanup cost recovery",
+  "search_keywords": "Legal updates include changes to ordinary maintenance definitions, requirements for HIPAA breach notifications, application of the Model Toxic Control Act (MTCA), and an exception to the professional ...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "August2019FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "August2019FINAL.pdf",
   "pdf_url": "/Newsletters/August2019FINAL.pdf"
 }

@@ -22,7 +22,7 @@ legal_statutes:
   - "RCW 70.02.205"
   - "89 Wn.2d 855"
 source_pdf: "August2017FINAL.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Changes to Washington Medical Records Laws, Case Note on LID Assessments, Firehouse Lawyer August 2017, Patient Privacy, Washington Uniform Health Care Information Act, RCW 70.02.205"
 processed_date: 2025-08-22
 layout: newsletter

@@ -4,14 +4,54 @@
   "title": "Regional Fire Protection Authority Updates and Off-Duty Drug Policy",
   "date": "2006-07-17",
   "summary": "The newsletter discusses updates on Regional Fire Protection Authorities (RFPA), including amended statutes and revenue sources. It also covers legal cases involving off-duty drug abuse, emphasizing the enforceability of employment rules and the importance of clear conduct policies.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses updates on Regional Fire Protection Authorities (RFPA), including amended statutes and revenue sources. It also covers legal cases involving off-duty drug abuse, emphasizing the enforceability of employment rules and the importance of clear conduct policies.",
+  "keywords": [
+    "Regional Fire Protection Authorities",
+    "statute amendments",
+    "rfpa",
+    "unemployment compensation",
+    "drug abuse",
+    "Gentilli v. Board of Police and Fire Commissioners",
+    "Turner v. Unemployment Compensation Board of Review"
+  ],
+  "topics": [
+    "Employment Law",
+    "Public Records/Transparency",
+    "Emergency Services",
+    "Contract Law"
+  ],
+  "legal_cases": [
+    "Turner v. Unemployment Compensation Board of Review",
+    "Gentilli v. Board of Police and Fire Commissioners"
+  ],
+  "legal_statutes": [
+    "RCW 7.24.040"
+  ],
+  "categories": [
+    "Employment Law",
+    "Public Records/Transparency",
+    "Emergency Services",
+    "Contract Law"
+  ],
+  "tags": [
+    "Regional Fire Protection Authorities",
+    "statute amendments",
+    "rfpa",
+    "unemployment compensation",
+    "drug abuse",
+    "Gentilli v. Board of Police and Fire Commissioners",
+    "Turner v. Unemployment Compensation Board of Review"
+  ],
   "compressed_content": "",
   "search_text": "regional fire protection authority updates and off-duty drug policy",
+  "search_keywords": "Firehouse Lawyer Volume 6, Number 7 July 17, 2006 Regional Fire Protection Authorities on June 7, 2006 amended statutes governing RFPA. Turner v. Unemployment Compensation Board of Review and Gentilli...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v06n07jul2006",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v06n07jul2006.pdf",
   "pdf_url": "/Newsletters/v06n07jul2006.pdf"
 }

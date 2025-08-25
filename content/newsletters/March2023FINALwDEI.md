@@ -25,7 +25,7 @@ legal_statutes:
   - "RCW 36.27"
 summary: "March 2023 newsletter announces DEI Presentation scheduled for April 28, examines malfeasance in special purpose districts and CPA-related legal issues, establishes that municipal corporations are not subject to CPA under current law, reviews Silence No More Act prohibiting nondisclosure clauses post-2022 under RCW 49.44.211, analyzes NLRB decision overruling severance agreement cases, provides bid law compliance guidance under RCW 36.96 and RCW 36.27, and discusses Pierce County Fire Commissioners Association DEI initiatives."
 source_pdf: "March2023FINALwDEI.pdf"
-metadata_quality: high
+metadata_quality: "high"
 search_keywords: "Volume 21 Number 3, March 2023, Eric T. Quinn Editor, Firehouse Lawyer, DEI Presentation, malfeasance special purpose districts, CPA issues, Silence No More Act, NLRB decision, state auditor attorney general"
 processed_date: 2025-08-22
 layout: newsletter

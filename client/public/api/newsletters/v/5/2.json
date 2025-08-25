@@ -4,14 +4,50 @@
   "title": "Compliance Updates for Fire Departments Under HIPAA and Related Legal Frameworks",
   "date": "2005-02-15",
   "summary": "HIPAA compliance for fire departments, Privacy Rule convictions, Veterans Scoring Criteria updates, and RCW 41.04.010 changes.",
-  "keywords": [],
-  "topics": [],
+  "description": "This newsletter highlights key legal developments, including compliance programs for fire departments under the HIPAA Privacy Rule and Security Rule. It also addresses a significant conviction under these regulations involving improper conduct by Richard Gibson. Additionally, updates on the Veterans Scoring Criteria statute in Washington State are discussed, with a focus on changes to RCW 41.04.010 requiring a 90-day waiting period post-discharge.",
+  "keywords": [
+    "HIPAA",
+    "Privacy Rule",
+    "Security Rule",
+    "RCW 41.04.010",
+    "Veterans Scoring Criteria"
+  ],
+  "topics": [
+    "Emergency Services",
+    "Public Records (HIPAA)",
+    "Contract Law (Security Rule)",
+    "Litigation (Privacy Rule cases)"
+  ],
+  "legal_cases": [
+    "Gibson v. City of Lakewood",
+    "Schrom v. Board of Volunteer Firefighters"
+  ],
+  "legal_statutes": [
+    "RCW 41.04.010"
+  ],
+  "categories": [
+    "Emergency Services",
+    "Public Records (HIPAA)",
+    "Contract Law (Security Rule)",
+    "Litigation (Privacy Rule cases)"
+  ],
+  "tags": [
+    "HIPAA",
+    "Privacy Rule",
+    "Security Rule",
+    "RCW 41.04.010",
+    "Veterans Scoring Criteria"
+  ],
   "compressed_content": "",
   "search_text": "compliance updates for fire departments under hipaa and related legal frameworks",
+  "search_keywords": "Joseph F. Quinn, HIPAA Privacy Rule conviction, Richard Gibson case, RCW 41.04.010, Veterans Scoring Criteria...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v05n02feb2005",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v05n02feb2005.pdf",
   "pdf_url": "/Newsletters/v05n02feb2005.pdf"
 }

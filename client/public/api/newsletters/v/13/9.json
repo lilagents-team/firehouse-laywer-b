@@ -4,14 +4,58 @@
   "title": "WLAD Disability Classification, DLS Payment Rules, and Pierce County Employment Cases",
   "date": "2015-09-01",
   "summary": "The newsletter discusses several key legal updates, including the classification of disabilities under the Washington Law on Discrimination (WLAD), the treatment of Disability Leave Supplement (DLS) payments in relation to service credits, and employment policies such as conditional offers of employment. The document also addresses a case involving Nissen v. Pierce County, which upheld certain employment practices, and provides insights into public records laws and CARES programs.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses several key legal updates, including the classification of disabilities under the Washington Law on Discrimination (WLAD), the treatment of Disability Leave Supplement (DLS) payments in relation to service credits, and employment policies such as conditional offers of employment. The document also addresses a case involving Nissen v. Pierce County, which upheld certain employment practices, and provides insights into public records laws and CARES programs.",
+  "keywords": [
+    "Employment Law",
+    "Public Records Act",
+    "Disability",
+    "WLAD",
+    "DLS Payments",
+    "CARES Program"
+  ],
+  "topics": [
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "legal_cases": [
+    "Clipse v. Pierce County, No. 45407-6-II (2015)",
+    "Nissen v. Pierce County, No. 90875-3 (2015)"
+  ],
+  "legal_statutes": [
+    "RCW 49.60.180",
+    "RCW 49.60.070(7)(a)",
+    "RCW 52.18.010",
+    "RCW 35.21.930",
+    "RCW 18.71.030"
+  ],
+  "categories": [
+    "Emergency Services",
+    "Contract Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "tags": [
+    "Employment Law",
+    "Public Records Act",
+    "Disability",
+    "WLAD",
+    "DLS Payments",
+    "CARES Program"
+  ],
   "compressed_content": "",
   "search_text": "wlad disability classification, dls payment rules, and pierce county employment cases",
+  "search_keywords": "Volume 13 Number 9, Firehouse Lawyer Newsletter September 2015, Clipse v. Pierce County, WLAD disability classification, DLS payment rules, Washington Law Against Discrimination",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "September2015_ThidDraft",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "September2015_ThidDraft.pdf",
   "pdf_url": "/Newsletters/September2015_ThidDraft.pdf"
 }

@@ -4,14 +4,45 @@
   "title": "Extra! Extra! Superior Court Strikes Down Initiative 747",
   "date": "2006-06-23",
   "summary": "The Washington Superior Court ruled that Initiative 747, which caps annual property tax increases for state and local agencies, is unconstitutional. This decision could significantly impact local governments, particularly fire districts, as rising costs outpace the 1% annual limit, potentially eroding levy rates.",
-  "keywords": [],
-  "topics": [],
+  "description": "The Washington Superior Court ruled that Initiative 747, which caps annual property tax increases for state and local agencies, is unconstitutional. This decision could significantly impact local governments, particularly fire districts, as rising costs outpace the 1% annual limit, potentially eroding levy rates.",
+  "keywords": [
+    "Superior Court",
+    "Initiative 747",
+    "I-747",
+    "property tax increases",
+    "annual limit"
+  ],
+  "topics": [
+    "Constitutional Law",
+    "Fiscal Policy for Local Governments",
+    "Public Sector Initiatives"
+  ],
+  "legal_cases": [],
+  "legal_statutes": [
+    "I-747"
+  ],
+  "categories": [
+    "Constitutional Law",
+    "Fiscal Policy for Local Governments",
+    "Public Sector Initiatives"
+  ],
+  "tags": [
+    "Superior Court",
+    "Initiative 747",
+    "I-747",
+    "property tax increases",
+    "annual limit"
+  ],
   "compressed_content": "",
   "search_text": "extra! extra! superior court strikes down initiative 747",
+  "search_keywords": "Firehouse Lawyer Volume 6, Number 6E: Superior Court Strikes Down Initiative 747. Initiative 747 limits annual property tax increases for state and local agencies. Rising costs exceed 1% annually. For...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v06n6Ejun2006",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v06n6Ejun2006.pdf",
   "pdf_url": "/Newsletters/v06n6Ejun2006.pdf"
 }

@@ -4,14 +4,52 @@
   "title": "Overtime Pay for Emergency Services Personnel and Political Discrimination in Employment",
   "date": "1997-04-29",
   "summary": "Inaugural issue of Firehouse Lawyer examining overtime pay requirements for paramedics and EMTs under Fair Labor Standards Act, analyzing Supreme Court rulings on the 'salary basis' test including Auer v. Robbins, addressing constitutional protections against political discrimination in public employment, and establishing legal frameworks for emergency services personnel compensation compliance.",
-  "keywords": [],
-  "topics": [],
+  "description": "The document discusses updates on overtime pay requirements for paramedics and EMTs, emphasizing the impact of Supreme Court rulings on the 'salary basis' test. It also addresses cases involving political discrimination in employment, highlighting constitutional protections under the Fair Labor Standards Act.",
+  "keywords": [
+    "Overtime Pay",
+    "Paramedic",
+    "EMT",
+    "Fair Labor Standards Act (FLSA)",
+    "Supreme Court Ruling",
+    "Salary Basis Test"
+  ],
+  "topics": [
+    "Employment Law",
+    "Emergency Services",
+    "Contract Law",
+    "Public Employment Rights"
+  ],
+  "legal_cases": [
+    "Auer v. Robbins",
+    "U.S. Supreme Court Rulings on Emergency Services Contracts"
+  ],
+  "legal_statutes": [
+    "RCW 48.35.160"
+  ],
+  "categories": [
+    "Employment Law",
+    "Emergency Services",
+    "Contract Law",
+    "Public Employment Rights"
+  ],
+  "tags": [
+    "Overtime Pay",
+    "Paramedic",
+    "EMT",
+    "Fair Labor Standards Act (FLSA)",
+    "Supreme Court Ruling",
+    "Salary Basis Test"
+  ],
   "compressed_content": "",
   "search_text": "overtime pay for emergency services personnel and political discrimination in employment",
+  "search_keywords": "Vol. 1, No. 1 Joseph F. Quin. Overtime pay updates. Paramedic EMT rules. Fair Labor Standards Act. Supreme Court rulings. Salary basis test. Political discrimination employment cases....",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "v01n01apr1997",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "v01n01apr1997.pdf",
   "pdf_url": "/Newsletters/v01n01apr1997.pdf"
 }

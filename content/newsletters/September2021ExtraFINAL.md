@@ -19,7 +19,7 @@ tags:
 legal_statutes:
   - "42 C.F.R. § 447"
 source_pdf: "September2021ExtraFINAL.pdf"
-metadata_quality: medium
+metadata_quality: "medium"
 search_keywords: "October 18, 2021 Executive Order on Mandatory COVID-19 Vaccination for Federal Contractors; September 9, 2021 OMB Guidance on Mandatory COVID-19 Vaccination for Federal Contractors; September 24, 2021..."
 processed_date: 2025-08-22
 layout: newsletter

@@ -32,7 +32,7 @@ legal_statutes:
   - "RCW 43.21C.060"
   - "RCW 52.30.020"
 source_pdf: "November2018FINAL.pdf"
-metadata_quality: medium
+metadata_quality: "medium"
 search_keywords: "Laborhous Volume 16, Number 11. Labor Concepts: Double jeopardy application in labor disputes. Impact Fees, SEPA Mitigation and RCW Fire departments, schools, counties and cities may be entitled to im..."
 processed_date: 2025-08-22
 layout: newsletter

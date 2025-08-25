@@ -1,17 +1,68 @@
 {
   "volume": "21",
   "edition": "6",
-  "title": "Inside This Issue",
+  "title": "Fourth Amendment Community Caretaking and Tax Increment Financing Law Updates",
   "date": "2023-06-01",
   "summary": "This issue examines critical Fourth Amendment developments in community caretaking exceptions following Caniglia v. Strom, analyzes Washington state's tax increment financing law implications for local jurisdictions, covers employment law changes regarding cannabis testing discrimination, provides guidance on used equipment purchases under competitive bid requirements, and explains small works roster contract award procedures for public agencies.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter covers several key legal updates, including the application of Fourth Amendment exceptions to community caretaking, tax increment financing law implications for local jurisdictions, changes in cannabis testing laws affecting employment practices, considerations for used equipment purchases under bid laws, and guidance on awarding contracts under the small works roster process.",
+  "keywords": [
+    "Fourth Amendment",
+    "Community Caretaking",
+    "Tax Increment Financing Law",
+    "Cannabis Testing",
+    "Bid Laws",
+    "Market Conditions",
+    "RCW 39.114.020(5)",
+    "52.14.110"
+  ],
+  "topics": [
+    "Emergency Services",
+    "Contract Law",
+    "Public Policy",
+    "Public Records",
+    "Employment Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "legal_cases": [
+    "Caniglia v. Strom (2021)",
+    "Teulilo (2023)"
+  ],
+  "legal_statutes": [
+    "RCW 39.114.020(5)",
+    "52.14.110"
+  ],
+  "categories": [
+    "Emergency Services",
+    "Contract Law",
+    "Public Policy",
+    "Public Records",
+    "Employment Law",
+    "Budget & Finance",
+    "Training & Compliance",
+    "Litigation"
+  ],
+  "tags": [
+    "Fourth Amendment",
+    "Community Caretaking",
+    "Tax Increment Financing Law",
+    "Cannabis Testing",
+    "Bid Laws",
+    "Market Conditions",
+    "RCW 39.114.020(5)",
+    "52.14.110"
+  ],
   "compressed_content": "",
-  "search_text": "inside this issue",
+  "search_text": "fourth amendment community caretaking and tax increment financing law updates",
+  "search_keywords": "Volume 21, Number 6, firehouselawyer.com, June 2023, Community Caretaking, Fourth Amendment, Tax Increment Financing Law, Cannabis Testing, Bid Laws, Small Works Roster",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "June2023FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "high",
+  "processed_date": "2025-08-22",
+  "source_pdf": "June2023FINAL.pdf",
   "pdf_url": "/Newsletters/June2023FINAL.pdf"
 }

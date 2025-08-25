@@ -11,7 +11,7 @@ legal_cases:
 legal_statutes: 
 summary: September 2017 newsletter covers medical records access authorization requirements under RCW 70.02.200, Initiative 1433 mandatory sick leave law implementation and ballot title language considerations, SAFETY BILL compliance requirements for body armor usage, unemployment benefits protections including Cuesta v. Employment Security Department precedent, and DOSH guidance discrepancies with state statute requirements for fire department safety compliance.
 source_pdf: September2017FINAL.pdf
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: Medical Records Act Initiative 1433 Mandatory Sick Leave Law Ballot Title Language SAFETY BILL Unemployment Benefits Washington State Legal Requirements Employee Termination Medical Records Authorizat...
 processed_date: 2025-08-22
 layout: newsletter

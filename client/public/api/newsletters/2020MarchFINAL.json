@@ -4,14 +4,44 @@
   "title": "COVID-19 FMLA Expansions, Emergency Sick Leave, and IRS Tax Credit Guidance",
   "date": "2020-03-23",
   "summary": "The newsletter discusses key legal developments related to COVID-19, including expanded rights under the Family and Medical Leave Act (FMLA) and new temporary sick leave provisions for employees. It also provides guidance from the IRS on tax credits and relief for small employers impacted by these changes.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses key legal developments related to COVID-19, including expanded rights under the Family and Medical Leave Act (FMLA) and new temporary sick leave provisions for employees. It also provides guidance from the IRS on tax credits and relief for small employers impacted by these changes.",
+  "keywords": [
+    "Family and Medical Leave Act",
+    "Temporary FMLA benefits",
+    "COVID-19 sick leave",
+    "Emergency Sick Leave Act"
+  ],
+  "topics": [
+    "Employment Law",
+    "Public Disposition",
+    "Risk Management"
+  ],
+  "legal_cases": [],
+  "legal_statutes": [
+    "52.26.040-090",
+    "HHS Secretary regulations"
+  ],
+  "categories": [
+    "Employment Law",
+    "Public Disposition",
+    "Risk Management"
+  ],
+  "tags": [
+    "Family and Medical Leave Act",
+    "Temporary FMLA benefits",
+    "COVID-19 sick leave",
+    "Emergency Sick Leave Act"
+  ],
   "compressed_content": "",
   "search_text": "covid-19 fmla expansions, emergency sick leave, and irs tax credit guidance",
+  "search_keywords": "Volume 18, Number 3. Coronavirus response options. Benefit Charge Law Changes. The law expands rights under the Family and Medical Leave Act. Temporary FMLA benefits for employees. Emergency Sick Leav...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "2020MarchFINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "2020MarchFINAL.pdf",
   "pdf_url": "/Newsletters/2020MarchFINAL.pdf"
 }

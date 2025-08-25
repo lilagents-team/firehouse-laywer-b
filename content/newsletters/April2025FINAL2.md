@@ -26,7 +26,7 @@ legal_statutes:
   - "RCW 42.56.120"
   - "RCW 42.56.550(4)"
 source_pdf: "April2025FINAL2.pdf"
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: "Volume 23 Number 4, April 1 2025, Legal Updates and Training for Fire Departments, Public Records Act Chapter 42.56, charging search fees or labor expended conditions, Pilloud v. Employment Security Department"
 processed_date: 2025-08-22
 layout: newsletter

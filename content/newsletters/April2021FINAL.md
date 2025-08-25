@@ -1,5 +1,5 @@
 ---
-title: "Legal Updates on Impact Bargaining and Wildland Fire Response"
+title: "Impact Bargaining Strategies and Wildland Fire Response Legislation"
 date: 2021-04-01
 description: "The newsletter discusses legal strategies for impact bargaining, distinguishing between mandatory and permissive subjects in labor negotiations. It also highlights new legislation including HB 1159, SB 11682, and SB 53384, which address funding for wildland fire response and EMS training."
 volume: 19
@@ -24,7 +24,7 @@ legal_statutes:
   - "SB 11682"
   - "SB 53384"
 source_pdf: "April2021FINAL.pdf"
-metadata_quality: medium
+metadata_quality: "medium"
 search_keywords: "impact bargaining, mandatory subjects, permissive subjects, wildland fire response, legislation, EMS training, fire districts, budget, labor relations..."
 summary: "The newsletter discusses legal strategies for impact bargaining, distinguishing between mandatory and permissive subjects in labor negotiations. It also highlights new legislation including HB 1159, SB 11682, and SB 53384, which address funding for wildland fire response and EMS training."
 processed_date: 2025-08-22

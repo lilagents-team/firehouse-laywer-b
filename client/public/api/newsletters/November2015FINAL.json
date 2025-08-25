@@ -4,14 +4,48 @@
   "title": "The Public Duty Doctrine and Marijuana",
   "date": "2015-11-01",
   "summary": "This issue explores the legal implications of marijuana use in fire departments under the public duty doctrine, focusing on whether individual firefighters can be held liable for impaired driving. Additionally, it discusses shift trade policies and their impact on overtime calculations under the Fair Labor Standards Act (FLSA).",
-  "keywords": [],
-  "topics": [],
+  "description": "This issue explores the legal implications of marijuana use in fire departments under the public duty doctrine, focusing on whether individual firefighters can be held liable for impaired driving. Additionally, it discusses shift trade policies and their impact on overtime calculations under the Fair Labor Standards Act (FLSA).",
+  "keywords": [
+    "Public Duty Doctrine",
+    "Failure to Enforce",
+    "FLSA",
+    "Shift Trade",
+    "Senger v. City of Aberdeen, South Dakota",
+    "RCW 49.17.060"
+  ],
+  "topics": [
+    "Employment Law",
+    "Litigation"
+  ],
+  "legal_cases": [
+    "Senger v. City of Aberdeen, South Dakota"
+  ],
+  "legal_statutes": [
+    "RCW 49.17.060",
+    "52.33.040"
+  ],
+  "categories": [
+    "Employment Law",
+    "Litigation"
+  ],
+  "tags": [
+    "Public Duty Doctrine",
+    "Failure to Enforce",
+    "FLSA",
+    "Shift Trade",
+    "Senger v. City of Aberdeen, South Dakota",
+    "RCW 49.17.060"
+  ],
   "compressed_content": "",
   "search_text": "the public duty doctrine and marijuana",
+  "search_keywords": "The Public Duty Doctrine and Marijuana, Volume 13, Number Eleven, public tort liability, duty of care, firefighter impaired driving, shift trade policies, FLSA overtime calculations",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "November2015FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "November2015FINAL.pdf",
   "pdf_url": "/Newsletters/November2015FINAL.pdf"
 }

@@ -26,7 +26,7 @@ legal_statutes:
   - "RCW 52.18.060"
   - "RCW 52.18.070"
 source_pdf: "August2020FINAL.pdf"
-metadata_quality: medium
+metadata_quality: "medium"
 search_keywords: "The document discusses Initiative 1000 being struck down by the people, the upheld I-200 law regarding hiring policies and protected classes, and explores affirmative action in employment. It also del..."
 summary: "The document discusses the legal implications of Initiative 1000 being struck down by the people, the upheld I-200 law regarding hiring policies and protected classes, and explores affirmative action in employment. It also delves into the use of benefit charges (BC) for fire districts, including their calculation, application, and legal considerations."
 processed_date: 2025-08-22

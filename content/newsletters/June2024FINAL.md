@@ -30,7 +30,7 @@ legal_statutes:
   - "RCW 44.05"
   - "RCW 29A.76"
 source_pdf: "June2024FINAL.pdf"
-metadata_quality: high
+metadata_quality: "high"
 search_keywords: "Volume 22, Number 6 Firehouse Lawyer newsletter covers legal updates including SCOTUS Title VII decision, Chaudry case on nuisance, districting regulations, and public duty in EMS...."
 summary: "The newsletter covers key legal developments including a significant Supreme Court decision on Title VII discrimination cases, a case involving private nuisance and negligence, districting regulations in fire protection services, and the ongoing application of public duty doctrine in emergency medical services."
 processed_date: 2025-08-22

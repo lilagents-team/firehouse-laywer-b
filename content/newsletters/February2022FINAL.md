@@ -27,7 +27,7 @@ legal_statutes:
   - "HB 1826"
   - "SSB 5649"
 source_pdf: "February2022FINAL.pdf"
-metadata_quality: medium
+metadata_quality: "medium"
 search_keywords: "Volume 20, Number 2, ESHB 1329, SHB 1727, SHB 1735, HB 1826, SSB 5649, public participation, elections, fire districts, police reform, emergency responders, family medical leave..."
 processed_date: 2025-08-22
 layout: newsletter

@@ -10,7 +10,7 @@ tags:
 legal_statutes: 
 summary: March 2025 newsletter covers employment law issues including disability discrimination claims and documentation requirements, examines garnishment laws affecting public sector employees under RCW 6.27.040 and RCW 6.27.060, discusses new nondiscrimination statutes for public contracts under RCW 49.60.530 affecting union representation, and provides guidance on fire district formation through resolutions and ex officio member appointment under RCW 52.20.160.
 source_pdf: March2025FINAL (2).pdf
-metadata_quality: high
+metadata_quality: "medium"
 search_keywords: Volume 23, Number 3
 processed_date: 2025-08-22
 layout: newsletter

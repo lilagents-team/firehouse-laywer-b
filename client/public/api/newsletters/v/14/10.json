@@ -4,14 +4,53 @@
   "title": "Legal Updates on Public Departments, Firehouse Law, and Public Records Act Cases",
   "date": "2016-10-31",
   "summary": "The newsletter discusses key legal updates related to public departments and the Public Records Act (PRA). It includes cases such as Cedar Grove v. City of Marysville, which examined the functional equivalency of public agencies and attorney-client privilege. The document also highlights the implications of the PRA on public records requests and the importance of understanding attorney-client privilege in preventing record withholding.",
-  "keywords": [],
-  "topics": [],
+  "description": "The newsletter discusses key legal updates related to public departments and the Public Records Act (PRA). It includes cases such as Cedar Grove v. City of Marysville, which examined the functional equivalency of public agencies and attorney-client privilege. The document also highlights the implications of the PRA on public records requests and the importance of understanding attorney-client privilege in preventing record withholding.",
+  "keywords": [
+    "Public Records Act (42.56)",
+    "Attorney-Client Privilege",
+    "Functional Equivalency",
+    "Public Agency",
+    "Telford v. Thurston County Board of Commissioners",
+    "Cedar Grove v. City of Marysville"
+  ],
+  "topics": [
+    "Public Records",
+    "Employment Law",
+    "Open Government"
+  ],
+  "legal_cases": [
+    "Telford v. Thurston County Board of Commissioners (95 Wn.App. 149)",
+    "Cedar Grove v. City of Marysville (188 Wn.App. 695)",
+    "Newman v. Highland School District No. 5 (2016)"
+  ],
+  "legal_statutes": [
+    "RCW 42.56",
+    "RCW 42.56.070",
+    "RCW 42.56.290"
+  ],
+  "categories": [
+    "Public Records",
+    "Employment Law",
+    "Open Government"
+  ],
+  "tags": [
+    "Public Records Act (42.56)",
+    "Attorney-Client Privilege",
+    "Functional Equivalency",
+    "Public Agency",
+    "Telford v. Thurston County Board of Commissioners",
+    "Cedar Grove v. City of Marysville"
+  ],
   "compressed_content": "",
   "search_text": "legal updates on public departments, firehouse law, and public records act cases",
+  "search_keywords": "Public Records Act (42.56) Cedar Grove v. City of Marysville Functional Equivalency Telford v. Thurston County Board of Commissioners attorney-client privilege Open Government Public Records PRA 95 Wn...",
   "corruption_detected": false,
   "corruption_notes": "",
   "original_filename": null,
   "slug": "October2016FINAL",
   "file_size_kb": 0,
+  "metadata_quality": "medium",
+  "processed_date": "2025-08-22",
+  "source_pdf": "October2016FINAL.pdf",
   "pdf_url": "/Newsletters/October2016FINAL.pdf"
 }
