@@ -1,7 +1,8 @@
 ---
-title: "Firehouse Lawyer - July 2022"
+title: "Public Procurement Bid Law Exceptions: Sole Source, Emergency Purchases, and Market Conditions"
 date: 2022-07-01
 description: "The newsletter discusses new bid law columns and exceptions, including a Municipal Roundtable on September 30, 2022. Key topics include the Sole Source exception under RCW 39.04.280(1)(a), Emergency purchases, and Market Conditions exemptions."
+summary: "The newsletter discusses new bid law columns and exceptions, including a Municipal Roundtable on September 30, 2022. Key topics include the Sole Source exception under RCW 39.04.280(1)(a), Emergency purchases, and Market Conditions exemptions."
 volume: 20
 edition: 7
 issue: 7
@@ -22,15 +23,7 @@ legal_statutes:
   - "RCW 39.04.280(1)(b)"
 source_pdf: "July2022FINAL.pdf"
 metadata_quality: high
-search_keywords: "Volume 20, Number 7
-Fireho July 2022
-New Bid Law Column
-Municipal Roundtable,
-Sole Source Purchases
-RCW 39.04.280(1)(a),
-Market Conditions exemption
-Special Facilities or Market Conditions,
-Fireho Jul..."
+search_keywords: "Volume 20, Number 7, Firehouse Lawyer July 2022, New Bid Law Column, Municipal Roundtable, Sole Source Purchases, RCW 39.04.280(1)(a), Market Conditions exemption, Special Facilities"
 processed_date: 2025-08-22
 layout: newsletter
 ---

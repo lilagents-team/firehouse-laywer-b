@@ -1,7 +1,8 @@
 ---
-title: "Volume 14, Number Two"
-date: None
+title: "Local Improvement Districts, Special Assessments, and Justice Scalia's Legal Legacy"
+date: 2016-02-01
 description: "The newsletter discusses the formation and funding of local improvement districts (LIDs) in fire departments. It explains how LIDs can be used to fund local improvements through special assessments, emphasizing legal principles such as proportionality and fairness. The document also highlights a landmark case involving the death of Justice Antonin Scalia."
+summary: "Local improvement districts formation, funding through special assessments, proportionality principles, and Scalia case analysis."
 volume: 14
 edition: 2
 issue: 2

@@ -1,5 +1,5 @@
 ---
-title: "Volume 13, Number 5"
+title: "Intrastate Building Safety Mutual Aid Act, Government Gift Laws, and Public Records Requirements"
 date: 2015-06-01
 description: "The newsletter discusses the Intrastate Building Safety Mutual Aid Act (IBSMA) aimed at improving fire department reimbursement; addresses the legality of gifts to local government officials under Washington law; explores public records requirements for call logs and backup files; outlines policies for peer support group counselors; and introduces Senate Bill 5348 on joint purchasing."
 volume: 13
@@ -28,6 +28,7 @@ legal_statutes:
 source_pdf: "June_2015_FINAL.pdf"
 metadata_quality: high
 search_keywords: "Fireho Volume 13, Number 5; June 2015; Intrastate Building Safety Mutual Aid System: RCW 24.60.020; Gifts Made to Local Government Officials Under Washington Law; Public Records: Call Logs May Be Publ..."
+summary: "The newsletter discusses the Intrastate Building Safety Mutual Aid Act (IBSMA) aimed at improving fire department reimbursement; addresses the legality of gifts to local government officials under Washington law; explores public records requirements for call logs and backup files; outlines policies for peer support group counselors; and introduces Senate Bill 5348 on joint purchasing."
 processed_date: 2025-08-22
 layout: newsletter
 ---

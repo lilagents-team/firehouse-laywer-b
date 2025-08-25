@@ -1,32 +1,22 @@
 ---
-title: "Legal Updates for Fire Departments"
+title: HIPAA Compliance and Public Records Updates - October 2021
 date: 2021-10-01
-description: "The newsletter discusses HIPAA guidance on COVID-19 vaccination privacy, the application of Loudermill legal principles to terminations without cause related to vaccine refusal, and a court ruling establishing Thurston County as the proper venue for challenges to a state-mandated vaccination proclamation."
+description: The newsletter discusses HIPAA guidance on COVID-19 vaccination privacy, the application of Loudermill legal principles to terminations without cause related to vaccine refusal, and a court ruling establishing Thurston County as the proper venue for challenges to a state-mandated vaccination proclamation.
 volume: 19
 edition: 10
 issue: 10
-categories:
-  - "Employment Law"
-  - "Public Health"
-  - "Privacy Rights"
-  - "Legal Procedures"
-tags:
-  - "HIPAA"
-  - "LOUDERMILL"
-  - "Proclamation 21-14"
-  - "Thurston County"
-  - "Reasonable Accommodation"
-legal_cases:
-  - "Kistner v. Jefferson School District"
-  - "Prairie Home Improvement, P.S. v. Firehouse Lawyer"
-legal_statutes:
-  - "RCW 42.56.230"
-source_pdf: "October2021FINAL.pdf"
+categories: 
+tags: 
+legal_cases: 
+legal_statutes: 
+summary: October 2021 newsletter provides HIPAA guidance on COVID-19 vaccination privacy requirements under RCW 42.56.230 for PHI disclosure exemptions, analyzes Loudermill legal principles application to vaccine refusal terminations including Kistner v. Jefferson School District precedent, examines court ruling establishing Thurston County as proper venue for challenging state-mandated vaccination Proclamation 21-14, and offers comprehensive guidance on employment law compliance during pandemic health requirements.
+source_pdf: October2021FINAL.pdf
 metadata_quality: high
-search_keywords: "Volume 19, Number 10 October 2021 The Firehouse Lawyer Newsletter Legal Updates for Fire Departments 1 HIPAA Privacy Rules and COVID 19 Vaccination 2 Loudermill Principles and Termination Decisions 3 ..."
+search_keywords: Volume 19, Number 10 October 2021 The Firehouse Lawyer Newsletter Legal Updates for Fire Departments 1 HIPAA Privacy Rules and COVID 19 Vaccination 2 Loudermill Principles and Termination Decisions 3 ...
 processed_date: 2025-08-22
 layout: newsletter
 ---
+
 
 # Legal Updates for Fire Departments
 

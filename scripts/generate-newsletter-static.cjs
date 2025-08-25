@@ -98,26 +98,83 @@ async function generateStaticNewsletters() {
       console.warn('⚠️  Could not read PDF directory');
     }
     
-    // Read all JSON files
-    const jsonFiles = (await fs.readdir(dataDir)).filter(file => file.endsWith('.json'));
-    console.log(`📄 Processing ${jsonFiles.length} newsletter files...`);
+    // Read all markdown files from newsletters directory
+    const newslettersDir = path.join(process.cwd(), 'content/newsletters');
+    const markdownFiles = (await fs.readdir(newslettersDir)).filter(file => file.endsWith('.md'));
+    console.log(`📄 Processing ${markdownFiles.length} newsletter files...`);
     
     const newsletters = [];
     
-    for (const file of jsonFiles) {
+    for (const file of markdownFiles) {
       try {
-        const filePath = path.join(dataDir, file);
-        let content = await fs.readFile(filePath, 'utf-8');
+        const filePath = path.join(newslettersDir, file);
+        const content = await fs.readFile(filePath, 'utf-8');
         
-        // Handle JSON wrapped in markdown code blocks
-        if (content.startsWith('```json')) {
-          const jsonMatch = content.match(/```json\n([\s\S]*?)\n```/);
-          if (jsonMatch) {
-            content = jsonMatch[1];
+        // Parse YAML frontmatter
+        const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/);
+        if (!frontmatterMatch) {
+          console.warn(`⚠️  No frontmatter found in ${file}`);
+          continue;
+        }
+        
+        // Simple YAML parser for our frontmatter
+        const yamlContent = frontmatterMatch[1];
+        const newsletter = {};
+        
+        // Parse YAML lines
+        const lines = yamlContent.split('\n');
+        let currentKey = null;
+        let currentValue = '';
+        let inArray = false;
+        let arrayItems = [];
+        
+        for (const line of lines) {
+          const trimmedLine = line.trim();
+          if (!trimmedLine || trimmedLine.startsWith('#')) continue;
+          
+          if (trimmedLine.startsWith('- ')) {
+            // Array item
+            if (inArray) {
+              const item = trimmedLine.slice(2).replace(/^["']|["']$/g, '');
+              arrayItems.push(item);
+            }
+          } else if (trimmedLine.includes(':')) {
+            // Save previous key/value
+            if (currentKey) {
+              if (inArray) {
+                newsletter[currentKey] = arrayItems;
+                arrayItems = [];
+                inArray = false;
+              } else {
+                newsletter[currentKey] = currentValue.replace(/^["']|["']$/g, '');
+              }
+            }
+            
+            // Parse new key/value
+            const [key, ...valueParts] = trimmedLine.split(':');
+            currentKey = key.trim();
+            const value = valueParts.join(':').trim();
+            
+            if (value === '' || value === '[]') {
+              // Start of array or empty value
+              inArray = true;
+              arrayItems = [];
+              currentValue = '';
+            } else {
+              currentValue = value;
+              inArray = false;
+            }
           }
         }
         
-        const newsletter = JSON.parse(content);
+        // Save final key/value
+        if (currentKey) {
+          if (inArray) {
+            newsletter[currentKey] = arrayItems;
+          } else {
+            newsletter[currentKey] = currentValue.replace(/^["']|["']$/g, '');
+          }
+        }
         
         // Check for data quality issues
         let dataCorruption = newsletter.corruption_detected || false;

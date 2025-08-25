@@ -1,13 +1,14 @@
 ---
-title: "Censure of Elected Official and related legal updates"
-date: None
+title: "Supreme Court Affirms Elected Official Censure Authority in Wilson v. Board of Commissioners"
+date: 2022-06-30
 description: "The document discusses a Supreme Court decision affirming the authority of elected officials to censure each other for misconduct, focusing on a case involving an elected official who was censured by his peers. The newsletter also covers internal disciplinary actions taken by a fire department following a dissident commissioner's opposition to board decisions."
+summary: "The document discusses a Supreme Court decision affirming the authority of elected officials to censure each other for misconduct, focusing on a case involving an elected official who was censured by his peers. The newsletter also covers internal disciplinary actions taken by a fire department following a dissident commissioner's opposition to board decisions."
 volume: 20
 edition: 6
 issue: 6
 categories:
   - "Employment Law"
-  - "Public Dis closure Law"
+  - "Public Disclosure Law"
   - "Emergency Services"
   - "Contract Law"
   - "Budget & Finance"
@@ -25,10 +26,7 @@ legal_statutes:
   - "RCW 74.135: Open Records Act"
 source_pdf: "June2022FINAL.pdf"
 metadata_quality: high
-search_keywords: "Volume 20, Number 6
-Be sure to visit firehouselawyer.com\n Eric T. Quinn, Editor
-Joseph F. Quinn, Staff Writer
-The law firm of Quinn and Quinn, P.S. is legal counsel to more than 40 Fire Departments i..."
+search_keywords: "Volume 20 Number 6, firehouselawyer.com, Eric T. Quinn Editor, Joseph F. Quinn, Quinn and Quinn P.S., Wilson v. Board of Commissioners, Supreme Court censure authority"
 processed_date: 2025-08-22
 layout: newsletter
 ---

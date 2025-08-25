@@ -1,9 +1,10 @@
 ---
-title: "Volume 22, Number 4E"
-date: None
+title: "Correction Notice: Prevailing Wage Laws for Fire Department Employees"
+date: 2024-04-15
 description: "The newsletter contains a correction notice regarding prevailing wage laws and information about upcoming training opportunities. It also provides details on how to attend a Municipal Roundtable and a seminar sponsored by the Pierce County Fire Commissioners Association."
+summary: "The newsletter contains a correction notice regarding prevailing wage laws and information about upcoming training opportunities. It also provides details on how to attend a Municipal Roundtable and a seminar sponsored by the Pierce County Fire Commissioners Association."
 volume: 22
-edition: 4E
+edition: 4
 issue: 4E
 categories:
   - "Public Records"
@@ -22,7 +23,7 @@ processed_date: 2025-08-22
 layout: newsletter
 ---
 
-# Volume 22, Number 4E
+# Correction Notice: Prevailing Wage Laws for Fire Department Employees
 
 *Volume 22, Issue 4E*
 

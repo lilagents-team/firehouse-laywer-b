@@ -2,6 +2,7 @@
 title: "Legal Updates on Public Departments, Firehouse Law, and Public Records Act Cases"
 date: 2016-10-31
 description: "The newsletter discusses key legal updates related to public departments and the Public Records Act (PRA). It includes cases such as Cedar Grove v. City of Marysville, which examined the functional equivalency of public agencies and attorney-client privilege. The document also highlights the implications of the PRA on public records requests and the importance of understanding attorney-client privilege in preventing record withholding."
+summary: "The newsletter discusses key legal updates related to public departments and the Public Records Act (PRA). It includes cases such as Cedar Grove v. City of Marysville, which examined the functional equivalency of public agencies and attorney-client privilege. The document also highlights the implications of the PRA on public records requests and the importance of understanding attorney-client privilege in preventing record withholding."
 volume: 14
 edition: 10
 issue: 10

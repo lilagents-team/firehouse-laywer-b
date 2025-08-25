@@ -1,7 +1,8 @@
 ---
-title: "Volume 16, Number Five"
+title: "Municipal Roundtables, Veterans' Preference Employment Laws, and Safety Bill Compliance"
 date: 2018-05-01
 description: "The newsletter covers upcoming municipal roundtables, updates on veterans' preference laws, and a new safety bill. It also discusses various legal topics including employment law, military leave regulations, and emergency service compliance."
+summary: "The newsletter covers upcoming municipal roundtables, updates on veterans' preference laws, and a new safety bill. It also discusses various legal topics including employment law, military leave regulations, and emergency service compliance."
 volume: 16
 edition: 5
 issue: 5

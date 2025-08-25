@@ -1,5 +1,5 @@
 ---
-title: "The Firehouse Lawyer"
+title: "Fire Department Budget Increases and First Amendment Digital Footprint Analysis"
 date: 2024-01-01
 description: "The newsletter covers key legal updates including budget increases for fire departments, tax increment financing implications, First Amendment case analysis, public agency responsibilities, and updates on minimum wage laws and labor law changes."
 volume: 22
@@ -33,11 +33,12 @@ legal_statutes:
 source_pdf: "January2024FINAL (2).pdf"
 metadata_quality: high
 search_keywords: "Budget increases, tax increment financing, First Amendment case analysis, public agency responsibilities, minimum wage hike, Lindke v. Freed case, Sound Transit v. LMRK PROPCO 3 LLC (Case: 85120-9-1),..."
+summary: "The newsletter covers key legal updates including budget increases for fire departments, tax increment financing implications, First Amendment case analysis, public agency responsibilities, and updates on minimum wage laws and labor law changes."
 processed_date: 2025-08-22
 layout: newsletter
 ---
 
-# The Firehouse Lawyer
+# Fire Department Budget Increases and First Amendment Digital Footprint Analysis
 
 *Volume 22, Issue 1*
 

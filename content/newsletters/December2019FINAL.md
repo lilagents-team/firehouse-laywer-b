@@ -1,7 +1,8 @@
 ---
-title: "Firehouse Lawyer December 2019"
+title: "Employment Law Cases, Public Records Act Updates, and Emergency Services Regulations"
 date: 2019-12-31
 description: "The newsletter covers key legal updates including employment law cases, public records act changes, emergency services regulations, and public duty doctrine developments."
+summary: "Legal updates covering employment law, Public Records Act changes, emergency services regulations, and public duty doctrine."
 volume: 17
 edition: 12
 issue: 12

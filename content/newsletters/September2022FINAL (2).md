@@ -1,7 +1,8 @@
 ---
-title: "The Firehou"
-date: None
+title: "Growth Management Act Updates and Responsible Bidding Changes"
+date: 2022-09-01
 description: "The newsletter discusses updates to the Growth Management Act (GMA) affecting fire departments, changes to the Responsible Bidding law impacting public agencies' ability to protest contracts, and considerations for fire departments in assessing RP developments under LAMIRDs."
+summary: "The newsletter discusses updates to the Growth Management Act (GMA) affecting fire departments, changes to the Responsible Bidding law impacting public agencies' ability to protest contracts, and considerations for fire departments in assessing RP developments under LAMIRDs."
 volume: 20
 edition: 9
 issue: 9
@@ -25,8 +26,7 @@ legal_statutes:
   - "RCW 39.04.350"
 source_pdf: "September2022FINAL (2).pdf"
 metadata_quality: high
-search_keywords: "Firehousel Lawyer September 2022 Volume 20 Number 9. Be sure to visit firehouselawyer.com to get a glimpse of our various practice areas pertaining to public agencies... Eric T. Quinn, Editor
-Joseph F..."
+search_keywords: "Firehouse Lawyer September 2022 Volume 20 Number 9, firehouselawyer.com, Growth Management Act, Responsible Bidding, Eric T. Quinn Editor, Joseph F. Quinn"
 processed_date: 2025-08-22
 layout: newsletter
 ---

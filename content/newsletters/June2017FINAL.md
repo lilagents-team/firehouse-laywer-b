@@ -1,5 +1,5 @@
 ---
-title: "Legal Updates and Newsletter Themes"
+title: "PRA Five-Day Letter Requirements, Circuit Riding Implementation, and Retainage Payment Procedures"
 date: 2017-06-01
 description: "The newsletter discusses expanding office locations, implementing circuit riding for public records requests, correcting a legal requirement regarding five-day letters, exploring municipal roundtable funding sources, and detailing the procedure for retainage payments."
 volume: 15
@@ -21,11 +21,12 @@ legal_statutes:
 source_pdf: "June2017FINAL.pdf"
 metadata_quality: high
 search_keywords: "Fireho Volume 15 Number Six, Public Records Act, five-day letter, PRA Case Rufin v. City of Seattle, Circuit Riding Implementation, Municipal Roundtable Funding Sources, Retainage Payment Procedure..."
+summary: "The newsletter discusses expanding office locations, implementing circuit riding for public records requests, correcting a legal requirement regarding five-day letters, exploring municipal roundtable funding sources, and detailing the procedure for retainage payments."
 processed_date: 2025-08-22
 layout: newsletter
 ---
 
-# Legal Updates and Newsletter Themes
+# PRA Five-Day Letter Requirements, Circuit Riding Implementation, and Retainage Payment Procedures
 
 *Volume 15, Issue 6*
 

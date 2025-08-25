@@ -1,7 +1,10 @@
 ---
-title: "Firehouselawyer.com Legal News"
+title: "Ordinary Maintenance Law Changes, HIPAA Breach Notifications, and MTCA Cleanup Cost Recovery"
 date: 2019-08-23
 description: "The newsletter discusses several key legal updates, including changes to the definition of 'ordinary maintenance' under Washington State law, requirements for HIPAA breach notifications, application of the Model Toxic Control Act (MTCA) for public agencies, and an exception to the professional rescuer doctrine in a case involving firefighters."
+volume: 17
+edition: 8
+summary: "The newsletter discusses several key legal updates, including changes to the definition of 'ordinary maintenance' under Washington State law, requirements for HIPAA breach notifications, application of the Model Toxic Control Act (MTCA) for public agencies, and an exception to the professional rescuer doctrine in a case involving firefighters."
 categories:
   - "Legal Professional Liability"
   - "Public Records Act"

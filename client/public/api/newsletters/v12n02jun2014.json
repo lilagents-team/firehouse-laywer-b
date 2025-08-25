@@ -1,25 +1,17 @@
 {
-  "volume": 12,
-  "edition": 2,
+  "volume": "12",
+  "edition": "2",
   "title": "Open Government Trainings Act Requirements",
   "date": "2014-06-01",
-  "summary": "Training requirements for elected officials under the new Open Government Trainings Act.",
-  "keywords": [
-    "Open Government Trainings Act",
-    "OPMA",
-    "training",
-    "elected officials"
-  ],
-  "topics": [
-    "Open Government",
-    "Training Requirements"
-  ],
-  "compressed_content": "The new Open Government Trainings Act requires elected officials to complete training on the Public Records Act and Open Public Meetings Act.",
-  "search_text": "open government trainings act opma training elected officials public records",
+  "summary": "June 2014 newsletter examines Open Government Trainings Act requirements for elected officials including fire district commissioners, discusses OPMA training obligations and compliance standards, analyzes training certification requirements for public agencies, provides guidance on open government law education for newly elected and continuing officials, and offers recommendations for establishing comprehensive training programs to ensure open government compliance in fire districts and other public entities.",
+  "keywords": [],
+  "topics": [],
+  "compressed_content": "",
+  "search_text": "open government trainings act requirements",
   "corruption_detected": false,
   "corruption_notes": "",
-  "original_filename": "v12n02jun2014.pdf",
+  "original_filename": null,
   "slug": "v12n02jun2014",
-  "file_size_kb": 52,
+  "file_size_kb": 0,
   "pdf_url": "/Newsletters/v12n02jun2014.pdf"
 }

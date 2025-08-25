@@ -1,6 +1,6 @@
 ---
-title: "Analysis of Legal Updates"
-date: 2024-06
+title: "Supreme Court Title VII Discrimination Ruling, Chaudry Nuisance Case, and Public Duty Doctrine in EMS"
+date: 2024-06-01
 description: "The newsletter covers key legal developments including a significant Supreme Court decision on Title VII discrimination cases, a case involving private nuisance and negligence, districting regulations in fire protection services, and the ongoing application of public duty doctrine in emergency medical services."
 volume: 22
 edition: 6
@@ -32,6 +32,7 @@ legal_statutes:
 source_pdf: "June2024FINAL.pdf"
 metadata_quality: high
 search_keywords: "Volume 22, Number 6 Firehouse Lawyer newsletter covers legal updates including SCOTUS Title VII decision, Chaudry case on nuisance, districting regulations, and public duty in EMS...."
+summary: "The newsletter covers key legal developments including a significant Supreme Court decision on Title VII discrimination cases, a case involving private nuisance and negligence, districting regulations in fire protection services, and the ongoing application of public duty doctrine in emergency medical services."
 processed_date: 2025-08-22
 layout: newsletter
 ---

@@ -2,7 +2,9 @@
 title: "Open Public Meetings Act and Emergency Management Act Updates"
 date: 2020-05-01
 description: "The newsletter discusses updates to the Open Public Meetings Act (OPMA) and Emergency Management Act (EMA), focusing on temporary restrictions on in-person meetings and public participation during the COVID-19 pandemic. It also provides guidance for fire departments on resuming operations under Phase Three of the state's re-opening plan."
+summary: "The newsletter discusses updates to the Open Public Meetings Act (OPMA) and Emergency Management Act (EMA), focusing on temporary restrictions on in-person meetings and public participation during the COVID-19 pandemic. It also provides guidance for fire departments on resuming operations under Phase Three of the state's re-opening plan."
 volume: 18
+edition: 5
 categories:
   - "Public Records"
 tags:

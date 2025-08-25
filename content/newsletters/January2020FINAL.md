@@ -24,6 +24,7 @@ legal_cases:
 legal_statutes:
   - "RCW 7.56.002"
   - "RCW 59.13.002"
+summary: "January 2020 newsletter examines Quo Warranto proceedings under RCW 7.56.002 ruling that public officials cannot oust administrative authorities without proper standing, analyzes separation of duties between governing board and Fire Chief including Kilduff v. Quinncoll and Shoreline Community College v. City of Tacoma precedents, recommends governing boards handle PRA matters while Fire Chiefs focus on administrative duties, and provides guidance on PERC deferrals in labor disputes under RCW 59.13.002."
 source_pdf: "January2020FINAL.pdf"
 metadata_quality: high
 search_keywords: "Date: January 20, 2020 Open Puzzles - What’s That?, The Board and the Fire Chief: Who’s Responsible for What? (Part 1) Quo Warranto – What’s That?, The Board and the Fire Chief: Who’s Responsible for ..."

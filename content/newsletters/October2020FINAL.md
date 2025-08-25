@@ -1,7 +1,8 @@
 ---
-title: "Legal Updates from Volume 18, Number 10"
+title: "Home-School Fire Protection Charges, Single Subject Rule, and Pandemic Order Recall Cases"
 date: 2020-10-01
 description: "The newsletter covers multiple legal updates, including a case on home-schooled children's charges, a constitutional case on the single subject rule in Washington State, a defamation case with implications for public officials, and a recall case involving pandemic-related orders."
+summary: "The newsletter covers multiple legal updates, including a case on home-schooled children's charges, a constitutional case on the single subject rule in Washington State, a defamation case with implications for public officials, and a recall case involving pandemic-related orders."
 volume: 18
 edition: 10
 issue: 10

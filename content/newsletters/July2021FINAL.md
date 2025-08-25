@@ -1,8 +1,11 @@
 ---
-title: "Firehouse Lawyer Newsletter Volume 19, Number 7 - Power and Security"
+title: "Police Power Limitations and Public Duty Doctrine for EMS and Fire Departments"
 date: 2021-10-12
 description: "The article discusses the limitations of police power under Washington State statutory provisions such as RCW 36.28.010 and how these limitations affect EMS and fire departments. It emphasizes that while police have broad powers, fire and EMS departments are responsible for different functions based on statute. The public duty doctrine applies to police but not necessarily to EMS or firefighters."
 volume: 19
+edition: 7
+issue: 7
+summary: "The article discusses the limitations of police power under Washington State statutory provisions such as RCW 36.28.010 and how these limitations affect EMS and fire departments. It emphasizes that while police have broad powers, fire and EMS departments are responsible for different functions based on statute. The public duty doctrine applies to police but not necessarily to EMS or firefighters."
 categories:
   - "EMS/Firefighters' Policy"
   - "Public Duty/Liability"
@@ -20,11 +23,7 @@ legal_statutes:
   - "RCW 46.61.035"
 source_pdf: "July2021FINAL.pdf"
 metadata_quality: high
-search_keywords: "Firehouse Lawyer Newsletter Volume 19, Number 7 - Power and Security
-
-Beltran-Serrano v. City of Seattle, 193 S. W. C. 62 (2019)
-Mancenico v. City of Federal Way, 84 W. W. C. 153-157 (2018)
-RCW 36.28...."
+search_keywords: "Firehouse Lawyer Newsletter Volume 19, Number 7, Power and Security, police power limitations, public duty doctrine, EMS fire departments, Beltran-Serrano v. City of Seattle, Mancenico v. City of Federal Way, RCW 36.28.010"
 processed_date: 2025-08-22
 layout: newsletter
 ---

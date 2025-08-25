@@ -1,7 +1,8 @@
 ---
 title: "Bills of Interest"
-date: None
+date: 2022-02-28
 description: "The newsletter highlights several bills affecting fire departments, including updates on public participation in meetings (ESHB 1329), election timing for fire districts (SHB 1727), police reform measures (SHB 1735), emergency responder interference laws (HB 1826), and modifications to family medical leave policies (SSB 5649)."
+summary: "The newsletter highlights several bills affecting fire departments, including updates on public participation in meetings (ESHB 1329), election timing for fire districts (SHB 1727), police reform measures (SHB 1735), emergency responder interference laws (HB 1826), and modifications to family medical leave policies (SSB 5649)."
 volume: 20
 edition: 2
 issue: 2

@@ -2,6 +2,7 @@
 title: "Case Note: Public Records Act (PRA) Nutrition Disclosure"
 date: 2016-04-01
 description: "The newsletter discusses two key legal cases. The first case, Case Note: Public Records Act (PRA) Nutrition Disclosure, examines penalties for violating the Public Records Act, emphasizing that penalties are per-person basis rather than a flat rate. The second case, Case Note: DRS Gets Benefits Questioned in Kitap County v. Kitsap County Correctional Operations, discusses the interpretation of layoff decisions under the Public Employee Collective Bargaining Act (PERC). The newsletter also provides updates on budgetary costs for medical records and guidance for agencies on public records disclosure."
+summary: "The newsletter discusses two key legal cases. The first case, Case Note: Public Records Act (PRA) Nutrition Disclosure, examines penalties for violating the Public Records Act, emphasizing that penalties are per-person basis rather than a flat rate. The second case, Case Note: DRS Gets Benefits Questioned in Kitap County v. Kitsap County Correctional Operations, discusses the interpretation of layoff decisions under the Public Employee Collective Bargaining Act (PERC). The newsletter also provides updates on budgetary costs for medical records and guidance for agencies on public records disclosure."
 volume: 14
 edition: 4
 issue: 4
@@ -22,12 +23,7 @@ legal_statutes:
   - "RCW 42.56.030"
 source_pdf: "April2016FINAL.pdf"
 metadata_quality: high
-search_keywords: "Fireho
-Volume 14, Number Four
-Be sure to visit firehouselawyer.com to get a glimpse
-of our various practice areas pertaining to fire
- departments, which include law enforcement,
-public disclosure law,..."
+search_keywords: "Firehouse Lawyer Volume 14 Number Four, Public Records Act PRA Nutrition Disclosure, firehouselawyer.com, law enforcement, public disclosure law, Kitsap County"
 processed_date: 2025-08-22
 layout: newsletter
 ---

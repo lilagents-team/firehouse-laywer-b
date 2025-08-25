@@ -1,7 +1,8 @@
 ---
 title: "Laborhous"
-date: None
+date: 2018-11-30
 description: "The newsletter explores key legal topics such as double jeopardy in labor disputes, impact fees and SEPA mitigation requirements, a safety bill emphasizing PPE training records, and restrictions on indefinite disability leave under ADA."
+summary: "The newsletter explores key legal topics such as double jeopardy in labor disputes, impact fees and SEPA mitigation requirements, a safety bill emphasizing PPE training records, and restrictions on indefinite disability leave under ADA."
 volume: 16
 edition: 11
 issue: 11

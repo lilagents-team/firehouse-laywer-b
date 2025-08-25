@@ -2,6 +2,7 @@
 title: "Proposed Legislation in Washington State Public Agencies and Health Care Services"
 date: 2020-02-01
 description: "The newsletter discusses proposed legislation affecting public agencies, including the potential impact on employee privacy under the Public Records Act (PRA) and the Janus v. AFSLGE case. It also covers a bill proposing health clinics for fire districts and updates on volunteer firefighter pensions."
+summary: "Proposed legislation affecting public agencies, employee privacy under PRA, health clinics for fire districts, and volunteer firefighter pensions."
 volume: 18
 edition: 2
 issue: 2

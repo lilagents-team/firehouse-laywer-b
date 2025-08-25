@@ -2,7 +2,9 @@
 title: "OSHA ETS and CMS Rule Updates"
 date: 2021-11-01
 description: "The November 2021 newsletter discusses OSHA's Emergency Temporary Standard (ETS) for larger employers, noting its applicability to fire departments with federal contracts but excluding healthcare providers. CMS has issued an interim rule affecting EMS agencies, which do not apply to fire departments receiving Medicare or Medicaid funds."
+summary: "The November 2021 newsletter discusses OSHA's Emergency Temporary Standard (ETS) for larger employers, noting its applicability to fire departments with federal contracts but excluding healthcare providers. CMS has issued an interim rule affecting EMS agencies, which do not apply to fire departments receiving Medicare or Medicaid funds."
 volume: 19
+edition: 11
 categories:
   - "Employment Law"
   - "Contract Law"

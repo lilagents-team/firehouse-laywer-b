@@ -6,8 +6,11 @@ backend:
   base_url: https://api.netlify.com
   auth_endpoint: auth
 
+# Main media folder for images
 media_folder: public/images/uploads
 public_folder: /images/uploads
+
+# For newsletter PDFs, we'll use a separate collection-specific media folder
 
 collections:
   - name: "pages"
@@ -101,14 +104,60 @@ collections:
     label: "Newsletter Issues"
     folder: "content/newsletters"
     create: true
-    slug: "{{year}}-{{month}}-{{slug}}"
+    slug: "v{{volume}}n{{edition}}-{{slug}}"
+    media_folder: "public/Newsletters"
+    public_folder: "/Newsletters"
+    summary: "Vol {{volume}} Ed {{edition}}: {{title}}"
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
-      - { label: "Description", name: "description", widget: "text" }
-      - { label: "Content", name: "content", widget: "markdown" }
-      - { label: "PDF URL", name: "pdf_url", widget: "string", required: false }
-      - { label: "Featured", name: "featured", widget: "boolean", default: false }
+      # 1. REQUIRED NEWSLETTER INFORMATION
+      - { label: "Title", name: "title", widget: "string", hint: "Full newsletter title (e.g., March 2025 Fire Department Legal Updates)" }
+      - { label: "Volume", name: "volume", widget: "number", min: 1, max: 50, hint: "Usually corresponds to year (2025 = Volume 23)" }
+      - { label: "Edition", name: "edition", widget: "number", min: 1, max: 12, hint: "Issue number for the year (1-12)" }
+      - label: "Publication Month & Year"
+        name: "date" 
+        widget: "datetime"
+        time_format: false
+        date_format: "YYYY-MM"
+        format: "YYYY-MM-01"
+        hint: "Select the month and year this newsletter was published"
+      - { label: "Summary", name: "summary", widget: "text", hint: "1-2 sentences about what's covered in this newsletter" }
+      
+      # 2. PDF UPLOAD (MOST IMPORTANT)
+      - { label: "Newsletter PDF", name: "newsletter_pdf", widget: "file", hint: "Upload the newsletter PDF file - drag and drop or click to browse" }
+      
+      # 3. SEARCH & CATEGORIZATION
+      - { label: "Keywords", name: "keywords", widget: "list", hint: "Search terms lawyers might use (one per line): SCOTUS, Public Records, RCW 42.56, Employment Law" }
+      - { label: "Topics", name: "topics", widget: "select", multiple: true, options: ["Employment Law", "Public Records", "Emergency Services", "Contract Law", "Budget & Finance", "Labor Law", "Safety Regulations", "Public Agencies", "Open Government", "Training Requirements"], hint: "Select 2-3 most relevant categories" }
+      
+      # 4. LEGAL REFERENCES (OPTIONAL BUT HELPFUL)
+      - label: "Legal Cases"
+        name: "legal_cases"
+        widget: "list"
+        required: false
+        hint: "Court cases mentioned (format: Smith v. Fire District (2025))"
+      - label: "Legal Statutes"
+        name: "legal_statutes"
+        widget: "list"
+        required: false
+        hint: "Laws referenced (format: RCW 42.56.280)"
+      
+      # 5. KEY CONTENT (OPTIONAL)
+      - label: "Key Findings"
+        name: "key_findings"
+        widget: "list"
+        required: false
+        hint: "Main legal conclusions from this newsletter"
+      - label: "Recommendations"
+        name: "recommendations"
+        widget: "list"
+        required: false
+        hint: "Actionable advice for fire departments"
+      
+      # 6. TECHNICAL FIELDS (USUALLY AUTO-FILLED)
+      - { label: "Content", name: "content", widget: "markdown", required: false, hint: "Newsletter content (auto-generated or manual entry)" }
+      - { label: "PDF Filename", name: "source_pdf", widget: "string", required: false, hint: "Auto-generated from upload, or enter manually if needed" }
+      - { label: "Featured", name: "featured", widget: "boolean", default: false, required: false }
+      - { label: "Metadata Quality", name: "metadata_quality", widget: "select", options: ["high", "medium", "low"], default: "high", required: false }
 
   - name: "settings"
     label: "Site Settings"

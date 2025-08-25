@@ -1,39 +1,22 @@
 ---
-title: "The FirehousLawyer.com Legal Newsletter"
+title: Contract Law and HIPAA Compliance Updates - Novemberdecember 2023
 date: 2023-11-30
 description: "The newsletter discusses various legal topics, including tax increment financing (TIF) interpretation, public contracts, HIPAA Privacy Rule application, medical malpractice limitations, and Open Government Act provisions. Key updates include concerns about TIFs not providing benefits intended for junior taxing districts, exceptions in public contracts affecting bid law applicability, HIPAA's broad scope of coverage, medical malpractice case findings relaxing absolute bar timelines, and OGA provisions remaining tentative."
+summary: "The newsletter discusses various legal topics, including tax increment financing (TIF) interpretation, public contracts, HIPAA Privacy Rule application, medical malpractice limitations, and Open Government Act provisions. Key updates include concerns about TIFs not providing benefits intended for junior taxing districts, exceptions in public contracts affecting bid law applicability, HIPAA's broad scope of coverage, medical malpractice case findings relaxing absolute bar timelines, and OGA provisions remaining tentative."
 volume: 21
 edition: 11
 issue: 11
-categories:
-  - "Open Government"
-  - "Employment Law"
-  - "Public Records"
-  - "Emergency Services"
-  - "Contract Law"
-  - "Budget & Finance"
-  - "Training & Compliance"
-  - "Litigation"
-  - "Medical Malpractice"
-tags:
-  - "tax increment financing"
-  - "public work"
-  - "HIPAA Privacy Rule"
-  - "medical malpractice"
-  - "Open Government Act"
-legal_cases:
-  - "Bennett v. United States of America (2023)"
-legal_statutes:
-  - "RCW 39.114.010"
-  - "RCW 84.55.010(5)"
-  - "RCW 39.114.050"
-  - "RCW 39.114.076"
-source_pdf: "NovemberDecember2023FINAL.pdf"
+categories: 
+tags: 
+legal_cases: 
+legal_statutes: 
+source_pdf: NovemberDecember2023FINAL.pdf
 metadata_quality: high
-search_keywords: "The newsletter discusses tax increment financing interpretation and its implications for public agencies. It addresses concerns about the application of the tax increment law, including how it affects..."
+search_keywords: The newsletter discusses tax increment financing interpretation and its implications for public agencies. It addresses concerns about the application of the tax increment law, including how it affects...
 processed_date: 2025-08-22
 layout: newsletter
 ---
+
 
 # The FirehousLawyer.com Legal Newsletter
 

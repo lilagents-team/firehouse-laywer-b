@@ -1,7 +1,8 @@
 ---
-title: "Legal Updates from Volume 18, Number 6"
+title: "COVID-19 Safety Guidelines, LEOFF Member Negligence Cases, and Public Records Act Exemptions"
 date: 2020-07-01
 description: "This issue covers several key legal updates including COVID-19 safety guidelines for public agencies, negligence suits against LEOFF members, and cases related to the Public Records Act. The newsletter also discusses state statute exemptions regarding personnel evaluations."
+summary: "This issue covers several key legal updates including COVID-19 safety guidelines for public agencies, negligence suits against LEOFF members, and cases related to the Public Records Act. The newsletter also discusses state statute exemptions regarding personnel evaluations."
 volume: 18
 edition: 6
 issue: 6

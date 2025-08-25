@@ -1,8 +1,11 @@
 ---
 title: "The Public Duty Doctrine and Marijuana"
-date: None
+date: 2015-11-01
 description: "This issue explores the legal implications of marijuana use in fire departments under the public duty doctrine, focusing on whether individual firefighters can be held liable for impaired driving. Additionally, it discusses shift trade policies and their impact on overtime calculations under the Fair Labor Standards Act (FLSA)."
+summary: "This issue explores the legal implications of marijuana use in fire departments under the public duty doctrine, focusing on whether individual firefighters can be held liable for impaired driving. Additionally, it discusses shift trade policies and their impact on overtime calculations under the Fair Labor Standards Act (FLSA)."
 volume: 13
+edition: 11
+issue: 11
 categories:
   - "Employment Law"
   - "Litigation"
@@ -20,9 +23,7 @@ legal_statutes:
   - "52.33.040"
 source_pdf: "November2015FINAL.pdf"
 metadata_quality: high
-search_keywords: "The Public Duty Doctrine and Marijuana
-Volume 13, Number Eleven
-In the context of public tort liability, the first thing the courts will consider is whether the defendant owes a duty of care to the pl..."
+search_keywords: "The Public Duty Doctrine and Marijuana, Volume 13, Number Eleven, public tort liability, duty of care, firefighter impaired driving, shift trade policies, FLSA overtime calculations"
 processed_date: 2025-08-22
 layout: newsletter
 ---

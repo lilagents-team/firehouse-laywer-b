@@ -1,7 +1,8 @@
 ---
-title: "Legal Updates and Case Reviews"
+title: "Native American Tribal Sovereignty, McGirt v. Oklahoma Analysis, and Tax Increment Financing"
 date: 2023-09-01
 description: "The newsletter discusses legal developments involving Native American tribal sovereignty, tax increment financing, and public agency practices. Key cases include analysis of Tribal jurisdictional boundaries following significant court decisions, balancing state and federal interests in Indian country, and updates on the application of tax increment financing principles."
+summary: "The newsletter discusses legal developments involving Native American tribal sovereignty, tax increment financing, and public agency practices. Key cases include analysis of Tribal jurisdictional boundaries following significant court decisions, balancing state and federal interests in Indian country, and updates on the application of tax increment financing principles."
 volume: 21
 edition: 9
 issue: 9

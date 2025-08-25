@@ -1,10 +1,11 @@
 ---
-title: "The Firehouselawyer"
+title: "Property Tax Prorationing, Firefighter Separation Cases, and Equitable Estoppel in Public Benefits"
 date: 2020-11-01
 description: "The newsletter discusses prorationing of property taxes, legal cases involving firefighters and separation from service, and a case regarding equitable estoppel applied to public employee benefits."
+summary: "The newsletter discusses prorationing of property taxes, legal cases involving firefighters and separation from service, and a case regarding equitable estoppel applied to public employee benefits."
 volume: 18
-edition: Number 11
-issue: Number 11
+edition: 11
+issue: 11
 categories:
   - "Employment Law"
   - "Public Records"

@@ -7,6 +7,32 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.3] - 2025-08-25
+
+### Fixed
+- **Newsletter Slug Routes** - Fixed broken individual newsletter access via slug URLs
+  - **Server Route Fix** - Updated server to read from static build files instead of legacy cache system
+  - **Build Process Enhancement** - Modified build script to process all 189 markdown newsletters instead of limited JSON files
+  - **YAML Frontmatter Parsing** - Added comprehensive YAML parser for extracting newsletter metadata from markdown files
+  - **Static Compatibility** - Maintained full compatibility with Sveltia CMS static build requirements
+  - **Individual Newsletter Access** - Restored ability to access specific newsletters via `/api/newsletters/:slug` endpoints
+  - **PDF Linking Integrity** - Preserved intelligent PDF file matching and linking system
+
+### Enhanced
+- **Newsletter Data Processing Pipeline**
+  - **Complete Archive Processing** - Now processes all 189 newsletter markdown files during build
+  - **YAML Metadata Extraction** - Robust parser for frontmatter including arrays, strings, and complex data
+  - **Static File Generation** - Creates comprehensive JSON index and individual newsletter files
+  - **Server Route Optimization** - Prioritizes static build files over legacy cache system
+  - **Error Resilience** - Graceful handling of YAML parsing errors and missing metadata
+
+### Technical Improvements
+- **Build Script Modernization** - `generate-newsletter-static.cjs` now processes markdown source files directly
+- **Server Architecture Update** - `loadNewsletters()` function reads from `/client/public/api/newsletters/index.json`
+- **YAML Processing** - Custom YAML parser handles newsletter frontmatter format requirements
+- **Fallback System** - Multi-tier fallback from static files → cache generation → legacy index
+- **Development/Production Parity** - Consistent behavior across all deployment environments
+
 ## [2.0.2] - 2025-08-24
 
 ### Enhanced

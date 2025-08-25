@@ -1,7 +1,8 @@
 ---
 title: "Correction of Previous Issue"
-date: None
+date: 2020-03-15
 description: "The newsletter corrects an error regarding tax breaks for local governments under the Families First Coronavirus Response Act (FFCR), clarifying that relief does not apply to public agencies."
+summary: "Correction clarifying that FFCR tax breaks do not apply to public agencies, including fire departments."
 volume: 18
 edition: 3
 issue: 3

@@ -1,7 +1,8 @@
 ---
-title: "Legal Updates and Training for Fire Departments"
+title: "Public Records Act Search Fee Reforms and Pilloud v. Employment Security Department"
 date: 2025-04-01
 description: "The newsletter discusses proposed changes to the Public Records Act in Washington state, allowing charging of search fees or labor expended under certain conditions. It highlights a case involving delayed acknowledgment of public records requests and penalties, emphasizing the importance of timely responses. Training sessions on regional fire authorities are also featured."
+summary: "Public Records Act updates allowing search fees, case study on delayed acknowledgments, and regional fire authority training."
 volume: 23
 edition: 4
 issue: 4
@@ -26,9 +27,7 @@ legal_statutes:
   - "RCW 42.56.550(4)"
 source_pdf: "April2025FINAL2.pdf"
 metadata_quality: high
-search_keywords: "Volume 23, Number 4 April 1, 2025 Legal Updates and Training for Fire Departments
-The Public Records Act (Chapter 42.56) allows charging search fees or labor expended under certain conditions.
-Case: P..."
+search_keywords: "Volume 23 Number 4, April 1 2025, Legal Updates and Training for Fire Departments, Public Records Act Chapter 42.56, charging search fees or labor expended conditions, Pilloud v. Employment Security Department"
 processed_date: 2025-08-22
 layout: newsletter
 ---

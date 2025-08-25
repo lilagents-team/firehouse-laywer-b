@@ -1,33 +1,22 @@
 ---
-title: "Fire Department Legal Updates"
+title: Contract Law and Policy Development Updates - June 2018
 date: 2018-06-01
-description: "The newsletter covers an upcoming municipal roundtable, significant legal opinions on fire district bid laws and their implications for procurement processes, analysis of best value criteria in public contracting, a new wildland fire safety bill, and a disclaimer at the end."
+description: The newsletter covers an upcoming municipal roundtable, significant legal opinions on fire district bid laws and their implications for procurement processes, analysis of best value criteria in public contracting, a new wildland fire safety bill, and a disclaimer at the end.
 volume: 16
-categories:
-  - "Emergency Services"
-  - "Contract Law"
-tags:
-  - "Municipal Roundtable"
-  - "Bid Law Opinion"
-  - "Wildland Fire Safety Bill"
-legal_cases:
-  - "Butler v. Federal Way School District"
-legal_statutes:
-  - "RCW 52.14.110"
-  - "RCW 39.26.160"
-  - "RCW 39.34.030"
-source_pdf: "June2018FINAL.pdf"
+edition: 6
+issue: 6
+categories: 
+tags: 
+legal_cases: 
+legal_statutes: 
+summary: June 2018 newsletter covers municipal roundtable discussion on employment law and Janus decision implications, analyzes significant Attorney General opinion on fire district bid laws under RCW 52.14.110 expanding procurement criteria beyond lowest bidder, examines best value criteria application in public contracting including Butler v. Federal Way School District, and discusses new wildland fire safety bill requirements.
+source_pdf: June2018FINAL.pdf
 metadata_quality: high
-search_keywords: "Volume 16, Number Six
-Firehouse Lawyer newsletter
-Municipal Roundtable
-AG Opinion on Fire District Bid Law
-Wildland Fire Safety Bill
-Best Value Criteria in Procurement
-Piggyback Purchasing Contracts..."
+search_keywords: Volume 16, Number Six
 processed_date: 2025-08-22
 layout: newsletter
 ---
+
 
 # Fire Department Legal Updates
 

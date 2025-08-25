@@ -2,6 +2,7 @@
 title: "Tax Increment Financing and Procurement Laws in Public Agencies"
 date: 2022-11-01
 description: "The newsletter discusses the impact of Tax Increment Financing (TIF) on local governments, highlighting its benefits for sponsors but potential harm to fire districts. It also covers new procurement laws affecting small works projects and their implications for fire departments."
+summary: "The newsletter discusses the impact of Tax Increment Financing (TIF) on local governments, highlighting its benefits for sponsors but potential harm to fire districts. It also covers new procurement laws affecting small works projects and their implications for fire departments."
 volume: 20
 edition: 11
 issue: 11

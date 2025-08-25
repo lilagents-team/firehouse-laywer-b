@@ -1,5 +1,5 @@
 ---
-title: "Key Legal Updates in February 2021"
+title: "2021 Legislative Bills for EMS Districts, Public Duty Doctrine, and OPMA Compliance"
 date: 2021-02-01
 description: "The newsletter covers several key legal updates, including budget bills affecting EMS and fire districts, revisitation of public duty rules with a case example, changes to EMS regulations, and concerns regarding public discussions under the Open Government Act."
 volume: 19
@@ -27,6 +27,7 @@ legal_statutes:
 source_pdf: "February2021FINAL.pdf"
 metadata_quality: high
 search_keywords: "February 2021, Firehouse Lawyer, Volume 19, Number 2, LEGISLATIVE BILLS OF INTEREST, Special Relationship Rules, Note on OPMA Issue, Access and Subscribe at: firehouselawyer.com, Inside this Issue...."
+summary: "The newsletter covers several key legal updates, including budget bills affecting EMS and fire districts, revisitation of public duty rules with a case example, changes to EMS regulations, and concerns regarding public discussions under the Open Government Act."
 processed_date: 2025-08-22
 layout: newsletter
 ---

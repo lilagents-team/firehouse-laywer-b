@@ -1,9 +1,10 @@
 ---
-title: "The Firehouse Lawyer | Volume 13, Number Eight"
+title: "Public Bid Law and Lowest Responsible Bidding Requirements for Fire Districts"
 date: 2015-07-01
 description: "The newsletter discusses the Public Bid Law and its application to fire departments. It highlights the lack of legal requirement for fire districts to award Lowest Responsible Bidding contracts unless specified by statute. The analysis concludes that fire districts may exercise their broad powers to enter into and perform any necessary contracts, even if they are not required to award the LRB. Additional topics include business functions, employment law considerations, public records access, emergency services regulations, contract awards, budget practices, training compliance, and litigation strategies."
+summary: "Public Bid Law analysis for fire departments, covering Lowest Responsible Bidding requirements and contract authority."
 volume: 13
-edition: Number Eight
+edition: 8
 issue: Number Eight
 categories:
   - "Open Government"
@@ -46,16 +47,7 @@ legal_statutes:
   - "RCW 52.12.025"
 source_pdf: "August_2015.pdf"
 metadata_quality: high
-search_keywords: "The Firehouse Lawyer | Volume 13, Number Eight
-July 2015
-
-[Section 1 of 1]
-
-The Firehouse Lawyer
-Volume 13, Number Eight
-Be sure to visit this Newsletter and its contents.
-
-Joseph F. Quinn, Esq., Lega..."
+search_keywords: "The Firehouse Lawyer Volume 13 Number Eight, July 2015, Joseph F. Quinn Esq, newsletter contents legal updates"
 processed_date: 2025-08-22
 layout: newsletter
 ---

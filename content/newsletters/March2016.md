@@ -1,8 +1,9 @@
 ---
-title: "Legal Updates"
+title: "HIPAA Compliance and Employee Property Rights for Probationary Workers"
 date: 2016-03-01
 description: "The newsletter discusses legal updates on municipal roundtables, property rights for probationary employees, local improvement districts (LIDs) and CARES Programs, medical records privacy under HIPAA and UHCIA, Loudermill conference procedures, and compliance with EMS contracts. It also addresses the feasibility of forming LIDs for CARES Programs and provides guidance on PHI and public records exemptions."
 volume: 14
+edition: 3
 categories:
   - "Open Government"
   - "Employment Law"
@@ -25,6 +26,7 @@ tags:
 legal_statutes:
   - "RCW 41.56.100"
   - "RCW 35.21.930"
+summary: "March 2016 newsletter addresses municipal roundtables and HIPAA compliance requirements, examines property rights for probationary employees requiring Loudermill conference procedures under RCW 41.56.100, analyzes Local Improvement Districts (LIDs) feasibility for CARES Programs under RCW 35.21.930, discusses medical records privacy protection under HIPAA and UHCIA regulations, reviews EMS contract compliance requirements, and provides comprehensive guidance on PHI handling and public records exemptions for employee medical information."
 source_pdf: "March2016.pdf"
 metadata_quality: high
 search_keywords: "Municipal Roundtables, HIPAA Compliance, Property Rights, Probationary Employees, CARES Program Formation, EMS Contracts, CARES Program Feasibility, HIPAA Application, Medical Records Privacy, Public ..."

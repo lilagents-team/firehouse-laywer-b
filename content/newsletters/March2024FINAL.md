@@ -1,6 +1,6 @@
 ---
-title: "Legal Updates for Fire Departments"
-date: None
+title: "Bid Law Threshold Changes, Small Works Roster Act, and Lindke v. Freed Social Media Ruling"
+date: 2024-03-01
 description: "The newsletter highlights significant changes to bid laws affecting public works and procurement processes, along with a Supreme Court ruling impacting public officials' social media activities."
 volume: 22
 edition: 3
@@ -21,16 +21,8 @@ legal_statutes:
   - "RCW 52.14.110"
 source_pdf: "March2024FINAL.pdf"
 metadata_quality: medium
-search_keywords: "Fireho Volume 22, Number 3
-Municipal Roundtables
-Bid Law Changes
-Social Media decision by SCOTUS
-Volume 22, Number 3
-MAJOR BID LAW CHANGES COMING
-SOON!
-Fireho Volume 22, Number 3
-52.14.110,
-2 in effec..."
+search_keywords: "Firehouse Lawyer, Volume 22, Number 3, Municipal Roundtables, Bid Law Changes, Social Media decision by SCOTUS, MAJOR BID LAW CHANGES, RCW 52.14.110, Lindke v. Freed"
+summary: "The newsletter highlights significant changes to bid laws affecting public works and procurement processes, along with a Supreme Court ruling impacting public officials' social media activities."
 processed_date: 2025-08-22
 layout: newsletter
 ---

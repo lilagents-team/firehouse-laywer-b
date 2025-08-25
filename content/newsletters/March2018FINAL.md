@@ -26,6 +26,7 @@ legal_statutes:
 source_pdf: "March2018FINAL.pdf"
 metadata_quality: high
 search_keywords: "Firehouse Lawyer March 2018 Legal Newsletter - Fair Chance Act updates, sick leave changes for fire departments, FOIA marijuana case, safety bill impacts..."
+summary: "The newsletter covers updates on the Fair Chance Act, changes to sick leave regulations affecting fire departments, a case note on marijuana retail sales, and a safety bill impacting emergency services."
 processed_date: 2025-08-22
 layout: newsletter
 ---

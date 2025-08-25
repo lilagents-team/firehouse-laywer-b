@@ -1,5 +1,5 @@
 ---
-title: "The Firehouse Lawyer holds a quarterly Roundtable in which members discuss legal challenges and present solutions"
+title: "Public Contract Compliance, Mandatory Reporter Child Abuse Laws, and EMS Operation Standards"
 date: 2017-03-01
 description: "The newsletter discusses key legal issues including public contracts, child abuse reporting laws, mandatory reporter duties, and emergency services compliance. It highlights cases such as Eric T. Quinney's contract dispute with the Washington State Police and emphasizes strict standards for EMS operations."
 volume: 15
@@ -28,6 +28,7 @@ legal_statutes:
 source_pdf: "March2017FINAL.pdf"
 metadata_quality: high
 search_keywords: "The newsletter discusses public contracts and their implications, mandatory reporter duties for emergency services, child abuse reporting laws, and strict standards for EMS compliance. It also highlig..."
+summary: "The newsletter discusses key legal issues including public contracts, child abuse reporting laws, mandatory reporter duties, and emergency services compliance. It highlights cases such as Eric T. Quinney's contract dispute with the Washington State Police and emphasizes strict standards for EMS operations."
 processed_date: 2025-08-22
 layout: newsletter
 ---

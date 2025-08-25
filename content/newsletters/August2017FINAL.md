@@ -2,6 +2,7 @@
 title: "Changes to Washington Medical Records Laws"
 date: 2017-08-01
 description: "The newsletter discusses updates to medical records laws in Washington, allowing disclosure without patient authorization under specific conditions. It also covers legal standards for Local Improvement District (LID) assessments, emphasizing that an assessment is not fundamentally wrong if broadly applied and others could argue its reasonableness."
+summary: "The newsletter discusses updates to medical records laws in Washington, allowing disclosure without patient authorization under specific conditions. It also covers legal standards for Local Improvement District (LID) assessments, emphasizing that an assessment is not fundamentally wrong if broadly applied and others could argue its reasonableness."
 volume: 15
 edition: 8
 issue: 8
@@ -22,13 +23,7 @@ legal_statutes:
   - "89 Wn.2d 855"
 source_pdf: "August2017FINAL.pdf"
 metadata_quality: high
-search_keywords: "Changes to Washington Medical Records Laws
-Case Note on LID Assessments
-...
-use Lawyer
-August 2017
-Review Your Patient Privacy
-A significant change to the Washington Uniform Health Care Information Ac..."
+search_keywords: "Changes to Washington Medical Records Laws, Case Note on LID Assessments, Firehouse Lawyer August 2017, Patient Privacy, Washington Uniform Health Care Information Act, RCW 70.02.205"
 processed_date: 2025-08-22
 layout: newsletter
 ---

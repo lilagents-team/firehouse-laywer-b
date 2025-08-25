@@ -1,8 +1,10 @@
 ---
 title: "Changes in Federal Laws Affecting Fire Departments"
-date: 2016-08-10
+date: 2016-08-01
 description: "The document outlines changes to several federal laws impacting fire departments, including the update to the Fair Labor Standards Act (FLSA), new electronic records regulations under the Electronic Signature and E-Record Act (E-SIGN) in Washington state, and updates to the Open Public Records Act (OPMA). Key sections include compliance requirements for FLSA, implementation of e-records policies, potential civil penalties for non-compliance, and considerations for public notice."
 volume: 14
+edition: 8
+issue: 8
 categories:
   - "Emergency Services"
   - "Contracts"
@@ -17,14 +19,10 @@ legal_cases:
 legal_statutes:
   - "42.56.540 Public Records Law"
   - "42.30.120 Open Public Records Act"
+summary: "August 2016 newsletter examines federal law changes affecting fire departments including Fair Labor Standards Act (FLSA) updates, new electronic records regulations under Electronic Signature and E-Record Act (E-SIGN) in Washington state per RCW 42.56.540, Open Public Records Act compliance requirements under RCW 42.30.120, analyzes West v. Pierce County precedent for public records implementation, and provides comprehensive guidance on FLSA exemptions and electronic signature authentication requirements."
 source_pdf: "August2016.pdf"
 metadata_quality: high
-search_keywords: "Firehouse Lawyer Volume 14, Number Eight
-October 2016
-Electronic Records Law Update: Are you ready to transition?
-Open Public Records Law: August 2016
-Changes in Federal Laws: FLSA & OSHA Exemptions
-N..."
+search_keywords: "Firehouse Lawyer Volume 14, Number Eight, October 2016, Electronic Records Law Update transition, Open Public Records Law August 2016, Changes in Federal Laws FLSA OSHA Exemptions"
 processed_date: 2025-08-22
 layout: newsletter
 ---

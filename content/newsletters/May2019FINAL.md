@@ -1,7 +1,8 @@
 ---
-title: "Firehouse Newsletter, Volume 17, Number 5"
+title: "Fire District Forest Land Collection Rights, Labor Law Updates, and HIPAA Privacy Requirements"
 date: 2019-05-01
 description: "The newsletter covers key legal updates including labor concepts, emergency response protocols, public funds regulations, diversity-related laws, and HIPAA privacy issues."
+summary: "The newsletter covers key legal updates including labor concepts, emergency response protocols, public funds regulations, diversity-related laws, and HIPAA privacy issues."
 volume: 17
 edition: 5
 issue: 5
@@ -32,15 +33,7 @@ legal_statutes:
   - "RCW 42.17A.555"
 source_pdf: "May2019FINAL.pdf"
 metadata_quality: high
-search_keywords: "Fireho
-Volume 17, Number 5
-Be sure to visit firehouselawyer.com to get a glimpse
-at our various practice areas pertaining to public
-agencies in the State of Washington.
-
-[Page 2]
-Fireho
-Volume 17, Num..."
+search_keywords: "Firehouse Lawyer Volume 17 Number 5, firehouselawyer.com, public agencies Washington State, fire district forest land collection rights, labor law updates, HIPAA privacy requirements"
 processed_date: 2025-08-22
 layout: newsletter
 ---

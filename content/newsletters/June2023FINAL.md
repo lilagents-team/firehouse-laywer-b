@@ -29,13 +29,10 @@ legal_cases:
 legal_statutes:
   - "RCW 39.114.020(5)"
   - "52.14.110"
+summary: "This issue examines critical Fourth Amendment developments in community caretaking exceptions following Caniglia v. Strom, analyzes Washington state's tax increment financing law implications for local jurisdictions, covers employment law changes regarding cannabis testing discrimination, provides guidance on used equipment purchases under competitive bid requirements, and explains small works roster contract award procedures for public agencies."
 source_pdf: "June2023FINAL.pdf"
 metadata_quality: high
-search_keywords: "Volume 21, Number 6
-Be sure to visit firehouselawyer.com to get a glimpse of our various practice areas pertaining to public agencies...
-
-Community Caretaking
-It is not very often that the Firehouse L..."
+search_keywords: "Volume 21, Number 6, firehouselawyer.com, June 2023, Community Caretaking, Fourth Amendment, Tax Increment Financing Law, Cannabis Testing, Bid Laws, Small Works Roster"
 processed_date: 2025-08-22
 layout: newsletter
 ---

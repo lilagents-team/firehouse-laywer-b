@@ -2,6 +2,7 @@
 title: "Labor & Employment Law Updates | Public Disclosure Laws & More"
 date: 2019-11-30
 description: "The newsletter highlights two key legal updates: a Court of Appeals ruling on minimum staffing as a mandatory bargaining subject due to increased call volumes and their impact on firefighter safety, and a Public Records Act case where the Supreme Court reversed a prior decision, finding birth dates not protected under privacy laws."
+summary: "The newsletter highlights two key legal updates: a Court of Appeals ruling on minimum staffing as a mandatory bargaining subject due to increased call volumes and their impact on firefighter safety, and a Public Records Act case where the Supreme Court reversed a prior decision, finding birth dates not protected under privacy laws."
 volume: 17
 edition: 11
 issue: 11

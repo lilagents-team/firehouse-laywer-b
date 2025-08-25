@@ -1,10 +1,11 @@
 ---
-title: "Firehouse Newsletter"
+title: "Fire District Benefit Charges, Public Records Act Changes, and HIPAA Social Media Compliance"
 date: 2016-09-01
 description: "The newsletter discusses legal updates related to fire districts and regional fire authorities, including corrections on voting requirements for benefit charges, policy changes regarding public records under the Public Records Act, concerns about HIPAA social media breaches, a case decision affecting worker's compensation claims based on subjective findings, and updates on the Public Records Act's statute of limitations."
+summary: "The newsletter discusses legal updates related to fire districts and regional fire authorities, including corrections on voting requirements for benefit charges, policy changes regarding public records under the Public Records Act, concerns about HIPAA social media breaches, a case decision affecting worker's compensation claims based on subjective findings, and updates on the Public Records Act's statute of limitations."
 volume: 14
-edition: Number Nine
-issue: Number Nine
+edition: 9
+issue: 9
 categories:
   - "Open Government"
   - "Employment Law"

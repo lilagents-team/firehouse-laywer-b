@@ -1,10 +1,11 @@
 ---
-title: "The Firehouselawyer Newsletter"
-date: None
+title: "WLAD Disability Classification, DLS Payment Rules, and Pierce County Employment Cases"
+date: 2015-09-01
 description: "The newsletter discusses several key legal updates, including the classification of disabilities under the Washington Law on Discrimination (WLAD), the treatment of Disability Leave Supplement (DLS) payments in relation to service credits, and employment policies such as conditional offers of employment. The document also addresses a case involving Nissen v. Pierce County, which upheld certain employment practices, and provides insights into public records laws and CARES programs."
+summary: "The newsletter discusses several key legal updates, including the classification of disabilities under the Washington Law on Discrimination (WLAD), the treatment of Disability Leave Supplement (DLS) payments in relation to service credits, and employment policies such as conditional offers of employment. The document also addresses a case involving Nissen v. Pierce County, which upheld certain employment practices, and provides insights into public records laws and CARES programs."
 volume: 13
-edition: Number 9
-issue: Number 9
+edition: 9
+issue: 9
 categories:
   - "Emergency Services"
   - "Contract Law"
@@ -29,17 +30,12 @@ legal_statutes:
   - "RCW 18.71.030"
 source_pdf: "September2015_ThidDraft.pdf"
 metadata_quality: medium
-search_keywords: "Volume 13, Number 9
-The Firehouselawyer Newsletter
-September 2015
-Clipse v. Pierce County, No. 45407-6-II (2015)
-WA State Law Against Discrimination (WLAD), Public Disability Act of 1999,
-Washington C..."
+search_keywords: "Volume 13 Number 9, Firehouse Lawyer Newsletter September 2015, Clipse v. Pierce County, WLAD disability classification, DLS payment rules, Washington Law Against Discrimination"
 processed_date: 2025-08-22
 layout: newsletter
 ---
 
-# The Firehouselawyer Newsletter
+# WLAD Disability Classification, DLS Payment Rules, and Pierce County Employment Cases
 
 *Volume 13, Issue Number 9*
 

@@ -2,6 +2,7 @@
 title: "First Amendment on Social Media"
 date: 2016-12-31
 description: "The newsletter covers key legal updates including tax resolution cases under Article VII § 5, social media policies in public employment, and employee rights related to religious beliefs. Articles delve into constitutional challenges regarding expenditures from specific tax measures and the implications of nonassociation rights for public employees."
+summary: "The newsletter covers key legal updates including tax resolution cases under Article VII § 5, social media policies in public employment, and employee rights related to religious beliefs. Articles delve into constitutional challenges regarding expenditures from specific tax measures and the implications of nonassociation rights for public employees."
 volume: 14
 edition: 12
 issue: 12

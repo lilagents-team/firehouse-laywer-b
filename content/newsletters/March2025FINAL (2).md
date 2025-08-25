@@ -1,40 +1,21 @@
 ---
-title: "Employment Law Updates"
+title: Employment Law and Policy Development Updates - March 2025
 date: 2025-03-01
-description: "The newsletter covers employment law issues, including disability discrimination claims and garnishment laws. It also discusses new nondiscrimination statutes for public contracts, the formation of fire districts through resolutions, and the role of ex officio members."
+description: The newsletter covers employment law issues, including disability discrimination claims and garnishment laws. It also discusses new nondiscrimination statutes for public contracts, the formation of fire districts through resolutions, and the role of ex officio members.
 volume: 23
 edition: 3
 issue: 3
-categories:
-  - "Employment Law"
-  - "Public Records"
-  - "Emergency Services"
-  - "Contract Law"
-  - "Budget & Finance"
-  - "Training & Compliance"
-  - "Litigation"
-tags:
-  - "Employment Law"
-  - "Discrimination Claims"
-  - "Garnishment Laws"
-  - "Contracts"
-  - "Ex Officio"
-legal_statutes:
-  - "RCW 6.27.040"
-  - "RCW 6.27.060"
-  - "RCW 49.60.530"
-  - "RCW 52.20.160"
-source_pdf: "March2025FINAL (2).pdf"
+categories: 
+tags: 
+legal_statutes: 
+summary: March 2025 newsletter covers employment law issues including disability discrimination claims and documentation requirements, examines garnishment laws affecting public sector employees under RCW 6.27.040 and RCW 6.27.060, discusses new nondiscrimination statutes for public contracts under RCW 49.60.530 affecting union representation, and provides guidance on fire district formation through resolutions and ex officio member appointment under RCW 52.20.160.
+source_pdf: March2025FINAL (2).pdf
 metadata_quality: high
-search_keywords: "Volume 23, Number 3
-Disability Discrimination
-Garnishment Primer
-Nondiscrimination Statute Update
-Ex Officio Designation
-Fire District Formation Resolution..."
+search_keywords: Volume 23, Number 3
 processed_date: 2025-08-22
 layout: newsletter
 ---
+
 
 # Employment Law Updates
 

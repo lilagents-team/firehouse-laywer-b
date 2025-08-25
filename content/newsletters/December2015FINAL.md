@@ -2,6 +2,7 @@
 title: "Legal Updates on Fire Department Liability and Unfair Labor Practices"
 date: 2015-12-31
 description: "The newsletter discusses a Municipal Roundtable addressing Unfair Labor Practices, emphasizing the importance of quick responses to prevent property damage. It also outlines a negligence claim against the Washington State for failing to contain a fire that spread from public lands to private properties."
+summary: "The newsletter discusses a Municipal Roundtable addressing Unfair Labor Practices, emphasizing the importance of quick responses to prevent property damage. It also outlines a negligence claim against the Washington State for failing to contain a fire that spread from public lands to private properties."
 volume: 13
 edition: 12
 issue: 12

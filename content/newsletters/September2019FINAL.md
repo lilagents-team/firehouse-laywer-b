@@ -2,6 +2,7 @@
 title: "Public Records Act Cases"
 date: 2019-09-01
 description: "The newsletter discusses two key Public Records Act (PRA) cases. The first case, 'The 'Estimated Estimate' Case,' addresses the time estimates required by the PRA for responding to public records requests, emphasizing that agencies must provide initial estimates and only commit to the first installment of records. The second case, Hoffman v. Kittitas County and the Kittitas County Sheriff, involved a penalty of $15,498 imposed for a 246-day delay in providing public records, with no actionable findings due to agency mistakes."
+summary: "The newsletter discusses two key Public Records Act (PRA) cases. The first case, 'The 'Estimated Estimate' Case,' addresses the time estimates required by the PRA for responding to public records requests, emphasizing that agencies must provide initial estimates and only commit to the first installment of records. The second case, Hoffman v. Kittitas County and the Kittitas County Sheriff, involved a penalty of $15,498 imposed for a 246-day delay in providing public records, with no actionable findings due to agency mistakes."
 volume: 17
 edition: 9
 issue: 9

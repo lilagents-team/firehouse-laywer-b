@@ -1,7 +1,8 @@
 ---
-title: "Legal Updates and Guidance for Fire Departments"
+title: "Ballot Title Requirements, Fox v. City of Bellingham, and EMS Search Warrant Policies"
 date: 2021-03-20
 description: "The newsletter highlights key legal updates related to ballot titles in Washington state, the due care required by fire departments with deceased personnel, and EMS search policies. These updates emphasize statutory requirements, negligence in search warrants, and the importance of proper training."
+summary: "The newsletter highlights key legal updates related to ballot titles in Washington state, the due care required by fire departments with deceased personnel, and EMS search policies. These updates emphasize statutory requirements, negligence in search warrants, and the importance of proper training."
 volume: 19
 edition: 3
 issue: 3
@@ -24,10 +25,7 @@ legal_statutes:
   - "RCW 52.18.050"
 source_pdf: "March2021FINAL.pdf"
 metadata_quality: high
-search_keywords: "Volume 19, Number 3
-Fireho
-March 2021
-Bal...[and so on, including all key sentences from the document]..."
+search_keywords: "Volume 19 Number 3, Firehouse Lawyer March 2021, Ballot Title Requirements, Fox v. City of Bellingham, EMS search warrant policies, RCW 29A.36.071"
 processed_date: 2025-08-22
 layout: newsletter
 ---

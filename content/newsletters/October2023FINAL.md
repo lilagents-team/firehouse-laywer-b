@@ -1,8 +1,10 @@
 ---
 title: "Emergency Medical Services Districts and Tax Increment Financing: Key Legal Updates"
-date: 2023-10
+date: 2023-10-31
 description: "The newsletter discusses the creation of EMS districts with legal implications, including property tax authority and EMS district creation requirements. It also explores tax increment financing (TIF) mechanisms, highlighting potential financial conflicts between agencies under state statutes."
+summary: "The newsletter discusses the creation of EMS districts with legal implications, including property tax authority and EMS district creation requirements. It also explores tax increment financing (TIF) mechanisms, highlighting potential financial conflicts between agencies under state statutes."
 volume: 21
+edition: 10
 categories:
   - "Emergency Services"
   - "Contract Law"

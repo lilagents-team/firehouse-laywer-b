@@ -1,7 +1,8 @@
 ---
-title: "Legal Updates from Volume 23, Number 2"
+title: "Electronic Funds Transfer Policies and Public Records Act Compliance"
 date: 2025-02-15
 description: "The newsletter covers several key legal updates, including the implementation of policies for Electronic Funds Transfers (EFTs), a significant case involving the Public Records Act (PRA) that highlights the importance of clear request documentation and adequate search processes. Additionally, the newsletter discusses the potential legality of assessing fire benefit charges against tribal properties and references a pending bill aimed at funding fire districts and regional fire authorities."
+summary: "The newsletter covers several key legal updates, including the implementation of policies for Electronic Funds Transfers (EFTs), a significant case involving the Public Records Act (PRA) that highlights the importance of clear request documentation and adequate search processes. Additionally, the newsletter discusses the potential legality of assessing fire benefit charges against tribal properties and references a pending bill aimed at funding fire districts and regional fire authorities."
 volume: 23
 edition: 2
 issue: 2

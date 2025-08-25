@@ -1,8 +1,10 @@
 ---
-title: "Firehouse Lawyer Newsletter"
+title: "Travel Time Court Decision and COVID-19 Employment Law Updates"
 date: 2021-12-01
 description: "The newsletter covers court decisions on out-of-town travel requirements and labor law cases, as well as updates on labor rights during the COVID-19 pandemic."
+summary: "The newsletter covers court decisions on out-of-town travel requirements and labor law cases, as well as updates on labor rights during the COVID-19 pandemic."
 volume: 19
+edition: 12
 categories:
   - "Employment Law"
   - "Public Records"

@@ -1,7 +1,8 @@
 ---
-title: "Inside the Issue: Key Legal Updates"
-date: None
+title: "Public Records Act Compliance, Fire Benefit Charges, and Valderrama v. City of Sammamish"
+date: 2024-12-01
 description: "The newsletter highlights key legal developments including updates on public records compliance, emergency services legislation, lease agreements with non-profits, a significant Public Records Act case ruling, and changes in local government committee residency requirements."
+summary: "Legal updates on public records compliance, emergency services legislation, lease agreements, and PRA case rulings."
 volume: 22
 edition: 12
 issue: 12

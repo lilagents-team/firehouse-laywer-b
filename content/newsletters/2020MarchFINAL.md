@@ -1,7 +1,8 @@
 ---
-title: "COVID-19 Legal Updates and Guidance"
+title: "COVID-19 FMLA Expansions, Emergency Sick Leave, and IRS Tax Credit Guidance"
 date: 2020-03-23
 description: "The newsletter discusses key legal developments related to COVID-19, including expanded rights under the Family and Medical Leave Act (FMLA) and new temporary sick leave provisions for employees. It also provides guidance from the IRS on tax credits and relief for small employers impacted by these changes."
+summary: "The newsletter discusses key legal developments related to COVID-19, including expanded rights under the Family and Medical Leave Act (FMLA) and new temporary sick leave provisions for employees. It also provides guidance from the IRS on tax credits and relief for small employers impacted by these changes."
 volume: 18
 edition: 3
 issue: 3

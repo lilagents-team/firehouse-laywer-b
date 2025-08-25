@@ -1,6 +1,6 @@
 ---
 title: "Inside this Issue"
-date: None
+date: 2022-01-01
 description: "The newsletter covers several key legal updates, including proposed public comment laws, policies on alienation discrimination, interpretations of EO 14042 and the SCOTUS ruling on vaccine mandates, and ongoing litigation in King County. The document also includes sections on public comment periods, employment practices, vaccine rules, and legal references."
 volume: 20
 edition: 1
@@ -30,6 +30,7 @@ legal_statutes:
 source_pdf: "January2022FINAL.pdf"
 metadata_quality: high
 search_keywords: "Public Comment Periods, Alienage Discrimination, EO 14042, Vaccine Mandates, SCOTUS Rulings, King County litigation, Public employment policies, Alienation discrimination, Fair pre-employment inquirie..."
+summary: "The newsletter covers several key legal updates, including proposed public comment laws, policies on alienation discrimination, interpretations of EO 14042 and the SCOTUS ruling on vaccine mandates, and ongoing litigation in King County. The document also includes sections on public comment periods, employment practices, vaccine rules, and legal references."
 processed_date: 2025-08-22
 layout: newsletter
 ---

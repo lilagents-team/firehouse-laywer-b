@@ -1,7 +1,8 @@
 ---
-title: "Volume 15, Number Twelve"
-date: None
+title: "Sick Leave Law Compliance, LEOFF II Contribution Changes, and Post-Amtrak Safety Protocols"
+date: 2017-12-31
 description: "The newsletter covers various legal topics including updates on sick leave laws, upcoming municipal roundtables, legislative changes to LEOFF II, and safety guidelines following an Amtrak incident. Key legal findings include discussions on accrued paid sick leave requirements, the application of RCW 49.46.210(1)(j), and updated safety protocols for emergency services."
+summary: "The newsletter covers various legal topics including updates on sick leave laws, upcoming municipal roundtables, legislative changes to LEOFF II, and safety guidelines following an Amtrak incident. Key legal findings include discussions on accrued paid sick leave requirements, the application of RCW 49.46.210(1)(j), and updated safety protocols for emergency services."
 volume: 15
 edition: 12
 issue: 12

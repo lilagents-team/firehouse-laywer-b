@@ -1,5 +1,5 @@
 ---
-title: "Firehouse Lawyer"
+title: "Facebook Posts as Public Records and Municipal Safety Requirements"
 date: 2018-02-01
 description: "The newsletter covers upcoming municipal roundtables, legal considerations regarding Facebook posts as public records, and updates on safety regulations. It also includes information about a safety bill requiring occupational injury records."
 volume: 16
@@ -20,6 +20,7 @@ legal_cases:
 legal_statutes:
   - "RCW 42.56.010"
   - "WAC 296-305-01501"
+summary: "February 2018 newsletter announces municipal roundtable on March 23, 2018, examines Facebook posts as public records under RCW 42.56.010 per Arthur West v. City of Seattle case precedent, establishes criteria for social media content prepared within scope of employment or official capacity, and provides safety bill requirements for occupational injury records documentation under WAC 296-305-01501 compliance."
 source_pdf: "February2018_FINAL.pdf"
 metadata_quality: medium
 search_keywords: "Volume 16, Number Two. Firehouse Lawyer newsletter. Municipal roundtable on March 23, 2018. Facebook posts as public records. Safety bill requirements. Arthur West v. City of Seattle case. Public Reco..."

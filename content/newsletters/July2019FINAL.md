@@ -24,6 +24,7 @@ legal_statutes:
 source_pdf: "July2019FINAL.pdf"
 metadata_quality: high
 search_keywords: "Volume 17, Number 7. The Firehous Lawyer Newsletter. July 2019. Court holds obesity is a disability. Taylor v. Burlington Northern (BNSF). Federal law vs Washington Law Against Discrimination. Implica..."
+summary: "The newsletter discusses the ruling by the Washington State Supreme Court that obesity qualifies as a disability under state law, its implications for public agencies like fire departments, legal considerations for determining bona fide volunteer status for firefighters, and updates on workplace safety standards."
 processed_date: 2025-08-22
 layout: newsletter
 ---

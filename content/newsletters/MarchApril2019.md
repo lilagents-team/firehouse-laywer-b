@@ -25,6 +25,7 @@ legal_cases:
 legal_statutes:
   - "RCW 70.02"
   - "RCW 50A.04.250"
+summary: "March/April 2019 newsletter examines public health law under RCW 70.02 protecting health care information privacy, addresses FMLA compliance issues and employer rights regarding concurrent paid sick leave under RCW 50A.04.250, analyzes safety bill impacts on employee retirement benefits, reviews PERC rulings on unilateral changes and past practices in Volkert v. Fairbank Construction Co., Escriba v. Foster Poultry Farms, and Seaquist v. Caldier cases, and provides employment relations guidance for public sector labor negotiations."
 source_pdf: "MarchApril2019.pdf"
 metadata_quality: high
 search_keywords: "March/April 2019 newsletter content includes sections on public health law, FMLA issues, safety bills, labor concepts, and employment relations...."

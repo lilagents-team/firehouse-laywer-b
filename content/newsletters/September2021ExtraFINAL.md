@@ -2,6 +2,9 @@
 title: "Legal Update on COVID-19 Vaccination Mandate for Federal Contractors"
 date: 2021-09-01
 description: "The President's Executive Order (14042) mandates COVID-19 vaccination for federal contractors, unless employees are legally exempt or receive reasonable accommodations. The Task Force provided guidance defining 'covered contractors' and their employees as those subject to full vaccination by December 8, 2021. Exemptions apply to health care providers with religious beliefs or disabilities."
+summary: "The President's Executive Order (14042) mandates COVID-19 vaccination for federal contractors, unless employees are legally exempt or receive reasonable accommodations. The Task Force provided guidance defining 'covered contractors' and their employees as those subject to full vaccination by December 8, 2021. Exemptions apply to health care providers with religious beliefs or disabilities."
+volume: 19
+edition: 9
 categories:
   - "Contract Law"
   - "Public Records"

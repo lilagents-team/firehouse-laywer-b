@@ -2,8 +2,9 @@
 title: "Important Information Regarding the Washington CARES Fund"
 date: 2022-12-31
 description: "The newsletter discusses updates related to the Washington CARES Fund, including guidance for employers on collecting premiums and maintaining privacy protections under RCW 42.56.230(3). It also explores the legal implications of maintaining files for public employees, referencing case law from Baxter v. Western Washington University."
+summary: "Washington CARES Fund updates, employer premium collection guidance, and privacy protections under RCW 42.56.230(3)."
 volume: 19
-edition: 12E
+edition: 12
 issue: 12E
 categories:
   - "Public Records"

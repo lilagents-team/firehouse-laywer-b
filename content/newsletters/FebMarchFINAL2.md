@@ -1,8 +1,10 @@
 ---
-title: "Firehouse Newsletter: Volume 23, Number 2 - Spring 2025"
+title: "Electronic Fund Transfer Compliance and Fire Department Payment Policy Requirements"
 date: 2025-02-15
 description: "The newsletter discusses legal updates related to electronic fund transfers (ECTRs), fire department policies on payment methods, and a resolution opposing unauthorized use of electronic funds. Key points include the safe use of EFTs for payroll and vendor payments, the adoption of ECTRs by public agencies, and compliance with state regulations."
+summary: "Legal updates on electronic fund transfers, fire department payment policies, and ECTR compliance for public agencies."
 volume: 23
+edition: 2
 categories:
   - "Public Records"
   - "Employment Law"

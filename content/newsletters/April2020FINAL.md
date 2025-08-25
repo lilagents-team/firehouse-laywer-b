@@ -1,7 +1,8 @@
 ---
-title: "Volume 18, Number 4"
-date: None
+title: "OPMA Extensions and Federal Grant Management Requirements"
+date: 2020-04-01
 description: "The newsletter discusses key legal updates including an extension of OPMA prohibitions, federal grant management under 2 CFR and state law (public duty doctrine), and public health declarations."
+summary: "Legal updates on OPMA extensions, federal grant management, and public duty doctrine applications."
 volume: 18
 edition: 4
 issue: 4
@@ -32,7 +33,7 @@ processed_date: 2025-08-22
 layout: newsletter
 ---
 
-# Volume 18, Number 4
+# OPMA Extensions and Federal Grant Management Requirements
 
 *Volume 18, Issue 4*
 

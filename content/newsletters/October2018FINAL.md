@@ -2,6 +2,7 @@
 title: "Bargaining in Public or Private?"
 date: 2018-10-10
 description: "The newsletter discusses a legal case involving bargaining practices under the Open Public Meetings Act (OPMA). The case, Teamsters Local 690 v. County of Pierce, highlights the complexities of holding collective bargaining sessions in public or private settings. The ruling emphasizes that parties must engage in good faith discussions without unilaterally restricting bargaining locations."
+summary: "The newsletter discusses a legal case involving bargaining practices under the Open Public Meetings Act (OPMA). The case, Teamsters Local 690 v. County of Pierce, highlights the complexities of holding collective bargaining sessions in public or private settings. The ruling emphasizes that parties must engage in good faith discussions without unilaterally restricting bargaining locations."
 volume: 16
 edition: 10
 issue: 10

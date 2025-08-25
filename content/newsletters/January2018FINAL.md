@@ -1,7 +1,8 @@
 ---
 title: "Volume 16, Number One: Inside the Firehouse - Legal News and Updates"
 date: 2018-01-01
-description: "The newsletter covers various legal updates including promoting employee diversity with the Public Agencym Quin, a ruling on free speech in fire departments, a safety bill allowing employers to self-report safety violations, ADA compliance regarding website accessibility, and employer-friendly rulings from the NLRB."
+description: "The newsletter covers various legal updates including promoting employee diversity with the Public Agency Quinn, a ruling on free speech in fire departments, a safety bill allowing employers to self-report safety violations, ADA compliance regarding website accessibility, and employer-friendly rulings from the NLRB."
+summary: "The newsletter covers various legal updates including promoting employee diversity with the Public Agency Quinn, a ruling on free speech in fire departments, a safety bill allowing employers to self-report safety violations, ADA compliance regarding website accessibility, and employer-friendly rulings from the NLRB."
 volume: 16
 edition: 1
 issue: 1
@@ -9,7 +10,7 @@ categories:
   - "Employment Law"
   - "Public Records"
   - "Fire Department Safety"
-  - " ADA Accessibility"
+  - "ADA Accessibility"
   - "Labor Relations"
 tags:
   - "Public Agency Law"
@@ -33,13 +34,7 @@ legal_statutes:
   - "29 U.S.C. § 657"
 source_pdf: "January2018FINAL.pdf"
 metadata_quality: high
-search_keywords: "Fireho Volume 16 Number One
-Public Agencym Quin Employee Promotions
-Sprague v Spokane Valley Fire Department
-SAFETY BILL
-ADA Compliance
-NLRB Rulings
-Raytheon NLRA Changes..."
+search_keywords: "Firehouse Lawyer Volume 16 Number One, Public Agency Quin Employee Promotions, Sprague v Spokane Valley Fire Department, Safety Bill, ADA Compliance, NLRB Rulings, Raytheon NLRA Changes"
 processed_date: 2025-08-22
 layout: newsletter
 ---
@@ -50,7 +45,7 @@ layout: newsletter
 
 ## Overview
 
-The newsletter covers various legal updates including promoting employee diversity with the Public Agencym Quin, a ruling on free speech in fire departments, a safety bill allowing employers to self-report safety violations, ADA compliance regarding website accessibility, and employer-friendly rulings from the NLRB.
+The newsletter covers various legal updates including promoting employee diversity with the Public Agency Quinn, a ruling on free speech in fire departments, a safety bill allowing employers to self-report safety violations, ADA compliance regarding website accessibility, and employer-friendly rulings from the NLRB.
 
 ## Key Takeaways
 

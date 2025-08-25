@@ -2,6 +2,7 @@
 title: "The Doctrine of Wrongful Discharge"
 date: 2015-10-01
 description: "This newsletter explores key legal developments in wrongful discharge, including case analyses and updates on public records retention schedules. The documents discuss the abolition of strict adequacy requirements, significant cases like Becker v. Community Health, and employment law changes affecting light duty policies."
+summary: "This newsletter explores key legal developments in wrongful discharge, including case analyses and updates on public records retention schedules. The documents discuss the abolition of strict adequacy requirements, significant cases like Becker v. Community Health, and employment law changes affecting light duty policies."
 volume: 13
 edition: 10
 issue: 10
@@ -32,9 +33,7 @@ legal_statutes:
   - "RCW 40.14.070"
 source_pdf: "October2015_FINAL .pdf"
 metadata_quality: high
-search_keywords: "Fireho Volume 13, Number Ten
-Becker v. Anderson (WA), 10th Circuit
-In September 2015, the Washington Supreme Court (Court) fundamentally altered the doctrine of wrongful discharge in violation of publ..."
+search_keywords: "Firehouse Lawyer Volume 13 Number Ten, Becker v. Anderson, wrongful discharge doctrine, Washington Supreme Court, public policy violation, October 2015"
 processed_date: 2025-08-22
 layout: newsletter
 ---

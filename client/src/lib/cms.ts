@@ -33,13 +33,36 @@ export interface PracticeArea {
 }
 
 export interface NewsletterIssue {
+  // Basic Information
   title: string;
+  volume: number;
+  edition: number;
   date: string;
-  description: string;
+  summary: string;
+  
+  // Searchable Metadata
+  keywords: string[];
+  topics: string[];
+  
+  // Legal References
+  legal_cases?: string[];
+  legal_statutes?: string[];
+  
+  // Content Analysis
+  key_findings?: string[];
+  recommendations?: string[];
+  
+  // Technical Details
+  newsletter_pdf?: string; // File upload path
+  source_pdf?: string; // Manual filename entry
   content: string;
-  pdf_url?: string;
   featured: boolean;
+  metadata_quality: 'high' | 'medium' | 'low';
   slug?: string;
+  
+  // Computed/Legacy Fields (for backward compatibility)
+  pdf_url?: string;
+  description?: string; // Will map to summary
 }
 
 export interface SiteSettings {
@@ -209,13 +232,36 @@ export async function getNewsletterIssues(isServer: boolean = false): Promise<Ne
             const { data, content: markdownContent } = matter(content);
             const processedContent = markdownContent ? await processMarkdown(markdownContent) : '';
             return {
+              // Basic Information
               title: data.title || 'Untitled',
+              volume: data.volume || 0,
+              edition: data.edition || 0,
               date: data.date || new Date().toISOString(),
-              description: data.description || '',
+              summary: data.summary || data.description || '',
+              
+              // Searchable Metadata
+              keywords: Array.isArray(data.keywords) ? data.keywords : (data.keywords ? [data.keywords] : []),
+              topics: Array.isArray(data.topics) ? data.topics : (data.topics ? [data.topics] : []),
+              
+              // Legal References
+              legal_cases: Array.isArray(data.legal_cases) ? data.legal_cases : undefined,
+              legal_statutes: Array.isArray(data.legal_statutes) ? data.legal_statutes : undefined,
+              
+              // Content Analysis  
+              key_findings: Array.isArray(data.key_findings) ? data.key_findings : undefined,
+              recommendations: Array.isArray(data.recommendations) ? data.recommendations : undefined,
+              
+              // Technical Details
+              newsletter_pdf: data.newsletter_pdf || undefined,
+              source_pdf: data.source_pdf || undefined,
               content: processedContent,
-              pdf_url: data.pdf_url,
               featured: data.featured || false,
-              slug: data.slug || fileName
+              metadata_quality: data.metadata_quality || 'medium',
+              slug: data.slug || fileName,
+              
+              // Computed/Legacy Fields - prioritize uploaded file, then manual entry
+              pdf_url: data.newsletter_pdf || (data.source_pdf ? `/Newsletters/${data.source_pdf}` : data.pdf_url),
+              description: data.summary || data.description || ''
             };
           }
           return null;

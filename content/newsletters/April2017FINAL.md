@@ -1,9 +1,10 @@
 ---
-title: "The Firehouse Lawyer"
+title: "Fire Department Funding and 450 Tax Legislation Updates"
 date: 2017-04-01
 description: "This issue covers key legal updates including legislation aimed at enhancing fire departments' funding, the introduction of a new tax mechanism called the '450 Tax,' and its implications for fire departments. The newsletter also discusses contract negotiations using principles from collective bargaining agreements (ILAs) to fairly allocate revenues. Additionally, it explores safety standards requiring departments to maintain specific OSHA forms."
+summary: "Legal updates on fire department funding, 450 Tax legislation, contract negotiations using ILAs, and OSHA safety compliance requirements."
 volume: 15
-edition: Number Four
+edition: 4
 issue: Number Four
 categories:
   - "Public Records"
@@ -27,7 +28,7 @@ processed_date: 2025-08-22
 layout: newsletter
 ---
 
-# The Firehouse Lawyer
+# Fire Department Funding and 450 Tax Legislation Updates
 
 *Volume 15, Issue Number Four*
 

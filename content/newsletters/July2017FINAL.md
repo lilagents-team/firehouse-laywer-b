@@ -1,28 +1,21 @@
 ---
-title: "Changes to the Public Records Act and Safety Bill Updates"
+title: Public Records and Public Safety Updates - July 2017
 date: 2017-07-01
 description: "The newsletter outlines changes to the Public Records Act, requiring public agencies to maintain logs of public records requests. It also introduces new rules for electronic record copying fees under certain conditions. Additionally, updates to the 'two in, two out' safety regulation are discussed, allowing three-person teams under specific immediately life-threatening conditions."
 volume: 15
 edition: 7
 issue: 7
-categories:
-  - "Open Government"
-  - "Emergency Services"
-  - "Public Records"
-tags:
-  - "Public Records Act"
-  - "Washington State Public Records Act (WSPR)"
-  - "Electronic Record Costs"
-  - "Two-in-Two-out Safety Regulation"
-legal_statutes:
-  - "RCW 42.56"
-  - "EHB 1595"
-source_pdf: "July2017FINAL.pdf"
+categories: 
+tags: 
+legal_statutes: 
+summary: "July 2017 newsletter outlines significant changes to Public Records Act under RCW 42.56 requiring agencies to maintain comprehensive logs of public records requests, introduces new electronic record copying fee structures under EHB 1595, updates 'two in, two out' safety regulations allowing three-person emergency teams under immediately life-threatening conditions, and provides implementation guidance for enhanced public transparency and firefighter safety protocols."
+source_pdf: July2017FINAL.pdf
 metadata_quality: high
-search_keywords: "Changes to the Public Records Act Volume 15 Number Seven July 2017. Fireho Newsletter. Public records act changes include new requirements for logging public records requests and electronic record cop..."
+search_keywords: Changes to the Public Records Act Volume 15 Number Seven July 2017. Fireho Newsletter. Public records act changes include new requirements for logging public records requests and electronic record cop...
 processed_date: 2025-08-22
 layout: newsletter
 ---
+
 
 # Changes to the Public Records Act and Safety Bill Updates
 

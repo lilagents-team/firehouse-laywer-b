@@ -1,6 +1,6 @@
 ---
 title: "Inside this Issue"
-date: 2017-10
+date: 2017-10-01
 description: "The newsletter covers key legal updates on Payments in Lieu of Tax for fire departments, a case on gender discrimination where termination was based on performance and discipline rather than explicit gender bias, privacy protections for homeless individuals under the Washington Constitution, and a safety bill regulating SCBA usage for firefighters."
 volume: 15
 edition: 10
@@ -24,17 +24,10 @@ legal_cases:
 legal_statutes:
   - "WAC 296-305-04001"
   - "RCW 52.30.020"
+summary: "October 2017 newsletter covers Payments in Lieu of Tax (PILT) legal updates for fire departments under RCW 52.30.020, analyzes Mikkelsen v. Public Utility District gender discrimination case focusing on performance-based termination versus bias evidence, examines privacy protections for homeless individuals under Washington Constitution, and reviews safety bill regulations for SCBA usage compliance under WAC 296-305-04001 for firefighter protection."
 source_pdf: "October2017FINAL5.pdf"
 metadata_quality: high
-search_keywords: "Volume 15, Number Ten
-October 2017
-[Section 1 of 1]
-...Payment and Substitute Insurance...
-[Section 2 of 1]
-In A Public Agency...,
-[Section 3 of 1]
-Privacy Protections for the Homeless
-[Section 4 of 1..."
+search_keywords: "Volume 15 Number Ten, October 2017, Payment and Substitute Insurance, In A Public Agency, Privacy Protections for the Homeless, PILT Law, gender discrimination, SCBA usage, WAC 296-305-04001"
 processed_date: 2025-08-22
 layout: newsletter
 ---

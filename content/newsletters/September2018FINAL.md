@@ -2,6 +2,9 @@
 title: "Inside this Issue"
 date: 2018-09-30
 description: "The newsletter covers several key legal updates, including veterans' preference under RCW 41.04.010, discrimination cases involving Title VII and the Sixth Circuit's ruling on sex discrimination, safety benefits related to meal periods with a case citation from the Washington Supreme Court, and employment at-will policies regarding meal breaks."
+volume: 16
+edition: 9
+issue: 9
 categories:
   - "Employment Law"
   - "Public Records"
@@ -25,6 +28,7 @@ legal_cases:
 legal_statutes:
   - "RCW 41.04.010"
   - "WAC 296-126-092"
+summary: "September 2018 newsletter examines veterans' preference requirements under RCW 41.04.010 and IMMSO definition clarifications, analyzes Title VII sex discrimination ruling by Sixth Circuit in FRANCHA v. City of Providence and Garda v. Yovino cases, reviews Washington Supreme Court decision on employer liability for meal period non-compliance under WAC 296-126-092, and provides guidance on safety benefits and employment-at-will policies regarding meal break regulations."
 source_pdf: "September2018FINAL.pdf"
 metadata_quality: medium
 search_keywords: "Veterans' Preference, Employment Law, Public Records, Emergency Services, Contract Law, Budget & Finance, Training & Compliance, Litigation..."

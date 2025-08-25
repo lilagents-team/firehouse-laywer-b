@@ -1,33 +1,21 @@
 ---
-title: "Multiple Legal Updates"
+title: Employment Law and Contract Law Updates - March 2025
 date: 2025-03-01
-description: "The newsletter covers upcoming seminars on disability discrimination and garnishment, introduces a new nondiscrimination statute for state contracts, discusses ex officio members in fire districts, and provides information on forming regional fire authorities."
+description: The newsletter covers upcoming seminars on disability discrimination and garnishment, introduces a new nondiscrimination statute for state contracts, discusses ex officio members in fire districts, and provides information on forming regional fire authorities.
 volume: 23
 edition: 3
 issue: 3
-categories:
-  - "Employment Law"
-  - "Public Records"
-  - "Emergency Services"
-  - "Contract Law"
-  - "Budget & Finance"
-  - "Training & Compliance"
-  - "Litigation"
-tags:
-  - "Disability Discrimination"
-  - "Garnishment"
-  - "NonDiscrimination Statute"
-  - "Ex Officio Members"
-  - "Fire Protection Districts"
-legal_statutes:
-  - "RCW 49.60.530"
-  - "RCW 52.20.160"
-source_pdf: "MARCH2025FINAL.pdf"
+categories: 
+tags: 
+legal_statutes: 
+summary: March 2025 newsletter announces upcoming seminars on disability discrimination and garnishment procedures, introduces new nondiscrimination statute RCW 49.60.530 for state contracts, explains the role of ex officio members in fire districts post-annexation, and provides guidance on forming regional fire authorities including specific formation criteria and legal requirements under current Washington state law.
+source_pdf: MARCH2025FINAL.pdf
 metadata_quality: high
-search_keywords: "Volume 23 Number 3: Upcoming Seminars on disability discrimination and garnishment. Eric Quinn discusses regional fire authority formation. New non-discrimination statute for state contracts. Ex offic..."
+search_keywords: "Volume 23 Number 3, Upcoming Seminars on disability discrimination and garnishment, Eric Quinn discusses regional fire authority formation, New non-discrimination statute for state contracts, Ex officio members"
 processed_date: 2025-08-22
 layout: newsletter
 ---
+
 
 # Multiple Legal Updates
 

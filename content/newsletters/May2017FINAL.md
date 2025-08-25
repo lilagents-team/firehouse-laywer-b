@@ -1,7 +1,8 @@
 ---
-title: "Volume 15, Number Five"
+title: "Circuit Riding, Housing Authority Contracts, Impact Fees, and Incompatibility Doctrine"
 date: 2017-05-01
 description: "The newsletter covers various legal updates including circuit riding practices for fire departments, updates on housing authority contracts under public agency law, considerations for impact fees and benefit charges, a revisit of the Washington incompatibility doctrine, new legislation on Medicaid audits, and practical recommendations for fire departments."
+summary: "The newsletter covers various legal updates including circuit riding practices for fire departments, updates on housing authority contracts under public agency law, considerations for impact fees and benefit charges, a revisit of the Washington incompatibility doctrine, new legislation on Medicaid audits, and practical recommendations for fire departments."
 volume: 15
 edition: 5
 issue: 5
@@ -30,13 +31,7 @@ legal_statutes:
   - "RCW 52.30.020"
 source_pdf: "May2017FINAL.pdf"
 metadata_quality: medium
-search_keywords: "Firehouse Lawyer Volume 15 Number Five
-May 2017
-Comprehensive practice areas
-Legal updates for fire departments
-Circuit riding considerations
-Housing authority contracts under public agency law
-Impact..."
+search_keywords: "Firehouse Lawyer Volume 15 Number Five, May 2017, legal updates fire departments, circuit riding, housing authority contracts, public agency law, impact fees incompatibility doctrine"
 processed_date: 2025-08-22
 layout: newsletter
 ---

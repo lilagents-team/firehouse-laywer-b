@@ -28,8 +28,8 @@ legal_statutes:
   - "RCW 52.26.110"
 source_pdf: "July2024FINAL.pdf"
 metadata_quality: high
-search_keywords: "Volume 22, Number 7
-Be sure to visit firehouselawyer.com to get a glimpse of our various practice areas pertaining to public agencies, which include labor and employment law, public dis closure law, m..."
+search_keywords: "Volume 22 Number 7, firehouselawyer.com, SCOTUS Chevron deference, administrative law, Loper Bright, Citizens Action v. City of Spokane, public records exemption"
+summary: "The newsletter highlights key legal updates, including Supreme Court decisions on administrative law, public records exemptions, labor-dispute resolution, and non-discrimination cases. It also covers updates on public records compliance, labor contracts, and emergency services policies."
 processed_date: 2025-08-22
 layout: newsletter
 ---

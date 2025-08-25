@@ -2,6 +2,7 @@
 title: "Pension Laws and Fire Department Practice"
 date: 2016-07-01
 description: "The document discusses pension law violations affecting fire departments, focusing on the potential restructuring of pensions for fire commissioners. It highlights issues with public employees' rights under the Public Employees Retirement System (PERS), the interpretation of employment definitions, and equal protection violations under various legal statutes."
+summary: "The document discusses pension law violations affecting fire departments, focusing on the potential restructuring of pensions for fire commissioners. It highlights issues with public employees' rights under the Public Employees Retirement System (PERS), the interpretation of employment definitions, and equal protection violations under various legal statutes."
 volume: 14
 edition: 7
 issue: 7

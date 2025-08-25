@@ -1,7 +1,8 @@
 ---
-title: "Volume 20, Number 5: Legal Updates on DEI Programs, Impact Fees, and Whistleblower Cases"
+title: "DEI Program Implementation, Impact Fee Appeals, and Whistleblower Retaliation Case Analysis"
 date: 2022-05-01
 description: "This issue covers updates on Diversity, Equity, and Inclusion (DEI) programs for fire departments, a decision by the Washington Court of Appeals regarding impact fees, and a wage recovery case involving a whistleblower who was retaliated against."
+summary: "This issue covers updates on Diversity, Equity, and Inclusion (DEI) programs for fire departments, a decision by the Washington Court of Appeals regarding impact fees, and a wage recovery case involving a whistleblower who was retaliated against."
 volume: 20
 edition: 5
 issue: 5

@@ -2,6 +2,7 @@
 title: "Inside this Issue"
 date: 2024-11-30
 description: "The newsletter covers key legal updates including an important FLSA case, a significant privacy breach case, the application of due process in discrimination cases, and considerations for 24-hour shift regulations."
+summary: "The newsletter covers key legal updates including an important FLSA case, a significant privacy breach case, the application of due process in discrimination cases, and considerations for 24-hour shift regulations."
 volume: 22
 edition: 11
 issue: 11

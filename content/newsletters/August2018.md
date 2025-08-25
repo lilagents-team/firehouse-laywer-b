@@ -1,7 +1,8 @@
 ---
 title: "SAO Guidance on Piggybacking | Deliberative Process Exemption | SAFETY BILL"
-date: 2018-08
+date: 2018-08-01
 description: "The newsletter covers three key legal updates: guidance on piggybacking under RCW 39.34.030, the deliberative process exemption under RCW 42.56.280, and a safety bill affecting PPE requirements for public employees."
+summary: "Legal updates on piggybacking procurement, deliberative process exemption, and PPE safety requirements for public employees."
 volume: 16
 edition: 8
 issue: 8

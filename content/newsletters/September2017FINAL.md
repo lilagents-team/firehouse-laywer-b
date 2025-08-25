@@ -1,40 +1,22 @@
 ---
-title: "Legal Updates and Compliance"
+title: Policy Development and Employment Law Updates - September 2017
 date: 2017-09-01
-description: "The newsletter covers key legal updates on medical records access, Initiative 1433 implementation, mandatory sick leave law, ballot title language considerations, unemployment benefits, SAFETY BILL implications, and DOSH guidance discrepancies."
+description: The newsletter covers key legal updates on medical records access, Initiative 1433 implementation, mandatory sick leave law, ballot title language considerations, unemployment benefits, SAFETY BILL implications, and DOSH guidance discrepancies.
 volume: 15
 edition: 9
 issue: 9
-categories:
-  - "Employment Law"
-  - "Public Records"
-  - "Emergency Services"
-  - "Contract Law"
-  - "Budget & Finance"
-  - "Training & Compliance"
-  - "Litigation"
-tags:
-  - "medical records"
-  - "Initiative 1433"
-  - "sick leave law"
-  - "ballot titles"
-  - "unemployment benefits"
-  - "SAFETY BILL"
-legal_cases:
-  - "Cuesta v. Employment Security Department, No. 75405-0-1 (2017)"
-  - "Initiative 1433"
-legal_statutes:
-  - "RCW 70.02.200"
-  - "RCW 70.02.200 (1)"
-  - "RCW 84.55.050"
-  - "RCW 50.04.294 (1)(d)"
-  - "RCW 296-305-02012"
-source_pdf: "September2017FINAL.pdf"
+categories: 
+tags: 
+legal_cases: 
+legal_statutes: 
+summary: September 2017 newsletter covers medical records access authorization requirements under RCW 70.02.200, Initiative 1433 mandatory sick leave law implementation and ballot title language considerations, SAFETY BILL compliance requirements for body armor usage, unemployment benefits protections including Cuesta v. Employment Security Department precedent, and DOSH guidance discrepancies with state statute requirements for fire department safety compliance.
+source_pdf: September2017FINAL.pdf
 metadata_quality: high
-search_keywords: "Medical Records Act Initiative 1433 Mandatory Sick Leave Law Ballot Title Language SAFETY BILL Unemployment Benefits Washington State Legal Requirements Employee Termination Medical Records Authorizat..."
+search_keywords: Medical Records Act Initiative 1433 Mandatory Sick Leave Law Ballot Title Language SAFETY BILL Unemployment Benefits Washington State Legal Requirements Employee Termination Medical Records Authorizat...
 processed_date: 2025-08-22
 layout: newsletter
 ---
+
 
 # Legal Updates and Compliance
 

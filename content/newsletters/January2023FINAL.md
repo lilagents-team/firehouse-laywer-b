@@ -1,5 +1,5 @@
 ---
-title: "Volume 21, Number 1 - Legal News"
+title: "Norg v. Seattle Fire Department Public Duty Doctrine Ruling and HB 1621 Bid Law Changes"
 date: 2023-01-01
 description: "The newsletter discusses the Public Duty Doctrine case of Norg v. Seattle Fire Department, where the court ruled against the city's defense, emphasizing EMS as a governmental function. It also highlights legislative updates, including HB 1621, which modifies bid laws in Washington state."
 volume: 21
@@ -30,11 +30,12 @@ legal_statutes:
 source_pdf: "January2023FINAL.pdf"
 metadata_quality: high
 search_keywords: "Public Duty Doctrine, Norg v. Seattle Fire Department, HB 1621, RCW 52.14.110, contractor bonds, completion bonds..."
+summary: "The newsletter discusses the Public Duty Doctrine case of Norg v. Seattle Fire Department, where the court ruled against the city's defense, emphasizing EMS as a governmental function. It also highlights legislative updates, including HB 1621, which modifies bid laws in Washington state."
 processed_date: 2025-08-22
 layout: newsletter
 ---
 
-# Volume 21, Number 1 - Legal News
+# Norg v. Seattle Fire Department Public Duty Doctrine Ruling and HB 1621 Bid Law Changes
 
 *Volume 21, Issue 1*
 

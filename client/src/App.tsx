@@ -9,6 +9,7 @@ import Footer from "./components/footer";
 import Home from "./pages/home";
 import Newsletter from "./pages/newsletter";
 import NewsletterDetail from "./pages/newsletter-detail";
+import AdminNewsletters from "./pages/admin-newsletters";
 import PracticeAreas from "./pages/practice-areas";
 import Attorneys from "./pages/attorneys";
 import Contact from "./pages/contact";
@@ -89,6 +90,7 @@ function Router() {
           <Route path="/attorneys" component={Attorneys} />
           <Route path="/contact" component={Contact} />
           <Route path="/admin" component={AdminInfo} />
+          <Route path="/admin/newsletters" component={AdminNewsletters} />
           <Route component={NotFound} />
         </Switch>
       </main>

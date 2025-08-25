@@ -1,9 +1,9 @@
 ---
 title: "Vaccinations are Mandatory!"
-date: None
+date: 2021-08-20
 description: "The document discusses a Washington State Governor's Proclamation requiring health care providers, including EMS workers in various settings, to be fully vaccinated by October 18, 2021. This mandate applies broadly and includes exemptions for religious or disability-related reasons."
 volume: 19
-edition: 8A
+edition: 8
 issue: 8A
 categories:
   - "Emergency Services"
@@ -16,6 +16,7 @@ legal_statutes:
 source_pdf: "August2021FINAL.pdf"
 metadata_quality: medium
 search_keywords: "mandatory vaccination Proclamation 21-14 health care providers EMT paramedic public settings October 18 2021 legal requirements exemptions religious disability..."
+summary: "The document discusses a Washington State Governor's Proclamation requiring health care providers, including EMS workers in various settings, to be fully vaccinated by October 18, 2021. This mandate applies broadly and includes exemptions for religious or disability-related reasons."
 processed_date: 2025-08-22
 layout: newsletter
 ---

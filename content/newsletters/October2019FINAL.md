@@ -2,6 +2,7 @@
 title: "Important Public Records Act Case - Standing Public Records Requests"
 date: 2019-10-01
 description: "The Washington Supreme Court ruled on a significant public records act case, emphasizing the application of temporal exemptions and the handling of redacted records in multi-installment requests."
+summary: "The Washington Supreme Court ruled on a significant public records act case, emphasizing the application of temporal exemptions and the handling of redacted records in multi-installment requests."
 volume: 17
 edition: 10
 issue: 10

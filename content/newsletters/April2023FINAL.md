@@ -1,32 +1,21 @@
 ---
-title: "Firehouse Lawyer: Inside This Issue"
+title: Policy Development and Contract Law Updates - April 2023
 date: 2023-04-01
-description: "The document discusses updates to state legislation, including changes to SB 5618 and its tie to SB 5495, which was shortened until August 1. The effective date of SB 5770 is now September 1. The FLSA includes executive, administrative exemptions with salary tests and primary duties requiring discretion. A responsible bidder column outlines requirements for public bid opportunities. DEI initiatives are highlighted at the Pierce County Fire Commissioners Association event."
+description: The document discusses updates to state legislation, including changes to SB 5618 and its tie to SB 5495, which was shortened until August 1. The effective date of SB 5770 is now September 1. The FLSA includes executive, administrative exemptions with salary tests and primary duties requiring discretion. A responsible bidder column outlines requirements for public bid opportunities. DEI initiatives are highlighted at the Pierce County Fire Commissioners Association event.
 volume: 21
 edition: 4
 issue: 4
-categories:
-  - "Budget & Finance"
-  - "Employment Law"
-  - "Public Record Law"
-  - "Diversity, Equity and Inclusion"
-  - "Contracts"
-tags:
-  - "SB 5618"
-  - "SB 5770"
-  - "SB 5495"
-  - "FLSA"
-  - "DEI initiatives"
-legal_statutes:
-  - "SB 5618"
-  - "SB 5770"
-  - "SB 5495"
-source_pdf: "April2023FINAL.pdf"
+categories: 
+tags: 
+legal_statutes: 
+summary: April 2023 newsletter provides updates on state legislation including SB 5618 changes and shortened tie to SB 5495 until August 1, announces SB 5770 effective date of September 1, examines FLSA executive and administrative exemptions with salary tests and primary duties requiring discretion, outlines responsible bidder requirements for public contract opportunities, and highlights DEI initiatives at Pierce County Fire Commissioners Association event promoting inclusive workforce development.
+source_pdf: April2023FINAL.pdf
 metadata_quality: medium
-search_keywords: "Volume 21, Number 4 Firehouse Lawyer SB 5618 SB 5770 SB 5495 FLSA DEI initiatives Pierce County Fire Commissioners Association Eric T. Quinn Joseph F. Quinn Washington state statutes public contracts ..."
+search_keywords: Volume 21, Number 4 Firehouse Lawyer SB 5618 SB 5770 SB 5495 FLSA DEI initiatives Pierce County Fire Commissioners Association Eric T. Quinn Joseph F. Quinn Washington state statutes public contracts ...
 processed_date: 2025-08-22
 layout: newsletter
 ---
+
 
 # Firehouse Lawyer: Inside This Issue
 

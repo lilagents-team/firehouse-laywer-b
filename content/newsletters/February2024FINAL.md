@@ -1,5 +1,5 @@
 ---
-title: "Legal Updates and Analysis: February 2024"
+title: "FLSA Independent Contractor Rules, HB 2044 Tax Levy Caps, and TIF Constitutionality Ruling"
 date: 2024-02-01
 description: "The newsletter discusses proposed changes to the Fair Labor Standards Act (FLSA) regarding independent contractors, legislative bills such as HB 2044 and ESB 5770, and a significant legal decision concerning the constitutionality of property tax diversions under Tax Increment Financing (TIF) schemes."
 volume: 22
@@ -26,6 +26,7 @@ legal_statutes:
 source_pdf: "February2024FINAL.pdf"
 metadata_quality: high
 search_keywords: "Volume 22, Number 2 Firehouse Lawyer. FLSA Rule on Independent Contractors Will be More Restrictive. Legislation: Bills of Interest. Diversion of Property Taxes in the TIF context may be unconstitutio..."
+summary: "The newsletter discusses proposed changes to the Fair Labor Standards Act (FLSA) regarding independent contractors, legislative bills such as HB 2044 and ESB 5770, and a significant legal decision concerning the constitutionality of property tax diversions under Tax Increment Financing (TIF) schemes."
 processed_date: 2025-08-22
 layout: newsletter
 ---
