@@ -21,7 +21,7 @@
       "original_filename": null,
       "slug": "July2025FINAL",
       "file_size_kb": 0,
-      "metadata_quality": "medium",
+      "metadata_quality": "high",
       "processed_date": "2025-08-22",
       "source_pdf": "July2025FINAL.pdf",
       "pdf_url": "/Newsletters/July2025FINAL.pdf"
@@ -10079,6 +10079,6 @@
     }
   ],
   "total_count": 189,
-  "last_updated": "2025-08-25T06:15:55.345Z",
+  "last_updated": "2025-08-25T06:22:35.905Z",
   "cache_version": "2.0-static"
 }
