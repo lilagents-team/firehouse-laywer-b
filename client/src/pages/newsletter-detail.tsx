@@ -113,14 +113,23 @@ export default function NewsletterDetail() {
     );
   }
 
-  // Format the date for display
-  const formattedDate = newsletter.date 
-    ? new Date(newsletter.date).toLocaleDateString('en-US', {
+  // Format the date for display - parse manually to avoid timezone issues
+  const formattedDate = (() => {
+    if (!newsletter.date) return 'Date not available';
+    
+    const dateParts = newsletter.date.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+    if (dateParts) {
+      const year = parseInt(dateParts[1]);
+      const month = parseInt(dateParts[2]) - 1; // Month is 0-indexed
+      const day = parseInt(dateParts[3]);
+      const dateObj = new Date(year, month, day);
+      return dateObj.toLocaleDateString('en-US', {
         year: 'numeric',
-        month: 'long',
-        day: 'numeric'
-      })
-    : 'Date not available';
+        month: 'long'
+      });
+    }
+    return newsletter.date;
+  })();
 
   return (
     <div>
@@ -198,6 +207,17 @@ export default function NewsletterDetail() {
                     {newsletter.summary}
                   </p>
                 </div>
+
+                {newsletter.description && (
+                  <div className="mb-8">
+                    <h3 className="text-xl font-bebas font-bold text-white mb-4 tracking-wider text-shadow-gritty">
+                      DESCRIPTION
+                    </h3>
+                    <p className="text-gray-100 mb-6 leading-relaxed font-montserrat">
+                      {newsletter.description}
+                    </p>
+                  </div>
+                )}
 
                 <div className="mb-8">
                   <h3 className="text-xl font-bebas font-bold text-white mb-4 tracking-wider text-shadow-gritty">
@@ -300,32 +320,25 @@ export default function NewsletterDetail() {
               </div>
             )}
 
-            {/* Metadata Info */}
-            {(newsletter.metadata_quality || newsletter.processed_date) && (
+
+            {/* Tags */}
+            {newsletter.tags && newsletter.tags.length > 0 && (
               <div className="bg-urban-medium p-6 rounded-lg border border-neon-orange distressed-border urban-shadow-lg">
                 <h3 className="text-xl font-bebas font-bold text-white mb-4 tracking-wider text-shadow-gritty">
-                  METADATA
+                  TAGS
                 </h3>
-                <div className="space-y-2 text-sm text-gray-300">
-                  {newsletter.metadata_quality && (
-                    <div className="flex justify-between">
-                      <span>Quality:</span>
-                      <Badge variant={newsletter.metadata_quality === 'high' ? 'default' : newsletter.metadata_quality === 'medium' ? 'secondary' : newsletter.metadata_quality === 'low' ? 'destructive' : 'outline'} className="text-xs">
-                        {newsletter.metadata_quality.toUpperCase()}
+                <div className="flex flex-wrap gap-2">
+                  {newsletter.tags.map((tag, index) => (
+                    <Link key={index} to={`/newsletter?search=${encodeURIComponent(tag)}`}>
+                      <Badge variant="outline" className="text-xs border-orange-400 text-orange-300 hover:bg-orange-400 hover:text-black transition-colors cursor-pointer">
+                        {tag}
                       </Badge>
-                    </div>
-                  )}
-                  {newsletter.processed_date && (
-                    <div className="flex justify-between">
-                      <span>Processed:</span>
-                      <span className="text-gray-400">
-                        {new Date(newsletter.processed_date).toLocaleDateString()}
-                      </span>
-                    </div>
-                  )}
+                    </Link>
+                  ))}
                 </div>
               </div>
             )}
+
 
             {/* Navigation */}
             <div className="bg-urban-medium p-6 rounded-lg border border-neon-orange distressed-border urban-shadow-lg">

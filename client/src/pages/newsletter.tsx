@@ -247,8 +247,16 @@ export default function Newsletter() {
                           if (!latestNewsletter.date) {
                             return 'RECENT';
                           }
-                          const date = new Date(latestNewsletter.date);
-                          return `${date.toLocaleDateString('en-US', { month: 'long' }).toUpperCase()} ${date.getFullYear()}`;
+                          // Parse YYYY-MM-DD format manually to avoid timezone issues
+                          const dateParts = latestNewsletter.date.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+                          if (dateParts) {
+                            const year = parseInt(dateParts[1]);
+                            const month = parseInt(dateParts[2]) - 1;
+                            const day = parseInt(dateParts[3]);
+                            const dateObj = new Date(year, month, day);
+                            return `${dateObj.toLocaleDateString('en-US', { month: 'long' }).toUpperCase()} ${dateObj.getFullYear()}`;
+                          }
+                          return 'RECENT';
                         })()}
                       </h2>
                       <p className="text-gray-200 font-montserrat text-lg">
@@ -303,8 +311,16 @@ export default function Newsletter() {
                     {latestNewsletter && latestNewsletter.date && (
                       <span className="block text-base font-montserrat text-neon-orange mt-1 font-semibold">
                         Latest: {(() => {
-                          const date = new Date(latestNewsletter.date);
-                          return `${date.toLocaleDateString('en-US', { month: 'long' })} ${date.getFullYear()}`;
+                          // Parse YYYY-MM-DD format manually to avoid timezone issues
+                          const dateParts = latestNewsletter.date.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+                          if (dateParts) {
+                            const year = parseInt(dateParts[1]);
+                            const month = parseInt(dateParts[2]) - 1;
+                            const day = parseInt(dateParts[3]);
+                            const dateObj = new Date(year, month, day);
+                            return `${dateObj.toLocaleDateString('en-US', { month: 'long' })} ${dateObj.getFullYear()}`;
+                          }
+                          return latestNewsletter.date;
                         })()}
                       </span>
                     )}
