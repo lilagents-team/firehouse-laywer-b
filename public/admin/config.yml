@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: lilagents-team/fire-house-lawyer
+  repo: lilagents-team/firehouse-laywer-b
   branch: main
   # Using Netlify's built-in authentication (since site is hosted on Netlify)
   base_url: https://api.netlify.com
@@ -104,10 +104,11 @@ collections:
     label: "Newsletter Issues"
     folder: "content/newsletters"
     create: true
-    slug: "v{{volume}}n{{edition}}-{{slug}}"
+    slug: "{{slug}}"
     media_folder: "public/Newsletters"
     public_folder: "/Newsletters"
     summary: "Vol {{volume}} Ed {{edition}}: {{title}}"
+    identifier_field: "title"
     fields:
       # 1. REQUIRED NEWSLETTER INFORMATION
       - { label: "Title", name: "title", widget: "string", hint: "Full newsletter title (e.g., March 2025 Fire Department Legal Updates)" }
