@@ -72,7 +72,7 @@ export default function PracticeAreas() {
                     variant="outline" 
                     className="border-neon-orange text-white hover:bg-red-600 hover:text-white font-montserrat font-semibold"
                   >
-                    <Link to={`/newsletter?search=${encodeURIComponent("mergers consolidations")}`}>
+                    <Link to={`/archive?search=${encodeURIComponent("mergers consolidations")}`}>
                       View Related Newsletters →
                     </Link>
                   </Button>
@@ -141,7 +141,7 @@ export default function PracticeAreas() {
                     variant="outline" 
                     className="border-neon-orange text-white hover:bg-red-600 hover:text-white font-montserrat font-semibold"
                   >
-                    <Link to={`/newsletter?search=${encodeURIComponent("Public Records Act")}`}>
+                    <Link to={`/archive?search=${encodeURIComponent("Public Records Act")}`}>
                       View Related Newsletters →
                     </Link>
                   </Button>
@@ -164,7 +164,7 @@ export default function PracticeAreas() {
                   className="text-neon-orange hover:text-red-400 p-0 font-montserrat font-semibold uppercase tracking-wide transition-all duration-300"
                   data-testid={`button-learn-more-${index}`}
                 >
-                  <Link to={`/newsletter?search=${encodeURIComponent(area.searchTerm)}`}>
+                  <Link to={`/archive?search=${encodeURIComponent(area.searchTerm)}`}>
                     Learn More →
                   </Link>
                 </Button>

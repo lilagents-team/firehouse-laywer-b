@@ -185,7 +185,7 @@ export default function NewsletterDetail() {
                   </h2>
                   <div className="flex flex-wrap gap-2 mb-4">
                     {newsletter.topics.map((topic, index) => (
-                      <Link key={index} to={`/newsletter?search=${encodeURIComponent(topic)}`}>
+                      <Link key={index} to={`/archive?search=${encodeURIComponent(topic)}`}>
                         <Badge className="bg-neon-orange text-black text-xs hover:bg-red-600 hover:text-white transition-colors cursor-pointer">
                           {topic}
                         </Badge>
@@ -256,7 +256,7 @@ export default function NewsletterDetail() {
                 </h3>
                 <div className="flex flex-wrap gap-2">
                   {newsletter.keywords.map((keyword, index) => (
-                    <Link key={index} to={`/newsletter?search=${encodeURIComponent(keyword)}`}>
+                    <Link key={index} to={`/archive?search=${encodeURIComponent(keyword)}`}>
                       <Badge variant="outline" className="text-xs border-neon-orange text-white hover:bg-neon-orange hover:text-black transition-colors cursor-pointer">
                         {keyword}
                       </Badge>
@@ -274,7 +274,7 @@ export default function NewsletterDetail() {
                 </h3>
                 <div className="flex flex-wrap gap-2">
                   {newsletter.legal_cases.map((case_name, index) => (
-                    <Link key={index} to={`/newsletter?search=${encodeURIComponent(case_name)}`}>
+                    <Link key={index} to={`/archive?search=${encodeURIComponent(case_name)}`}>
                       <Badge variant="outline" className="text-xs border-blue-400 text-blue-300 hover:bg-blue-400 hover:text-black transition-colors cursor-pointer">
                         {case_name}
                       </Badge>
@@ -292,7 +292,7 @@ export default function NewsletterDetail() {
                 </h3>
                 <div className="flex flex-wrap gap-2">
                   {newsletter.legal_statutes.map((statute, index) => (
-                    <Link key={index} to={`/newsletter?search=${encodeURIComponent(statute)}`}>
+                    <Link key={index} to={`/archive?search=${encodeURIComponent(statute)}`}>
                       <Badge variant="outline" className="text-xs border-purple-400 text-purple-300 hover:bg-purple-400 hover:text-black transition-colors cursor-pointer">
                         {statute}
                       </Badge>
@@ -310,7 +310,7 @@ export default function NewsletterDetail() {
                 </h3>
                 <div className="flex flex-wrap gap-2">
                   {newsletter.categories.map((category, index) => (
-                    <Link key={index} to={`/newsletter?search=${encodeURIComponent(category)}`}>
+                    <Link key={index} to={`/archive?search=${encodeURIComponent(category)}`}>
                       <Badge variant="outline" className="text-xs border-green-400 text-green-300 hover:bg-green-400 hover:text-black transition-colors cursor-pointer">
                         {category}
                       </Badge>
@@ -329,7 +329,7 @@ export default function NewsletterDetail() {
                 </h3>
                 <div className="flex flex-wrap gap-2">
                   {newsletter.tags.map((tag, index) => (
-                    <Link key={index} to={`/newsletter?search=${encodeURIComponent(tag)}`}>
+                    <Link key={index} to={`/archive?search=${encodeURIComponent(tag)}`}>
                       <Badge variant="outline" className="text-xs border-orange-400 text-orange-300 hover:bg-orange-400 hover:text-black transition-colors cursor-pointer">
                         {tag}
                       </Badge>

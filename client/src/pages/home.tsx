@@ -45,7 +45,7 @@ export default function Home() {
   }, [heroImages.length]);
 
   const handlePracticeAreaClick = (searchTerm: string) => {
-    setLocation(`/newsletter?search=${encodeURIComponent(searchTerm)}`);
+    setLocation(`/archive?search=${encodeURIComponent(searchTerm)}`);
   };
 
 

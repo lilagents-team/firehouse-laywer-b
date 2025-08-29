@@ -1,0 +1,437 @@
+[
+  {
+    "name": "Fair Labor Standards Act",
+    "slug": "fair-labor-standards-act",
+    "count": 111
+  },
+  {
+    "name": "Civil Actions",
+    "slug": "civil-actions",
+    "count": 108
+  },
+  {
+    "name": "Public Records Act",
+    "slug": "public-records-act",
+    "count": 89
+  },
+  {
+    "name": "Public Bid Laws",
+    "slug": "public-bid-laws",
+    "count": 80
+  },
+  {
+    "name": "Safety",
+    "slug": "safety",
+    "count": 66
+  },
+  {
+    "name": "Legislation of Interest",
+    "slug": "legislation-of-interest",
+    "count": 64
+  },
+  {
+    "name": "Collective Bargaining",
+    "slug": "collective-bargaining",
+    "count": 60
+  },
+  {
+    "name": "Americans with Disabilities Act",
+    "slug": "americans-with-disabilities-act",
+    "count": 58
+  },
+  {
+    "name": "Open Public Meetings Act",
+    "slug": "open-public-meetings-act",
+    "count": 47
+  },
+  {
+    "name": "Property Taxes",
+    "slug": "property-taxes",
+    "count": 44
+  },
+  {
+    "name": "Powers of Municipal Corporations",
+    "slug": "powers-of-municipal-corporations",
+    "count": 37
+  },
+  {
+    "name": "HIPAA",
+    "slug": "hipaa",
+    "count": 36
+  },
+  {
+    "name": "Family Medical Leave Act",
+    "slug": "family-medical-leave-act",
+    "count": 34
+  },
+  {
+    "name": "Discipline and Discharge",
+    "slug": "discipline-and-discharge",
+    "count": 32
+  },
+  {
+    "name": "Fire Commissioners",
+    "slug": "fire-commissioners",
+    "count": 31
+  },
+  {
+    "name": "Washington Law Against Discrimination: RCW 49.60",
+    "slug": "washington-law-against-discrimination-rcw-49-60",
+    "count": 31
+  },
+  {
+    "name": "First Amendment",
+    "slug": "first-amendment",
+    "count": 28
+  },
+  {
+    "name": "United States Supreme Court Opinions",
+    "slug": "united-states-supreme-court-opinions",
+    "count": 28
+  },
+  {
+    "name": "Worker's Compensation and Industrial Insurance",
+    "slug": "worker-s-compensation-and-industrial-insurance",
+    "count": 25
+  },
+  {
+    "name": "Arbitration",
+    "slug": "arbitration",
+    "count": 23
+  },
+  {
+    "name": "Regional Fire Authorities",
+    "slug": "regional-fire-authorities",
+    "count": 19
+  },
+  {
+    "name": "Title VII",
+    "slug": "title-vii",
+    "count": 19
+  },
+  {
+    "name": "The Washington Health Care Information Act: RCW 70.02",
+    "slug": "the-washington-health-care-information-act-rcw-70-02",
+    "count": 18
+  },
+  {
+    "name": "Volunteering",
+    "slug": "volunteering",
+    "count": 18
+  },
+  {
+    "name": "Fourth Amendment",
+    "slug": "fourth-amendment",
+    "count": 17
+  },
+  {
+    "name": "State Auditor",
+    "slug": "state-auditor",
+    "count": 17
+  },
+  {
+    "name": "Elections",
+    "slug": "elections",
+    "count": 16
+  },
+  {
+    "name": "The Interlocal Cooperation Act: RCW 39.34",
+    "slug": "the-interlocal-cooperation-act-rcw-39-34",
+    "count": 16
+  },
+  {
+    "name": "Random Laws",
+    "slug": "random-laws",
+    "count": 15
+  },
+  {
+    "name": "Benefit Charges",
+    "slug": "benefit-charges",
+    "count": 14
+  },
+  {
+    "name": "Unfair Labor Practices",
+    "slug": "unfair-labor-practices",
+    "count": 14
+  },
+  {
+    "name": "Age Discrimination",
+    "slug": "age-discrimination",
+    "count": 13
+  },
+  {
+    "name": "Public Disclosure Commission",
+    "slug": "public-disclosure-commission",
+    "count": 12
+  },
+  {
+    "name": "Records Retention",
+    "slug": "records-retention",
+    "count": 12
+  },
+  {
+    "name": "Federal Legislation and Regulations",
+    "slug": "federal-legislation-and-regulations",
+    "count": 11
+  },
+  {
+    "name": "Wage Claims",
+    "slug": "wage-claims",
+    "count": 11
+  },
+  {
+    "name": "National Labor Relations Act",
+    "slug": "national-labor-relations-act",
+    "count": 10
+  },
+  {
+    "name": "Retirement Issues",
+    "slug": "retirement-issues",
+    "count": 10
+  },
+  {
+    "name": "Veterans",
+    "slug": "veterans",
+    "count": 10
+  },
+  {
+    "name": "Washington Collective Bargaining Act: RCW 41.56",
+    "slug": "washington-collective-bargaining-act-rcw-41-56",
+    "count": 10
+  },
+  {
+    "name": "Impact Fees",
+    "slug": "impact-fees",
+    "count": 9
+  },
+  {
+    "name": "Emergency Management Act : RCW 38.52",
+    "slug": "emergency-management-act-rcw-38-52",
+    "count": 8
+  },
+  {
+    "name": "Job-Related Misconduct",
+    "slug": "job-related-misconduct",
+    "count": 8
+  },
+  {
+    "name": "Mergers and Annexations",
+    "slug": "mergers-and-annexations",
+    "count": 8
+  },
+  {
+    "name": "Affirmative Action",
+    "slug": "affirmative-action",
+    "count": 7
+  },
+  {
+    "name": "Disability Leave Supplement: RCW 41.04.500",
+    "slug": "disability-leave-supplement-rcw-41-04-500",
+    "count": 7
+  },
+  {
+    "name": "Local Improvement Districts",
+    "slug": "local-improvement-districts",
+    "count": 7
+  },
+  {
+    "name": "Unemployment Compensation",
+    "slug": "unemployment-compensation",
+    "count": 7
+  },
+  {
+    "name": "Contracts with Indian Tribes",
+    "slug": "contracts-with-indian-tribes",
+    "count": 6
+  },
+  {
+    "name": "Drug and Alcohol-Free Workplace",
+    "slug": "drug-and-alcohol-free-workplace",
+    "count": 6
+  },
+  {
+    "name": "Washington Minimum Wage Act: RCW 49.46",
+    "slug": "washington-minimum-wage-act-rcw-49-46",
+    "count": 6
+  },
+  {
+    "name": "Washington State Environmental Policy Act: RCW 43.21C",
+    "slug": "washington-state-environmental-policy-act-rcw-43-21c",
+    "count": 6
+  },
+  {
+    "name": "Community Paramedicine",
+    "slug": "community-paramedicine",
+    "count": 5
+  },
+  {
+    "name": "Consolidation",
+    "slug": "consolidation",
+    "count": 5
+  },
+  {
+    "name": "Internal Revenue Service",
+    "slug": "internal-revenue-service",
+    "count": 5
+  },
+  {
+    "name": "Medicaid and Medicare Billing",
+    "slug": "medicaid-and-medicare-billing",
+    "count": 5
+  },
+  {
+    "name": "Charges for Emergency Medical Services",
+    "slug": "charges-for-emergency-medical-services",
+    "count": 4
+  },
+  {
+    "name": "Child Abuse",
+    "slug": "child-abuse",
+    "count": 4
+  },
+  {
+    "name": "Email and Internet",
+    "slug": "email-and-internet",
+    "count": 4
+  },
+  {
+    "name": "Miscellaneous Financing Issues",
+    "slug": "miscellaneous-financing-issues",
+    "count": 4
+  },
+  {
+    "name": "Negotiation Basics",
+    "slug": "negotiation-basics",
+    "count": 4
+  },
+  {
+    "name": "Response Standards",
+    "slug": "response-standards",
+    "count": 4
+  },
+  {
+    "name": "Tax Increment Financing",
+    "slug": "tax-increment-financing",
+    "count": 4
+  },
+  {
+    "name": "Business-and-Occupation Taxes",
+    "slug": "business-and-occupation-taxes",
+    "count": 3
+  },
+  {
+    "name": "Independent Contractors",
+    "slug": "independent-contractors",
+    "count": 3
+  },
+  {
+    "name": "Taxation of Governmental Functions",
+    "slug": "taxation-of-governmental-functions",
+    "count": 3
+  },
+  {
+    "name": "Time Loss",
+    "slug": "time-loss",
+    "count": 3
+  },
+  {
+    "name": "Burn Permits",
+    "slug": "burn-permits",
+    "count": 2
+  },
+  {
+    "name": "Fire Hydrants",
+    "slug": "fire-hydrants",
+    "count": 2
+  },
+  {
+    "name": "Identity Theft",
+    "slug": "identity-theft",
+    "count": 2
+  },
+  {
+    "name": "Labor Management Relations Act",
+    "slug": "labor-management-relations-act",
+    "count": 2
+  },
+  {
+    "name": "Public Safety Sales Tax",
+    "slug": "public-safety-sales-tax",
+    "count": 2
+  },
+  {
+    "name": "Public Works",
+    "slug": "public-works",
+    "count": 2
+  },
+  {
+    "name": "Same-Sex Harassment",
+    "slug": "same-sex-harassment",
+    "count": 2
+  },
+  {
+    "name": "Surplus of Real Property: RCW 39.33.020",
+    "slug": "surplus-of-real-property-rcw-39-33-020",
+    "count": 2
+  },
+  {
+    "name": "Wage Rebates",
+    "slug": "wage-rebates",
+    "count": 2
+  },
+  {
+    "name": "Ambulance Licensing",
+    "slug": "ambulance-licensing",
+    "count": 1
+  },
+  {
+    "name": "Cellular Site Leases",
+    "slug": "cellular-site-leases",
+    "count": 1
+  },
+  {
+    "name": "Chaplains and \"Peer Support Group Counselors\"",
+    "slug": "chaplains-and-peer-support-group-counselors-",
+    "count": 1
+  },
+  {
+    "name": "Commissioner Associations",
+    "slug": "commissioner-associations",
+    "count": 1
+  },
+  {
+    "name": "Dating in the Workplace",
+    "slug": "dating-in-the-workplace",
+    "count": 1
+  },
+  {
+    "name": "Military Leave: RCW 38.40.060",
+    "slug": "military-leave-rcw-38-40-060",
+    "count": 1
+  },
+  {
+    "name": "Nepotism in Hiring",
+    "slug": "nepotism-in-hiring",
+    "count": 1
+  },
+  {
+    "name": "Public Employee Strikes",
+    "slug": "public-employee-strikes",
+    "count": 1
+  },
+  {
+    "name": "Residency Requirements",
+    "slug": "residency-requirements",
+    "count": 1
+  },
+  {
+    "name": "Surplus of Personal Property: RCW 39.33.020",
+    "slug": "surplus-of-personal-property-rcw-39-33-020",
+    "count": 1
+  },
+  {
+    "name": "Washington State Family Medical Leave Act: RCW 49.78",
+    "slug": "washington-state-family-medical-leave-act-rcw-49-78",
+    "count": 1
+  }
+]

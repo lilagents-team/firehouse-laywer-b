@@ -1,0 +1,3818 @@
+{
+  "topics": [
+    {
+      "name": "Affirmative Action",
+      "commentary_ids": [
+        "000001",
+        "000002",
+        "000003",
+        "000004",
+        "000005",
+        "000006",
+        "000007"
+      ]
+    },
+    {
+      "name": "Age Discrimination",
+      "commentary_ids": [
+        "000008",
+        "000009",
+        "000010",
+        "000011",
+        "000012",
+        "000013",
+        "000014",
+        "000015"
+      ],
+      "subtopics": [
+        {
+          "name": "Discriminatory Intent",
+          "commentary_ids": [
+            "000016"
+          ]
+        },
+        {
+          "name": "Releases of Liability",
+          "commentary_ids": [
+            "000017",
+            "000018"
+          ]
+        },
+        {
+          "name": "The Age Discrimination in Employment Act (ADEA)",
+          "commentary_ids": [
+            "000019",
+            "000020"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ambulance Licensing",
+      "commentary_ids": [
+        "000021"
+      ]
+    },
+    {
+      "name": "Americans with Disabilities Act",
+      "commentary_ids": [
+        "000022",
+        "000023",
+        "000024",
+        "000025",
+        "000026",
+        "000027",
+        "000028",
+        "000029",
+        "000030",
+        "000031",
+        "000032",
+        "000033",
+        "000034",
+        "000035",
+        "000036",
+        "000037",
+        "000038",
+        "000039",
+        "000040",
+        "000041",
+        "000042",
+        "000043",
+        "000044",
+        "000045",
+        "000046",
+        "000047",
+        "000048"
+      ],
+      "subtopics": [
+        {
+          "name": "\"Disparate Impact\" Treatment",
+          "commentary_ids": [
+            "000049",
+            "000050"
+          ]
+        },
+        {
+          "name": "\"Qualified Individual with a Disability\"",
+          "commentary_ids": [
+            "000051",
+            "000052",
+            "000053"
+          ]
+        },
+        {
+          "name": "\"Regarded as\" Disabled",
+          "commentary_ids": [
+            "000054"
+          ]
+        },
+        {
+          "name": "Amendments Act of 2008",
+          "commentary_ids": [
+            "000055"
+          ]
+        },
+        {
+          "name": "Bona Fide Occupational Qualifications (BFOQs)",
+          "commentary_ids": [
+            "000056",
+            "000057",
+            "000058",
+            "000059",
+            "000060"
+          ]
+        },
+        {
+          "name": "Conditional Offers of Employment",
+          "commentary_ids": [
+            "000061",
+            "000062",
+            "000063"
+          ]
+        },
+        {
+          "name": "Equivalent Positions",
+          "commentary_ids": [
+            "000064"
+          ]
+        },
+        {
+          "name": "Indefinite Leave",
+          "commentary_ids": [
+            "000065",
+            "000066"
+          ]
+        },
+        {
+          "name": "Inquiries into Disabilities",
+          "commentary_ids": [
+            "000067",
+            "000068"
+          ]
+        },
+        {
+          "name": "Job Descriptions",
+          "commentary_ids": [
+            "000069",
+            "000070"
+          ]
+        },
+        {
+          "name": "No Individual Liability",
+          "commentary_ids": [
+            "000071"
+          ]
+        },
+        {
+          "name": "Obesity",
+          "commentary_ids": [
+            "000072"
+          ]
+        },
+        {
+          "name": "Pre-Employment Inquiries",
+          "commentary_ids": [
+            "000073",
+            "000074"
+          ]
+        },
+        {
+          "name": "Race Discrimination",
+          "commentary_ids": [
+            "000075"
+          ]
+        },
+        {
+          "name": "Signs",
+          "commentary_ids": [
+            "000076"
+          ]
+        },
+        {
+          "name": "The Duty to Accommodate",
+          "commentary_ids": [
+            "000077",
+            "000078"
+          ]
+        },
+        {
+          "name": "Who is an \"Employee\" under the Act?",
+          "commentary_ids": [
+            "000079"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Arbitration",
+      "commentary_ids": [
+        "000080",
+        "000081",
+        "000082",
+        "000083",
+        "000084",
+        "000085",
+        "000086",
+        "000087",
+        "000088",
+        "000089",
+        "000090",
+        "000091"
+      ],
+      "subtopics": [
+        {
+          "name": "Arbitrability Defenses",
+          "commentary_ids": [
+            "000092"
+          ]
+        },
+        {
+          "name": "Comparable Jurisdictions",
+          "commentary_ids": [
+            "000093",
+            "000094"
+          ]
+        },
+        {
+          "name": "Compulsory Arbitration and Title VII Claims",
+          "commentary_ids": [
+            "000095"
+          ]
+        },
+        {
+          "name": "Exhaustion of Administrative Remedies",
+          "commentary_ids": [
+            "000096"
+          ]
+        },
+        {
+          "name": "Interest Arbitration",
+          "commentary_ids": [
+            "000097",
+            "000098"
+          ]
+        },
+        {
+          "name": "Public Policy Concerns",
+          "commentary_ids": [
+            "000099"
+          ]
+        },
+        {
+          "name": "Put Everything in Writing",
+          "commentary_ids": [
+            "000100"
+          ]
+        },
+        {
+          "name": "The Deferral Doctrine",
+          "commentary_ids": [
+            "000101"
+          ]
+        },
+        {
+          "name": "Vacation of Arbitration Awards",
+          "commentary_ids": [
+            "000102"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Benefit Charges",
+      "commentary_ids": [
+        "000103",
+        "000104",
+        "000105",
+        "000106",
+        "000107",
+        "000108",
+        "000109",
+        "000110",
+        "000111",
+        "000112",
+        "000113",
+        "000114"
+      ],
+      "subtopics": [
+        {
+          "name": "Religious Organizations",
+          "commentary_ids": [
+            "000115",
+            "000116"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Burn Permits",
+      "commentary_ids": [
+        "000117",
+        "000118"
+      ]
+    },
+    {
+      "name": "Business-and-Occupation Taxes",
+      "commentary_ids": [
+        "000119",
+        "000120"
+      ],
+      "subtopics": [
+        {
+          "name": "Exemption for \"Fire District Activities\"",
+          "commentary_ids": [
+            "000121"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cellular Site Leases",
+      "commentary_ids": [
+        "000122"
+      ]
+    },
+    {
+      "name": "Chaplains and \"Peer Support Group Counselors\"",
+      "commentary_ids": [
+        "000123"
+      ]
+    },
+    {
+      "name": "Charges for Emergency Medical Services",
+      "commentary_ids": [
+        "000124",
+        "000125",
+        "000126"
+      ],
+      "subtopics": [
+        {
+          "name": "Charging Non-Residents",
+          "commentary_ids": [
+            "000127"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Child Abuse",
+      "commentary_ids": [
+        "000128",
+        "000129",
+        "000130",
+        "000131"
+      ]
+    },
+    {
+      "name": "Civil Actions",
+      "commentary_ids": [
+        "000132",
+        "000133",
+        "000134",
+        "000135",
+        "000136",
+        "000137",
+        "000138",
+        "000139",
+        "000140",
+        "000141",
+        "000142",
+        "000143",
+        "000144",
+        "000145",
+        "000146",
+        "000147",
+        "000148",
+        "000149",
+        "000150",
+        "000151",
+        "000152",
+        "000153",
+        "000154",
+        "000155",
+        "000156",
+        "000157",
+        "000158",
+        "000159",
+        "000160",
+        "000161",
+        "000162",
+        "000163",
+        "000164",
+        "000165",
+        "000166",
+        "000167",
+        "000168",
+        "000169",
+        "000170",
+        "000171",
+        "000172",
+        "000173",
+        "000174",
+        "000175",
+        "000176",
+        "000177",
+        "000178",
+        "000179",
+        "000180",
+        "000181",
+        "000182",
+        "000183",
+        "000184",
+        "000185",
+        "000186",
+        "000187",
+        "000188",
+        "000189",
+        "000190"
+      ],
+      "subtopics": [
+        {
+          "name": "Attorney-Client Privileged Communications",
+          "commentary_ids": [
+            "000191"
+          ]
+        },
+        {
+          "name": "Bystander Negligence",
+          "commentary_ids": [
+            "000192"
+          ]
+        },
+        {
+          "name": "Claims Agents under RCW 4.96",
+          "commentary_ids": [
+            "000193",
+            "000194"
+          ]
+        },
+        {
+          "name": "Defamation",
+          "commentary_ids": [
+            "000195",
+            "000196",
+            "000197",
+            "000198"
+          ]
+        },
+        {
+          "name": "Emergency Scenes",
+          "commentary_ids": [
+            "000199"
+          ]
+        },
+        {
+          "name": "Firefighter's Rule",
+          "commentary_ids": [
+            "000200",
+            "000201",
+            "000202"
+          ]
+        },
+        {
+          "name": "Invasion of Privacy Claims",
+          "commentary_ids": [
+            "000203",
+            "000204"
+          ]
+        },
+        {
+          "name": "Involuntary Detention",
+          "commentary_ids": [
+            "000205"
+          ]
+        },
+        {
+          "name": "LEOFF II Employees",
+          "commentary_ids": [
+            "000206"
+          ]
+        },
+        {
+          "name": "Mutual Aid in Rural Fire Districts",
+          "commentary_ids": [
+            "000207"
+          ]
+        },
+        {
+          "name": "Negligence Claims",
+          "commentary_ids": [
+            "000208",
+            "000209",
+            "000210",
+            "000211",
+            "000212",
+            "000213",
+            "000214"
+          ]
+        },
+        {
+          "name": "No Cause of Action for Refusing to Re-hire",
+          "commentary_ids": [
+            "000215"
+          ]
+        },
+        {
+          "name": "Non-Disparagement Clauses",
+          "commentary_ids": [
+            "000216"
+          ]
+        },
+        {
+          "name": "Privilege of \"Peer Support Group Counselors\"",
+          "commentary_ids": [
+            "000217"
+          ]
+        },
+        {
+          "name": "Professional Rescuer Doctrine",
+          "commentary_ids": [
+            "000218",
+            "000219",
+            "000220"
+          ]
+        },
+        {
+          "name": "Public Duty Doctrine",
+          "commentary_ids": [
+            "000221",
+            "000222",
+            "000223",
+            "000224",
+            "000225",
+            "000226",
+            "000227",
+            "000228",
+            "000229"
+          ]
+        },
+        {
+          "name": "Reports as Evidence",
+          "commentary_ids": [
+            "000230"
+          ]
+        },
+        {
+          "name": "Responding to Claims",
+          "commentary_ids": [
+            "000231"
+          ]
+        },
+        {
+          "name": "Use of Personal Vehicles During Work",
+          "commentary_ids": [
+            "000232"
+          ]
+        },
+        {
+          "name": "Volunteers May Sue for Negligent Injuries at Work",
+          "commentary_ids": [
+            "000233"
+          ]
+        },
+        {
+          "name": "Wrongful Discharge in Violation of Public Policy",
+          "commentary_ids": [
+            "000234",
+            "000235",
+            "000236",
+            "000237",
+            "000238",
+            "000239"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Collective Bargaining",
+      "commentary_ids": [
+        "000240",
+        "000241",
+        "000242",
+        "000243",
+        "000244",
+        "000245",
+        "000246",
+        "000247",
+        "000248",
+        "000249",
+        "000250",
+        "000251",
+        "000252",
+        "000253",
+        "000254",
+        "000255",
+        "000256",
+        "000257",
+        "000258",
+        "000259",
+        "000260",
+        "000261",
+        "000262",
+        "000263",
+        "000264",
+        "000265",
+        "000266",
+        "000267",
+        "000268"
+      ],
+      "subtopics": [
+        {
+          "name": "Bargaining Subjects",
+          "commentary_ids": [
+            "000269",
+            "000270",
+            "000271",
+            "000272",
+            "000273",
+            "000274",
+            "000275"
+          ]
+        },
+        {
+          "name": "Civil Service",
+          "commentary_ids": [
+            "000276"
+          ]
+        },
+        {
+          "name": "Garrity Rights",
+          "commentary_ids": [
+            "000277"
+          ]
+        },
+        {
+          "name": "Joint Employers",
+          "commentary_ids": [
+            "000278"
+          ]
+        },
+        {
+          "name": "Light Duty",
+          "commentary_ids": [
+            "000279"
+          ]
+        },
+        {
+          "name": "Management Rights",
+          "commentary_ids": [
+            "000280",
+            "000281",
+            "000282",
+            "000283"
+          ]
+        },
+        {
+          "name": "Managing Labor Negotiations",
+          "commentary_ids": [
+            "000284",
+            "000285",
+            "000286",
+            "000287",
+            "000288",
+            "000289",
+            "000290"
+          ]
+        },
+        {
+          "name": "Requests for Information",
+          "commentary_ids": [
+            "000291"
+          ]
+        },
+        {
+          "name": "Retroactive Decrease in Benefits",
+          "commentary_ids": [
+            "000292"
+          ]
+        },
+        {
+          "name": "Supplemental  Pensions",
+          "commentary_ids": [
+            "000293",
+            "000294"
+          ]
+        },
+        {
+          "name": "The Right of Non-Association",
+          "commentary_ids": [
+            "000295",
+            "000296"
+          ]
+        },
+        {
+          "name": "Unilateral Changes",
+          "commentary_ids": [
+            "000297",
+            "000298",
+            "000299"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Commissioner Associations",
+      "commentary_ids": [
+        "000300"
+      ]
+    },
+    {
+      "name": "Community Paramedicine",
+      "commentary_ids": [
+        "000301",
+        "000302",
+        "000303"
+      ],
+      "subtopics": [
+        {
+          "name": "Provision by Fire Districts and RFA's",
+          "commentary_ids": [
+            "000304"
+          ]
+        },
+        {
+          "name": "Scope of Practice Issues",
+          "commentary_ids": [
+            "000305"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Consolidation",
+      "commentary_ids": [
+        "000306",
+        "000307",
+        "000308",
+        "000309"
+      ],
+      "subtopics": [
+        {
+          "name": "Consolidation v. Merger",
+          "commentary_ids": [
+            "000310"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Contracts with Indian Tribes",
+      "commentary_ids": [
+        "000311",
+        "000312",
+        "000313",
+        "000314",
+        "000315",
+        "000316"
+      ]
+    },
+    {
+      "name": "Dating in the Workplace",
+      "commentary_ids": [
+        "000317"
+      ]
+    },
+    {
+      "name": "Disability Leave Supplement: RCW 41.04.500",
+      "commentary_ids": [
+        "000318",
+        "000319",
+        "000320",
+        "000321"
+      ],
+      "subtopics": [
+        {
+          "name": "Making the Employee Whole: Issues with Income Taxes",
+          "commentary_ids": [
+            "000322"
+          ]
+        },
+        {
+          "name": "Promotional Examinations",
+          "commentary_ids": [
+            "000323"
+          ]
+        },
+        {
+          "name": "Retirement Service Credits",
+          "commentary_ids": [
+            "000324"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Discipline and Discharge",
+      "commentary_ids": [
+        "000325",
+        "000326",
+        "000327",
+        "000328",
+        "000329",
+        "000330",
+        "000331",
+        "000332",
+        "000333",
+        "000334",
+        "000335",
+        "000336",
+        "000337",
+        "000338",
+        "000339",
+        "000340",
+        "000341",
+        "000342",
+        "000343"
+      ],
+      "subtopics": [
+        {
+          "name": "At Will Employees",
+          "commentary_ids": [
+            "000344"
+          ]
+        },
+        {
+          "name": "Credit Checks",
+          "commentary_ids": [
+            "000345"
+          ]
+        },
+        {
+          "name": "Free Speech",
+          "commentary_ids": [
+            "000346"
+          ]
+        },
+        {
+          "name": "Last Chance Agreements",
+          "commentary_ids": [
+            "000347"
+          ]
+        },
+        {
+          "name": "Layoffs v. Termination for Cause",
+          "commentary_ids": [
+            "000348"
+          ]
+        },
+        {
+          "name": "Loudermill Hearings",
+          "commentary_ids": [
+            "000349",
+            "000350",
+            "000351"
+          ]
+        },
+        {
+          "name": "Weingarten Doctrine",
+          "commentary_ids": [
+            "000352",
+            "000353"
+          ]
+        },
+        {
+          "name": "Wrongful Discharge Actions",
+          "commentary_ids": [
+            "000354",
+            "000355",
+            "000356"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Drug and Alcohol-Free Workplace",
+      "commentary_ids": [
+        "000357",
+        "000358",
+        "000359"
+      ],
+      "subtopics": [
+        {
+          "name": "Marijuana and Drug Testing",
+          "commentary_ids": [
+            "000360",
+            "000361"
+          ]
+        },
+        {
+          "name": "Random Drug Testing",
+          "commentary_ids": [
+            "000362"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elections",
+      "commentary_ids": [
+        "000363",
+        "000364",
+        "000365",
+        "000366",
+        "000367",
+        "000368",
+        "000369",
+        "000370",
+        "000371"
+      ],
+      "subtopics": [
+        {
+          "name": "Ballot Propositions",
+          "commentary_ids": [
+            "000372",
+            "000373"
+          ]
+        },
+        {
+          "name": "Counting Words in Ballot Titles",
+          "commentary_ids": [
+            "000374",
+            "000375"
+          ]
+        },
+        {
+          "name": "Recall Laws",
+          "commentary_ids": [
+            "000376",
+            "000377",
+            "000378"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Email and Internet",
+      "commentary_ids": [
+        "000379",
+        "000380"
+      ],
+      "subtopics": [
+        {
+          "name": "Policies",
+          "commentary_ids": [
+            "000381",
+            "000382"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Emergency Management Act : RCW 38.52",
+      "commentary_ids": [
+        "000383",
+        "000384",
+        "000385",
+        "000386",
+        "000387"
+      ],
+      "subtopics": [
+        {
+          "name": "Continuation of Government Functions",
+          "commentary_ids": [
+            "000388",
+            "000389"
+          ]
+        },
+        {
+          "name": "Grants",
+          "commentary_ids": [
+            "000390"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fair Labor Standards Act",
+      "commentary_ids": [
+        "000391",
+        "000392",
+        "000393",
+        "000394",
+        "000395",
+        "000396",
+        "000397",
+        "000398",
+        "000399",
+        "000400",
+        "000401",
+        "000402",
+        "000403",
+        "000404",
+        "000405",
+        "000406",
+        "000407",
+        "000408",
+        "000409",
+        "000410",
+        "000411",
+        "000412",
+        "000413",
+        "000414",
+        "000415",
+        "000416",
+        "000417",
+        "000418",
+        "000419",
+        "000420",
+        "000421",
+        "000422",
+        "000423",
+        "000424",
+        "000425",
+        "000426",
+        "000427",
+        "000428",
+        "000429",
+        "000430",
+        "000431",
+        "000432",
+        "000433",
+        "000434",
+        "000435",
+        "000436",
+        "000437",
+        "000438",
+        "000439",
+        "000440"
+      ],
+      "subtopics": [
+        {
+          "name": "\"Off the Clock\" Work",
+          "commentary_ids": [
+            "000441"
+          ]
+        },
+        {
+          "name": "\"Regular Rate\"",
+          "commentary_ids": [
+            "000442",
+            "000443"
+          ]
+        },
+        {
+          "name": "\"White Collar\" Exemptions",
+          "commentary_ids": [
+            "000444",
+            "000445",
+            "000446",
+            "000447"
+          ]
+        },
+        {
+          "name": "207 (k) Exemption",
+          "commentary_ids": [
+            "000448",
+            "000449",
+            "000450",
+            "000451",
+            "000452",
+            "000453",
+            "000454",
+            "000455",
+            "000456"
+          ]
+        },
+        {
+          "name": "Administrative Exemption",
+          "commentary_ids": [
+            "000457",
+            "000458",
+            "000459"
+          ]
+        },
+        {
+          "name": "Applicability to Municipal Governments",
+          "commentary_ids": [
+            "000460"
+          ]
+        },
+        {
+          "name": "Building Officials Exempt",
+          "commentary_ids": [
+            "000461",
+            "000462"
+          ]
+        },
+        {
+          "name": "Class Time",
+          "commentary_ids": [
+            "000463"
+          ]
+        },
+        {
+          "name": "Compensatory Time",
+          "commentary_ids": [
+            "000464",
+            "000465",
+            "000466",
+            "000467",
+            "000468",
+            "000469",
+            "000470",
+            "000471",
+            "000472",
+            "000473"
+          ]
+        },
+        {
+          "name": "Computer Professionals Exempt",
+          "commentary_ids": [
+            "000474"
+          ]
+        },
+        {
+          "name": "Confidential Employees and Bargaining Units",
+          "commentary_ids": [
+            "000475"
+          ]
+        },
+        {
+          "name": "Delay in Payment",
+          "commentary_ids": [
+            "000476"
+          ]
+        },
+        {
+          "name": "Establishing the Work Period",
+          "commentary_ids": [
+            "000477",
+            "000478"
+          ]
+        },
+        {
+          "name": "Fluctuating Workweeks",
+          "commentary_ids": [
+            "000479"
+          ]
+        },
+        {
+          "name": "Hourly v. Salary Employees",
+          "commentary_ids": [
+            "000480"
+          ]
+        },
+        {
+          "name": "Improper Pay Deductions",
+          "commentary_ids": [
+            "000481"
+          ]
+        },
+        {
+          "name": "On-Call Pay",
+          "commentary_ids": [
+            "000482",
+            "000483",
+            "000484",
+            "000485",
+            "000486"
+          ]
+        },
+        {
+          "name": "Partial Pay Docking",
+          "commentary_ids": [
+            "000487"
+          ]
+        },
+        {
+          "name": "Pay Deductions for Safety Violations",
+          "commentary_ids": [
+            "000488"
+          ]
+        },
+        {
+          "name": "Personal Activities",
+          "commentary_ids": [
+            "000489"
+          ]
+        },
+        {
+          "name": "Preemption of State Law",
+          "commentary_ids": [
+            "000490"
+          ]
+        },
+        {
+          "name": "Salary Basis Test",
+          "commentary_ids": [
+            "000491",
+            "000492"
+          ]
+        },
+        {
+          "name": "Shift Trades and Fill-ins",
+          "commentary_ids": [
+            "000493"
+          ]
+        },
+        {
+          "name": "Sick Leave Buy-Back",
+          "commentary_ids": [
+            "000494"
+          ]
+        },
+        {
+          "name": "Sleep Periods",
+          "commentary_ids": [
+            "000495",
+            "000496"
+          ]
+        },
+        {
+          "name": "State Immunity from Private FLSA Lawsuits",
+          "commentary_ids": [
+            "000497"
+          ]
+        },
+        {
+          "name": "Training Time",
+          "commentary_ids": [
+            "000498"
+          ]
+        },
+        {
+          "name": "Travel Time",
+          "commentary_ids": [
+            "000499"
+          ]
+        },
+        {
+          "name": "Volunteers",
+          "commentary_ids": [
+            "000500"
+          ]
+        },
+        {
+          "name": "What the FLSA Does Not Require",
+          "commentary_ids": [
+            "000501"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Family Medical Leave Act",
+      "commentary_ids": [
+        "000502",
+        "000503",
+        "000504",
+        "000505",
+        "000506",
+        "000507",
+        "000508",
+        "000509",
+        "000510",
+        "000511",
+        "000512",
+        "000513",
+        "000514",
+        "000515",
+        "000516",
+        "000517",
+        "000518",
+        "000519",
+        "000520"
+      ],
+      "subtopics": [
+        {
+          "name": "\"Serious Health Condition\"",
+          "commentary_ids": [
+            "000521",
+            "000522"
+          ]
+        },
+        {
+          "name": "Excessive Absenteeism",
+          "commentary_ids": [
+            "000523"
+          ]
+        },
+        {
+          "name": "Family Leave for Military Members",
+          "commentary_ids": [
+            "000524"
+          ]
+        },
+        {
+          "name": "Medical Necessity",
+          "commentary_ids": [
+            "000525"
+          ]
+        },
+        {
+          "name": "Notification of FMLA Rights",
+          "commentary_ids": [
+            "000526"
+          ]
+        },
+        {
+          "name": "Physician Certification",
+          "commentary_ids": [
+            "000527"
+          ]
+        },
+        {
+          "name": "Pregnancy",
+          "commentary_ids": [
+            "000528"
+          ]
+        },
+        {
+          "name": "Qualifying for FMLA Leave",
+          "commentary_ids": [
+            "000529",
+            "000530"
+          ]
+        },
+        {
+          "name": "Waivers",
+          "commentary_ids": [
+            "000531"
+          ]
+        },
+        {
+          "name": "Washington State Paid Family and Medical Leave Act",
+          "commentary_ids": [
+            "000532",
+            "000533"
+          ]
+        },
+        {
+          "name": "When the Act Applies: 50 or more Employees",
+          "commentary_ids": [
+            "000534",
+            "000535"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Federal Legislation and Regulations",
+      "commentary_ids": [
+        "000536",
+        "000537",
+        "000538",
+        "000539",
+        "000540",
+        "000541",
+        "000542"
+      ],
+      "subtopics": [
+        {
+          "name": "Fair Credit Reporting Act and the FTC",
+          "commentary_ids": [
+            "000543"
+          ]
+        },
+        {
+          "name": "Medicare and Medicaid",
+          "commentary_ids": [
+            "000544"
+          ]
+        },
+        {
+          "name": "Social Security",
+          "commentary_ids": [
+            "000545"
+          ]
+        },
+        {
+          "name": "Volunteers",
+          "commentary_ids": [
+            "000546"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fire Commissioners",
+      "commentary_ids": [
+        "000547",
+        "000548",
+        "000549",
+        "000550",
+        "000551",
+        "000552",
+        "000553",
+        "000554",
+        "000555",
+        "000556",
+        "000557",
+        "000558",
+        "000559",
+        "000560",
+        "000561",
+        "000562",
+        "000563",
+        "000564",
+        "000565"
+      ],
+      "subtopics": [
+        {
+          "name": "Compensation",
+          "commentary_ids": [
+            "000566",
+            "000567",
+            "000568"
+          ]
+        },
+        {
+          "name": "Decreasing Number of Commissioners",
+          "commentary_ids": [
+            "000569"
+          ]
+        },
+        {
+          "name": "Ethics",
+          "commentary_ids": [
+            "000570"
+          ]
+        },
+        {
+          "name": "First Amendment Concerns",
+          "commentary_ids": [
+            "000571",
+            "000572"
+          ]
+        },
+        {
+          "name": "Formulating and Implementing Policies",
+          "commentary_ids": [
+            "000573"
+          ]
+        },
+        {
+          "name": "Incompatible Public Offices",
+          "commentary_ids": [
+            "000574",
+            "000575"
+          ]
+        },
+        {
+          "name": "Recall from Office",
+          "commentary_ids": [
+            "000576"
+          ]
+        },
+        {
+          "name": "The Board and the Fire Chief",
+          "commentary_ids": [
+            "000577"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fire Hydrants",
+      "commentary_ids": [
+        "000578",
+        "000579"
+      ]
+    },
+    {
+      "name": "First Amendment",
+      "commentary_ids": [
+        "000580",
+        "000581",
+        "000582",
+        "000583",
+        "000584",
+        "000585",
+        "000586",
+        "000587",
+        "000588",
+        "000589",
+        "000590",
+        "000591",
+        "000592",
+        "000593",
+        "000594",
+        "000595",
+        "000596",
+        "000597",
+        "000598"
+      ],
+      "subtopics": [
+        {
+          "name": "Discipline Based on Political Activism",
+          "commentary_ids": [
+            "000599"
+          ]
+        },
+        {
+          "name": "Free Speech Rights of Public Employees",
+          "commentary_ids": [
+            "000600",
+            "000601",
+            "000602",
+            "000603",
+            "000604",
+            "000605"
+          ]
+        },
+        {
+          "name": "Retaliation for Exercising Free Speech Rights",
+          "commentary_ids": [
+            "000606",
+            "000607"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fourth Amendment",
+      "commentary_ids": [
+        "000608",
+        "000609",
+        "000610",
+        "000611",
+        "000612",
+        "000613",
+        "000614",
+        "000615",
+        "000616",
+        "000617",
+        "000618",
+        "000619"
+      ],
+      "subtopics": [
+        {
+          "name": "Privacy in Office Conversations",
+          "commentary_ids": [
+            "000620"
+          ]
+        },
+        {
+          "name": "Search and Seizure at Emergency Scenes",
+          "commentary_ids": [
+            "000621",
+            "000622"
+          ]
+        },
+        {
+          "name": "Videotaping in the Workplace",
+          "commentary_ids": [
+            "000623"
+          ]
+        },
+        {
+          "name": "Workplace Searches",
+          "commentary_ids": [
+            "000624"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "HIPAA",
+      "commentary_ids": [
+        "000625",
+        "000626",
+        "000627",
+        "000628",
+        "000629",
+        "000630",
+        "000631",
+        "000632",
+        "000633",
+        "000634",
+        "000635",
+        "000636",
+        "000637",
+        "000638",
+        "000639",
+        "000640",
+        "000641",
+        "000642",
+        "000643",
+        "000644"
+      ],
+      "subtopics": [
+        {
+          "name": "Breach Notices",
+          "commentary_ids": [
+            "000645"
+          ]
+        },
+        {
+          "name": "Charges for Copying Medical Records",
+          "commentary_ids": [
+            "000646"
+          ]
+        },
+        {
+          "name": "Criminal Prosecution",
+          "commentary_ids": [
+            "000647"
+          ]
+        },
+        {
+          "name": "General Issues",
+          "commentary_ids": [
+            "000648",
+            "000649"
+          ]
+        },
+        {
+          "name": "Health Care Information of Employees",
+          "commentary_ids": [
+            "000650",
+            "000651"
+          ]
+        },
+        {
+          "name": "Name and Address of Patients",
+          "commentary_ids": [
+            "000652"
+          ]
+        },
+        {
+          "name": "Privacy Rule",
+          "commentary_ids": [
+            "000653",
+            "000654",
+            "000655",
+            "000656",
+            "000657",
+            "000658"
+          ]
+        },
+        {
+          "name": "Release of Photos",
+          "commentary_ids": [
+            "000659"
+          ]
+        },
+        {
+          "name": "Security Rule",
+          "commentary_ids": [
+            "000660"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Identity Theft",
+      "commentary_ids": [
+        "000661",
+        "000662"
+      ]
+    },
+    {
+      "name": "Impact Fees",
+      "commentary_ids": [
+        "000663",
+        "000664",
+        "000665",
+        "000666",
+        "000667",
+        "000668",
+        "000669",
+        "000670"
+      ],
+      "subtopics": [
+        {
+          "name": "Capital Facilities Plans",
+          "commentary_ids": [
+            "000671"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Independent Contractors",
+      "commentary_ids": [
+        "000672",
+        "000673",
+        "000674"
+      ]
+    },
+    {
+      "name": "Internal Revenue Service",
+      "commentary_ids": [
+        "000675",
+        "000676",
+        "000677"
+      ],
+      "subtopics": [
+        {
+          "name": "Taxability of Fringe Benefits",
+          "commentary_ids": [
+            "000678",
+            "000679"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Job-Related Misconduct",
+      "commentary_ids": [
+        "000680",
+        "000681",
+        "000682",
+        "000683",
+        "000684"
+      ],
+      "subtopics": [
+        {
+          "name": "\"Unprofessional Conduct\" under 18.130.080",
+          "commentary_ids": [
+            "000685"
+          ]
+        },
+        {
+          "name": "Drug Abuse",
+          "commentary_ids": [
+            "000686"
+          ]
+        },
+        {
+          "name": "Psychological Exams",
+          "commentary_ids": [
+            "000687"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Labor Management Relations Act",
+      "commentary_ids": [
+        "000688",
+        "000689"
+      ]
+    },
+    {
+      "name": "Legislation of Interest",
+      "commentary_ids": [
+        "000690",
+        "000691",
+        "000692",
+        "000693",
+        "000694",
+        "000695",
+        "000696",
+        "000697",
+        "000698",
+        "000699",
+        "000700",
+        "000701",
+        "000702",
+        "000703",
+        "000704",
+        "000705",
+        "000706",
+        "000707",
+        "000708",
+        "000709",
+        "000710",
+        "000711",
+        "000712",
+        "000713",
+        "000714",
+        "000715",
+        "000716",
+        "000717",
+        "000718",
+        "000719",
+        "000720",
+        "000721",
+        "000722",
+        "000723",
+        "000724",
+        "000725",
+        "000726",
+        "000727",
+        "000728",
+        "000729",
+        "000730",
+        "000731",
+        "000732",
+        "000733",
+        "000734"
+      ],
+      "subtopics": [
+        {
+          "name": "\"Substantially Career\" Fire Departments",
+          "commentary_ids": [
+            "000735"
+          ]
+        },
+        {
+          "name": "1999 Highlights",
+          "commentary_ids": [
+            "000736"
+          ]
+        },
+        {
+          "name": "2004 Highlights",
+          "commentary_ids": [
+            "000737"
+          ]
+        },
+        {
+          "name": "2007 Highlights",
+          "commentary_ids": [
+            "000738"
+          ]
+        },
+        {
+          "name": "2016 Proposed Legislation",
+          "commentary_ids": [
+            "000739"
+          ]
+        },
+        {
+          "name": "2017 Highlights",
+          "commentary_ids": [
+            "000740"
+          ]
+        },
+        {
+          "name": "Amendments to Death Benefits",
+          "commentary_ids": [
+            "000741"
+          ]
+        },
+        {
+          "name": "Boundaries of Taxing Districts",
+          "commentary_ids": [
+            "000742"
+          ]
+        },
+        {
+          "name": "Fire Insurance Premium Taxes",
+          "commentary_ids": [
+            "000743"
+          ]
+        },
+        {
+          "name": "Highlights from 2005",
+          "commentary_ids": [
+            "000744"
+          ]
+        },
+        {
+          "name": "Interlocal Agreements",
+          "commentary_ids": [
+            "000745"
+          ]
+        },
+        {
+          "name": "Military Leave Law",
+          "commentary_ids": [
+            "000746"
+          ]
+        },
+        {
+          "name": "Multi-Year Lid Lifts",
+          "commentary_ids": [
+            "000747",
+            "000748"
+          ]
+        },
+        {
+          "name": "Public Bid Laws",
+          "commentary_ids": [
+            "000749",
+            "000750"
+          ]
+        },
+        {
+          "name": "Public Records Act and OPMA",
+          "commentary_ids": [
+            "000751",
+            "000752"
+          ]
+        },
+        {
+          "name": "Records Retention Schedules",
+          "commentary_ids": [
+            "000753"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Local Improvement Districts",
+      "commentary_ids": [
+        "000754",
+        "000755",
+        "000756",
+        "000757"
+      ],
+      "subtopics": [
+        {
+          "name": "Formation and Special Assessments",
+          "commentary_ids": [
+            "000758",
+            "000759"
+          ]
+        },
+        {
+          "name": "LID's and CARES Programs",
+          "commentary_ids": [
+            "000760"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Medicaid and Medicare Billing",
+      "commentary_ids": [
+        "000761",
+        "000762",
+        "000763",
+        "000764",
+        "000765"
+      ]
+    },
+    {
+      "name": "Mergers and Annexations",
+      "commentary_ids": [
+        "000766",
+        "000767",
+        "000768",
+        "000769"
+      ],
+      "subtopics": [
+        {
+          "name": "Annexation by Cities",
+          "commentary_ids": [
+            "000770",
+            "000771",
+            "000772"
+          ]
+        },
+        {
+          "name": "Annexation of Cities",
+          "commentary_ids": [
+            "000773"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Military Leave: RCW 38.40.060",
+      "commentary_ids": [
+        "000774"
+      ]
+    },
+    {
+      "name": "Miscellaneous Financing Issues",
+      "commentary_ids": [
+        "000775",
+        "000776",
+        "000777"
+      ],
+      "subtopics": [
+        {
+          "name": "Issuance of Warrants",
+          "commentary_ids": [
+            "000778"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "National Labor Relations Act",
+      "commentary_ids": [
+        "000779",
+        "000780",
+        "000781",
+        "000782",
+        "000783",
+        "000784"
+      ],
+      "subtopics": [
+        {
+          "name": "\"Concerted Activities\"",
+          "commentary_ids": [
+            "000785",
+            "000786",
+            "000787"
+          ]
+        },
+        {
+          "name": "Use of Email for Union Business",
+          "commentary_ids": [
+            "000788"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Negotiation Basics",
+      "commentary_ids": [
+        "000789",
+        "000790",
+        "000791",
+        "000792"
+      ]
+    },
+    {
+      "name": "Nepotism in Hiring",
+      "commentary_ids": [
+        "000793"
+      ]
+    },
+    {
+      "name": "Open Public Meetings Act",
+      "commentary_ids": [
+        "000794",
+        "000795",
+        "000796",
+        "000797",
+        "000798",
+        "000799",
+        "000800",
+        "000801",
+        "000802",
+        "000803",
+        "000804",
+        "000805",
+        "000806",
+        "000807",
+        "000808",
+        "000809",
+        "000810",
+        "000811",
+        "000812",
+        "000813",
+        "000814",
+        "000815",
+        "000816",
+        "000817",
+        "000818",
+        "000819"
+      ],
+      "subtopics": [
+        {
+          "name": "2022 Changes",
+          "commentary_ids": [
+            "000820",
+            "000821"
+          ]
+        },
+        {
+          "name": "Discussions",
+          "commentary_ids": [
+            "000822",
+            "000823",
+            "000824",
+            "000825",
+            "000826",
+            "000827"
+          ]
+        },
+        {
+          "name": "Facebook and Social Media",
+          "commentary_ids": [
+            "000828"
+          ]
+        },
+        {
+          "name": "Final Actions Validating Previous Violations",
+          "commentary_ids": [
+            "000829",
+            "000830",
+            "000831"
+          ]
+        },
+        {
+          "name": "Minutes of Board Meetings",
+          "commentary_ids": [
+            "000832"
+          ]
+        },
+        {
+          "name": "Open Government Trainings Act",
+          "commentary_ids": [
+            "000833"
+          ]
+        },
+        {
+          "name": "Quorums",
+          "commentary_ids": [
+            "000834",
+            "000835",
+            "000836",
+            "000837"
+          ]
+        },
+        {
+          "name": "Recall from Office for Intentional Violations",
+          "commentary_ids": [
+            "000838",
+            "000839"
+          ]
+        },
+        {
+          "name": "Study Sessions",
+          "commentary_ids": [
+            "000840"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Powers of Municipal Corporations",
+      "commentary_ids": [
+        "000841",
+        "000842",
+        "000843",
+        "000844",
+        "000845",
+        "000846",
+        "000847",
+        "000848",
+        "000849",
+        "000850",
+        "000851",
+        "000852",
+        "000853",
+        "000854",
+        "000855",
+        "000856",
+        "000857",
+        "000858",
+        "000859",
+        "000860",
+        "000861",
+        "000862",
+        "000863",
+        "000864"
+      ],
+      "subtopics": [
+        {
+          "name": "\"Ultra Vires\" Actions",
+          "commentary_ids": [
+            "000865"
+          ]
+        },
+        {
+          "name": "Changing Names",
+          "commentary_ids": [
+            "000866"
+          ]
+        },
+        {
+          "name": "Delegation of Authority",
+          "commentary_ids": [
+            "000867",
+            "000868"
+          ]
+        },
+        {
+          "name": "Employment Contracts",
+          "commentary_ids": [
+            "000869"
+          ]
+        },
+        {
+          "name": "General Powers of Fire Districts: RCW 52.12.021",
+          "commentary_ids": [
+            "000870",
+            "000871",
+            "000872"
+          ]
+        },
+        {
+          "name": "Planning and Professionalism",
+          "commentary_ids": [
+            "000873"
+          ]
+        },
+        {
+          "name": "Specific Powers of Fire Districts: RCW 52.12.031",
+          "commentary_ids": [
+            "000874",
+            "000875"
+          ]
+        },
+        {
+          "name": "Trademarks for Fire Departments",
+          "commentary_ids": [
+            "000876",
+            "000877"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Property Taxes",
+      "commentary_ids": [
+        "000878",
+        "000879",
+        "000880",
+        "000881",
+        "000882",
+        "000883",
+        "000884",
+        "000885",
+        "000886",
+        "000887",
+        "000888",
+        "000889",
+        "000890",
+        "000891",
+        "000892",
+        "000893",
+        "000894",
+        "000895",
+        "000896",
+        "000897",
+        "000898",
+        "000899",
+        "000900",
+        "000901",
+        "000902",
+        "000903",
+        "000904"
+      ],
+      "subtopics": [
+        {
+          "name": "40% Validation Requirement for Excess Levies",
+          "commentary_ids": [
+            "000905"
+          ]
+        },
+        {
+          "name": "Boundaries of Taxing Districts",
+          "commentary_ids": [
+            "000906"
+          ]
+        },
+        {
+          "name": "Deflation",
+          "commentary_ids": [
+            "000907"
+          ]
+        },
+        {
+          "name": "General Outline of Regular Property Tax Levies",
+          "commentary_ids": [
+            "000908"
+          ]
+        },
+        {
+          "name": "Implicit Price Deflator",
+          "commentary_ids": [
+            "000909"
+          ]
+        },
+        {
+          "name": "Initiative 695",
+          "commentary_ids": [
+            "000910"
+          ]
+        },
+        {
+          "name": "Initiative 747 Struck Down",
+          "commentary_ids": [
+            "000911",
+            "000912",
+            "000913"
+          ]
+        },
+        {
+          "name": "Multi-Year Lid Lifts",
+          "commentary_ids": [
+            "000914",
+            "000915"
+          ]
+        },
+        {
+          "name": "Payments In Lieu of Tax",
+          "commentary_ids": [
+            "000916"
+          ]
+        },
+        {
+          "name": "Property Tax and Budget Resolutions",
+          "commentary_ids": [
+            "000917",
+            "000918"
+          ]
+        },
+        {
+          "name": "Protecting $.25 from Pro-Rationing: RCW 84.52.125",
+          "commentary_ids": [
+            "000919"
+          ]
+        },
+        {
+          "name": "Tax Increment Financing",
+          "commentary_ids": [
+            "000920",
+            "000921"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Public Bid Laws",
+      "commentary_ids": [
+        "000922",
+        "000923",
+        "000924",
+        "000925",
+        "000926",
+        "000927",
+        "000928",
+        "000929",
+        "000930",
+        "000931",
+        "000932",
+        "000933",
+        "000934",
+        "000935",
+        "000936",
+        "000937",
+        "000938",
+        "000939",
+        "000940",
+        "000941",
+        "000942",
+        "000943",
+        "000944",
+        "000945",
+        "000946",
+        "000947",
+        "000948",
+        "000949",
+        "000950",
+        "000951",
+        "000952",
+        "000953",
+        "000954",
+        "000955",
+        "000956",
+        "000957",
+        "000958",
+        "000959",
+        "000960"
+      ],
+      "subtopics": [
+        {
+          "name": "\"Lowest Responsible Bidder\"",
+          "commentary_ids": [
+            "000961",
+            "000962",
+            "000963",
+            "000964"
+          ]
+        },
+        {
+          "name": "\"Piggybacking\" on Another Agency's Bid",
+          "commentary_ids": [
+            "000965",
+            "000966",
+            "000967",
+            "000968",
+            "000969",
+            "000970",
+            "000971"
+          ]
+        },
+        {
+          "name": "\"Public Work\"",
+          "commentary_ids": [
+            "000972",
+            "000973",
+            "000974",
+            "000975",
+            "000976"
+          ]
+        },
+        {
+          "name": "Bid Law Exceptions Under RCW 39.04.280",
+          "commentary_ids": [
+            "000977"
+          ]
+        },
+        {
+          "name": "Electronic Data Processing and Telecommunications Systems",
+          "commentary_ids": [
+            "000978"
+          ]
+        },
+        {
+          "name": "Fire District acting as general contractor: RCW 52.14.120 (2)",
+          "commentary_ids": [
+            "000979"
+          ]
+        },
+        {
+          "name": "Joint Purchases of Engineering or Architectural Services",
+          "commentary_ids": [
+            "000980"
+          ]
+        },
+        {
+          "name": "Oral Contracts",
+          "commentary_ids": [
+            "000981"
+          ]
+        },
+        {
+          "name": "Ordinary Maintenance",
+          "commentary_ids": [
+            "000982"
+          ]
+        },
+        {
+          "name": "Prevailing Wage Laws: RCW 39.12.020",
+          "commentary_ids": [
+            "000983",
+            "000984"
+          ]
+        },
+        {
+          "name": "Prudent Utility Management under RCW 52.14.110 (2)",
+          "commentary_ids": [
+            "000985",
+            "000986"
+          ]
+        },
+        {
+          "name": "Public Works Contract Claims",
+          "commentary_ids": [
+            "000987",
+            "000988",
+            "000989",
+            "000990"
+          ]
+        },
+        {
+          "name": "Purchase of Fire Engines",
+          "commentary_ids": [
+            "000991",
+            "000992"
+          ]
+        },
+        {
+          "name": "Purchase of Used Equipment",
+          "commentary_ids": [
+            "000993",
+            "000994"
+          ]
+        },
+        {
+          "name": "Purchasing at Auctions: 39.30.045",
+          "commentary_ids": [
+            "000995"
+          ]
+        },
+        {
+          "name": "Small Works Rosters",
+          "commentary_ids": [
+            "000996",
+            "000997",
+            "000998",
+            "000999"
+          ]
+        },
+        {
+          "name": "Sole Source Exception",
+          "commentary_ids": [
+            "001000"
+          ]
+        },
+        {
+          "name": "Unregistered and Unlicensed Contractors: RCW 39.06.010",
+          "commentary_ids": [
+            "001001"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Public Disclosure Commission",
+      "commentary_ids": [
+        "001002",
+        "001003",
+        "001004",
+        "001005",
+        "001006",
+        "001007",
+        "001008"
+      ],
+      "subtopics": [
+        {
+          "name": "Gifts Made to Local Government Officials",
+          "commentary_ids": [
+            "001009"
+          ]
+        },
+        {
+          "name": "Signs on District Property",
+          "commentary_ids": [
+            "001010"
+          ]
+        },
+        {
+          "name": "The Use of Public Funds",
+          "commentary_ids": [
+            "001011",
+            "001012",
+            "001013"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Public Employee Strikes",
+      "commentary_ids": [
+        "001014"
+      ]
+    },
+    {
+      "name": "Public Records Act",
+      "commentary_ids": [
+        "001015",
+        "001016",
+        "001017",
+        "001018",
+        "001019",
+        "001020",
+        "001021",
+        "001022",
+        "001023",
+        "001024",
+        "001025",
+        "001026",
+        "001027",
+        "001028",
+        "001029",
+        "001030",
+        "001031",
+        "001032",
+        "001033",
+        "001034",
+        "001035",
+        "001036",
+        "001037",
+        "001038",
+        "001039",
+        "001040",
+        "001041",
+        "001042",
+        "001043",
+        "001044",
+        "001045",
+        "001046",
+        "001047",
+        "001048",
+        "001049",
+        "001050",
+        "001051",
+        "001052",
+        "001053",
+        "001054",
+        "001055",
+        "001056"
+      ],
+      "subtopics": [
+        {
+          "name": "\"Brief Explanation\" Requirement: RCW 42.56.210 (3)",
+          "commentary_ids": [
+            "001057"
+          ]
+        },
+        {
+          "name": "\"Functional Equivalents\" of a Public Agency",
+          "commentary_ids": [
+            "001058"
+          ]
+        },
+        {
+          "name": "\"Requests for Information\"",
+          "commentary_ids": [
+            "001059"
+          ]
+        },
+        {
+          "name": "Agencies Subject to the Act",
+          "commentary_ids": [
+            "001060"
+          ]
+        },
+        {
+          "name": "Applicability to Interlocal Agencies",
+          "commentary_ids": [
+            "001061"
+          ]
+        },
+        {
+          "name": "Backup Files",
+          "commentary_ids": [
+            "001062"
+          ]
+        },
+        {
+          "name": "Call Logs",
+          "commentary_ids": [
+            "001063"
+          ]
+        },
+        {
+          "name": "Charges for Copying Public Records",
+          "commentary_ids": [
+            "001064",
+            "001065",
+            "001066"
+          ]
+        },
+        {
+          "name": "Giving the \"Fullest Assistance\"",
+          "commentary_ids": [
+            "001067",
+            "001068",
+            "001069"
+          ]
+        },
+        {
+          "name": "Model Policy on Photos and Videos",
+          "commentary_ids": [
+            "001070"
+          ]
+        },
+        {
+          "name": "Model Rules for the Public Records Act: WAC 44-14-00001",
+          "commentary_ids": [
+            "001071"
+          ]
+        },
+        {
+          "name": "No Duty to Supplement Responses",
+          "commentary_ids": [
+            "001072"
+          ]
+        },
+        {
+          "name": "Notice to Third Parties",
+          "commentary_ids": [
+            "001073"
+          ]
+        },
+        {
+          "name": "Penalties for Bad Faith",
+          "commentary_ids": [
+            "001074",
+            "001075",
+            "001076"
+          ]
+        },
+        {
+          "name": "Personal Electronic Devices",
+          "commentary_ids": [
+            "001077",
+            "001078",
+            "001079",
+            "001080",
+            "001081"
+          ]
+        },
+        {
+          "name": "Personnel Files and Privacy",
+          "commentary_ids": [
+            "001082",
+            "001083",
+            "001084",
+            "001085",
+            "001086",
+            "001087",
+            "001088"
+          ]
+        },
+        {
+          "name": "Personnel Investigations",
+          "commentary_ids": [
+            "001089",
+            "001090"
+          ]
+        },
+        {
+          "name": "Prompt Response Requirement",
+          "commentary_ids": [
+            "001091",
+            "001092",
+            "001093"
+          ]
+        },
+        {
+          "name": "Providing Reasonable Estimates",
+          "commentary_ids": [
+            "001094",
+            "001095",
+            "001096",
+            "001097"
+          ]
+        },
+        {
+          "name": "Records Index",
+          "commentary_ids": [
+            "001098",
+            "001099"
+          ]
+        },
+        {
+          "name": "Requiring Written Requests",
+          "commentary_ids": [
+            "001100"
+          ]
+        },
+        {
+          "name": "Responding that a Request is \"Overbroad\"",
+          "commentary_ids": [
+            "001101",
+            "001102"
+          ]
+        },
+        {
+          "name": "Work Product and Attorney-Client Privilege",
+          "commentary_ids": [
+            "001103"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Public Safety Sales Tax",
+      "commentary_ids": [
+        "001104",
+        "001105"
+      ]
+    },
+    {
+      "name": "Public Works",
+      "commentary_ids": [
+        "001106"
+      ],
+      "subtopics": [
+        {
+          "name": "Apprenticeships",
+          "commentary_ids": [
+            "001107"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Random Laws",
+      "commentary_ids": [
+        "001108",
+        "001109",
+        "001110",
+        "001111",
+        "001112",
+        "001113",
+        "001114",
+        "001115",
+        "001116",
+        "001117"
+      ],
+      "subtopics": [
+        {
+          "name": "Federal Flag Code",
+          "commentary_ids": [
+            "001118"
+          ]
+        },
+        {
+          "name": "Model Toxic Controls Act",
+          "commentary_ids": [
+            "001119",
+            "001120"
+          ]
+        },
+        {
+          "name": "RCW 24.60: The Intra-State Building Safety Mutual Aid System",
+          "commentary_ids": [
+            "001121"
+          ]
+        },
+        {
+          "name": "Weight Limits of Fire Trucks",
+          "commentary_ids": [
+            "001122"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Records Retention",
+      "commentary_ids": [
+        "001123",
+        "001124",
+        "001125",
+        "001126",
+        "001127",
+        "001128",
+        "001129"
+      ],
+      "subtopics": [
+        {
+          "name": "\"Transitory Records\"",
+          "commentary_ids": [
+            "001130"
+          ]
+        },
+        {
+          "name": "Destruction of Non-Archival Records",
+          "commentary_ids": [
+            "001131"
+          ]
+        },
+        {
+          "name": "Electronic Records in Washington",
+          "commentary_ids": [
+            "001132"
+          ]
+        },
+        {
+          "name": "General Records Retention Schedules",
+          "commentary_ids": [
+            "001133"
+          ]
+        },
+        {
+          "name": "Photo-Release Policy",
+          "commentary_ids": [
+            "001134"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Regional Fire Authorities",
+      "commentary_ids": [
+        "001135",
+        "001136",
+        "001137",
+        "001138",
+        "001139",
+        "001140",
+        "001141",
+        "001142",
+        "001143"
+      ],
+      "subtopics": [
+        {
+          "name": "Adjacency",
+          "commentary_ids": [
+            "001144"
+          ]
+        },
+        {
+          "name": "Expansion",
+          "commentary_ids": [
+            "001145"
+          ]
+        },
+        {
+          "name": "Formation",
+          "commentary_ids": [
+            "001146",
+            "001147"
+          ]
+        },
+        {
+          "name": "Funding and Financing",
+          "commentary_ids": [
+            "001148"
+          ]
+        },
+        {
+          "name": "Governance",
+          "commentary_ids": [
+            "001149",
+            "001150"
+          ]
+        },
+        {
+          "name": "Powers",
+          "commentary_ids": [
+            "001151",
+            "001152",
+            "001153"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Residency Requirements",
+      "commentary_ids": [
+        "001154"
+      ]
+    },
+    {
+      "name": "Response Standards",
+      "commentary_ids": [
+        "001155",
+        "001156",
+        "001157",
+        "001158"
+      ]
+    },
+    {
+      "name": "Retirement Issues",
+      "commentary_ids": [
+        "001159",
+        "001160",
+        "001161",
+        "001162",
+        "001163",
+        "001164",
+        "001165",
+        "001166"
+      ],
+      "subtopics": [
+        {
+          "name": "LEOFF II \"Employers\" and State Contribution Law",
+          "commentary_ids": [
+            "001167"
+          ]
+        },
+        {
+          "name": "Opting Into Medicare",
+          "commentary_ids": [
+            "001168"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Safety",
+      "commentary_ids": [
+        "001169",
+        "001170",
+        "001171",
+        "001172",
+        "001173",
+        "001174",
+        "001175",
+        "001176",
+        "001177",
+        "001178",
+        "001179",
+        "001180",
+        "001181",
+        "001182",
+        "001183",
+        "001184",
+        "001185",
+        "001186",
+        "001187",
+        "001188",
+        "001189",
+        "001190",
+        "001191",
+        "001192",
+        "001193",
+        "001194",
+        "001195",
+        "001196",
+        "001197",
+        "001198",
+        "001199",
+        "001200",
+        "001201",
+        "001202",
+        "001203",
+        "001204",
+        "001205",
+        "001206",
+        "001207",
+        "001208",
+        "001209",
+        "001210",
+        "001211",
+        "001212",
+        "001213",
+        "001214"
+      ],
+      "subtopics": [
+        {
+          "name": "\"Two-in Two-Out\" Rule",
+          "commentary_ids": [
+            "001215",
+            "001216",
+            "001217",
+            "001218"
+          ]
+        },
+        {
+          "name": "\"Unpreventable Employee Misconduct\"",
+          "commentary_ids": [
+            "001219"
+          ]
+        },
+        {
+          "name": "296-305 Requirements for Live-Structure Firefighting",
+          "commentary_ids": [
+            "001220"
+          ]
+        },
+        {
+          "name": "Accident Investigations",
+          "commentary_ids": [
+            "001221",
+            "001222"
+          ]
+        },
+        {
+          "name": "Cell Phone Use Policies",
+          "commentary_ids": [
+            "001223"
+          ]
+        },
+        {
+          "name": "Fireground Staffing Requirements",
+          "commentary_ids": [
+            "001224"
+          ]
+        },
+        {
+          "name": "Meal Periods",
+          "commentary_ids": [
+            "001225"
+          ]
+        },
+        {
+          "name": "OSHA Respiratory Protection Standards",
+          "commentary_ids": [
+            "001226",
+            "001227"
+          ]
+        },
+        {
+          "name": "Physical Fitness Standards for Firefighters",
+          "commentary_ids": [
+            "001228"
+          ]
+        },
+        {
+          "name": "Response Times",
+          "commentary_ids": [
+            "001229",
+            "001230",
+            "001231"
+          ]
+        },
+        {
+          "name": "Securing Emergency Scenes",
+          "commentary_ids": [
+            "001232"
+          ]
+        },
+        {
+          "name": "Self Reporting",
+          "commentary_ids": [
+            "001233"
+          ]
+        },
+        {
+          "name": "Workplace Violence",
+          "commentary_ids": [
+            "001234"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Same-Sex Harassment",
+      "commentary_ids": [
+        "001235",
+        "001236"
+      ]
+    },
+    {
+      "name": "State Auditor",
+      "commentary_ids": [
+        "001237",
+        "001238",
+        "001239",
+        "001240",
+        "001241",
+        "001242",
+        "001243",
+        "001244",
+        "001245",
+        "001246"
+      ],
+      "subtopics": [
+        {
+          "name": "Audit Findings",
+          "commentary_ids": [
+            "001247",
+            "001248"
+          ]
+        },
+        {
+          "name": "Auditing Officers",
+          "commentary_ids": [
+            "001249"
+          ]
+        },
+        {
+          "name": "Claims Agents and Filing",
+          "commentary_ids": [
+            "001250"
+          ]
+        },
+        {
+          "name": "Retroactive Pay Increases",
+          "commentary_ids": [
+            "001251"
+          ]
+        },
+        {
+          "name": "Separating Accounts: RCW 43.09.210",
+          "commentary_ids": [
+            "001252"
+          ]
+        },
+        {
+          "name": "Unconstitutional Gift of Public Funds",
+          "commentary_ids": [
+            "001253"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Surplus of Personal Property: RCW 39.33.020",
+      "commentary_ids": [
+        "001254"
+      ]
+    },
+    {
+      "name": "Surplus of Real Property: RCW 39.33.020",
+      "commentary_ids": [
+        "001255",
+        "001256"
+      ]
+    },
+    {
+      "name": "Tax Increment Financing",
+      "commentary_ids": [
+        "001257",
+        "001258",
+        "001259",
+        "001260"
+      ]
+    },
+    {
+      "name": "Taxation of Governmental Functions",
+      "commentary_ids": [
+        "001261",
+        "001262"
+      ],
+      "subtopics": [
+        {
+          "name": "Paying for Fire Hydrants",
+          "commentary_ids": [
+            "001263"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Interlocal Cooperation Act: RCW 39.34",
+      "commentary_ids": [
+        "001264",
+        "001265",
+        "001266",
+        "001267",
+        "001268",
+        "001269",
+        "001270",
+        "001271",
+        "001272",
+        "001273",
+        "001274"
+      ],
+      "subtopics": [
+        {
+          "name": "Forming Non-Profit Corporations",
+          "commentary_ids": [
+            "001275"
+          ]
+        },
+        {
+          "name": "Indexes of Interlocal Agreements",
+          "commentary_ids": [
+            "001276"
+          ]
+        },
+        {
+          "name": "Issues with Merger and Consolidation",
+          "commentary_ids": [
+            "001277"
+          ]
+        },
+        {
+          "name": "Issues with Separating Accounts under RCW 43.09.210",
+          "commentary_ids": [
+            "001278"
+          ]
+        },
+        {
+          "name": "Separating Functions",
+          "commentary_ids": [
+            "001279"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Washington Health Care Information Act: RCW 70.02",
+      "commentary_ids": [
+        "001280",
+        "001281",
+        "001282",
+        "001283",
+        "001284",
+        "001285",
+        "001286",
+        "001287",
+        "001288",
+        "001289"
+      ],
+      "subtopics": [
+        {
+          "name": "Charges for Copying Medical Records",
+          "commentary_ids": [
+            "001290"
+          ]
+        },
+        {
+          "name": "Mandatory Disclosures",
+          "commentary_ids": [
+            "001291"
+          ]
+        },
+        {
+          "name": "Model Policies on Photo or Video at Emergency Scenes",
+          "commentary_ids": [
+            "001292"
+          ]
+        },
+        {
+          "name": "Permissive Disclosures",
+          "commentary_ids": [
+            "001293",
+            "001294"
+          ]
+        },
+        {
+          "name": "Personal Representatives",
+          "commentary_ids": [
+            "001295"
+          ]
+        },
+        {
+          "name": "Protective Orders",
+          "commentary_ids": [
+            "001296"
+          ]
+        },
+        {
+          "name": "Subpoenas",
+          "commentary_ids": [
+            "001297"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Time Loss",
+      "commentary_ids": [
+        "001298",
+        "001299"
+      ],
+      "subtopics": [
+        {
+          "name": "Structured Settlement Agreements",
+          "commentary_ids": [
+            "001300"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Title VII",
+      "commentary_ids": [
+        "001301",
+        "001302",
+        "001303",
+        "001304",
+        "001305",
+        "001306",
+        "001307",
+        "001308",
+        "001309",
+        "001310",
+        "001311",
+        "001312",
+        "001313"
+      ],
+      "subtopics": [
+        {
+          "name": "Retaliation Claims",
+          "commentary_ids": [
+            "001314"
+          ]
+        },
+        {
+          "name": "Sex Discrimination",
+          "commentary_ids": [
+            "001315",
+            "001316",
+            "001317",
+            "001318",
+            "001319"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unemployment Compensation",
+      "commentary_ids": [
+        "001320",
+        "001321",
+        "001322",
+        "001323"
+      ],
+      "subtopics": [
+        {
+          "name": "Denial for Drug Abuse",
+          "commentary_ids": [
+            "001324"
+          ]
+        },
+        {
+          "name": "Serious Misconduct",
+          "commentary_ids": [
+            "001325"
+          ]
+        },
+        {
+          "name": "Voluntary Quit Exception",
+          "commentary_ids": [
+            "001326"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unfair Labor Practices",
+      "commentary_ids": [
+        "001327",
+        "001328",
+        "001329",
+        "001330",
+        "001331",
+        "001332",
+        "001333"
+      ],
+      "subtopics": [
+        {
+          "name": "Drug Testing",
+          "commentary_ids": [
+            "001334"
+          ]
+        },
+        {
+          "name": "Important PERC Decisions",
+          "commentary_ids": [
+            "001335",
+            "001336"
+          ]
+        },
+        {
+          "name": "Interference with Union Activities",
+          "commentary_ids": [
+            "001337"
+          ]
+        },
+        {
+          "name": "Paid Time For Union Activities",
+          "commentary_ids": [
+            "001338"
+          ]
+        },
+        {
+          "name": "Past Practice",
+          "commentary_ids": [
+            "001339"
+          ]
+        },
+        {
+          "name": "Polygraph Testing",
+          "commentary_ids": [
+            "001340"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "United States Supreme Court Opinions",
+      "commentary_ids": [
+        "001341",
+        "001342",
+        "001343",
+        "001344",
+        "001345",
+        "001346",
+        "001347",
+        "001348",
+        "001349",
+        "001350",
+        "001351",
+        "001352",
+        "001353",
+        "001354",
+        "001355",
+        "001356",
+        "001357",
+        "001358",
+        "001359",
+        "001360"
+      ],
+      "subtopics": [
+        {
+          "name": "Americans with Disabilities Act",
+          "commentary_ids": [
+            "001361"
+          ]
+        },
+        {
+          "name": "Constitutionality of Random Drug Testing",
+          "commentary_ids": [
+            "001362"
+          ]
+        },
+        {
+          "name": "Defense of Marriage Act Invalidated",
+          "commentary_ids": [
+            "001363"
+          ]
+        },
+        {
+          "name": "Fair Labor Standards Act",
+          "commentary_ids": [
+            "001364"
+          ]
+        },
+        {
+          "name": "Freedom of Speech",
+          "commentary_ids": [
+            "001365",
+            "001366"
+          ]
+        },
+        {
+          "name": "Race Discrimination",
+          "commentary_ids": [
+            "001367"
+          ]
+        },
+        {
+          "name": "Suing in Federal Courts to Enforce FLSA rights",
+          "commentary_ids": [
+            "001368"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Veterans",
+      "commentary_ids": [
+        "001369",
+        "001370",
+        "001371",
+        "001372",
+        "001373",
+        "001374"
+      ],
+      "subtopics": [
+        {
+          "name": "Leave during Deployments",
+          "commentary_ids": [
+            "001375"
+          ]
+        },
+        {
+          "name": "USERRA Scoring Criteria in Hiring Veterans",
+          "commentary_ids": [
+            "001376",
+            "001377",
+            "001378"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Volunteering",
+      "commentary_ids": [
+        "001379",
+        "001380",
+        "001381",
+        "001382",
+        "001383",
+        "001384",
+        "001385",
+        "001386",
+        "001387"
+      ],
+      "subtopics": [
+        {
+          "name": "Eligibility for Benefits",
+          "commentary_ids": [
+            "001388"
+          ]
+        },
+        {
+          "name": "Paid Firefighters and Volunteering",
+          "commentary_ids": [
+            "001389"
+          ]
+        },
+        {
+          "name": "Residency Requirements",
+          "commentary_ids": [
+            "001390"
+          ]
+        },
+        {
+          "name": "Use of Personal Vehicle During Work",
+          "commentary_ids": [
+            "001391"
+          ]
+        },
+        {
+          "name": "Volunteer Fire Fighters Pension Act: RCW 41.24",
+          "commentary_ids": [
+            "001392",
+            "001393"
+          ]
+        },
+        {
+          "name": "Volunteering at Athletic Events",
+          "commentary_ids": [
+            "001394"
+          ]
+        },
+        {
+          "name": "Workplace Injuries",
+          "commentary_ids": [
+            "001395"
+          ]
+        },
+        {
+          "name": "Youth and Cadet Programs",
+          "commentary_ids": [
+            "001396"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wage Claims",
+      "commentary_ids": [
+        "001397",
+        "001398",
+        "001399",
+        "001400",
+        "001401",
+        "001402",
+        "001403",
+        "001404"
+      ],
+      "subtopics": [
+        {
+          "name": "Issues with Sick Leave",
+          "commentary_ids": [
+            "001405"
+          ]
+        },
+        {
+          "name": "Special Penalties",
+          "commentary_ids": [
+            "001406",
+            "001407"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wage Rebates",
+      "commentary_ids": [
+        "001408",
+        "001409"
+      ]
+    },
+    {
+      "name": "Washington Collective Bargaining Act: RCW 41.56",
+      "commentary_ids": [
+        "001410",
+        "001411",
+        "001412",
+        "001413",
+        "001414",
+        "001415",
+        "001416",
+        "001417"
+      ],
+      "subtopics": [
+        {
+          "name": "Civil Service Commissions",
+          "commentary_ids": [
+            "001418"
+          ]
+        },
+        {
+          "name": "Unfair Labor Practices",
+          "commentary_ids": [
+            "001419"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Washington Law Against Discrimination: RCW 49.60",
+      "commentary_ids": [
+        "001420",
+        "001421",
+        "001422",
+        "001423",
+        "001424",
+        "001425",
+        "001426",
+        "001427",
+        "001428",
+        "001429",
+        "001430",
+        "001431",
+        "001432",
+        "001433",
+        "001434",
+        "001435",
+        "001436",
+        "001437",
+        "001438"
+      ],
+      "subtopics": [
+        {
+          "name": "Hostile Work Environment",
+          "commentary_ids": [
+            "001439",
+            "001440"
+          ]
+        },
+        {
+          "name": "Perceived Disabilities and Prescription Drugs",
+          "commentary_ids": [
+            "001441"
+          ]
+        },
+        {
+          "name": "Pre-Employment Inquiries: Questions Not to Ask",
+          "commentary_ids": [
+            "001442",
+            "001443",
+            "001444",
+            "001445"
+          ]
+        },
+        {
+          "name": "Pretext for Employer Action",
+          "commentary_ids": [
+            "001446"
+          ]
+        },
+        {
+          "name": "Sexual Harassment",
+          "commentary_ids": [
+            "001447",
+            "001448"
+          ]
+        },
+        {
+          "name": "Sexual Orientation Discrimination",
+          "commentary_ids": [
+            "001449"
+          ]
+        },
+        {
+          "name": "When WLAD Applies: Eight or More Employees",
+          "commentary_ids": [
+            "001450"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Washington Minimum Wage Act: RCW 49.46",
+      "commentary_ids": [
+        "001451",
+        "001452",
+        "001453",
+        "001454",
+        "001455"
+      ],
+      "subtopics": [
+        {
+          "name": "\"On Call\" Status",
+          "commentary_ids": [
+            "001456"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Washington State Environmental Policy Act: RCW 43.21C",
+      "commentary_ids": [
+        "001457",
+        "001458",
+        "001459",
+        "001460",
+        "001461"
+      ],
+      "subtopics": [
+        {
+          "name": "Requesting Notice under SEPA",
+          "commentary_ids": [
+            "001462"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Washington State Family Medical Leave Act: RCW 49.78",
+      "commentary_ids": [
+        "001463"
+      ],
+      "subtopics": []
+    },
+    {
+      "name": "Worker's Compensation and Industrial Insurance",
+      "commentary_ids": [
+        "001464",
+        "001465",
+        "001466",
+        "001467",
+        "001468",
+        "001469",
+        "001470",
+        "001471",
+        "001472",
+        "001473",
+        "001474",
+        "001475",
+        "001476"
+      ],
+      "subtopics": [
+        {
+          "name": "\"Occupational Disease\"",
+          "commentary_ids": [
+            "001477",
+            "001478",
+            "001479",
+            "001480"
+          ]
+        },
+        {
+          "name": "Classifications",
+          "commentary_ids": [
+            "001481"
+          ]
+        },
+        {
+          "name": "Compensation under Volunteer Firefighters Pension Act",
+          "commentary_ids": [
+            "001482"
+          ]
+        },
+        {
+          "name": "Exclusive Remedy",
+          "commentary_ids": [
+            "001483",
+            "001484"
+          ]
+        },
+        {
+          "name": "Independent Contractors",
+          "commentary_ids": [
+            "001485",
+            "001486",
+            "001487",
+            "001488"
+          ]
+        }
+      ]
+    }
+  ]
+}

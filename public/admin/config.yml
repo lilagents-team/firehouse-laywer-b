@@ -180,3 +180,52 @@ collections:
               { label: "Twitter URL", name: "twitter", widget: "string", required: false },
               { label: "LinkedIn URL", name: "linkedin", widget: "string", required: false }
             ]}
+
+  - name: "newsletter_comments" 
+    label: "Newsletter Comments"
+    folder: "content/comments"
+    create: true
+    slug: "{{id | padStart(6, '0')}}"
+    summary: "{{topic}}: {{subtopic}} ({{year}}-{{month}})"
+    identifier_field: "id"
+    fields:
+      # Sequential ID
+      - { label: "ID", name: "id", widget: "number", value_type: "int", min: 1, hint: "Sequential comment ID" }
+      
+      # Newsletter Reference
+      - { label: "Newsletter File", name: "newsletter", widget: "string", hint: "Original newsletter PDF filename (e.g., v01n07nov1997.pdf)" }
+      - { label: "Volume/Issue", name: "volume_issue", widget: "string", pattern: ["^\\d{2}-\\d{2}$", "Format: XX-XX (e.g., 01-07)"], hint: "Volume-Issue format (e.g., 01-07)" }
+      - { label: "Year", name: "year", widget: "number", value_type: "int", min: 1995, max: 2030 }
+      - { label: "Month", name: "month", widget: "number", value_type: "int", min: 1, max: 12, hint: "Month as number (1-12)" }
+      
+      # Topic Classification
+      - label: "Topic"
+        name: "topic" 
+        widget: "select"
+        options: 
+          - "Fair Labor Standards Act"
+          - "Civil Actions"
+          - "Public Records Act"
+          - "Public Bid Laws"
+          - "Safety"
+          - "Legislation of Interest"
+          - "Collective Bargaining"
+          - "Americans with Disabilities Act"
+          - "Open Public Meetings Act"
+          - "Property Taxes"
+          - "Powers of Municipal Corporations"
+          - "HIPAA"
+          - "Family Medical Leave Act"
+          - "Discipline and Discharge"
+          - "Washington Law Against Discrimination"
+          - "Wage Claims"
+          - "Fire Codes"
+          - "Insurance"
+          - "Pensions and Retirement"
+          - "Constitutional Issues"
+          - "Other"
+          
+      - { label: "Subtopic", name: "subtopic", widget: "string", required: false, hint: "Specific subtopic within the main topic" }
+      
+      # Content
+      - { label: "Commentary", name: "body", widget: "markdown", hint: "Newsletter commentary content" }

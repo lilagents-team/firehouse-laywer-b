@@ -1,0 +1,156 @@
+/* Custom styles for Sveltia CMS preview pane */
+.cms-preview-pane {
+  font-family: system-ui, -apple-system, 'Segoe UI', sans-serif;
+  background-color: #1a1a1a;
+  color: #ffffff;
+  min-height: 100vh;
+}
+
+/* Header section */
+.preview-header {
+  background-color: #111111;
+  padding: 2rem 1rem;
+  border-bottom: 2px solid #ff6b35;
+}
+
+.preview-header-content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.preview-volume {
+  color: #ff6b35;
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin: 0 0 0.5rem 0;
+}
+
+.preview-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #ffffff;
+  margin: 0 0 0.5rem 0;
+  letter-spacing: 0.05em;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+.preview-date {
+  font-size: 1.125rem;
+  color: #d1d5db;
+  margin: 0;
+}
+
+/* Main content layout */
+.preview-main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 3rem;
+  background-color: #2a2a2a;
+}
+
+/* Content sections */
+.preview-section {
+  margin-bottom: 2rem;
+}
+
+.preview-section h3 {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #ffffff;
+  margin-bottom: 1rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.preview-section p {
+  color: #f3f4f6;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+/* Badges and tags */
+.preview-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.preview-badge {
+  background-color: #ff6b35;
+  color: #000000;
+  font-size: 0.75rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  font-weight: 500;
+}
+
+/* Sidebar */
+.preview-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.preview-sidebar-item {
+  background-color: #3a3a3a;
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+  border: 1px solid #ff6b35;
+}
+
+.preview-sidebar-item h3 {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #ffffff;
+  margin-bottom: 1rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.preview-tag-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.preview-tag {
+  border: 1px solid #ff6b35;
+  color: #ffffff;
+  font-size: 0.75rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+}
+
+.preview-tag.legal-case {
+  border-color: #60a5fa;
+  color: #93c5fd;
+}
+
+.preview-tag.legal-statute {
+  border-color: #a78bfa;
+  color: #c4b5fd;
+}
+
+.preview-tag.tag {
+  border-color: #fb923c;
+  color: #fed7aa;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .preview-main {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    padding: 1rem;
+  }
+  
+  .preview-title {
+    font-size: 2rem;
+  }
+}

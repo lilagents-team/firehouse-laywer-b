@@ -8,6 +8,8 @@ import Navigation from "./components/navigation";
 import Footer from "./components/footer";
 import Home from "./pages/home";
 import Newsletter from "./pages/newsletter";
+import Archive from "./pages/archive";
+import Index from "./pages/index";
 import NewsletterDetail from "./pages/newsletter-detail";
 import AdminNewsletters from "./pages/admin-newsletters";
 import PracticeAreas from "./pages/practice-areas";
@@ -18,21 +20,49 @@ import { useEffect } from 'react';
 
 // Admin component that shows admin info
 function AdminInfo() {
+  const isDevelopment = process.env.NODE_ENV === 'development';
+  
   return (
     <div className="min-h-screen flex items-center justify-center bg-gray-50">
       <div className="max-w-md p-8 bg-white rounded-lg shadow-lg text-center">
         <h1 className="text-2xl font-bold text-fire-navy mb-4">Sveltia CMS Admin</h1>
-        <p className="text-warm-gray mb-6">
-          Access the modern, fast content management system powered by Sveltia CMS:
-        </p>
-        <a 
-          href="/admin/index.html" 
-          className="inline-block bg-fire-red text-white px-6 py-3 rounded-lg hover:bg-red-700 transition-colors"
-        >
-          Launch Sveltia CMS →
-        </a>
-        <p className="text-sm text-warm-gray mt-4">
-          Requires GitHub authentication. Sveltia CMS offers improved performance, better UX, and enhanced features compared to Decap CMS.
+        
+        {isDevelopment ? (
+          <>
+            <p className="text-warm-gray mb-6">
+              Local Development Mode: Use the local CMS backend for content editing:
+            </p>
+            <div className="space-y-3 mb-6">
+              <a 
+                href="/admin/index-local.html" 
+                className="block bg-fire-red text-white px-6 py-3 rounded-lg hover:bg-red-700 transition-colors"
+              >
+                Launch Local CMS →
+              </a>
+              <p className="text-xs text-warm-gray">
+                Make sure to run <code className="bg-gray-100 px-1 rounded">npm run cms-proxy</code> in a separate terminal first.
+              </p>
+            </div>
+          </>
+        ) : (
+          <>
+            <p className="text-warm-gray mb-6">
+              Access the modern, fast content management system powered by Sveltia CMS:
+            </p>
+            <a 
+              href="/admin/index.html" 
+              className="inline-block bg-fire-red text-white px-6 py-3 rounded-lg hover:bg-red-700 transition-colors mb-6"
+            >
+              Launch Sveltia CMS →
+            </a>
+          </>
+        )}
+        
+        <p className="text-sm text-warm-gray">
+          {isDevelopment 
+            ? "Local development uses a proxy server for file editing without authentication." 
+            : "Requires GitHub authentication. Sveltia CMS offers improved performance, better UX, and enhanced features compared to Decap CMS."
+          }
         </p>
         <p className="text-xs text-warm-gray mt-2 border-t pt-2">
           Note: On static deployments, backend features like contact forms may not be available.
@@ -69,6 +99,8 @@ function Router() {
         <Switch>
           <Route path="/" component={Home} />
           <Route path="/newsletter" component={Newsletter} />
+          <Route path="/archive" component={Archive} />
+          <Route path="/index" component={Index} />
           <Route path="/newsletter/v/:volume/:edition" component={NewsletterDetail} />
           <Route path="/newsletter/:year/:month" component={NewsletterDetail} />
           <Route path="/newsletter/:slug" component={NewsletterDetail} />

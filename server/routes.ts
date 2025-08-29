@@ -183,6 +183,23 @@ async function findPdfFile(newsletter: CompressedNewsletter): Promise<string | n
 }
 
 export async function registerRoutes(app: Express): Promise<Server> {
+  // Register comments routes dynamically
+  try {
+    const { default: commentsRouter } = await import("./routes/comments");
+    console.log("✅ Successfully loaded comments router");
+    app.use("/api/comments", commentsRouter);
+  } catch (error) {
+    console.error("❌ Failed to load comments router:", error);
+    // Provide a basic fallback endpoint
+    app.get("/api/comments*", (req, res) => {
+      console.log("🚨 Fallback comments endpoint hit:", req.path);
+      res.status(503).json({ 
+        error: "Comments system not available",
+        message: "Comments API routes are not properly loaded" 
+      });
+    });
+  }
+
   // Contact form submission
   app.post("/api/contact", async (req, res) => {
     try {

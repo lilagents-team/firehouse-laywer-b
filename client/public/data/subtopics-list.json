@@ -1,0 +1,2090 @@
+[
+  {
+    "name": "Compensatory Time",
+    "slug": "compensatory-time",
+    "count": 10,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "Public Duty Doctrine",
+    "slug": "public-duty-doctrine",
+    "count": 9,
+    "parentTopic": "Civil Actions"
+  },
+  {
+    "name": "207 (k) Exemption",
+    "slug": "207-k-exemption",
+    "count": 9,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "Negligence Claims",
+    "slug": "negligence-claims",
+    "count": 7,
+    "parentTopic": "Civil Actions"
+  },
+  {
+    "name": "Bargaining Subjects",
+    "slug": "bargaining-subjects",
+    "count": 7,
+    "parentTopic": "Collective Bargaining"
+  },
+  {
+    "name": "Managing Labor Negotiations",
+    "slug": "managing-labor-negotiations",
+    "count": 7,
+    "parentTopic": "Collective Bargaining"
+  },
+  {
+    "name": "\"Piggybacking\" on Another Agency's Bid",
+    "slug": "-piggybacking-on-another-agency-s-bid",
+    "count": 7,
+    "parentTopic": "Public Bid Laws"
+  },
+  {
+    "name": "Personnel Files and Privacy",
+    "slug": "personnel-files-and-privacy",
+    "count": 7,
+    "parentTopic": "Public Records Act"
+  },
+  {
+    "name": "Wrongful Discharge in Violation of Public Policy",
+    "slug": "wrongful-discharge-in-violation-of-public-policy",
+    "count": 6,
+    "parentTopic": "Civil Actions"
+  },
+  {
+    "name": "Free Speech Rights of Public Employees",
+    "slug": "free-speech-rights-of-public-employees",
+    "count": 6,
+    "parentTopic": "First Amendment"
+  },
+  {
+    "name": "Privacy Rule",
+    "slug": "privacy-rule",
+    "count": 6,
+    "parentTopic": "HIPAA"
+  },
+  {
+    "name": "Discussions",
+    "slug": "discussions",
+    "count": 6,
+    "parentTopic": "Open Public Meetings Act"
+  },
+  {
+    "name": "Bona Fide Occupational Qualifications (BFOQs)",
+    "slug": "bona-fide-occupational-qualifications-bfoqs-",
+    "count": 5,
+    "parentTopic": "Americans with Disabilities Act"
+  },
+  {
+    "name": "On-Call Pay",
+    "slug": "on-call-pay",
+    "count": 5,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "Public Work",
+    "slug": "public-work",
+    "count": 5,
+    "parentTopic": "Public Bid Laws"
+  },
+  {
+    "name": "Personal Electronic Devices",
+    "slug": "personal-electronic-devices",
+    "count": 5,
+    "parentTopic": "Public Records Act"
+  },
+  {
+    "name": "Sex Discrimination",
+    "slug": "sex-discrimination",
+    "count": 5,
+    "parentTopic": "Title VII"
+  },
+  {
+    "name": "Defamation",
+    "slug": "defamation",
+    "count": 4,
+    "parentTopic": "Civil Actions"
+  },
+  {
+    "name": "Management Rights",
+    "slug": "management-rights",
+    "count": 4,
+    "parentTopic": "Collective Bargaining"
+  },
+  {
+    "name": "\"White Collar\" Exemptions",
+    "slug": "-white-collar-exemptions",
+    "count": 4,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "Multi-Year Lid Lifts",
+    "slug": "multi-year-lid-lifts",
+    "count": 4,
+    "parentTopic": "Legislation of Interest"
+  },
+  {
+    "name": "Quorums",
+    "slug": "quorums",
+    "count": 4,
+    "parentTopic": "Open Public Meetings Act"
+  },
+  {
+    "name": "Lowest Responsible Bidder",
+    "slug": "lowest-responsible-bidder",
+    "count": 4,
+    "parentTopic": "Public Bid Laws"
+  },
+  {
+    "name": "Public Works Contract Claims",
+    "slug": "public-works-contract-claims",
+    "count": 4,
+    "parentTopic": "Public Bid Laws"
+  },
+  {
+    "name": "Small Works Rosters",
+    "slug": "small-works-rosters",
+    "count": 4,
+    "parentTopic": "Public Bid Laws"
+  },
+  {
+    "name": "Providing Reasonable Estimates",
+    "slug": "providing-reasonable-estimates",
+    "count": 4,
+    "parentTopic": "Public Records Act"
+  },
+  {
+    "name": "\"Two-in Two-Out\" Rule",
+    "slug": "-two-in-two-out-rule",
+    "count": 4,
+    "parentTopic": "Safety"
+  },
+  {
+    "name": "Pre-Employment Inquiries: Questions Not to Ask",
+    "slug": "pre-employment-inquiries-questions-not-to-ask",
+    "count": 4,
+    "parentTopic": "Washington Law Against Discrimination: RCW 49.60"
+  },
+  {
+    "name": "Occupational Disease",
+    "slug": "occupational-disease",
+    "count": 4,
+    "parentTopic": "Worker's Compensation and Industrial Insurance"
+  },
+  {
+    "name": "Independent Contractors",
+    "slug": "independent-contractors",
+    "count": 4,
+    "parentTopic": "Worker's Compensation and Industrial Insurance"
+  },
+  {
+    "name": "Qualified Individual with a Disability",
+    "slug": "qualified-individual-with-a-disability",
+    "count": 3,
+    "parentTopic": "Americans with Disabilities Act"
+  },
+  {
+    "name": "Conditional Offers of Employment",
+    "slug": "conditional-offers-of-employment",
+    "count": 3,
+    "parentTopic": "Americans with Disabilities Act"
+  },
+  {
+    "name": "Firefighter's Rule",
+    "slug": "firefighter-s-rule",
+    "count": 3,
+    "parentTopic": "Civil Actions"
+  },
+  {
+    "name": "Professional Rescuer Doctrine",
+    "slug": "professional-rescuer-doctrine",
+    "count": 3,
+    "parentTopic": "Civil Actions"
+  },
+  {
+    "name": "Unilateral Changes",
+    "slug": "unilateral-changes",
+    "count": 3,
+    "parentTopic": "Collective Bargaining"
+  },
+  {
+    "name": "Loudermill Hearings",
+    "slug": "loudermill-hearings",
+    "count": 3,
+    "parentTopic": "Discipline and Discharge"
+  },
+  {
+    "name": "Wrongful Discharge Actions",
+    "slug": "wrongful-discharge-actions",
+    "count": 3,
+    "parentTopic": "Discipline and Discharge"
+  },
+  {
+    "name": "Recall Laws",
+    "slug": "recall-laws",
+    "count": 3,
+    "parentTopic": "Elections"
+  },
+  {
+    "name": "Administrative Exemption",
+    "slug": "administrative-exemption",
+    "count": 3,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "Compensation",
+    "slug": "compensation",
+    "count": 3,
+    "parentTopic": "Fire Commissioners"
+  },
+  {
+    "name": "Annexation by Cities",
+    "slug": "annexation-by-cities",
+    "count": 3,
+    "parentTopic": "Mergers and Annexations"
+  },
+  {
+    "name": "Concerted Activities",
+    "slug": "concerted-activities",
+    "count": 3,
+    "parentTopic": "National Labor Relations Act"
+  },
+  {
+    "name": "Final Actions Validating Previous Violations",
+    "slug": "final-actions-validating-previous-violations",
+    "count": 3,
+    "parentTopic": "Open Public Meetings Act"
+  },
+  {
+    "name": "General Powers of Fire Districts: RCW 52.12.021",
+    "slug": "general-powers-of-fire-districts-rcw-52-12-021",
+    "count": 3,
+    "parentTopic": "Powers of Municipal Corporations"
+  },
+  {
+    "name": "Initiative 747 Struck Down",
+    "slug": "initiative-747-struck-down",
+    "count": 3,
+    "parentTopic": "Property Taxes"
+  },
+  {
+    "name": "The Use of Public Funds",
+    "slug": "the-use-of-public-funds",
+    "count": 3,
+    "parentTopic": "Public Disclosure Commission"
+  },
+  {
+    "name": "Charges for Copying Public Records",
+    "slug": "charges-for-copying-public-records",
+    "count": 3,
+    "parentTopic": "Public Records Act"
+  },
+  {
+    "name": "Giving the \"Fullest Assistance\"",
+    "slug": "giving-the-fullest-assistance-",
+    "count": 3,
+    "parentTopic": "Public Records Act"
+  },
+  {
+    "name": "Penalties for Bad Faith",
+    "slug": "penalties-for-bad-faith",
+    "count": 3,
+    "parentTopic": "Public Records Act"
+  },
+  {
+    "name": "Prompt Response Requirement",
+    "slug": "prompt-response-requirement",
+    "count": 3,
+    "parentTopic": "Public Records Act"
+  },
+  {
+    "name": "Powers",
+    "slug": "powers",
+    "count": 3,
+    "parentTopic": "Regional Fire Authorities"
+  },
+  {
+    "name": "Response Times",
+    "slug": "response-times",
+    "count": 3,
+    "parentTopic": "Safety"
+  },
+  {
+    "name": "USERRA Scoring Criteria in Hiring Veterans",
+    "slug": "userra-scoring-criteria-in-hiring-veterans",
+    "count": 3,
+    "parentTopic": "Veterans"
+  },
+  {
+    "name": "Releases of Liability",
+    "slug": "releases-of-liability",
+    "count": 2,
+    "parentTopic": "Age Discrimination"
+  },
+  {
+    "name": "The Age Discrimination in Employment Act (ADEA)",
+    "slug": "the-age-discrimination-in-employment-act-adea-",
+    "count": 2,
+    "parentTopic": "Age Discrimination"
+  },
+  {
+    "name": "\"Disparate Impact\" Treatment",
+    "slug": "-disparate-impact-treatment",
+    "count": 2,
+    "parentTopic": "Americans with Disabilities Act"
+  },
+  {
+    "name": "Indefinite Leave",
+    "slug": "indefinite-leave",
+    "count": 2,
+    "parentTopic": "Americans with Disabilities Act"
+  },
+  {
+    "name": "Inquiries into Disabilities",
+    "slug": "inquiries-into-disabilities",
+    "count": 2,
+    "parentTopic": "Americans with Disabilities Act"
+  },
+  {
+    "name": "Job Descriptions",
+    "slug": "job-descriptions",
+    "count": 2,
+    "parentTopic": "Americans with Disabilities Act"
+  },
+  {
+    "name": "Pre-Employment Inquiries",
+    "slug": "pre-employment-inquiries",
+    "count": 2,
+    "parentTopic": "Americans with Disabilities Act"
+  },
+  {
+    "name": "Race Discrimination",
+    "slug": "race-discrimination",
+    "count": 2,
+    "parentTopic": "Americans with Disabilities Act"
+  },
+  {
+    "name": "The Duty to Accommodate",
+    "slug": "the-duty-to-accommodate",
+    "count": 2,
+    "parentTopic": "Americans with Disabilities Act"
+  },
+  {
+    "name": "Comparable Jurisdictions",
+    "slug": "comparable-jurisdictions",
+    "count": 2,
+    "parentTopic": "Arbitration"
+  },
+  {
+    "name": "Interest Arbitration",
+    "slug": "interest-arbitration",
+    "count": 2,
+    "parentTopic": "Arbitration"
+  },
+  {
+    "name": "Religious Organizations",
+    "slug": "religious-organizations",
+    "count": 2,
+    "parentTopic": "Benefit Charges"
+  },
+  {
+    "name": "Claims Agents under RCW 4.96",
+    "slug": "claims-agents-under-rcw-4-96",
+    "count": 2,
+    "parentTopic": "Civil Actions"
+  },
+  {
+    "name": "Invasion of Privacy Claims",
+    "slug": "invasion-of-privacy-claims",
+    "count": 2,
+    "parentTopic": "Civil Actions"
+  },
+  {
+    "name": "Requests for Information",
+    "slug": "requests-for-information",
+    "count": 2,
+    "parentTopic": "Collective Bargaining"
+  },
+  {
+    "name": "Supplemental  Pensions",
+    "slug": "supplemental-pensions",
+    "count": 2,
+    "parentTopic": "Collective Bargaining"
+  },
+  {
+    "name": "The Right of Non-Association",
+    "slug": "the-right-of-non-association",
+    "count": 2,
+    "parentTopic": "Collective Bargaining"
+  },
+  {
+    "name": "Weingarten Doctrine",
+    "slug": "weingarten-doctrine",
+    "count": 2,
+    "parentTopic": "Discipline and Discharge"
+  },
+  {
+    "name": "Marijuana and Drug Testing",
+    "slug": "marijuana-and-drug-testing",
+    "count": 2,
+    "parentTopic": "Drug and Alcohol-Free Workplace"
+  },
+  {
+    "name": "Ballot Propositions",
+    "slug": "ballot-propositions",
+    "count": 2,
+    "parentTopic": "Elections"
+  },
+  {
+    "name": "Counting Words in Ballot Titles",
+    "slug": "counting-words-in-ballot-titles",
+    "count": 2,
+    "parentTopic": "Elections"
+  },
+  {
+    "name": "Policies",
+    "slug": "policies",
+    "count": 2,
+    "parentTopic": "Email and Internet"
+  },
+  {
+    "name": "Continuation of Government Functions",
+    "slug": "continuation-of-government-functions",
+    "count": 2,
+    "parentTopic": "Emergency Management Act : RCW 38.52"
+  },
+  {
+    "name": "Regular Rate",
+    "slug": "regular-rate",
+    "count": 2,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "Building Officials Exempt",
+    "slug": "building-officials-exempt",
+    "count": 2,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "Establishing the Work Period",
+    "slug": "establishing-the-work-period",
+    "count": 2,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "Salary Basis Test",
+    "slug": "salary-basis-test",
+    "count": 2,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "Sleep Periods",
+    "slug": "sleep-periods",
+    "count": 2,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "Volunteers",
+    "slug": "volunteers",
+    "count": 2,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "Serious Health Condition",
+    "slug": "serious-health-condition",
+    "count": 2,
+    "parentTopic": "Family Medical Leave Act"
+  },
+  {
+    "name": "Qualifying for FMLA Leave",
+    "slug": "qualifying-for-fmla-leave",
+    "count": 2,
+    "parentTopic": "Family Medical Leave Act"
+  },
+  {
+    "name": "Washington State Paid Family and Medical Leave Act",
+    "slug": "washington-state-paid-family-and-medical-leave-act",
+    "count": 2,
+    "parentTopic": "Family Medical Leave Act"
+  },
+  {
+    "name": "When the Act Applies: 50 or more Employees",
+    "slug": "when-the-act-applies-50-or-more-employees",
+    "count": 2,
+    "parentTopic": "Family Medical Leave Act"
+  },
+  {
+    "name": "First Amendment Concerns",
+    "slug": "first-amendment-concerns",
+    "count": 2,
+    "parentTopic": "Fire Commissioners"
+  },
+  {
+    "name": "Incompatible Public Offices",
+    "slug": "incompatible-public-offices",
+    "count": 2,
+    "parentTopic": "Fire Commissioners"
+  },
+  {
+    "name": "Retaliation for Exercising Free Speech Rights",
+    "slug": "retaliation-for-exercising-free-speech-rights",
+    "count": 2,
+    "parentTopic": "First Amendment"
+  },
+  {
+    "name": "Search and Seizure at Emergency Scenes",
+    "slug": "search-and-seizure-at-emergency-scenes",
+    "count": 2,
+    "parentTopic": "Fourth Amendment"
+  },
+  {
+    "name": "Charges for Copying Medical Records",
+    "slug": "charges-for-copying-medical-records",
+    "count": 2,
+    "parentTopic": "HIPAA"
+  },
+  {
+    "name": "General Issues",
+    "slug": "general-issues",
+    "count": 2,
+    "parentTopic": "HIPAA"
+  },
+  {
+    "name": "Health Care Information of Employees",
+    "slug": "health-care-information-of-employees",
+    "count": 2,
+    "parentTopic": "HIPAA"
+  },
+  {
+    "name": "Taxability of Fringe Benefits",
+    "slug": "taxability-of-fringe-benefits",
+    "count": 2,
+    "parentTopic": "Internal Revenue Service"
+  },
+  {
+    "name": "Boundaries of Taxing Districts",
+    "slug": "boundaries-of-taxing-districts",
+    "count": 2,
+    "parentTopic": "Legislation of Interest"
+  },
+  {
+    "name": "Public Bid Laws",
+    "slug": "public-bid-laws",
+    "count": 2,
+    "parentTopic": "Legislation of Interest"
+  },
+  {
+    "name": "Public Records Act and OPMA",
+    "slug": "public-records-act-and-opma",
+    "count": 2,
+    "parentTopic": "Legislation of Interest"
+  },
+  {
+    "name": "Formation and Special Assessments",
+    "slug": "formation-and-special-assessments",
+    "count": 2,
+    "parentTopic": "Local Improvement Districts"
+  },
+  {
+    "name": "2022 Changes",
+    "slug": "2022-changes",
+    "count": 2,
+    "parentTopic": "Open Public Meetings Act"
+  },
+  {
+    "name": "Recall from Office for Intentional Violations",
+    "slug": "recall-from-office-for-intentional-violations",
+    "count": 2,
+    "parentTopic": "Open Public Meetings Act"
+  },
+  {
+    "name": "Delegation of Authority",
+    "slug": "delegation-of-authority",
+    "count": 2,
+    "parentTopic": "Powers of Municipal Corporations"
+  },
+  {
+    "name": "Specific Powers of Fire Districts: RCW 52.12.031",
+    "slug": "specific-powers-of-fire-districts-rcw-52-12-031",
+    "count": 2,
+    "parentTopic": "Powers of Municipal Corporations"
+  },
+  {
+    "name": "Trademarks for Fire Departments",
+    "slug": "trademarks-for-fire-departments",
+    "count": 2,
+    "parentTopic": "Powers of Municipal Corporations"
+  },
+  {
+    "name": "Property Tax and Budget Resolutions",
+    "slug": "property-tax-and-budget-resolutions",
+    "count": 2,
+    "parentTopic": "Property Taxes"
+  },
+  {
+    "name": "Tax Increment Financing",
+    "slug": "tax-increment-financing",
+    "count": 2,
+    "parentTopic": "Property Taxes"
+  },
+  {
+    "name": "Prevailing Wage Laws: RCW 39.12.020",
+    "slug": "prevailing-wage-laws-rcw-39-12-020",
+    "count": 2,
+    "parentTopic": "Public Bid Laws"
+  },
+  {
+    "name": "Prudent Utility Management under RCW 52.14.110 (2)",
+    "slug": "prudent-utility-management-under-rcw-52-14-110-2-",
+    "count": 2,
+    "parentTopic": "Public Bid Laws"
+  },
+  {
+    "name": "Purchase of Fire Engines",
+    "slug": "purchase-of-fire-engines",
+    "count": 2,
+    "parentTopic": "Public Bid Laws"
+  },
+  {
+    "name": "Purchase of Used Equipment",
+    "slug": "purchase-of-used-equipment",
+    "count": 2,
+    "parentTopic": "Public Bid Laws"
+  },
+  {
+    "name": "Personnel Investigations",
+    "slug": "personnel-investigations",
+    "count": 2,
+    "parentTopic": "Public Records Act"
+  },
+  {
+    "name": "Records Index",
+    "slug": "records-index",
+    "count": 2,
+    "parentTopic": "Public Records Act"
+  },
+  {
+    "name": "Responding that a Request is \"Overbroad\"",
+    "slug": "responding-that-a-request-is-overbroad-",
+    "count": 2,
+    "parentTopic": "Public Records Act"
+  },
+  {
+    "name": "Model Toxic Controls Act",
+    "slug": "model-toxic-controls-act",
+    "count": 2,
+    "parentTopic": "Random Laws"
+  },
+  {
+    "name": "Formation",
+    "slug": "formation",
+    "count": 2,
+    "parentTopic": "Regional Fire Authorities"
+  },
+  {
+    "name": "Governance",
+    "slug": "governance",
+    "count": 2,
+    "parentTopic": "Regional Fire Authorities"
+  },
+  {
+    "name": "Accident Investigations",
+    "slug": "accident-investigations",
+    "count": 2,
+    "parentTopic": "Safety"
+  },
+  {
+    "name": "OSHA Respiratory Protection Standards",
+    "slug": "osha-respiratory-protection-standards",
+    "count": 2,
+    "parentTopic": "Safety"
+  },
+  {
+    "name": "Audit Findings",
+    "slug": "audit-findings",
+    "count": 2,
+    "parentTopic": "State Auditor"
+  },
+  {
+    "name": "Permissive Disclosures",
+    "slug": "permissive-disclosures",
+    "count": 2,
+    "parentTopic": "The Washington Health Care Information Act: RCW 70.02"
+  },
+  {
+    "name": "Important PERC Decisions",
+    "slug": "important-perc-decisions",
+    "count": 2,
+    "parentTopic": "Unfair Labor Practices"
+  },
+  {
+    "name": "Freedom of Speech",
+    "slug": "freedom-of-speech",
+    "count": 2,
+    "parentTopic": "United States Supreme Court Opinions"
+  },
+  {
+    "name": "Volunteer Fire Fighters Pension Act: RCW 41.24",
+    "slug": "volunteer-fire-fighters-pension-act-rcw-41-24",
+    "count": 2,
+    "parentTopic": "Volunteering"
+  },
+  {
+    "name": "Special Penalties",
+    "slug": "special-penalties",
+    "count": 2,
+    "parentTopic": "Wage Claims"
+  },
+  {
+    "name": "Hostile Work Environment",
+    "slug": "hostile-work-environment",
+    "count": 2,
+    "parentTopic": "Washington Law Against Discrimination: RCW 49.60"
+  },
+  {
+    "name": "Sexual Harassment",
+    "slug": "sexual-harassment",
+    "count": 2,
+    "parentTopic": "Washington Law Against Discrimination: RCW 49.60"
+  },
+  {
+    "name": "Exclusive Remedy",
+    "slug": "exclusive-remedy",
+    "count": 2,
+    "parentTopic": "Worker's Compensation and Industrial Insurance"
+  },
+  {
+    "name": "Discriminatory Intent",
+    "slug": "discriminatory-intent",
+    "count": 1,
+    "parentTopic": "Age Discrimination"
+  },
+  {
+    "name": "\"Regarded as\" Disabled",
+    "slug": "-regarded-as-disabled",
+    "count": 1,
+    "parentTopic": "Americans with Disabilities Act"
+  },
+  {
+    "name": "Amendments Act of 2008",
+    "slug": "amendments-act-of-2008",
+    "count": 1,
+    "parentTopic": "Americans with Disabilities Act"
+  },
+  {
+    "name": "Equivalent Positions",
+    "slug": "equivalent-positions",
+    "count": 1,
+    "parentTopic": "Americans with Disabilities Act"
+  },
+  {
+    "name": "No Individual Liability",
+    "slug": "no-individual-liability",
+    "count": 1,
+    "parentTopic": "Americans with Disabilities Act"
+  },
+  {
+    "name": "Obesity",
+    "slug": "obesity",
+    "count": 1,
+    "parentTopic": "Americans with Disabilities Act"
+  },
+  {
+    "name": "Signs",
+    "slug": "signs",
+    "count": 1,
+    "parentTopic": "Americans with Disabilities Act"
+  },
+  {
+    "name": "Who is an \"Employee\" under the Act?",
+    "slug": "who-is-an-employee-under-the-act-",
+    "count": 1,
+    "parentTopic": "Americans with Disabilities Act"
+  },
+  {
+    "name": "Arbitrability Defenses",
+    "slug": "arbitrability-defenses",
+    "count": 1,
+    "parentTopic": "Arbitration"
+  },
+  {
+    "name": "Compulsory Arbitration and Title VII Claims",
+    "slug": "compulsory-arbitration-and-title-vii-claims",
+    "count": 1,
+    "parentTopic": "Arbitration"
+  },
+  {
+    "name": "Exhaustion of Administrative Remedies",
+    "slug": "exhaustion-of-administrative-remedies",
+    "count": 1,
+    "parentTopic": "Arbitration"
+  },
+  {
+    "name": "Public Policy Concerns",
+    "slug": "public-policy-concerns",
+    "count": 1,
+    "parentTopic": "Arbitration"
+  },
+  {
+    "name": "Put Everything in Writing",
+    "slug": "put-everything-in-writing",
+    "count": 1,
+    "parentTopic": "Arbitration"
+  },
+  {
+    "name": "The Deferral Doctrine",
+    "slug": "the-deferral-doctrine",
+    "count": 1,
+    "parentTopic": "Arbitration"
+  },
+  {
+    "name": "Vacation of Arbitration Awards",
+    "slug": "vacation-of-arbitration-awards",
+    "count": 1,
+    "parentTopic": "Arbitration"
+  },
+  {
+    "name": "Exemption for \"Fire District Activities\"",
+    "slug": "exemption-for-fire-district-activities-",
+    "count": 1,
+    "parentTopic": "Business-and-Occupation Taxes"
+  },
+  {
+    "name": "Charging Non-Residents",
+    "slug": "charging-non-residents",
+    "count": 1,
+    "parentTopic": "Charges for Emergency Medical Services"
+  },
+  {
+    "name": "Attorney-Client Privileged Communications",
+    "slug": "attorney-client-privileged-communications",
+    "count": 1,
+    "parentTopic": "Civil Actions"
+  },
+  {
+    "name": "Bystander Negligence",
+    "slug": "bystander-negligence",
+    "count": 1,
+    "parentTopic": "Civil Actions"
+  },
+  {
+    "name": "Emergency Scenes",
+    "slug": "emergency-scenes",
+    "count": 1,
+    "parentTopic": "Civil Actions"
+  },
+  {
+    "name": "Involuntary Detention",
+    "slug": "involuntary-detention",
+    "count": 1,
+    "parentTopic": "Civil Actions"
+  },
+  {
+    "name": "LEOFF II Employees",
+    "slug": "leoff-ii-employees",
+    "count": 1,
+    "parentTopic": "Civil Actions"
+  },
+  {
+    "name": "Mutual Aid in Rural Fire Districts",
+    "slug": "mutual-aid-in-rural-fire-districts",
+    "count": 1,
+    "parentTopic": "Civil Actions"
+  },
+  {
+    "name": "No Cause of Action for Refusing to Re-hire",
+    "slug": "no-cause-of-action-for-refusing-to-re-hire",
+    "count": 1,
+    "parentTopic": "Civil Actions"
+  },
+  {
+    "name": "Non-Disparagement Clauses",
+    "slug": "non-disparagement-clauses",
+    "count": 1,
+    "parentTopic": "Civil Actions"
+  },
+  {
+    "name": "Privilege of \"Peer Support Group Counselors\"",
+    "slug": "privilege-of-peer-support-group-counselors-",
+    "count": 1,
+    "parentTopic": "Civil Actions"
+  },
+  {
+    "name": "Reports as Evidence",
+    "slug": "reports-as-evidence",
+    "count": 1,
+    "parentTopic": "Civil Actions"
+  },
+  {
+    "name": "Responding to Claims",
+    "slug": "responding-to-claims",
+    "count": 1,
+    "parentTopic": "Civil Actions"
+  },
+  {
+    "name": "Use of Personal Vehicles During Work",
+    "slug": "use-of-personal-vehicles-during-work",
+    "count": 1,
+    "parentTopic": "Civil Actions"
+  },
+  {
+    "name": "Volunteers May Sue for Negligent Injuries at Work",
+    "slug": "volunteers-may-sue-for-negligent-injuries-at-work",
+    "count": 1,
+    "parentTopic": "Civil Actions"
+  },
+  {
+    "name": "Civil Service",
+    "slug": "civil-service",
+    "count": 1,
+    "parentTopic": "Collective Bargaining"
+  },
+  {
+    "name": "Garrity Rights",
+    "slug": "garrity-rights",
+    "count": 1,
+    "parentTopic": "Collective Bargaining"
+  },
+  {
+    "name": "Joint Employers",
+    "slug": "joint-employers",
+    "count": 1,
+    "parentTopic": "Collective Bargaining"
+  },
+  {
+    "name": "Light Duty",
+    "slug": "light-duty",
+    "count": 1,
+    "parentTopic": "Collective Bargaining"
+  },
+  {
+    "name": "Retroactive Decrease in Benefits",
+    "slug": "retroactive-decrease-in-benefits",
+    "count": 1,
+    "parentTopic": "Collective Bargaining"
+  },
+  {
+    "name": "Provision by Fire Districts and RFA's",
+    "slug": "provision-by-fire-districts-and-rfa-s",
+    "count": 1,
+    "parentTopic": "Community Paramedicine"
+  },
+  {
+    "name": "Scope of Practice Issues",
+    "slug": "scope-of-practice-issues",
+    "count": 1,
+    "parentTopic": "Community Paramedicine"
+  },
+  {
+    "name": "Consolidation v. Merger",
+    "slug": "consolidation-v-merger",
+    "count": 1,
+    "parentTopic": "Consolidation"
+  },
+  {
+    "name": "Making the Employee Whole: Issues with Income Taxes",
+    "slug": "making-the-employee-whole-issues-with-income-taxes",
+    "count": 1,
+    "parentTopic": "Disability Leave Supplement: RCW 41.04.500"
+  },
+  {
+    "name": "Promotional Examinations",
+    "slug": "promotional-examinations",
+    "count": 1,
+    "parentTopic": "Disability Leave Supplement: RCW 41.04.500"
+  },
+  {
+    "name": "Retirement Service Credits",
+    "slug": "retirement-service-credits",
+    "count": 1,
+    "parentTopic": "Disability Leave Supplement: RCW 41.04.500"
+  },
+  {
+    "name": "At Will Employees",
+    "slug": "at-will-employees",
+    "count": 1,
+    "parentTopic": "Discipline and Discharge"
+  },
+  {
+    "name": "Credit Checks",
+    "slug": "credit-checks",
+    "count": 1,
+    "parentTopic": "Discipline and Discharge"
+  },
+  {
+    "name": "Free Speech",
+    "slug": "free-speech",
+    "count": 1,
+    "parentTopic": "Discipline and Discharge"
+  },
+  {
+    "name": "Last Chance Agreements",
+    "slug": "last-chance-agreements",
+    "count": 1,
+    "parentTopic": "Discipline and Discharge"
+  },
+  {
+    "name": "Layoffs v. Termination for Cause",
+    "slug": "layoffs-v-termination-for-cause",
+    "count": 1,
+    "parentTopic": "Discipline and Discharge"
+  },
+  {
+    "name": "Random Drug Testing",
+    "slug": "random-drug-testing",
+    "count": 1,
+    "parentTopic": "Drug and Alcohol-Free Workplace"
+  },
+  {
+    "name": "Grants",
+    "slug": "grants",
+    "count": 1,
+    "parentTopic": "Emergency Management Act : RCW 38.52"
+  },
+  {
+    "name": "\"Off the Clock\" Work",
+    "slug": "-off-the-clock-work",
+    "count": 1,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "Applicability to Municipal Governments",
+    "slug": "applicability-to-municipal-governments",
+    "count": 1,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "Class Time",
+    "slug": "class-time",
+    "count": 1,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "Computer Professionals Exempt",
+    "slug": "computer-professionals-exempt",
+    "count": 1,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "Confidential Employees and Bargaining Units",
+    "slug": "confidential-employees-and-bargaining-units",
+    "count": 1,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "Delay in Payment",
+    "slug": "delay-in-payment",
+    "count": 1,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "Fluctuating Workweeks",
+    "slug": "fluctuating-workweeks",
+    "count": 1,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "Hourly v. Salary Employees",
+    "slug": "hourly-v-salary-employees",
+    "count": 1,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "Improper Pay Deductions",
+    "slug": "improper-pay-deductions",
+    "count": 1,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "Partial Pay Docking",
+    "slug": "partial-pay-docking",
+    "count": 1,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "Pay Deductions for Safety Violations",
+    "slug": "pay-deductions-for-safety-violations",
+    "count": 1,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "Personal Activities",
+    "slug": "personal-activities",
+    "count": 1,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "Preemption of State Law",
+    "slug": "preemption-of-state-law",
+    "count": 1,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "Shift Trades and Fill-ins",
+    "slug": "shift-trades-and-fill-ins",
+    "count": 1,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "Sick Leave Buy-Back",
+    "slug": "sick-leave-buy-back",
+    "count": 1,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "State Immunity from Private FLSA Lawsuits",
+    "slug": "state-immunity-from-private-flsa-lawsuits",
+    "count": 1,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "Training Time",
+    "slug": "training-time",
+    "count": 1,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "Travel Time",
+    "slug": "travel-time",
+    "count": 1,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "What the FLSA Does Not Require",
+    "slug": "what-the-flsa-does-not-require",
+    "count": 1,
+    "parentTopic": "Fair Labor Standards Act"
+  },
+  {
+    "name": "Excessive Absenteeism",
+    "slug": "excessive-absenteeism",
+    "count": 1,
+    "parentTopic": "Family Medical Leave Act"
+  },
+  {
+    "name": "Family Leave for Military Members",
+    "slug": "family-leave-for-military-members",
+    "count": 1,
+    "parentTopic": "Family Medical Leave Act"
+  },
+  {
+    "name": "Medical Necessity",
+    "slug": "medical-necessity",
+    "count": 1,
+    "parentTopic": "Family Medical Leave Act"
+  },
+  {
+    "name": "Notification of FMLA Rights",
+    "slug": "notification-of-fmla-rights",
+    "count": 1,
+    "parentTopic": "Family Medical Leave Act"
+  },
+  {
+    "name": "Physician Certification",
+    "slug": "physician-certification",
+    "count": 1,
+    "parentTopic": "Family Medical Leave Act"
+  },
+  {
+    "name": "Pregnancy",
+    "slug": "pregnancy",
+    "count": 1,
+    "parentTopic": "Family Medical Leave Act"
+  },
+  {
+    "name": "Waivers",
+    "slug": "waivers",
+    "count": 1,
+    "parentTopic": "Family Medical Leave Act"
+  },
+  {
+    "name": "Fair Credit Reporting Act and the FTC",
+    "slug": "fair-credit-reporting-act-and-the-ftc",
+    "count": 1,
+    "parentTopic": "Federal Legislation and Regulations"
+  },
+  {
+    "name": "Medicare and Medicaid",
+    "slug": "medicare-and-medicaid",
+    "count": 1,
+    "parentTopic": "Federal Legislation and Regulations"
+  },
+  {
+    "name": "Social Security",
+    "slug": "social-security",
+    "count": 1,
+    "parentTopic": "Federal Legislation and Regulations"
+  },
+  {
+    "name": "Decreasing Number of Commissioners",
+    "slug": "decreasing-number-of-commissioners",
+    "count": 1,
+    "parentTopic": "Fire Commissioners"
+  },
+  {
+    "name": "Ethics",
+    "slug": "ethics",
+    "count": 1,
+    "parentTopic": "Fire Commissioners"
+  },
+  {
+    "name": "Formulating and Implementing Policies",
+    "slug": "formulating-and-implementing-policies",
+    "count": 1,
+    "parentTopic": "Fire Commissioners"
+  },
+  {
+    "name": "Recall from Office",
+    "slug": "recall-from-office",
+    "count": 1,
+    "parentTopic": "Fire Commissioners"
+  },
+  {
+    "name": "The Board and the Fire Chief",
+    "slug": "the-board-and-the-fire-chief",
+    "count": 1,
+    "parentTopic": "Fire Commissioners"
+  },
+  {
+    "name": "Discipline Based on Political Activism",
+    "slug": "discipline-based-on-political-activism",
+    "count": 1,
+    "parentTopic": "First Amendment"
+  },
+  {
+    "name": "Privacy in Office Conversations",
+    "slug": "privacy-in-office-conversations",
+    "count": 1,
+    "parentTopic": "Fourth Amendment"
+  },
+  {
+    "name": "Videotaping in the Workplace",
+    "slug": "videotaping-in-the-workplace",
+    "count": 1,
+    "parentTopic": "Fourth Amendment"
+  },
+  {
+    "name": "Workplace Searches",
+    "slug": "workplace-searches",
+    "count": 1,
+    "parentTopic": "Fourth Amendment"
+  },
+  {
+    "name": "Breach Notices",
+    "slug": "breach-notices",
+    "count": 1,
+    "parentTopic": "HIPAA"
+  },
+  {
+    "name": "Criminal Prosecution",
+    "slug": "criminal-prosecution",
+    "count": 1,
+    "parentTopic": "HIPAA"
+  },
+  {
+    "name": "Name and Address of Patients",
+    "slug": "name-and-address-of-patients",
+    "count": 1,
+    "parentTopic": "HIPAA"
+  },
+  {
+    "name": "Release of Photos",
+    "slug": "release-of-photos",
+    "count": 1,
+    "parentTopic": "HIPAA"
+  },
+  {
+    "name": "Security Rule",
+    "slug": "security-rule",
+    "count": 1,
+    "parentTopic": "HIPAA"
+  },
+  {
+    "name": "Capital Facilities Plans",
+    "slug": "capital-facilities-plans",
+    "count": 1,
+    "parentTopic": "Impact Fees"
+  },
+  {
+    "name": "\"Unprofessional Conduct\" under 18.130.080",
+    "slug": "-unprofessional-conduct-under-18-130-080",
+    "count": 1,
+    "parentTopic": "Job-Related Misconduct"
+  },
+  {
+    "name": "Drug Abuse",
+    "slug": "drug-abuse",
+    "count": 1,
+    "parentTopic": "Job-Related Misconduct"
+  },
+  {
+    "name": "Psychological Exams",
+    "slug": "psychological-exams",
+    "count": 1,
+    "parentTopic": "Job-Related Misconduct"
+  },
+  {
+    "name": "\"Substantially Career\" Fire Departments",
+    "slug": "-substantially-career-fire-departments",
+    "count": 1,
+    "parentTopic": "Legislation of Interest"
+  },
+  {
+    "name": "1999 Highlights",
+    "slug": "1999-highlights",
+    "count": 1,
+    "parentTopic": "Legislation of Interest"
+  },
+  {
+    "name": "2004 Highlights",
+    "slug": "2004-highlights",
+    "count": 1,
+    "parentTopic": "Legislation of Interest"
+  },
+  {
+    "name": "2007 Highlights",
+    "slug": "2007-highlights",
+    "count": 1,
+    "parentTopic": "Legislation of Interest"
+  },
+  {
+    "name": "2016 Proposed Legislation",
+    "slug": "2016-proposed-legislation",
+    "count": 1,
+    "parentTopic": "Legislation of Interest"
+  },
+  {
+    "name": "2017 Highlights",
+    "slug": "2017-highlights",
+    "count": 1,
+    "parentTopic": "Legislation of Interest"
+  },
+  {
+    "name": "Amendments to Death Benefits",
+    "slug": "amendments-to-death-benefits",
+    "count": 1,
+    "parentTopic": "Legislation of Interest"
+  },
+  {
+    "name": "Fire Insurance Premium Taxes",
+    "slug": "fire-insurance-premium-taxes",
+    "count": 1,
+    "parentTopic": "Legislation of Interest"
+  },
+  {
+    "name": "Highlights from 2005",
+    "slug": "highlights-from-2005",
+    "count": 1,
+    "parentTopic": "Legislation of Interest"
+  },
+  {
+    "name": "Interlocal Agreements",
+    "slug": "interlocal-agreements",
+    "count": 1,
+    "parentTopic": "Legislation of Interest"
+  },
+  {
+    "name": "Military Leave Law",
+    "slug": "military-leave-law",
+    "count": 1,
+    "parentTopic": "Legislation of Interest"
+  },
+  {
+    "name": "Records Retention Schedules",
+    "slug": "records-retention-schedules",
+    "count": 1,
+    "parentTopic": "Legislation of Interest"
+  },
+  {
+    "name": "LID's and CARES Programs",
+    "slug": "lid-s-and-cares-programs",
+    "count": 1,
+    "parentTopic": "Local Improvement Districts"
+  },
+  {
+    "name": "Annexation of Cities",
+    "slug": "annexation-of-cities",
+    "count": 1,
+    "parentTopic": "Mergers and Annexations"
+  },
+  {
+    "name": "Issuance of Warrants",
+    "slug": "issuance-of-warrants",
+    "count": 1,
+    "parentTopic": "Miscellaneous Financing Issues"
+  },
+  {
+    "name": "Use of Email for Union Business",
+    "slug": "use-of-email-for-union-business",
+    "count": 1,
+    "parentTopic": "National Labor Relations Act"
+  },
+  {
+    "name": "Facebook and Social Media",
+    "slug": "facebook-and-social-media",
+    "count": 1,
+    "parentTopic": "Open Public Meetings Act"
+  },
+  {
+    "name": "Minutes of Board Meetings",
+    "slug": "minutes-of-board-meetings",
+    "count": 1,
+    "parentTopic": "Open Public Meetings Act"
+  },
+  {
+    "name": "Open Government Trainings Act",
+    "slug": "open-government-trainings-act",
+    "count": 1,
+    "parentTopic": "Open Public Meetings Act"
+  },
+  {
+    "name": "Study Sessions",
+    "slug": "study-sessions",
+    "count": 1,
+    "parentTopic": "Open Public Meetings Act"
+  },
+  {
+    "name": "\"Ultra Vires\" Actions",
+    "slug": "-ultra-vires-actions",
+    "count": 1,
+    "parentTopic": "Powers of Municipal Corporations"
+  },
+  {
+    "name": "Changing Names",
+    "slug": "changing-names",
+    "count": 1,
+    "parentTopic": "Powers of Municipal Corporations"
+  },
+  {
+    "name": "Employment Contracts",
+    "slug": "employment-contracts",
+    "count": 1,
+    "parentTopic": "Powers of Municipal Corporations"
+  },
+  {
+    "name": "Planning and Professionalism",
+    "slug": "planning-and-professionalism",
+    "count": 1,
+    "parentTopic": "Powers of Municipal Corporations"
+  },
+  {
+    "name": "40% Validation Requirement for Excess Levies",
+    "slug": "40-validation-requirement-for-excess-levies",
+    "count": 1,
+    "parentTopic": "Property Taxes"
+  },
+  {
+    "name": "Deflation",
+    "slug": "deflation",
+    "count": 1,
+    "parentTopic": "Property Taxes"
+  },
+  {
+    "name": "General Outline of Regular Property Tax Levies",
+    "slug": "general-outline-of-regular-property-tax-levies",
+    "count": 1,
+    "parentTopic": "Property Taxes"
+  },
+  {
+    "name": "Implicit Price Deflator",
+    "slug": "implicit-price-deflator",
+    "count": 1,
+    "parentTopic": "Property Taxes"
+  },
+  {
+    "name": "Initiative 695",
+    "slug": "initiative-695",
+    "count": 1,
+    "parentTopic": "Property Taxes"
+  },
+  {
+    "name": "Payments In Lieu of Tax",
+    "slug": "payments-in-lieu-of-tax",
+    "count": 1,
+    "parentTopic": "Property Taxes"
+  },
+  {
+    "name": "Protecting $.25 from Pro-Rationing: RCW 84.52.125",
+    "slug": "protecting-25-from-pro-rationing-rcw-84-52-125",
+    "count": 1,
+    "parentTopic": "Property Taxes"
+  },
+  {
+    "name": "Bid Law Exceptions Under RCW 39.04.280",
+    "slug": "bid-law-exceptions-under-rcw-39-04-280",
+    "count": 1,
+    "parentTopic": "Public Bid Laws"
+  },
+  {
+    "name": "Electronic Data Processing and Telecommunications Systems",
+    "slug": "electronic-data-processing-and-telecommunications-systems",
+    "count": 1,
+    "parentTopic": "Public Bid Laws"
+  },
+  {
+    "name": "Fire District acting as general contractor: RCW 52.14.120 (2)",
+    "slug": "fire-district-acting-as-general-contractor-rcw-52-14-120-2-",
+    "count": 1,
+    "parentTopic": "Public Bid Laws"
+  },
+  {
+    "name": "Joint Purchases of Engineering or Architectural Services",
+    "slug": "joint-purchases-of-engineering-or-architectural-services",
+    "count": 1,
+    "parentTopic": "Public Bid Laws"
+  },
+  {
+    "name": "Oral Contracts",
+    "slug": "oral-contracts",
+    "count": 1,
+    "parentTopic": "Public Bid Laws"
+  },
+  {
+    "name": "Ordinary Maintenance",
+    "slug": "ordinary-maintenance",
+    "count": 1,
+    "parentTopic": "Public Bid Laws"
+  },
+  {
+    "name": "Purchasing at Auctions: 39.30.045",
+    "slug": "purchasing-at-auctions-39-30-045",
+    "count": 1,
+    "parentTopic": "Public Bid Laws"
+  },
+  {
+    "name": "Sole Source Exception",
+    "slug": "sole-source-exception",
+    "count": 1,
+    "parentTopic": "Public Bid Laws"
+  },
+  {
+    "name": "Unregistered and Unlicensed Contractors: RCW 39.06.010",
+    "slug": "unregistered-and-unlicensed-contractors-rcw-39-06-010",
+    "count": 1,
+    "parentTopic": "Public Bid Laws"
+  },
+  {
+    "name": "Gifts Made to Local Government Officials",
+    "slug": "gifts-made-to-local-government-officials",
+    "count": 1,
+    "parentTopic": "Public Disclosure Commission"
+  },
+  {
+    "name": "Signs on District Property",
+    "slug": "signs-on-district-property",
+    "count": 1,
+    "parentTopic": "Public Disclosure Commission"
+  },
+  {
+    "name": "Brief Explanation",
+    "slug": "brief-explanation",
+    "count": 1,
+    "parentTopic": "Public Records Act"
+  },
+  {
+    "name": "\"Functional Equivalents\" of a Public Agency",
+    "slug": "-functional-equivalents-of-a-public-agency",
+    "count": 1,
+    "parentTopic": "Public Records Act"
+  },
+  {
+    "name": "Agencies Subject to the Act",
+    "slug": "agencies-subject-to-the-act",
+    "count": 1,
+    "parentTopic": "Public Records Act"
+  },
+  {
+    "name": "Applicability to Interlocal Agencies",
+    "slug": "applicability-to-interlocal-agencies",
+    "count": 1,
+    "parentTopic": "Public Records Act"
+  },
+  {
+    "name": "Backup Files",
+    "slug": "backup-files",
+    "count": 1,
+    "parentTopic": "Public Records Act"
+  },
+  {
+    "name": "Call Logs",
+    "slug": "call-logs",
+    "count": 1,
+    "parentTopic": "Public Records Act"
+  },
+  {
+    "name": "Model Policy on Photos and Videos",
+    "slug": "model-policy-on-photos-and-videos",
+    "count": 1,
+    "parentTopic": "Public Records Act"
+  },
+  {
+    "name": "Model Rules for the Public Records Act: WAC 44-14-00001",
+    "slug": "model-rules-for-the-public-records-act-wac-44-14-00001",
+    "count": 1,
+    "parentTopic": "Public Records Act"
+  },
+  {
+    "name": "No Duty to Supplement Responses",
+    "slug": "no-duty-to-supplement-responses",
+    "count": 1,
+    "parentTopic": "Public Records Act"
+  },
+  {
+    "name": "Notice to Third Parties",
+    "slug": "notice-to-third-parties",
+    "count": 1,
+    "parentTopic": "Public Records Act"
+  },
+  {
+    "name": "Requiring Written Requests",
+    "slug": "requiring-written-requests",
+    "count": 1,
+    "parentTopic": "Public Records Act"
+  },
+  {
+    "name": "Work Product and Attorney-Client Privilege",
+    "slug": "work-product-and-attorney-client-privilege",
+    "count": 1,
+    "parentTopic": "Public Records Act"
+  },
+  {
+    "name": "Apprenticeships",
+    "slug": "apprenticeships",
+    "count": 1,
+    "parentTopic": "Public Works"
+  },
+  {
+    "name": "Federal Flag Code",
+    "slug": "federal-flag-code",
+    "count": 1,
+    "parentTopic": "Random Laws"
+  },
+  {
+    "name": "RCW 24.60: The Intra-State Building Safety Mutual Aid System",
+    "slug": "rcw-24-60-the-intra-state-building-safety-mutual-aid-system",
+    "count": 1,
+    "parentTopic": "Random Laws"
+  },
+  {
+    "name": "Weight Limits of Fire Trucks",
+    "slug": "weight-limits-of-fire-trucks",
+    "count": 1,
+    "parentTopic": "Random Laws"
+  },
+  {
+    "name": "Transitory Records",
+    "slug": "transitory-records",
+    "count": 1,
+    "parentTopic": "Records Retention"
+  },
+  {
+    "name": "Destruction of Non-Archival Records",
+    "slug": "destruction-of-non-archival-records",
+    "count": 1,
+    "parentTopic": "Records Retention"
+  },
+  {
+    "name": "Electronic Records in Washington",
+    "slug": "electronic-records-in-washington",
+    "count": 1,
+    "parentTopic": "Records Retention"
+  },
+  {
+    "name": "General Records Retention Schedules",
+    "slug": "general-records-retention-schedules",
+    "count": 1,
+    "parentTopic": "Records Retention"
+  },
+  {
+    "name": "Photo-Release Policy",
+    "slug": "photo-release-policy",
+    "count": 1,
+    "parentTopic": "Records Retention"
+  },
+  {
+    "name": "Adjacency",
+    "slug": "adjacency",
+    "count": 1,
+    "parentTopic": "Regional Fire Authorities"
+  },
+  {
+    "name": "Expansion",
+    "slug": "expansion",
+    "count": 1,
+    "parentTopic": "Regional Fire Authorities"
+  },
+  {
+    "name": "Funding and Financing",
+    "slug": "funding-and-financing",
+    "count": 1,
+    "parentTopic": "Regional Fire Authorities"
+  },
+  {
+    "name": "LEOFF II \"Employers\" and State Contribution Law",
+    "slug": "leoff-ii-employers-and-state-contribution-law",
+    "count": 1,
+    "parentTopic": "Retirement Issues"
+  },
+  {
+    "name": "Opting Into Medicare",
+    "slug": "opting-into-medicare",
+    "count": 1,
+    "parentTopic": "Retirement Issues"
+  },
+  {
+    "name": "Unpreventable Employee Misconduct",
+    "slug": "unpreventable-employee-misconduct",
+    "count": 1,
+    "parentTopic": "Safety"
+  },
+  {
+    "name": "296-305 Requirements for Live-Structure Firefighting",
+    "slug": "296-305-requirements-for-live-structure-firefighting",
+    "count": 1,
+    "parentTopic": "Safety"
+  },
+  {
+    "name": "Cell Phone Use Policies",
+    "slug": "cell-phone-use-policies",
+    "count": 1,
+    "parentTopic": "Safety"
+  },
+  {
+    "name": "Fireground Staffing Requirements",
+    "slug": "fireground-staffing-requirements",
+    "count": 1,
+    "parentTopic": "Safety"
+  },
+  {
+    "name": "Meal Periods",
+    "slug": "meal-periods",
+    "count": 1,
+    "parentTopic": "Safety"
+  },
+  {
+    "name": "Physical Fitness Standards for Firefighters",
+    "slug": "physical-fitness-standards-for-firefighters",
+    "count": 1,
+    "parentTopic": "Safety"
+  },
+  {
+    "name": "Securing Emergency Scenes",
+    "slug": "securing-emergency-scenes",
+    "count": 1,
+    "parentTopic": "Safety"
+  },
+  {
+    "name": "Self Reporting",
+    "slug": "self-reporting",
+    "count": 1,
+    "parentTopic": "Safety"
+  },
+  {
+    "name": "Workplace Violence",
+    "slug": "workplace-violence",
+    "count": 1,
+    "parentTopic": "Safety"
+  },
+  {
+    "name": "Auditing Officers",
+    "slug": "auditing-officers",
+    "count": 1,
+    "parentTopic": "State Auditor"
+  },
+  {
+    "name": "Claims Agents and Filing",
+    "slug": "claims-agents-and-filing",
+    "count": 1,
+    "parentTopic": "State Auditor"
+  },
+  {
+    "name": "Retroactive Pay Increases",
+    "slug": "retroactive-pay-increases",
+    "count": 1,
+    "parentTopic": "State Auditor"
+  },
+  {
+    "name": "Separating Accounts: RCW 43.09.210",
+    "slug": "separating-accounts-rcw-43-09-210",
+    "count": 1,
+    "parentTopic": "State Auditor"
+  },
+  {
+    "name": "Unconstitutional Gift of Public Funds",
+    "slug": "unconstitutional-gift-of-public-funds",
+    "count": 1,
+    "parentTopic": "State Auditor"
+  },
+  {
+    "name": "Paying for Fire Hydrants",
+    "slug": "paying-for-fire-hydrants",
+    "count": 1,
+    "parentTopic": "Taxation of Governmental Functions"
+  },
+  {
+    "name": "Forming Non-Profit Corporations",
+    "slug": "forming-non-profit-corporations",
+    "count": 1,
+    "parentTopic": "The Interlocal Cooperation Act: RCW 39.34"
+  },
+  {
+    "name": "Indexes of Interlocal Agreements",
+    "slug": "indexes-of-interlocal-agreements",
+    "count": 1,
+    "parentTopic": "The Interlocal Cooperation Act: RCW 39.34"
+  },
+  {
+    "name": "Issues with Merger and Consolidation",
+    "slug": "issues-with-merger-and-consolidation",
+    "count": 1,
+    "parentTopic": "The Interlocal Cooperation Act: RCW 39.34"
+  },
+  {
+    "name": "Issues with Separating Accounts under RCW 43.09.210",
+    "slug": "issues-with-separating-accounts-under-rcw-43-09-210",
+    "count": 1,
+    "parentTopic": "The Interlocal Cooperation Act: RCW 39.34"
+  },
+  {
+    "name": "Separating Functions",
+    "slug": "separating-functions",
+    "count": 1,
+    "parentTopic": "The Interlocal Cooperation Act: RCW 39.34"
+  },
+  {
+    "name": "Mandatory Disclosures",
+    "slug": "mandatory-disclosures",
+    "count": 1,
+    "parentTopic": "The Washington Health Care Information Act: RCW 70.02"
+  },
+  {
+    "name": "Model Policies on Photo or Video at Emergency Scenes",
+    "slug": "model-policies-on-photo-or-video-at-emergency-scenes",
+    "count": 1,
+    "parentTopic": "The Washington Health Care Information Act: RCW 70.02"
+  },
+  {
+    "name": "Personal Representatives",
+    "slug": "personal-representatives",
+    "count": 1,
+    "parentTopic": "The Washington Health Care Information Act: RCW 70.02"
+  },
+  {
+    "name": "Protective Orders",
+    "slug": "protective-orders",
+    "count": 1,
+    "parentTopic": "The Washington Health Care Information Act: RCW 70.02"
+  },
+  {
+    "name": "Subpoenas",
+    "slug": "subpoenas",
+    "count": 1,
+    "parentTopic": "The Washington Health Care Information Act: RCW 70.02"
+  },
+  {
+    "name": "Structured Settlement Agreements",
+    "slug": "structured-settlement-agreements",
+    "count": 1,
+    "parentTopic": "Time Loss"
+  },
+  {
+    "name": "Retaliation Claims",
+    "slug": "retaliation-claims",
+    "count": 1,
+    "parentTopic": "Title VII"
+  },
+  {
+    "name": "Denial for Drug Abuse",
+    "slug": "denial-for-drug-abuse",
+    "count": 1,
+    "parentTopic": "Unemployment Compensation"
+  },
+  {
+    "name": "Serious Misconduct",
+    "slug": "serious-misconduct",
+    "count": 1,
+    "parentTopic": "Unemployment Compensation"
+  },
+  {
+    "name": "Voluntary Quit Exception",
+    "slug": "voluntary-quit-exception",
+    "count": 1,
+    "parentTopic": "Unemployment Compensation"
+  },
+  {
+    "name": "Drug Testing",
+    "slug": "drug-testing",
+    "count": 1,
+    "parentTopic": "Unfair Labor Practices"
+  },
+  {
+    "name": "Interference with Union Activities",
+    "slug": "interference-with-union-activities",
+    "count": 1,
+    "parentTopic": "Unfair Labor Practices"
+  },
+  {
+    "name": "Paid Time For Union Activities",
+    "slug": "paid-time-for-union-activities",
+    "count": 1,
+    "parentTopic": "Unfair Labor Practices"
+  },
+  {
+    "name": "Past Practice",
+    "slug": "past-practice",
+    "count": 1,
+    "parentTopic": "Unfair Labor Practices"
+  },
+  {
+    "name": "Polygraph Testing",
+    "slug": "polygraph-testing",
+    "count": 1,
+    "parentTopic": "Unfair Labor Practices"
+  },
+  {
+    "name": "Americans with Disabilities Act",
+    "slug": "americans-with-disabilities-act",
+    "count": 1,
+    "parentTopic": "United States Supreme Court Opinions"
+  },
+  {
+    "name": "Constitutionality of Random Drug Testing",
+    "slug": "constitutionality-of-random-drug-testing",
+    "count": 1,
+    "parentTopic": "United States Supreme Court Opinions"
+  },
+  {
+    "name": "Defense of Marriage Act Invalidated",
+    "slug": "defense-of-marriage-act-invalidated",
+    "count": 1,
+    "parentTopic": "United States Supreme Court Opinions"
+  },
+  {
+    "name": "Fair Labor Standards Act",
+    "slug": "fair-labor-standards-act",
+    "count": 1,
+    "parentTopic": "United States Supreme Court Opinions"
+  },
+  {
+    "name": "Suing in Federal Courts to Enforce FLSA rights",
+    "slug": "suing-in-federal-courts-to-enforce-flsa-rights",
+    "count": 1,
+    "parentTopic": "United States Supreme Court Opinions"
+  },
+  {
+    "name": "Leave during Deployments",
+    "slug": "leave-during-deployments",
+    "count": 1,
+    "parentTopic": "Veterans"
+  },
+  {
+    "name": "Eligibility for Benefits",
+    "slug": "eligibility-for-benefits",
+    "count": 1,
+    "parentTopic": "Volunteering"
+  },
+  {
+    "name": "Paid Firefighters and Volunteering",
+    "slug": "paid-firefighters-and-volunteering",
+    "count": 1,
+    "parentTopic": "Volunteering"
+  },
+  {
+    "name": "Residency Requirements",
+    "slug": "residency-requirements",
+    "count": 1,
+    "parentTopic": "Volunteering"
+  },
+  {
+    "name": "Use of Personal Vehicle During Work",
+    "slug": "use-of-personal-vehicle-during-work",
+    "count": 1,
+    "parentTopic": "Volunteering"
+  },
+  {
+    "name": "Volunteering at Athletic Events",
+    "slug": "volunteering-at-athletic-events",
+    "count": 1,
+    "parentTopic": "Volunteering"
+  },
+  {
+    "name": "Workplace Injuries",
+    "slug": "workplace-injuries",
+    "count": 1,
+    "parentTopic": "Volunteering"
+  },
+  {
+    "name": "Youth and Cadet Programs",
+    "slug": "youth-and-cadet-programs",
+    "count": 1,
+    "parentTopic": "Volunteering"
+  },
+  {
+    "name": "Issues with Sick Leave",
+    "slug": "issues-with-sick-leave",
+    "count": 1,
+    "parentTopic": "Wage Claims"
+  },
+  {
+    "name": "Civil Service Commissions",
+    "slug": "civil-service-commissions",
+    "count": 1,
+    "parentTopic": "Washington Collective Bargaining Act: RCW 41.56"
+  },
+  {
+    "name": "Unfair Labor Practices",
+    "slug": "unfair-labor-practices",
+    "count": 1,
+    "parentTopic": "Washington Collective Bargaining Act: RCW 41.56"
+  },
+  {
+    "name": "Perceived Disabilities and Prescription Drugs",
+    "slug": "perceived-disabilities-and-prescription-drugs",
+    "count": 1,
+    "parentTopic": "Washington Law Against Discrimination: RCW 49.60"
+  },
+  {
+    "name": "Pretext for Employer Action",
+    "slug": "pretext-for-employer-action",
+    "count": 1,
+    "parentTopic": "Washington Law Against Discrimination: RCW 49.60"
+  },
+  {
+    "name": "Sexual Orientation Discrimination",
+    "slug": "sexual-orientation-discrimination",
+    "count": 1,
+    "parentTopic": "Washington Law Against Discrimination: RCW 49.60"
+  },
+  {
+    "name": "When WLAD Applies: Eight or More Employees",
+    "slug": "when-wlad-applies-eight-or-more-employees",
+    "count": 1,
+    "parentTopic": "Washington Law Against Discrimination: RCW 49.60"
+  },
+  {
+    "name": "\"On Call\" Status",
+    "slug": "-on-call-status",
+    "count": 1,
+    "parentTopic": "Washington Minimum Wage Act: RCW 49.46"
+  },
+  {
+    "name": "Requesting Notice under SEPA",
+    "slug": "requesting-notice-under-sepa",
+    "count": 1,
+    "parentTopic": "Washington State Environmental Policy Act: RCW 43.21C"
+  },
+  {
+    "name": "Classifications",
+    "slug": "classifications",
+    "count": 1,
+    "parentTopic": "Worker's Compensation and Industrial Insurance"
+  },
+  {
+    "name": "Compensation under Volunteer Firefighters Pension Act",
+    "slug": "compensation-under-volunteer-firefighters-pension-act",
+    "count": 1,
+    "parentTopic": "Worker's Compensation and Industrial Insurance"
+  }
+]

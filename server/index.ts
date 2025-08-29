@@ -9,6 +9,7 @@ app.use(express.urlencoded({ extended: false }));
 app.use((req, res, next) => {
   const start = Date.now();
   const path = req.path;
+  
   if (path.includes('/api/newsletters/v/')) {
     console.log("🔍 Middleware intercepted newsletter v route:", path);
   }
@@ -44,8 +45,7 @@ app.use((req, res, next) => {
 // Serve content files and admin interface statically
 app.use('/content', express.static('content'));
 
-// Hoisting this up a level - since we also want to host rss.xml from /public
-// app.use('/admin', express.static('public/admin'));
+// Standard static file serving
 app.use(express.static('public'));
 
 (async () => {

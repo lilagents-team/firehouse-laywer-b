@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Content Manager - Eric T. Quinn, P.S. (Local Development)</title>
+  </head>
+  <body>
+    <!-- Include the script that builds the page and powers Sveltia CMS -->
+    <script src="https://unpkg.com/@sveltia/cms@latest/dist/sveltia-cms.js" type="module"></script>
+    <script>
+      // Override config for local development
+      window.CMS_CONFIG_URL = '/admin/config-local.yml';
+    </script>
+  </body>
+</html>
