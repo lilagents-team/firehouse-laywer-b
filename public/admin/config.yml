@@ -201,29 +201,12 @@ collections:
       # Topic Classification
       - label: "Topic"
         name: "topic" 
-        widget: "select"
-        options: 
-          - "Fair Labor Standards Act"
-          - "Civil Actions"
-          - "Public Records Act"
-          - "Public Bid Laws"
-          - "Safety"
-          - "Legislation of Interest"
-          - "Collective Bargaining"
-          - "Americans with Disabilities Act"
-          - "Open Public Meetings Act"
-          - "Property Taxes"
-          - "Powers of Municipal Corporations"
-          - "HIPAA"
-          - "Family Medical Leave Act"
-          - "Discipline and Discharge"
-          - "Washington Law Against Discrimination"
-          - "Wage Claims"
-          - "Fire Codes"
-          - "Insurance"
-          - "Pensions and Retirement"
-          - "Constitutional Issues"
-          - "Other"
+        widget: "relation"
+        collection: "newsletter_comments"
+        search_fields: ["topic"]
+        display_fields: ["topic"]
+        value_field: "topic"
+        hint: "Start typing to search existing topics or enter a new one"
           
       - { label: "Subtopic", name: "subtopic", widget: "string", required: false, hint: "Specific subtopic within the main topic" }
       
