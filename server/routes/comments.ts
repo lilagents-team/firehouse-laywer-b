@@ -4,15 +4,26 @@ import path from 'path';
 
 const router = Router();
 
-// Helper function to safely read JSON files
-async function readJsonFile(filePath: string) {
-  try {
-    const data = await fs.readFile(filePath, 'utf8');
-    return JSON.parse(data);
-  } catch (error) {
-    console.error(`Error reading ${filePath}:`, error);
-    return null;
+// Helper function to safely read JSON files with fallback paths
+async function readJsonFile(filename: string) {
+  const possiblePaths = [
+    path.join(process.cwd(), 'client/public/data', filename), // Development
+    path.join(process.cwd(), 'dist/public/data', filename), // Production build
+    path.join(process.cwd(), 'public/data', filename), // Alternative production
+  ];
+  
+  for (const filePath of possiblePaths) {
+    try {
+      const data = await fs.readFile(filePath, 'utf8');
+      return JSON.parse(data);
+    } catch (error) {
+      // Continue to next path
+      continue;
+    }
   }
+  
+  console.error(`Error: Could not find ${filename} in any of the expected locations:`, possiblePaths);
+  return null;
 }
 
 // Get all comments with pagination
@@ -23,8 +34,7 @@ router.get('/', async (req, res) => {
     const search = req.query.search as string || '';
     const topic = req.query.topic as string || '';
     
-    const commentsPath = path.join(process.cwd(), 'client/public/data/comments-all.json');
-    const comments = await readJsonFile(commentsPath);
+    const comments = await readJsonFile('comments-all.json');
     
     if (!comments) {
       return res.status(500).json({ error: 'Could not load comments data' });
@@ -85,8 +95,7 @@ router.get('/:id', async (req, res) => {
       return res.status(400).json({ error: 'Invalid comment ID' });
     }
     
-    const commentsPath = path.join(process.cwd(), 'client/public/data/comments-all.json');
-    const comments = await readJsonFile(commentsPath);
+    const comments = await readJsonFile('comments-all.json');
     
     if (!comments) {
       return res.status(500).json({ error: 'Could not load comments data' });
@@ -110,8 +119,7 @@ router.get('/topic/:topic', async (req, res) => {
   try {
     const topic = decodeURIComponent(req.params.topic);
     
-    const topicsPath = path.join(process.cwd(), 'client/public/data/comments-by-topic.json');
-    const topicsData = await readJsonFile(topicsPath);
+    const topicsData = await readJsonFile('comments-by-topic.json');
     
     if (!topicsData) {
       return res.status(500).json({ error: 'Could not load topics data' });
@@ -139,8 +147,7 @@ router.get('/subtopic/:subtopic', async (req, res) => {
   try {
     const subtopic = decodeURIComponent(req.params.subtopic);
     
-    const subtopicsPath = path.join(process.cwd(), 'client/public/data/comments-by-subtopic.json');
-    const subtopicsData = await readJsonFile(subtopicsPath);
+    const subtopicsData = await readJsonFile('comments-by-subtopic.json');
     
     if (!subtopicsData) {
       return res.status(500).json({ error: 'Could not load subtopics data' });
@@ -166,8 +173,7 @@ router.get('/subtopic/:subtopic', async (req, res) => {
 // Get all topics with counts
 router.get('/meta/topics', async (req, res) => {
   try {
-    const topicsPath = path.join(process.cwd(), 'client/public/data/topics-list.json');
-    const topics = await readJsonFile(topicsPath);
+    const topics = await readJsonFile('topics-list.json');
     
     if (!topics) {
       return res.status(500).json({ error: 'Could not load topics data' });
@@ -183,8 +189,7 @@ router.get('/meta/topics', async (req, res) => {
 // Get all subtopics with counts
 router.get('/meta/subtopics', async (req, res) => {
   try {
-    const subtopicsPath = path.join(process.cwd(), 'client/public/data/subtopics-list.json');
-    const subtopics = await readJsonFile(subtopicsPath);
+    const subtopics = await readJsonFile('subtopics-list.json');
     
     if (!subtopics) {
       return res.status(500).json({ error: 'Could not load subtopics data' });
@@ -200,8 +205,7 @@ router.get('/meta/subtopics', async (req, res) => {
 // Get comment statistics
 router.get('/meta/stats', async (req, res) => {
   try {
-    const statsPath = path.join(process.cwd(), 'client/public/data/comment-stats.json');
-    const stats = await readJsonFile(statsPath);
+    const stats = await readJsonFile('comment-stats.json');
     
     if (!stats) {
       return res.status(500).json({ error: 'Could not load stats data' });
@@ -223,8 +227,7 @@ router.get('/year/:year', async (req, res) => {
       return res.status(400).json({ error: 'Invalid year' });
     }
     
-    const yearPath = path.join(process.cwd(), 'client/public/data/comments-by-year.json');
-    const yearData = await readJsonFile(yearPath);
+    const yearData = await readJsonFile('comments-by-year.json');
     
     if (!yearData) {
       return res.status(500).json({ error: 'Could not load year data' });
