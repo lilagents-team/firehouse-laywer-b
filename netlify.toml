@@ -20,17 +20,34 @@
   to = "/admin/:splat"
   status = 200
 
+# API routes - serve static JSON files directly (must come before content/* wildcard)
+[[redirects]]
+  from = "/api/comments"
+  to = "/data/comments-api.json"
+  status = 200
+
+[[redirects]]
+  from = "/api/newsletters/index"
+  to = "/api/newsletters/index.json"
+  status = 200
+
 # Content files
 [[redirects]]
   from = "/content/*"
   to = "/content/:splat"
   status = 200
 
-# API routes - serve static JSON files directly
+# Newsletter volume/edition routes
 [[redirects]]
-  from = "/api/comments"
-  to = "/data/comments-api.json"
+  from = "/api/newsletters/v/:volume/:edition"
+  to = "/api/newsletters/v/:volume/:edition.json"
   status = 200
+
+# Newsletter search - not implemented yet, return 404
+[[redirects]]
+  from = "/api/newsletters/search"
+  to = "/404.html"
+  status = 404
 
 [[redirects]]
   from = "/api/comments/meta/topics"

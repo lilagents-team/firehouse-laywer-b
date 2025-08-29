@@ -67,7 +67,7 @@ export default function Index() {
 
       try {
         // Load all newsletters
-        const newslettersResponse = await fetch('/api/newsletters/index');
+        const newslettersResponse = await fetch(import.meta.env.PROD ? '/api/newsletters/index.json' : '/api/newsletters/index');
         if (!newslettersResponse.ok) {
           throw new Error('Failed to load newsletters');
         }
