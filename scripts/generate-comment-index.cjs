@@ -183,9 +183,27 @@ async function generateCommentIndex() {
       }))
       .sort((a, b) => b.count - a.count);
     
+    // Create API-compatible response format for Netlify static serving
+    const apiResponse = {
+      comments: comments,
+      pagination: {
+        page: 1,
+        limit: 5000,
+        total: comments.length,
+        totalPages: 1,
+        hasNext: false,
+        hasPrev: false
+      },
+      filters: {
+        search: '',
+        topic: ''
+      }
+    };
+
     // Write all index files
     const outputs = [
       { file: 'comments-all.json', data: comments, desc: 'All comments' },
+      { file: 'comments-api.json', data: apiResponse, desc: 'API-compatible comments response' },
       { file: 'comments-by-topic.json', data: topicIndex, desc: 'Comments grouped by topic' },
       { file: 'comments-by-subtopic.json', data: subtopicIndex, desc: 'Comments grouped by subtopic' },
       { file: 'comments-by-year.json', data: yearIndex, desc: 'Comments grouped by year' },

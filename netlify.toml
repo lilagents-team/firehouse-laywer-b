@@ -26,8 +26,43 @@
   to = "/content/:splat"
   status = 200
 
-# API routes - these will need to be handled differently on Netlify
-# For now, return 404 to indicate backend functionality isn't available
+# API routes - serve static JSON files directly
+[[redirects]]
+  from = "/api/comments"
+  to = "/data/comments-api.json"
+  status = 200
+
+[[redirects]]
+  from = "/api/comments/meta/topics"
+  to = "/data/topics-list.json"
+  status = 200
+
+[[redirects]]
+  from = "/api/comments/meta/subtopics"
+  to = "/data/subtopics-list.json"
+  status = 200
+
+[[redirects]]
+  from = "/api/comments/meta/stats"
+  to = "/data/comment-stats.json"
+  status = 200
+
+[[redirects]]
+  from = "/api/comments/topic/*"
+  to = "/data/comments-by-topic.json"
+  status = 200
+
+[[redirects]]
+  from = "/api/comments/subtopic/*"
+  to = "/data/comments-by-subtopic.json"
+  status = 200
+
+[[redirects]]
+  from = "/api/comments/year/*"
+  to = "/data/comments-by-year.json"
+  status = 200
+
+# Other API routes not yet implemented - return 404
 [[redirects]]
   from = "/api/*"
   to = "/404.html"
